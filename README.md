@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Lesley J. McNair](https://en.wikipedia.org/wiki/Lesley_J._McNair)
+📖 Today's featured article: [Liz Truss](https://en.wikipedia.org/wiki/Liz_Truss)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the state flag of Transnistria (pictured) features communist symbols, even though Transnistria is not a communist state?](https://en.wikipedia.org/wiki/Flag_of_Transnistria)
-- [... that actor Suja Khondokar served as a flight attendant aboard the inaugural commercial flight of Biman Bangladesh Airlines ?](https://en.wikipedia.org/wiki/Suja_Khondokar)
-- [... that Peru's fishing industry is the world's largest producer of fishmeal and fish oil?](https://en.wikipedia.org/wiki/Fishing_industry_in_Peru)
+- [... that the Potomac -class frigates (example pictured) were built slowly for the sake of quality, only for the last ships to be outdated by the time they were finished?](https://en.wikipedia.org/wiki/Potomac-class_frigate)
+- [... that Indonesian mystic Mbah Suro reportedly consumed only coffee and cigarettes for two years?](https://en.wikipedia.org/wiki/Mbah_Suro)
+- [... that the United States' first capitol building was later sold for $425 and then demolished?](https://en.wikipedia.org/wiki/Federal_Hall)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Flettner Rotor](https://imgs.xkcd.com/comics/flettner_rotor.png)
+![Geologic Periods](https://imgs.xkcd.com/comics/geologic_periods.png)
 
-[Flettner Rotor](https://xkcd.com/3119) — *"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."*
+[Geologic Periods](https://xkcd.com/3120) — *Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.*
 <!--XKCD:END-->
