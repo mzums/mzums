@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Liz Truss](https://en.wikipedia.org/wiki/Liz_Truss)
+📖 Today's featured article: [Dick Cresswell](https://en.wikipedia.org/wiki/Dick_Cresswell)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the Potomac -class frigates (example pictured) were built slowly for the sake of quality, only for the last ships to be outdated by the time they were finished?](https://en.wikipedia.org/wiki/Potomac-class_frigate)
-- [... that Indonesian mystic Mbah Suro reportedly consumed only coffee and cigarettes for two years?](https://en.wikipedia.org/wiki/Mbah_Suro)
-- [... that the United States' first capitol building was later sold for $425 and then demolished?](https://en.wikipedia.org/wiki/Federal_Hall)
+- [... that the Big Stone County Museum preserves a historic octagonal one-room schoolhouse (pictured) ?](https://en.wikipedia.org/wiki/Big_Stone_County_Museum)
+- [... that operatic tenor Klaus König , who performed for more than 30 years, also worked as a house painter?](https://en.wikipedia.org/wiki/Klaus_K%C3%B6nig)
+- [... that Copford Place has been used as a prisoner of war camp and a retirement home for "gentlefolk"?](https://en.wikipedia.org/wiki/Copford_Place)
 <!--DYK:END-->
 
 - ### XKCD for today
