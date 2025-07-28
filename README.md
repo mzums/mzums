@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Dick Cresswell](https://en.wikipedia.org/wiki/Dick_Cresswell)
+📖 Today's featured article: [Edward Drinker Cope](https://en.wikipedia.org/wiki/Edward_Drinker_Cope)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the Big Stone County Museum preserves a historic octagonal one-room schoolhouse (pictured) ?](https://en.wikipedia.org/wiki/Big_Stone_County_Museum)
-- [... that operatic tenor Klaus König , who performed for more than 30 years, also worked as a house painter?](https://en.wikipedia.org/wiki/Klaus_K%C3%B6nig)
-- [... that Copford Place has been used as a prisoner of war camp and a retirement home for "gentlefolk"?](https://en.wikipedia.org/wiki/Copford_Place)
+- [... that the Dutch women's 4 × 400 metres relay team (pictured) , having never won a medal before, won European titles in 2021 , in 2022 , in 2023 , in 2024 , and in 2025 ?](https://en.wikipedia.org/wiki/4_%C3%97_400_metres_relay)
+- [... that teenage King Baldwin IV of Jerusalem fought one-handed and still went to battle after becoming blind and immobile at 22?](https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem)
+- [... that 32,000 children auditioned for three main roles in HBO's Harry Potter TV series ?](https://en.wikipedia.org/wiki/Harry_Potter_(TV_series))
 <!--DYK:END-->
 
 - ### XKCD for today
