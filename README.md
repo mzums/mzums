@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Edward Drinker Cope](https://en.wikipedia.org/wiki/Edward_Drinker_Cope)
+📖 Today's featured article: [Gaetano Bresci](https://en.wikipedia.org/wiki/Gaetano_Bresci)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the Dutch women's 4 × 400 metres relay team (pictured) , having never won a medal before, won European titles in 2021 , in 2022 , in 2023 , in 2024 , and in 2025 ?](https://en.wikipedia.org/wiki/4_%C3%97_400_metres_relay)
-- [... that teenage King Baldwin IV of Jerusalem fought one-handed and still went to battle after becoming blind and immobile at 22?](https://en.wikipedia.org/wiki/Baldwin_IV_of_Jerusalem)
-- [... that 32,000 children auditioned for three main roles in HBO's Harry Potter TV series ?](https://en.wikipedia.org/wiki/Harry_Potter_(TV_series))
+- [... that astrophysicist Alan C. Cummings (pictured) has led more than 1,700 weekly birdwatching walks at Caltech since 1986?](https://en.wikipedia.org/wiki/Alan_C._Cummings)
+- [... that the protest song " Cálice " uses wordplay, disguised under religious themes, to denounce censorship under Brazil's military dictatorship ?](https://en.wikipedia.org/wiki/C%C3%A1lice)
+- [... that Elizabeth Wilhelmina Jones accepted an offer to become a headmistress after finding a brooch on the ground?](https://en.wikipedia.org/wiki/Elizabeth_Wilhelmina_Jones)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Geologic Periods](https://imgs.xkcd.com/comics/geologic_periods.png)
+![Kite Incident](https://imgs.xkcd.com/comics/kite_incident.png)
 
-[Geologic Periods](https://xkcd.com/3120) — *Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.*
+[Kite Incident](https://xkcd.com/3121) — *Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.*
 <!--XKCD:END-->
