@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Gaetano Bresci](https://en.wikipedia.org/wiki/Gaetano_Bresci)
+📖 Today's featured article: [Scanners (collection)](https://en.wikipedia.org/wiki/Scanners_(collection))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that astrophysicist Alan C. Cummings (pictured) has led more than 1,700 weekly birdwatching walks at Caltech since 1986?](https://en.wikipedia.org/wiki/Alan_C._Cummings)
-- [... that the protest song " Cálice " uses wordplay, disguised under religious themes, to denounce censorship under Brazil's military dictatorship ?](https://en.wikipedia.org/wiki/C%C3%A1lice)
-- [... that Elizabeth Wilhelmina Jones accepted an offer to become a headmistress after finding a brooch on the ground?](https://en.wikipedia.org/wiki/Elizabeth_Wilhelmina_Jones)
+- [... that East Island , once a vital nesting site for green sea turtles , was almost completely destroyed (pictured) by Hurricane Walaka in 2018 – but has since naturally recovered to about 60% of its original size?](https://en.wikipedia.org/wiki/East_Island_(Hawaii))
+- [... that the British Council described Nancy Broadfield Parkinson as a driving force behind the formation of UNESCO ?](https://en.wikipedia.org/wiki/British_Council)
+- [... that Leonardo da Vinci invented a device to solve Alhazen's problem , instead of finding a mathematical solution?](https://en.wikipedia.org/wiki/Alhazen%27s_problem)
 <!--DYK:END-->
 
 - ### XKCD for today
