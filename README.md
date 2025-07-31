@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Scanners (collection)](https://en.wikipedia.org/wiki/Scanners_(collection))
+📖 Today's featured article: [Battle of Warsaw (1705)](https://en.wikipedia.org/wiki/Battle_of_Warsaw_(1705))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that East Island , once a vital nesting site for green sea turtles , was almost completely destroyed (pictured) by Hurricane Walaka in 2018 – but has since naturally recovered to about 60% of its original size?](https://en.wikipedia.org/wiki/East_Island_(Hawaii))
-- [... that the British Council described Nancy Broadfield Parkinson as a driving force behind the formation of UNESCO ?](https://en.wikipedia.org/wiki/British_Council)
-- [... that Leonardo da Vinci invented a device to solve Alhazen's problem , instead of finding a mathematical solution?](https://en.wikipedia.org/wiki/Alhazen%27s_problem)
+- [... that the Tres Marias cottontail (example pictured) does not fear humans?](https://en.wikipedia.org/wiki/Tres_Marias_cottontail)
+- [... that Olympian Dick Mize designed multiple cross-country skiing trails in Anchorage, Alaska , over a 40-year period?](https://en.wikipedia.org/wiki/Dick_Mize)
+- [... that the Atari 2600 version of Space Invaders led to Atari rescheduling its entire release line-up?](https://en.wikipedia.org/wiki/Space_Invaders_(Atari_2600_video_game))
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Kite Incident](https://imgs.xkcd.com/comics/kite_incident.png)
+![Bad Map Projection: Interrupted Spheres](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
 
-[Kite Incident](https://xkcd.com/3121) — *Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.*
+[Bad Map Projection: Interrupted Spheres](https://xkcd.com/3122) — *During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.*
 <!--XKCD:END-->
