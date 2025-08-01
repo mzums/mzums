@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Battle of Warsaw (1705)](https://en.wikipedia.org/wiki/Battle_of_Warsaw_(1705))
+📖 Today's featured article: [SMS Hindenburg](https://en.wikipedia.org/wiki/SMS_Hindenburg)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the Tres Marias cottontail (example pictured) does not fear humans?](https://en.wikipedia.org/wiki/Tres_Marias_cottontail)
-- [... that Olympian Dick Mize designed multiple cross-country skiing trails in Anchorage, Alaska , over a 40-year period?](https://en.wikipedia.org/wiki/Dick_Mize)
-- [... that the Atari 2600 version of Space Invaders led to Atari rescheduling its entire release line-up?](https://en.wikipedia.org/wiki/Space_Invaders_(Atari_2600_video_game))
+- [... that air pollution (example pictured) increases the risk of miscarriages, strokes and dementia?](https://en.wikipedia.org/wiki/Air_pollution)
+- [... that a 1948 U.S. Supreme Court decision helped to protect comic books from government regulation and censorship?](https://en.wikipedia.org/wiki/Winters_v._New_York)
+- [... that, although Ray Prohaska 's father beat him to dissuade him from becoming an artist, he had a lengthy, successful career as an illustrator?](https://en.wikipedia.org/wiki/Ray_Prohaska)
 <!--DYK:END-->
 
 - ### XKCD for today
