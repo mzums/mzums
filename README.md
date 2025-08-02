@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [SMS Hindenburg](https://en.wikipedia.org/wiki/SMS_Hindenburg)
+📖 Today's featured article: [Value theory](https://en.wikipedia.org/wiki/Value_theory)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that air pollution (example pictured) increases the risk of miscarriages, strokes and dementia?](https://en.wikipedia.org/wiki/Air_pollution)
-- [... that a 1948 U.S. Supreme Court decision helped to protect comic books from government regulation and censorship?](https://en.wikipedia.org/wiki/Winters_v._New_York)
-- [... that, although Ray Prohaska 's father beat him to dissuade him from becoming an artist, he had a lengthy, successful career as an illustrator?](https://en.wikipedia.org/wiki/Ray_Prohaska)
+- [... that Zhou Enshou (pictured) was arrested during the Cultural Revolution on the orders of his own brother ?](https://en.wikipedia.org/wiki/Zhou_Enshou)
+- [... that viewers complained that the 2023 Coronation Street Christmas Day episode was only 30 minutes long?](https://en.wikipedia.org/wiki/Episode_11,145)
+- [... that Wilf Pine , manager of Black Sabbath, had his arm dislocated by a vibrating bed because Ozzy Osbourne kept feeding it quarters ?](https://en.wikipedia.org/wiki/Wilf_Pine)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Bad Map Projection: Interrupted Spheres](https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png)
+![Canon](https://imgs.xkcd.com/comics/canon.png)
 
-[Bad Map Projection: Interrupted Spheres](https://xkcd.com/3122) — *During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.*
+[Canon](https://xkcd.com/3123) — *Achilles was a mighty warrior, but his Achilles' heel was his heel.*
 <!--XKCD:END-->
