@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Value theory](https://en.wikipedia.org/wiki/Value_theory)
+📖 Today's featured article: [Mario Party: The Top 100](https://en.wikipedia.org/wiki/Mario_Party:_The_Top_100)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Zhou Enshou (pictured) was arrested during the Cultural Revolution on the orders of his own brother ?](https://en.wikipedia.org/wiki/Zhou_Enshou)
-- [... that viewers complained that the 2023 Coronation Street Christmas Day episode was only 30 minutes long?](https://en.wikipedia.org/wiki/Episode_11,145)
-- [... that Wilf Pine , manager of Black Sabbath, had his arm dislocated by a vibrating bed because Ozzy Osbourne kept feeding it quarters ?](https://en.wikipedia.org/wiki/Wilf_Pine)
+- [... that A Balloon in Mid-Air (pictured) depicts a flight by artist Jules Tavernier with aeronaut Étienne Buislay, who died in a balloon accident a week later?](https://en.wikipedia.org/wiki/A_Balloon_in_Mid-Air)
+- [... that Isoup Ganthy , who was part of Cambodia's first Olympic team, later died in prison after being accused of working to overthrow the Khmer Rouge?](https://en.wikipedia.org/wiki/Isoup_Ganthy)
+- [... that supporters of candidates in the 2024 Serang mayoral election fought during a public debate and the ballot-number lottery?](https://en.wikipedia.org/wiki/2024_Serang_mayoral_election)
 <!--DYK:END-->
 
 - ### XKCD for today
