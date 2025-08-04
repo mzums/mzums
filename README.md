@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Mario Party: The Top 100](https://en.wikipedia.org/wiki/Mario_Party:_The_Top_100)
+📖 Today's featured article: [2020 Missouri Amendment 2](https://en.wikipedia.org/wiki/2020_Missouri_Amendment_2)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that A Balloon in Mid-Air (pictured) depicts a flight by artist Jules Tavernier with aeronaut Étienne Buislay, who died in a balloon accident a week later?](https://en.wikipedia.org/wiki/A_Balloon_in_Mid-Air)
-- [... that Isoup Ganthy , who was part of Cambodia's first Olympic team, later died in prison after being accused of working to overthrow the Khmer Rouge?](https://en.wikipedia.org/wiki/Isoup_Ganthy)
-- [... that supporters of candidates in the 2024 Serang mayoral election fought during a public debate and the ballot-number lottery?](https://en.wikipedia.org/wiki/2024_Serang_mayoral_election)
+- [... that pastor, poet, teacher, and musician Wycliffe Smith (pictured) has served as lieutenant governor of Saba and prime minister of Sint Maarten ?](https://en.wikipedia.org/wiki/Wycliffe_Smith)
+- [... that during Operation Security and Order , Mbah Suro 's followers fought against Indonesian Army special forces with clubs and headbands?](https://en.wikipedia.org/wiki/Operation_Security_and_Order)
+- [... that NFL player Henry Monroe retired after one season to enter medical school?](https://en.wikipedia.org/wiki/Henry_Monroe)
 <!--DYK:END-->
 
 - ### XKCD for today
