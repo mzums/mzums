@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [2020 Missouri Amendment 2](https://en.wikipedia.org/wiki/2020_Missouri_Amendment_2)
+📖 Today's featured article: [Belvidere Apollo Theatre collapse](https://en.wikipedia.org/wiki/Belvidere_Apollo_Theatre_collapse)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that pastor, poet, teacher, and musician Wycliffe Smith (pictured) has served as lieutenant governor of Saba and prime minister of Sint Maarten ?](https://en.wikipedia.org/wiki/Wycliffe_Smith)
-- [... that during Operation Security and Order , Mbah Suro 's followers fought against Indonesian Army special forces with clubs and headbands?](https://en.wikipedia.org/wiki/Operation_Security_and_Order)
-- [... that NFL player Henry Monroe retired after one season to enter medical school?](https://en.wikipedia.org/wiki/Henry_Monroe)
+- [... that when the Westhope house (pictured) was being built, neighbors were confused as to its design, so its owners said it was supposed to be a pickle factory?](https://en.wikipedia.org/wiki/Westhope)
+- [... that actress Arielle Prepetit was cast in the first African American daytime soap opera in 34 years, Beyond the Gates ?](https://en.wikipedia.org/wiki/Arielle_Prepetit)
+- [... that a public debate in the 2024 Bojonegoro regency election was cancelled because one of the candidates entered the stage?](https://en.wikipedia.org/wiki/2024_Bojonegoro_regency_election)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Canon](https://imgs.xkcd.com/comics/canon.png)
+![Grounded](https://imgs.xkcd.com/comics/grounded.png)
 
-[Canon](https://xkcd.com/3123) — *Achilles was a mighty warrior, but his Achilles' heel was his heel.*
+[Grounded](https://xkcd.com/3124) — *We should have you at the gate in just under two hours--two and a half if we get pulled over.*
 <!--XKCD:END-->
