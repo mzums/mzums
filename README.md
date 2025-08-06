@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Belvidere Apollo Theatre collapse](https://en.wikipedia.org/wiki/Belvidere_Apollo_Theatre_collapse)
+📖 Today's featured article: [Constans II (son of Constantine III)](https://en.wikipedia.org/wiki/Constans_II_(son_of_Constantine_III))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that when the Westhope house (pictured) was being built, neighbors were confused as to its design, so its owners said it was supposed to be a pickle factory?](https://en.wikipedia.org/wiki/Westhope)
-- [... that actress Arielle Prepetit was cast in the first African American daytime soap opera in 34 years, Beyond the Gates ?](https://en.wikipedia.org/wiki/Arielle_Prepetit)
-- [... that a public debate in the 2024 Bojonegoro regency election was cancelled because one of the candidates entered the stage?](https://en.wikipedia.org/wiki/2024_Bojonegoro_regency_election)
+- [... that Frederick L. Scarf (pictured) developed the plasma-wave detector for the Voyager program, which recorded the "sounds of space", described as "an eerie symphony of hisses, pops, and whistles"?](https://en.wikipedia.org/wiki/Frederick_L._Scarf)
+- [... that " On Eagle's Wings " was quoted in Joe Biden 's presidential victory speech, and featured in It's Always Sunny in Philadelphia ?](https://en.wikipedia.org/wiki/On_Eagle%27s_Wings)
+- [... that Randy Winkler was the "Jolly Green Giant", while Gérard Lefranc was just the "Green Giant"?](https://en.wikipedia.org/wiki/Randy_Winkler)
 <!--DYK:END-->
 
 - ### XKCD for today
