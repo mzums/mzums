@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Constans II (son of Constantine III)](https://en.wikipedia.org/wiki/Constans_II_(son_of_Constantine_III))
+📖 Today's featured article: [Roy Marshall](https://en.wikipedia.org/wiki/Roy_Marshall)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Frederick L. Scarf (pictured) developed the plasma-wave detector for the Voyager program, which recorded the "sounds of space", described as "an eerie symphony of hisses, pops, and whistles"?](https://en.wikipedia.org/wiki/Frederick_L._Scarf)
-- [... that " On Eagle's Wings " was quoted in Joe Biden 's presidential victory speech, and featured in It's Always Sunny in Philadelphia ?](https://en.wikipedia.org/wiki/On_Eagle%27s_Wings)
-- [... that Randy Winkler was the "Jolly Green Giant", while Gérard Lefranc was just the "Green Giant"?](https://en.wikipedia.org/wiki/Randy_Winkler)
+- [... that Olympic champion Franco Testa (pictured) quit cycling to become a butcher?](https://en.wikipedia.org/wiki/Franco_Testa)
+- [... that a writer from The Spinoff called the children's book Cliffhanger a "win for the nerds"?](https://en.wikipedia.org/wiki/The_Spinoff)
+- [... that South African politician Jabu Mbalula is the older brother of Fikile Mbalula , the secretary-general of the African National Congress ?](https://en.wikipedia.org/wiki/Jabu_Mbalula)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Grounded](https://imgs.xkcd.com/comics/grounded.png)
+![Snake-in-the-Box Problem](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)
 
-[Grounded](https://xkcd.com/3124) — *We should have you at the gate in just under two hours--two and a half if we get pulled over.*
+[Snake-in-the-Box Problem](https://xkcd.com/3125) — *Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.*
 <!--XKCD:END-->
