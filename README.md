@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Roy Marshall](https://en.wikipedia.org/wiki/Roy_Marshall)
+📖 Today's featured article: [The Diamond Smugglers](https://en.wikipedia.org/wiki/The_Diamond_Smugglers)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Olympic champion Franco Testa (pictured) quit cycling to become a butcher?](https://en.wikipedia.org/wiki/Franco_Testa)
-- [... that a writer from The Spinoff called the children's book Cliffhanger a "win for the nerds"?](https://en.wikipedia.org/wiki/The_Spinoff)
-- [... that South African politician Jabu Mbalula is the older brother of Fikile Mbalula , the secretary-general of the African National Congress ?](https://en.wikipedia.org/wiki/Jabu_Mbalula)
+- [... that Meg White (pictured) , a key figure in the 2000s garage-rock revival , has not made any public appearances since 2009?](https://en.wikipedia.org/wiki/Meg_White)
+- [... that Italian football clubs could have a third reserve team in the early 20th century?](https://en.wikipedia.org/wiki/Italian_reserve_football_teams)
+- [... that Lourdes Klitzkie took up running in her late thirties to combat boredom, then qualified for the Olympics?](https://en.wikipedia.org/wiki/Lourdes_Klitzkie)
 <!--DYK:END-->
 
 - ### XKCD for today
