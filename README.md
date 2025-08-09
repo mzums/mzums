@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [The Diamond Smugglers](https://en.wikipedia.org/wiki/The_Diamond_Smugglers)
+📖 Today's featured article: [1883 FA Cup final](https://en.wikipedia.org/wiki/1883_FA_Cup_final)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Meg White (pictured) , a key figure in the 2000s garage-rock revival , has not made any public appearances since 2009?](https://en.wikipedia.org/wiki/Meg_White)
-- [... that Italian football clubs could have a third reserve team in the early 20th century?](https://en.wikipedia.org/wiki/Italian_reserve_football_teams)
-- [... that Lourdes Klitzkie took up running in her late thirties to combat boredom, then qualified for the Olympics?](https://en.wikipedia.org/wiki/Lourdes_Klitzkie)
+- [... that after losing a Shanghai mansion (pictured) to the Empire of Japan in World War II, British hotelier Victor Sassoon abandoned repossession plans following a communist takeover ?](https://en.wikipedia.org/wiki/Regan_Garden)
+- [... that Randy D had his first chance to join radio while working as a parking attendant at Lincoln Center ?](https://en.wikipedia.org/wiki/Randy_D)
+- [... that the goal of "peace" may mean different things to Israelis and Palestinians?](https://en.wikipedia.org/wiki/Peace_discourse_in_the_Israeli%E2%80%93Palestinian_conflict)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Snake-in-the-Box Problem](https://imgs.xkcd.com/comics/snake_in_the_box_problem.png)
+![Disclaimer](https://imgs.xkcd.com/comics/disclaimer.png)
 
-[Snake-in-the-Box Problem](https://xkcd.com/3125) — *Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.*
+[Disclaimer](https://xkcd.com/3126) — *You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.*
 <!--XKCD:END-->
