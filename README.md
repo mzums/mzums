@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [1883 FA Cup final](https://en.wikipedia.org/wiki/1883_FA_Cup_final)
+📖 Today's featured article: [Hurra-yi Khuttali](https://en.wikipedia.org/wiki/Hurra-yi_Khuttali)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that after losing a Shanghai mansion (pictured) to the Empire of Japan in World War II, British hotelier Victor Sassoon abandoned repossession plans following a communist takeover ?](https://en.wikipedia.org/wiki/Regan_Garden)
-- [... that Randy D had his first chance to join radio while working as a parking attendant at Lincoln Center ?](https://en.wikipedia.org/wiki/Randy_D)
-- [... that the goal of "peace" may mean different things to Israelis and Palestinians?](https://en.wikipedia.org/wiki/Peace_discourse_in_the_Israeli%E2%80%93Palestinian_conflict)
+- [... that there are eleven ways (pictured) to unfold a cube ?](https://en.wikipedia.org/wiki/Cube)
+- [... that Jeong Haneul went from being a North Korean soldier to a South Korean YouTuber?](https://en.wikipedia.org/wiki/Jeong_Haneul)
+- [... that the mosaic effect is the act of combining seemingly unrelated data to reveal sensitive or classified information that individual pieces of data would not disclose?](https://en.wikipedia.org/wiki/Mosaic_effect)
 <!--DYK:END-->
 
 - ### XKCD for today
