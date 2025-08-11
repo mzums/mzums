@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Hurra-yi Khuttali](https://en.wikipedia.org/wiki/Hurra-yi_Khuttali)
+📖 Today's featured article: [Berners Street hoax](https://en.wikipedia.org/wiki/Berners_Street_hoax)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that there are eleven ways (pictured) to unfold a cube ?](https://en.wikipedia.org/wiki/Cube)
-- [... that Jeong Haneul went from being a North Korean soldier to a South Korean YouTuber?](https://en.wikipedia.org/wiki/Jeong_Haneul)
-- [... that the mosaic effect is the act of combining seemingly unrelated data to reveal sensitive or classified information that individual pieces of data would not disclose?](https://en.wikipedia.org/wiki/Mosaic_effect)
+- [... that after an earthquake wiped out Shaizar 's ruling family, crusaders tried to seize the city (pictured) but quarreled and left?](https://en.wikipedia.org/wiki/Shaizar)
+- [... that Anacaona was the subject of a popular salsa song centuries after her death?](https://en.wikipedia.org/wiki/Anacaona)
+- [... that the song " Michelle Pfeiffer " has been described as possessing "a cresting emotionality grand enough to fill the tallest IMAX screen"?](https://en.wikipedia.org/wiki/Michelle_Pfeiffer_(Ethel_Cain_song))
 <!--DYK:END-->
 
 - ### XKCD for today
