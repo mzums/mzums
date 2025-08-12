@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Berners Street hoax](https://en.wikipedia.org/wiki/Berners_Street_hoax)
+📖 Today's featured article: [Eritha](https://en.wikipedia.org/wiki/Eritha)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that after an earthquake wiped out Shaizar 's ruling family, crusaders tried to seize the city (pictured) but quarreled and left?](https://en.wikipedia.org/wiki/Shaizar)
-- [... that Anacaona was the subject of a popular salsa song centuries after her death?](https://en.wikipedia.org/wiki/Anacaona)
-- [... that the song " Michelle Pfeiffer " has been described as possessing "a cresting emotionality grand enough to fill the tallest IMAX screen"?](https://en.wikipedia.org/wiki/Michelle_Pfeiffer_(Ethel_Cain_song))
+- [... that despite a reputation as a weed and its invasive species status in New Zealand, Drosera capensis (pictured) is uncommon in its native habitat?](https://en.wikipedia.org/wiki/Drosera_capensis)
+- [... that ChatGPT developer John Schulman said that his first period of serious self-directed study was inspired by the television show BattleBots ?](https://en.wikipedia.org/wiki/John_Schulman)
+- [... that the Meléndez–Quiñónez dynasty held elections in El Salvador that "the entire country" knew were fraudulent?](https://en.wikipedia.org/wiki/Mel%C3%A9ndez%E2%80%93Qui%C3%B1%C3%B3nez_dynasty)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Disclaimer](https://imgs.xkcd.com/comics/disclaimer.png)
+![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)
 
-[Disclaimer](https://xkcd.com/3126) — *You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.*
+[Where Babies Come From](https://xkcd.com/3127) — *Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
 <!--XKCD:END-->
