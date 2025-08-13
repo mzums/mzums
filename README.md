@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Eritha](https://en.wikipedia.org/wiki/Eritha)
+📖 Today's featured article: [Dusky dolphin](https://en.wikipedia.org/wiki/Dusky_dolphin)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that despite a reputation as a weed and its invasive species status in New Zealand, Drosera capensis (pictured) is uncommon in its native habitat?](https://en.wikipedia.org/wiki/Drosera_capensis)
-- [... that ChatGPT developer John Schulman said that his first period of serious self-directed study was inspired by the television show BattleBots ?](https://en.wikipedia.org/wiki/John_Schulman)
-- [... that the Meléndez–Quiñónez dynasty held elections in El Salvador that "the entire country" knew were fraudulent?](https://en.wikipedia.org/wiki/Mel%C3%A9ndez%E2%80%93Qui%C3%B1%C3%B3nez_dynasty)
+- [... that Enriqueta Duarte (pictured) swam the English Channel despite having no previous experience with open water swimming?](https://en.wikipedia.org/wiki/Enriqueta_Duarte)
+- [... that Bath fire station , a rare example of a design by a female architect from the pre-WWII era, is proposed for demolition?](https://en.wikipedia.org/wiki/Bath_fire_station)
+- [... that wrestler Din Mohammad celebrated his gold medal at the Asian Games by riding an elephant?](https://en.wikipedia.org/wiki/Din_Mohammad_(wrestler))
 <!--DYK:END-->
 
 - ### XKCD for today
