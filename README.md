@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Dusky dolphin](https://en.wikipedia.org/wiki/Dusky_dolphin)
+📖 Today's featured article: [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Enriqueta Duarte (pictured) swam the English Channel despite having no previous experience with open water swimming?](https://en.wikipedia.org/wiki/Enriqueta_Duarte)
-- [... that Bath fire station , a rare example of a design by a female architect from the pre-WWII era, is proposed for demolition?](https://en.wikipedia.org/wiki/Bath_fire_station)
-- [... that wrestler Din Mohammad celebrated his gold medal at the Asian Games by riding an elephant?](https://en.wikipedia.org/wiki/Din_Mohammad_(wrestler))
+- [... that the tomb (pictured) of Louis Adrian is surmounted by a sculpture of the helmet that he developed for the French Army?](https://en.wikipedia.org/wiki/Louis_Adrian)
+- [... that the coconut octopus walks on two legs to look like a floating coconut?](https://en.wikipedia.org/wiki/Amphioctopus_marginatus)
+- [... that a theme-park attraction based on Harry Potter 's Diagon Alley cost approximately US$400 million to build?](https://en.wikipedia.org/wiki/Diagon_Alley)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)
+![Thread Meeting](https://imgs.xkcd.com/comics/thread_meeting.png)
 
-[Where Babies Come From](https://xkcd.com/3127) — *Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
+[Thread Meeting](https://xkcd.com/3128) — *Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.*
 <!--XKCD:END-->
