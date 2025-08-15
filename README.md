@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)
+📖 Today's featured article: [Rani of Jhansi](https://en.wikipedia.org/wiki/Rani_of_Jhansi)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the tomb (pictured) of Louis Adrian is surmounted by a sculpture of the helmet that he developed for the French Army?](https://en.wikipedia.org/wiki/Louis_Adrian)
-- [... that the coconut octopus walks on two legs to look like a floating coconut?](https://en.wikipedia.org/wiki/Amphioctopus_marginatus)
-- [... that a theme-park attraction based on Harry Potter 's Diagon Alley cost approximately US$400 million to build?](https://en.wikipedia.org/wiki/Diagon_Alley)
+- [... that Elizabeth Gunning (caricature pictured) was the subject of a pamphlet war about forged love letters, and used her notoriety to market her first novel ?](https://en.wikipedia.org/wiki/Elizabeth_Gunning_(writer))
+- [... that part of the Bolton Percy hoard was discovered by schoolboys?](https://en.wikipedia.org/wiki/Bolton_Percy_hoard)
+- [... that Jake Larson went viral on TikTok for discussing his experiences of World War II?](https://en.wikipedia.org/wiki/Jake_Larson)
 <!--DYK:END-->
 
 - ### XKCD for today
