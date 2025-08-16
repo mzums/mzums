@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Rani of Jhansi](https://en.wikipedia.org/wiki/Rani_of_Jhansi)
+📖 Today's featured article: [Kitty Marion](https://en.wikipedia.org/wiki/Kitty_Marion)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Elizabeth Gunning (caricature pictured) was the subject of a pamphlet war about forged love letters, and used her notoriety to market her first novel ?](https://en.wikipedia.org/wiki/Elizabeth_Gunning_(writer))
-- [... that part of the Bolton Percy hoard was discovered by schoolboys?](https://en.wikipedia.org/wiki/Bolton_Percy_hoard)
-- [... that Jake Larson went viral on TikTok for discussing his experiences of World War II?](https://en.wikipedia.org/wiki/Jake_Larson)
+- [... that according to a 1994 paper, the Okanogan fameflower (pictured) spent the last ice age in a glacial refugium ?](https://en.wikipedia.org/wiki/Phemeranthus_sediformis)
+- [... that swimmer Yu Zidi qualified for the World Aquatics Championships at just twelve years old?](https://en.wikipedia.org/wiki/Yu_Zidi)
+- [... that a community vote allowed players of the "wholesome" city-building game The Wandering Village to feed their villagers to a giant beast?](https://en.wikipedia.org/wiki/The_Wandering_Village)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Thread Meeting](https://imgs.xkcd.com/comics/thread_meeting.png)
+![Archaeology Research](https://imgs.xkcd.com/comics/archaeology_research.png)
 
-[Thread Meeting](https://xkcd.com/3128) — *Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.*
+[Archaeology Research](https://xkcd.com/3129) — *The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.*
 <!--XKCD:END-->
