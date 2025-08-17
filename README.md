@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Kitty Marion](https://en.wikipedia.org/wiki/Kitty_Marion)
+📖 Today's featured article: [Battle of Preston (1648)](https://en.wikipedia.org/wiki/Battle_of_Preston_(1648))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that according to a 1994 paper, the Okanogan fameflower (pictured) spent the last ice age in a glacial refugium ?](https://en.wikipedia.org/wiki/Phemeranthus_sediformis)
-- [... that swimmer Yu Zidi qualified for the World Aquatics Championships at just twelve years old?](https://en.wikipedia.org/wiki/Yu_Zidi)
-- [... that a community vote allowed players of the "wholesome" city-building game The Wandering Village to feed their villagers to a giant beast?](https://en.wikipedia.org/wiki/The_Wandering_Village)
+- [... that the dispute over the fundamental nature of the leader of the devils in Islam (pictured) dates back to the religion's formative stages?](https://en.wikipedia.org/wiki/Iblis)
+- [... that 223 East 25th Street was auctioned off in 1973, triggering a bidding war that drove the price up ninefold?](https://en.wikipedia.org/wiki/223_East_25th_Street)
+- [... that Sudanese politician Mohammed Hassan al-Ta'ishi is the prime minister of a government that opposes a council on which he once served ?](https://en.wikipedia.org/wiki/Mohammed_Hassan_al-Ta%27ishi)
 <!--DYK:END-->
 
 - ### XKCD for today
