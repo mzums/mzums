@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Battle of Preston (1648)](https://en.wikipedia.org/wiki/Battle_of_Preston_(1648))
+📖 Today's featured article: [Maltese nationality law](https://en.wikipedia.org/wiki/Maltese_nationality_law)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the dispute over the fundamental nature of the leader of the devils in Islam (pictured) dates back to the religion's formative stages?](https://en.wikipedia.org/wiki/Iblis)
-- [... that 223 East 25th Street was auctioned off in 1973, triggering a bidding war that drove the price up ninefold?](https://en.wikipedia.org/wiki/223_East_25th_Street)
-- [... that Sudanese politician Mohammed Hassan al-Ta'ishi is the prime minister of a government that opposes a council on which he once served ?](https://en.wikipedia.org/wiki/Mohammed_Hassan_al-Ta%27ishi)
+- [... that the Munich kitchen was developed because the Stuttgart kitchen (example pictured) did not allow a housewife to look after her children?](https://en.wikipedia.org/wiki/Munich_kitchen)
+- [... that football manager Juan Álvarez was nicknamed the "king without a crown" after his team lost a championship due to the away goals rule ?](https://en.wikipedia.org/wiki/Juan_%C3%81lvarez_(footballer,_born_1948))
+- [... that an estimated three-quarters of New Zealand's population saw Elizabeth II during her 1953–1954 tour of the country ?](https://en.wikipedia.org/wiki/1953%E2%80%931954_royal_tour_of_New_Zealand)
 <!--DYK:END-->
 
 - ### XKCD for today
