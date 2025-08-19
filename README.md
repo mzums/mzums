@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Maltese nationality law](https://en.wikipedia.org/wiki/Maltese_nationality_law)
+📖 Today's featured article: [Proceratosaurus](https://en.wikipedia.org/wiki/Proceratosaurus)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the Munich kitchen was developed because the Stuttgart kitchen (example pictured) did not allow a housewife to look after her children?](https://en.wikipedia.org/wiki/Munich_kitchen)
-- [... that football manager Juan Álvarez was nicknamed the "king without a crown" after his team lost a championship due to the away goals rule ?](https://en.wikipedia.org/wiki/Juan_%C3%81lvarez_(footballer,_born_1948))
-- [... that an estimated three-quarters of New Zealand's population saw Elizabeth II during her 1953–1954 tour of the country ?](https://en.wikipedia.org/wiki/1953%E2%80%931954_royal_tour_of_New_Zealand)
+- [... that Queen Melisende was so infuriated by her husband's treatment of Count Hugh II of Jaffa (attack pictured) , her cousin and alleged lover, that her husband feared for his own life?](https://en.wikipedia.org/wiki/Melisende,_Queen_of_Jerusalem)
+- [... that recent coups in Sudan, Mali, Tunisia and Niger have been described as " coupvolutions "?](https://en.wikipedia.org/wiki/Coupvolution)
+- [... that Ardian Wicaksono adopted an orangutan during his posting as consul general in Hamburg?](https://en.wikipedia.org/wiki/Ardian_Wicaksono)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Archaeology Research](https://imgs.xkcd.com/comics/archaeology_research.png)
+![Predicament](https://imgs.xkcd.com/comics/predicament.png)
 
-[Archaeology Research](https://xkcd.com/3129) — *The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.*
+[Predicament](https://xkcd.com/3130) — *I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?*
 <!--XKCD:END-->
