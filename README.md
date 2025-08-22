@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Flower](https://en.wikipedia.org/wiki/Flower)
+📖 Today's featured article: [Dance the Night](https://en.wikipedia.org/wiki/Dance_the_Night)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Thos. W. Ward Ltd. used camels and an elephant named Lizzie (pictured) to replace horses during World War I?](https://en.wikipedia.org/wiki/Thos._W._Ward)
-- [... that Rendon Labador was invited by the Philippine National Police to lead a 93-day fitness program, but his involvement ended abruptly after just a few days?](https://en.wikipedia.org/wiki/Rendon_Labador)
-- [... that Indonesia's current state apparatus minister, Rini Widyantini , was appointed as spokesperson in a coffee morning event?](https://en.wikipedia.org/wiki/Rini_Widyantini)
+- [... that Tengku Maimun Tuan Mat (pictured) , Malaysia's first female chief justice, was dubbed "the only man in the Federal Court"?](https://en.wikipedia.org/wiki/Tengku_Maimun_Tuan_Mat)
+- [... that Taylor Swift wrote a song that a critic considered to be a "piece of Ethel Kennedy fanfiction"?](https://en.wikipedia.org/wiki/Starlight_(Taylor_Swift_song))
+- [... that Native American Ted Towendolly pioneered a fly-fishing technique that was independently reinvented in Europe fifty years later?](https://en.wikipedia.org/wiki/Ted_Towendolly)
 <!--DYK:END-->
 
 - ### XKCD for today
