@@ -28,20 +28,20 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Dance the Night](https://en.wikipedia.org/wiki/Dance_the_Night)
+📖 Today's featured article: [White chocolate](https://en.wikipedia.org/wiki/White_chocolate)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Tengku Maimun Tuan Mat (pictured) , Malaysia's first female chief justice, was dubbed "the only man in the Federal Court"?](https://en.wikipedia.org/wiki/Tengku_Maimun_Tuan_Mat)
-- [... that Taylor Swift wrote a song that a critic considered to be a "piece of Ethel Kennedy fanfiction"?](https://en.wikipedia.org/wiki/Starlight_(Taylor_Swift_song))
-- [... that Native American Ted Towendolly pioneered a fly-fishing technique that was independently reinvented in Europe fifty years later?](https://en.wikipedia.org/wiki/Ted_Towendolly)
+- [... that the original type specimen of the fish species Cynodon gibbus (example pictured) may have been destroyed in a bombing raid?](https://en.wikipedia.org/wiki/Type_(biology)#Type_specimen)
+- [... that Marty Norton , after leading the NFL in receiving touchdowns in 1925, was imprisoned in at least eight different years and escaped jail twice?](https://en.wikipedia.org/wiki/Marty_Norton)
+- [... that three Indonesian presidents have reportedly fallen victim to the " Kediri curse "?](https://en.wikipedia.org/wiki/Kediri_curse)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Cesium](https://imgs.xkcd.com/comics/cesium.png)
+![Coastline Similarity](https://imgs.xkcd.com/comics/coastline_similarity.png)
 
-[Cesium](https://xkcd.com/3131) — *Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.*
+[Coastline Similarity](https://xkcd.com/3132) — *Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!*
 <!--XKCD:END-->
