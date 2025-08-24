@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [White chocolate](https://en.wikipedia.org/wiki/White_chocolate)
+📖 Today's featured article: [Satsu (Buffy the Vampire Slayer)](https://en.wikipedia.org/wiki/Satsu_(Buffy_the_Vampire_Slayer))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that the original type specimen of the fish species Cynodon gibbus (example pictured) may have been destroyed in a bombing raid?](https://en.wikipedia.org/wiki/Type_(biology)#Type_specimen)
-- [... that Marty Norton , after leading the NFL in receiving touchdowns in 1925, was imprisoned in at least eight different years and escaped jail twice?](https://en.wikipedia.org/wiki/Marty_Norton)
-- [... that three Indonesian presidents have reportedly fallen victim to the " Kediri curse "?](https://en.wikipedia.org/wiki/Kediri_curse)
+- [... that Andrey Zaliznyak (pictured) invented self-contained linguistic problems that require no prior knowledge of the language to solve?](https://en.wikipedia.org/wiki/Andrey_Zaliznyak)
+- [... that soccer games were still played at Marquette Stadium while it was being demolished?](https://en.wikipedia.org/wiki/Marquette_Stadium)
+- [... that Frederick E. Bakutis , then the US Navy commander in Antarctica, remarked in 1965 that it would "remain the womanless white continent of peace"?](https://en.wikipedia.org/wiki/Frederick_E._Bakutis)
 <!--DYK:END-->
 
 - ### XKCD for today
