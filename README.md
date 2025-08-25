@@ -28,15 +28,15 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Satsu (Buffy the Vampire Slayer)](https://en.wikipedia.org/wiki/Satsu_(Buffy_the_Vampire_Slayer))
+📖 Today's featured article: [Born to Run](https://en.wikipedia.org/wiki/Born_to_Run)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
 Did you know...
-- [... that Andrey Zaliznyak (pictured) invented self-contained linguistic problems that require no prior knowledge of the language to solve?](https://en.wikipedia.org/wiki/Andrey_Zaliznyak)
-- [... that soccer games were still played at Marquette Stadium while it was being demolished?](https://en.wikipedia.org/wiki/Marquette_Stadium)
-- [... that Frederick E. Bakutis , then the US Navy commander in Antarctica, remarked in 1965 that it would "remain the womanless white continent of peace"?](https://en.wikipedia.org/wiki/Frederick_E._Bakutis)
+- [... that the exhibition Pirouette: Turning Points in Design at the Museum of Modern Art includes a data graphic (pictured) that was compared to a Morris Louis painting?](https://en.wikipedia.org/wiki/Pirouette:_Turning_Points_in_Design)
+- [... that Hollywood makeup artist Bernadine Anderson supported herself in college by doing makeup on corpses?](https://en.wikipedia.org/wiki/Bernadine_Anderson)
+- [... that around 700,000 calls were made using 5 Calls to members of the US Congress in one week?](https://en.wikipedia.org/wiki/5_Calls)
 <!--DYK:END-->
 
 - ### XKCD for today
