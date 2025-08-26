@@ -28,20 +28,17 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Born to Run](https://en.wikipedia.org/wiki/Born_to_Run)
+⚠️ Could not fetch article.
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-Did you know...
-- [... that the exhibition Pirouette: Turning Points in Design at the Museum of Modern Art includes a data graphic (pictured) that was compared to a Morris Louis painting?](https://en.wikipedia.org/wiki/Pirouette:_Turning_Points_in_Design)
-- [... that Hollywood makeup artist Bernadine Anderson supported herself in college by doing makeup on corpses?](https://en.wikipedia.org/wiki/Bernadine_Anderson)
-- [... that around 700,000 calls were made using 5 Calls to members of the US Congress in one week?](https://en.wikipedia.org/wiki/5_Calls)
+Failed to fetch: 403
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Coastline Similarity](https://imgs.xkcd.com/comics/coastline_similarity.png)
+![Dual Roomba](https://imgs.xkcd.com/comics/dual_roomba.png)
 
-[Coastline Similarity](https://xkcd.com/3132) — *Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!*
+[Dual Roomba](https://xkcd.com/3133) — *I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.*
 <!--XKCD:END-->
