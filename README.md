@@ -38,7 +38,7 @@ Failed to fetch: 403
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Dual Roomba](https://imgs.xkcd.com/comics/dual_roomba.png)
+![Wavefunction Collapse](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
 
-[Dual Roomba](https://xkcd.com/3133) — *I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans.*
+[Wavefunction Collapse](https://xkcd.com/3134) — *Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.*
 <!--XKCD:END-->
