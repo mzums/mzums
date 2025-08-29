@@ -14,7 +14,7 @@ An aspiring computer science student.
 - [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
 - [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't do out
 - [battleship](https://github.com/mzums/battleship) - cli written in rust
-- [typing_test](https://github.com/mzums/typing_test)
+- [typeman](https://github.com/mzums/typeman)
 <!--PINNED:END-->
 
 ## Currently learning:
