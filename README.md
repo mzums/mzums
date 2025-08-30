@@ -14,7 +14,7 @@ An aspiring computer science student.
 - [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
 - [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't do out
 - [battleship](https://github.com/mzums/battleship) - cli written in rust
-- [typeman](https://github.com/mzums/typeman)
+- [typeman](https://github.com/mzums/typeman) -  Typing speed test with practice mode in GUI, TUI and CLI
 <!--PINNED:END-->
 
 ## Currently learning:
@@ -38,7 +38,7 @@ Failed to fetch: 403
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Wavefunction Collapse](https://imgs.xkcd.com/comics/wavefunction_collapse.png)
+![Sea Level](https://imgs.xkcd.com/comics/sea_level.png)
 
-[Wavefunction Collapse](https://xkcd.com/3134) — *Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls.*
+[Sea Level](https://xkcd.com/3135) — *They're up there with coral islands, lightning, and caterpillars turning into butterflies.*
 <!--XKCD:END-->
