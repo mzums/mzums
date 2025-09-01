@@ -24,14 +24,14 @@ https://crates.io/users/mzums
 - ### Wikipedia's featured article
     <!--WIKI:START-->
     - [Randy Travis](https://en.wikipedia.org/wiki/Randy_Travis)
-    <!--WIKI:END-->
+<!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
     - [... that Alejo Igoa (pictured) hosts the most-subscribed Spanish-language YouTube channel?](https://en.wikipedia.org/wiki/Alejo_Igoa)
     - [... that Swertia japonica was used as an insecticide for clothes during the Edo period ?](https://en.wikipedia.org/wiki/Swertia_japonica)
     - [... that Joseph M'Bouroukounda was both an Olympic boxer and an art teacher?](https://en.wikipedia.org/wiki/Joseph_M%27Bouroukounda)
-    <!--DYK:END-->
+<!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
