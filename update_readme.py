@@ -6,12 +6,13 @@ from bs4 import BeautifulSoup
 def get_featured_article():
     today = datetime.now(timezone.utc).strftime("%Y/%m/%d")
     url = f"https://en.wikipedia.org/api/rest_v1/feed/featured/{today}"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
     try:
-        res = requests.get(url)
+        res = requests.get(url, headers=headers, timeout=5)
         if res.status_code == 200:
             data = res.json()
             title = data["tfa"]["normalizedtitle"]
-            return f"📖 Today's featured article: [{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
+            return f"[{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
         else:
             return "⚠️ Could not fetch article."
     except Exception as e:
@@ -49,25 +50,27 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 def get_did_you_know():
     url = "https://en.wikipedia.org/wiki/Main_Page"
-    res = requests.get(url)
-    if res.status_code != 200:
-        return f"Failed to fetch: {res.status_code}"
-    soup = BeautifulSoup(res.text, "html.parser")
-    dyk_div = soup.find("div", id="mp-dyk")
-    if not dyk_div:
-        return "Did you know section not found"
-    facts_list = dyk_div.find("ul").find_all("li", limit=3)
-
-    results = []
-    for fact in facts_list:
-        fact_text = fact.get_text(" ", strip=True)
-        link = fact.find("a")
-        if link:
-            href = "https://en.wikipedia.org" + link.get("href", "")
-            fact_text = f"[{fact_text}]({href})"
-        results.append(f"- {fact_text}")
-
-    return "Did you know...\n" + "\n".join(results)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+    try:
+        res = requests.get(url, headers=headers, timeout=5)
+        if res.status_code != 200:
+            return f"Request failed with status code: {res.status_code}"
+        soup = BeautifulSoup(res.text, "html.parser")
+        dyk_div = soup.find("div", id="mp-dyk")
+        if not dyk_div:
+            return "Did you know section not found"
+        facts_list = dyk_div.find("ul").find_all("li", limit=3)
+        results = []
+        for fact in facts_list:
+            fact_text = fact.get_text(" ", strip=True)
+            link = fact.find("a")
+            if link and link.get("href"):
+                href = "https://en.wikipedia.org" + link.get("href")
+                fact_text = f"[{fact_text}]({href})"
+            results.append(f"- {fact_text}")
+        return "\n".join(results)
+    except requests.exceptions.RequestException as e:
+        return f"Request error: {e}"
 
 
 def get_pinned_repos():

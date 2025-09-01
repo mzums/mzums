@@ -9,12 +9,7 @@ An aspiring computer science student.
 
 ## 📌 Projects that I'm proud of
 <!--PINNED:START-->
-- [algorithms](https://github.com/mzums/algorithms)
-- [machine-learning](https://github.com/mzums/machine-learning)
-- [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
-- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't do out
-- [battleship](https://github.com/mzums/battleship) - cli written in rust
-- [typing_test](https://github.com/mzums/typing_test)
+GH_TOKEN env var not set
 <!--PINNED:END-->
 
 ## Currently learning:
@@ -28,20 +23,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-📖 Today's featured article: [Lesley J. McNair](https://en.wikipedia.org/wiki/Lesley_J._McNair)
-<!--WIKI:END-->
+    - [Randy Travis](https://en.wikipedia.org/wiki/Randy_Travis)
+    <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-Did you know...
-- [... that the state flag of Transnistria (pictured) features communist symbols, even though Transnistria is not a communist state?](https://en.wikipedia.org/wiki/Flag_of_Transnistria)
-- [... that actor Suja Khondokar served as a flight attendant aboard the inaugural commercial flight of Biman Bangladesh Airlines ?](https://en.wikipedia.org/wiki/Suja_Khondokar)
-- [... that Peru's fishing industry is the world's largest producer of fishmeal and fish oil?](https://en.wikipedia.org/wiki/Fishing_industry_in_Peru)
-<!--DYK:END-->
+    - [... that Alejo Igoa (pictured) hosts the most-subscribed Spanish-language YouTube channel?](https://en.wikipedia.org/wiki/Alejo_Igoa)
+    - [... that Swertia japonica was used as an insecticide for clothes during the Edo period ?](https://en.wikipedia.org/wiki/Swertia_japonica)
+    - [... that Joseph M'Bouroukounda was both an Olympic boxer and an art teacher?](https://en.wikipedia.org/wiki/Joseph_M%27Bouroukounda)
+    <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Flettner Rotor](https://imgs.xkcd.com/comics/flettner_rotor.png)
+![Sea Level](https://imgs.xkcd.com/comics/sea_level.png)
 
-[Flettner Rotor](https://xkcd.com/3119) — *"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."*
+[Sea Level](https://xkcd.com/3135) — *They're up there with coral islands, lightning, and caterpillars turning into butterflies.*
 <!--XKCD:END-->
