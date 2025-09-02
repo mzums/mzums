@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-  - [Randy Travis](https://en.wikipedia.org/wiki/Randy_Travis)
+[1905–06 New Brompton F.C. season](https://en.wikipedia.org/wiki/1905–06_New_Brompton_F.C._season)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-  - [... that Alejo Igoa (pictured) hosts the most-subscribed Spanish-language YouTube channel?](https://en.wikipedia.org/wiki/Alejo_Igoa)
-  - [... that Swertia japonica was used as an insecticide for clothes during the Edo period ?](https://en.wikipedia.org/wiki/Swertia_japonica)
-  - [... that Joseph M'Bouroukounda was both an Olympic boxer and an art teacher?](https://en.wikipedia.org/wiki/Joseph_M%27Bouroukounda)
+- [... that the Arch of the Philaeni (pictured) drew parallels between the dictator Benito Mussolini and the Roman emperor Augustus?](https://en.wikipedia.org/wiki/Arch_of_the_Philaeni)
+- [... that George Lincoln helped draft the document which ended World War II 80 years ago today?](https://en.wikipedia.org/wiki/George_Lincoln)
+- [... that a music publication apologized after reporting that Ghostholding was the work of a fictional indie rock band?](https://en.wikipedia.org/wiki/Ghostholding)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Sea Level](https://imgs.xkcd.com/comics/sea_level.png)
+![Pull](https://imgs.xkcd.com/comics/pull.png)
 
-[Sea Level](https://xkcd.com/3135) — *They're up there with coral islands, lightning, and caterpillars turning into butterflies.*
+[Pull](https://xkcd.com/3136) — *Be careful fighting gravity. If you win, it's a long way down.*
 <!--XKCD:END-->
