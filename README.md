@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[1905–06 New Brompton F.C. season](https://en.wikipedia.org/wiki/1905–06_New_Brompton_F.C._season)
+[William Arthur Ganfield](https://en.wikipedia.org/wiki/William_Arthur_Ganfield)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that the Arch of the Philaeni (pictured) drew parallels between the dictator Benito Mussolini and the Roman emperor Augustus?](https://en.wikipedia.org/wiki/Arch_of_the_Philaeni)
-- [... that George Lincoln helped draft the document which ended World War II 80 years ago today?](https://en.wikipedia.org/wiki/George_Lincoln)
-- [... that a music publication apologized after reporting that Ghostholding was the work of a fictional indie rock band?](https://en.wikipedia.org/wiki/Ghostholding)
+- [... that when a developer tried to buy Kansas City's New York Life Building (pictured) in the 1990s, it was unclear who owned it?](https://en.wikipedia.org/wiki/New_York_Life_Building_(Kansas_City,_Missouri))
+- [... that, while in exile in Paris, the Greek composer Mikis Theodorakis worked with the Chilean ambassador and poet Pablo Neruda on Canto General ?](https://en.wikipedia.org/wiki/Mikis_Theodorakis)
+- [... that fistfights broke out at a 1903 meeting of African-American leaders when the appeasement of Southern whites was challenged?](https://en.wikipedia.org/wiki/Atlanta_Compromise)
 <!--DYK:END-->
 
 - ### XKCD for today
