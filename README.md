@@ -13,7 +13,7 @@ An aspiring computer science student.
 - [algorithms](https://github.com/mzums/algorithms)
 - [machine-learning](https://github.com/mzums/machine-learning)
 - [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
-- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't do out
+- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't go out
 - [battleship](https://github.com/mzums/battleship) - cli written in rust
 <!--PINNED:END-->
 
@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[William Arthur Ganfield](https://en.wikipedia.org/wiki/William_Arthur_Ganfield)
+[Parasitic ant](https://en.wikipedia.org/wiki/Parasitic_ant)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that when a developer tried to buy Kansas City's New York Life Building (pictured) in the 1990s, it was unclear who owned it?](https://en.wikipedia.org/wiki/New_York_Life_Building_(Kansas_City,_Missouri))
-- [... that, while in exile in Paris, the Greek composer Mikis Theodorakis worked with the Chilean ambassador and poet Pablo Neruda on Canto General ?](https://en.wikipedia.org/wiki/Mikis_Theodorakis)
-- [... that fistfights broke out at a 1903 meeting of African-American leaders when the appeasement of Southern whites was challenged?](https://en.wikipedia.org/wiki/Atlanta_Compromise)
+- [... that the Great Northern Railway almost came to Aeneas (pictured) ?](https://en.wikipedia.org/wiki/Aeneas_Valley)
+- [... that Frenchman Ernest Grandier was the only white prisoner taken by the Zulu during their 1879 war with Britain?](https://en.wikipedia.org/wiki/Ernest_Grandier)
+- [... that a major UK retail CEO  criticised the " Not for EU " label as "bureaucratic madness"?](https://en.wikipedia.org/wiki/Not_for_EU)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Pull](https://imgs.xkcd.com/comics/pull.png)
+![Cursed Number](https://imgs.xkcd.com/comics/cursed_number.png)
 
-[Pull](https://xkcd.com/3136) — *Be careful fighting gravity. If you win, it's a long way down.*
+[Cursed Number](https://xkcd.com/3137) — *Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.*
 <!--XKCD:END-->
