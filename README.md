@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Parasitic ant](https://en.wikipedia.org/wiki/Parasitic_ant)
+[Joseph Francis Shea](https://en.wikipedia.org/wiki/Joseph_Francis_Shea)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that the Great Northern Railway almost came to Aeneas (pictured) ?](https://en.wikipedia.org/wiki/Aeneas_Valley)
-- [... that Frenchman Ernest Grandier was the only white prisoner taken by the Zulu during their 1879 war with Britain?](https://en.wikipedia.org/wiki/Ernest_Grandier)
-- [... that a major UK retail CEO  criticised the " Not for EU " label as "bureaucratic madness"?](https://en.wikipedia.org/wiki/Not_for_EU)
+- [... that the recordings of Leontyne Price (pictured) have been nominated for 25 Grammy Awards and won 13?](https://en.wikipedia.org/wiki/Leontyne_Price_discography)
+- [... that after the Battle of Vrigne-Meuse the identity of the last French soldier killed in World War I was disputed?](https://en.wikipedia.org/wiki/Battle_of_Vrigne-Meuse)
+- [... that, when Richardson Viano was asked to represent Haiti at the 2022 Winter Olympics , he initially thought it was a joke?](https://en.wikipedia.org/wiki/Richardson_Viano)
 <!--DYK:END-->
 
 - ### XKCD for today
