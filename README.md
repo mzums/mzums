@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Joseph Francis Shea](https://en.wikipedia.org/wiki/Joseph_Francis_Shea)
+[Hurricane Ophelia (2005)](https://en.wikipedia.org/wiki/Hurricane_Ophelia_(2005))
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that the recordings of Leontyne Price (pictured) have been nominated for 25 Grammy Awards and won 13?](https://en.wikipedia.org/wiki/Leontyne_Price_discography)
-- [... that after the Battle of Vrigne-Meuse the identity of the last French soldier killed in World War I was disputed?](https://en.wikipedia.org/wiki/Battle_of_Vrigne-Meuse)
-- [... that, when Richardson Viano was asked to represent Haiti at the 2022 Winter Olympics , he initially thought it was a joke?](https://en.wikipedia.org/wiki/Richardson_Viano)
+- [... that the ecclesiastical site at Devenish Island (pictured) was among the first protected monuments in the United Kingdom?](https://en.wikipedia.org/wiki/Northern_Ireland_Sites_and_Monuments_Record)
+- [... that wrestler Vladimir Popov initially viewed winning a bronze medal at the Olympics as a "failure"?](https://en.wikipedia.org/wiki/Vladimir_Popov_(wrestler))
+- [... that the German Empire dispatched six warships to Nicaragua after a marriage dispute led to a shooting and Germany's consul being arrested?](https://en.wikipedia.org/wiki/Eisenst%C3%BCck_affair)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Cursed Number](https://imgs.xkcd.com/comics/cursed_number.png)
+![Dimensional Lumber Tape Measure](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)
 
-[Cursed Number](https://xkcd.com/3137) — *Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.*
+[Dimensional Lumber Tape Measure](https://xkcd.com/3138) — *A person with two watches is never sure what time it is, especially if I got them one of the watches.*
 <!--XKCD:END-->
