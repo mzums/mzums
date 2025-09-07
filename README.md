@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Hurricane Ophelia (2005)](https://en.wikipedia.org/wiki/Hurricane_Ophelia_(2005))
+[HMS Queen Mary](https://en.wikipedia.org/wiki/HMS_Queen_Mary)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that the ecclesiastical site at Devenish Island (pictured) was among the first protected monuments in the United Kingdom?](https://en.wikipedia.org/wiki/Northern_Ireland_Sites_and_Monuments_Record)
-- [... that wrestler Vladimir Popov initially viewed winning a bronze medal at the Olympics as a "failure"?](https://en.wikipedia.org/wiki/Vladimir_Popov_(wrestler))
-- [... that the German Empire dispatched six warships to Nicaragua after a marriage dispute led to a shooting and Germany's consul being arrested?](https://en.wikipedia.org/wiki/Eisenst%C3%BCck_affair)
+- [... that Antonio Oteiza (pictured) was a missionary in Latin America but from 1961 focused on creating religious art, which he felt had more impact than sermons?](https://en.wikipedia.org/wiki/Antonio_Oteiza)
+- [... that the Vanuatu beer Tusker is named after the tusks of a pig, a traditional symbol of wealth?](https://en.wikipedia.org/wiki/Tusker_(Vanuatu_beer))
+- [... that at least 30 people have been arrested since 2018 for allegedly abusing children whom they met on Roblox ?](https://en.wikipedia.org/wiki/Child_safety_on_Roblox)
 <!--DYK:END-->
 
 - ### XKCD for today
