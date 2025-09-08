@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[HMS Queen Mary](https://en.wikipedia.org/wiki/HMS_Queen_Mary)
+[Peter Sellers](https://en.wikipedia.org/wiki/Peter_Sellers)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that Antonio Oteiza (pictured) was a missionary in Latin America but from 1961 focused on creating religious art, which he felt had more impact than sermons?](https://en.wikipedia.org/wiki/Antonio_Oteiza)
-- [... that the Vanuatu beer Tusker is named after the tusks of a pig, a traditional symbol of wealth?](https://en.wikipedia.org/wiki/Tusker_(Vanuatu_beer))
-- [... that at least 30 people have been arrested since 2018 for allegedly abusing children whom they met on Roblox ?](https://en.wikipedia.org/wiki/Child_safety_on_Roblox)
+- [... that Joseph Buh (pictured) , a Slovene Catholic missionary priest in Minnesota , was called Meshidong or 'Long Beard' by the Ojibwe ?](https://en.wikipedia.org/wiki/Joseph_Buh)
+- [... that the English composer Gustav Holst published a collection of Hindu hymns based on his own translations of Sanskrit literature?](https://en.wikipedia.org/wiki/Hymns_from_the_Rig_Veda)
+- [... that Alaíde Foppa used the airwaves of Mexico City to launch a feminist " forum for women "?](https://en.wikipedia.org/wiki/Ala%C3%ADde_Foppa)
 <!--DYK:END-->
 
 - ### XKCD for today
