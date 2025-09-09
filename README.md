@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Peter Sellers](https://en.wikipedia.org/wiki/Peter_Sellers)
+[Battle of Arkansas Post](https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that Joseph Buh (pictured) , a Slovene Catholic missionary priest in Minnesota , was called Meshidong or 'Long Beard' by the Ojibwe ?](https://en.wikipedia.org/wiki/Joseph_Buh)
-- [... that the English composer Gustav Holst published a collection of Hindu hymns based on his own translations of Sanskrit literature?](https://en.wikipedia.org/wiki/Hymns_from_the_Rig_Veda)
-- [... that Alaíde Foppa used the airwaves of Mexico City to launch a feminist " forum for women "?](https://en.wikipedia.org/wiki/Ala%C3%ADde_Foppa)
+- [... that Centauress and Faun (pictured) puzzled critics for inverting the traditional motif of the centaur carrying away a nymph?](https://en.wikipedia.org/wiki/Centauress_and_Faun)
+- [... that the cover of the children's novel The Butterfly Club was recreated using 7500 Loom bands , which are included in the novel's plot?](https://en.wikipedia.org/wiki/The_Butterfly_Club_(novel))
+- [... that actress Ashling O'Shea found joining the cast of Hollyoaks "surreal" as she had grown up watching the soap opera?](https://en.wikipedia.org/wiki/Ashling_O%27Shea)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Dimensional Lumber Tape Measure](https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png)
+![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)
 
-[Dimensional Lumber Tape Measure](https://xkcd.com/3138) — *A person with two watches is never sure what time it is, especially if I got them one of the watches.*
+[Chess Variant](https://xkcd.com/3139) — *The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.*
 <!--XKCD:END-->
