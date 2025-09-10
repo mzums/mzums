@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Battle of Arkansas Post](https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post)
+[Hydrogen](https://en.wikipedia.org/wiki/Hydrogen)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that Centauress and Faun (pictured) puzzled critics for inverting the traditional motif of the centaur carrying away a nymph?](https://en.wikipedia.org/wiki/Centauress_and_Faun)
-- [... that the cover of the children's novel The Butterfly Club was recreated using 7500 Loom bands , which are included in the novel's plot?](https://en.wikipedia.org/wiki/The_Butterfly_Club_(novel))
-- [... that actress Ashling O'Shea found joining the cast of Hollyoaks "surreal" as she had grown up watching the soap opera?](https://en.wikipedia.org/wiki/Ashling_O%27Shea)
+- [... that Chermin Island (pictured) , at the mouth of the Brunei River , became Abdul Hakkul Mubin 's administrative seat during the Bruneian civil war ?](https://en.wikipedia.org/wiki/Chermin_Island)
+- [... that Herbert Brandl once created a large mountain painting in about 15 minutes?](https://en.wikipedia.org/wiki/Herbert_Brandl)
+- [... that the baseball biopic 42 was screened in the White House?](https://en.wikipedia.org/wiki/42_(film))
 <!--DYK:END-->
 
 - ### XKCD for today
