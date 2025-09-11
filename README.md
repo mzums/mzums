@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Hydrogen](https://en.wikipedia.org/wiki/Hydrogen)
+[Tumbler Ridge](https://en.wikipedia.org/wiki/Tumbler_Ridge)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that Chermin Island (pictured) , at the mouth of the Brunei River , became Abdul Hakkul Mubin 's administrative seat during the Bruneian civil war ?](https://en.wikipedia.org/wiki/Chermin_Island)
-- [... that Herbert Brandl once created a large mountain painting in about 15 minutes?](https://en.wikipedia.org/wiki/Herbert_Brandl)
-- [... that the baseball biopic 42 was screened in the White House?](https://en.wikipedia.org/wiki/42_(film))
+- [... that much of what is known about the coronations of the kings and queens of Jerusalem (example pictured) comes from the Pontifical of Tyre , with which Archbishop Bonacursus de Gloria likely fled the fall of Tyre?](https://en.wikipedia.org/wiki/Coronations_of_the_kings_and_queens_of_Jerusalem)
+- [... that after South Sudan gained autonomy, it implemented an abortion law that was more restrictive than that of Sudan ?](https://en.wikipedia.org/wiki/Abortion_in_South_Sudan)
+- [... that North Korean footballer Tak Yong-bin scored the winning goal in the last match that South Korea played in the North for 29 years?](https://en.wikipedia.org/wiki/Tak_Yong-bin)
 <!--DYK:END-->
 
 - ### XKCD for today
     <!--XKCD:START-->
-![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)
+![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
 
-[Chess Variant](https://xkcd.com/3139) — *The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.*
+[Biology Department](https://xkcd.com/3140) — *Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.*
 <!--XKCD:END-->
