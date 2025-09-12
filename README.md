@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 - ### Wikipedia's featured article
     <!--WIKI:START-->
-[Tumbler Ridge](https://en.wikipedia.org/wiki/Tumbler_Ridge)
+[Felice Beato](https://en.wikipedia.org/wiki/Felice_Beato)
 <!--WIKI:END-->
 
 - ### 💡 Did You Know?
     <!--DYK:START-->
-- [... that much of what is known about the coronations of the kings and queens of Jerusalem (example pictured) comes from the Pontifical of Tyre , with which Archbishop Bonacursus de Gloria likely fled the fall of Tyre?](https://en.wikipedia.org/wiki/Coronations_of_the_kings_and_queens_of_Jerusalem)
-- [... that after South Sudan gained autonomy, it implemented an abortion law that was more restrictive than that of Sudan ?](https://en.wikipedia.org/wiki/Abortion_in_South_Sudan)
-- [... that North Korean footballer Tak Yong-bin scored the winning goal in the last match that South Korea played in the North for 29 years?](https://en.wikipedia.org/wiki/Tak_Yong-bin)
+- [... that basketball player Liatu King (pictured) played boys' American football when she was a child?](https://en.wikipedia.org/wiki/Liatu_King)
+- [... that the kinetic-energy output from the 2011 Sawyerville–Eoline tornado was almost twice as high as that released during the atomic bombing of Hiroshima?](https://en.wikipedia.org/wiki/2011_Sawyerville%E2%80%93Eoline_tornado)
+- [... that a study found the Curtis Bay Incinerator causes US$36.9 million in damage per year to public health?](https://en.wikipedia.org/wiki/Curtis_Bay_Incinerator)
 <!--DYK:END-->
 
 - ### XKCD for today
