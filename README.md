@@ -21,19 +21,19 @@ https://crates.io/users/mzums
 
 ## Want to see something cool?
 
-- ### Wikipedia's featured article
-<!--WIKI:START-->
-  - [Felice Beato](https://en.wikipedia.org/wiki/Felice_Beato)
+### Wikipedia's featured article
+- <!--WIKI:START-->
+  [Felice Beato](https://en.wikipedia.org/wiki/Felice_Beato)
 <!--WIKI:END-->
 
-- ### 💡 Did You Know?
+### 💡 Did You Know?
 <!--DYK:START-->
   - [... that basketball player Liatu King (pictured) played boys' American football when she was a child?](https://en.wikipedia.org/wiki/Liatu_King)
   - [... that the kinetic-energy output from the 2011 Sawyerville–Eoline tornado was almost twice as high as that released during the atomic bombing of Hiroshima?](https://en.wikipedia.org/wiki/2011_Sawyerville%E2%80%93Eoline_tornado)
   - [... that a study found the Curtis Bay Incinerator causes US$36.9 million in damage per year to public health?](https://en.wikipedia.org/wiki/Curtis_Bay_Incinerator)
 <!--DYK:END-->
 
-- ### XKCD for today
+### XKCD for today
 <!--XKCD:START-->
 ![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
 
