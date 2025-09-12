@@ -9,7 +9,12 @@ An aspiring computer science student.
 
 ## 📌 Projects that I'm proud of
 <!--PINNED:START-->
-GH_TOKEN env var not set
+- [typeman](https://github.com/mzums/typeman) -  Typing speed test with practice mode in GUI, TUI and CLI 
+- [algorithms](https://github.com/mzums/algorithms)
+- [machine-learning](https://github.com/mzums/machine-learning)
+- [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
+- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't go out
+- [battleship](https://github.com/mzums/battleship) - cli written in rust
 <!--PINNED:END-->
 
 ## Currently learning:
