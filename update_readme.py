@@ -12,7 +12,7 @@ def get_featured_article():
         if res.status_code == 200:
             data = res.json()
             title = data["tfa"]["normalizedtitle"]
-            return f"[{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
+            return f"  - [{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
         else:
             return "⚠️ Could not fetch article."
     except Exception as e:
@@ -67,7 +67,7 @@ def get_did_you_know():
             if link and link.get("href"):
                 href = "https://en.wikipedia.org" + link.get("href")
                 fact_text = f"[{fact_text}]({href})"
-            results.append(f"- {fact_text}")
+            results.append(f"  - {fact_text}")
         return "\n".join(results)
     except requests.exceptions.RequestException as e:
         return f"Request error: {e}"
