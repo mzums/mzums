@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  [Felice Beato](https://en.wikipedia.org/wiki/Felice_Beato)
+  - [Supernatural season 1](https://en.wikipedia.org/wiki/Supernatural_season_1)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that basketball player Liatu King (pictured) played boys' American football when she was a child?](https://en.wikipedia.org/wiki/Liatu_King)
-  - [... that the kinetic-energy output from the 2011 Sawyerville–Eoline tornado was almost twice as high as that released during the atomic bombing of Hiroshima?](https://en.wikipedia.org/wiki/2011_Sawyerville%E2%80%93Eoline_tornado)
-  - [... that a study found the Curtis Bay Incinerator causes US$36.9 million in damage per year to public health?](https://en.wikipedia.org/wiki/Curtis_Bay_Incinerator)
+  - [... that some scholars dispute the Mahabharata 's account of Madri (pictured) self-immolating on her husband's pyre ?](https://en.wikipedia.org/wiki/Madri)
+  - [... that the creator of the series Anthology of the Killer improvised its game design by squeezing in more jokes and "arbitrarily" combining in-game locations?](https://en.wikipedia.org/wiki/Anthology_of_the_Killer)
+  - [... that Ada Schnee , a former actress born in New Zealand, experienced World War I in East Africa as the wife of the German governor?](https://en.wikipedia.org/wiki/Ada_Schnee)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
+![Mantle Model](https://imgs.xkcd.com/comics/mantle_model.png)
 
-[Biology Department](https://xkcd.com/3140) — *Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.*
+[Mantle Model](https://xkcd.com/3141) — *Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.*
 <!--XKCD:END-->
