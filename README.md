@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Supernatural season 1](https://en.wikipedia.org/wiki/Supernatural_season_1)
+  - [Mother Solomon](https://en.wikipedia.org/wiki/Mother_Solomon)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that some scholars dispute the Mahabharata 's account of Madri (pictured) self-immolating on her husband's pyre ?](https://en.wikipedia.org/wiki/Madri)
-  - [... that the creator of the series Anthology of the Killer improvised its game design by squeezing in more jokes and "arbitrarily" combining in-game locations?](https://en.wikipedia.org/wiki/Anthology_of_the_Killer)
-  - [... that Ada Schnee , a former actress born in New Zealand, experienced World War I in East Africa as the wife of the German governor?](https://en.wikipedia.org/wiki/Ada_Schnee)
+  - [... that operetta soprano Hilda Clark appeared in a print ad (example pictured) as the "first [Coca-Cola] ambassador" ?](https://en.wikipedia.org/wiki/Hilda_Clark_(soprano))
+  - [... that a schoolteacher predicted the existence of Iru hillfort after reading about the hill in an ancient poem?](https://en.wikipedia.org/wiki/Iru_hillfort)
+  - [... that Anju Jason nearly quit taekwondo before he became one of the first Olympians for the Marshall Islands?](https://en.wikipedia.org/wiki/Anju_Jason)
 <!--DYK:END-->
 
 ### XKCD for today
