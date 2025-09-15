@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mother Solomon](https://en.wikipedia.org/wiki/Mother_Solomon)
+  - [Red wattlebird](https://en.wikipedia.org/wiki/Red_wattlebird)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that operetta soprano Hilda Clark appeared in a print ad (example pictured) as the "first [Coca-Cola] ambassador" ?](https://en.wikipedia.org/wiki/Hilda_Clark_(soprano))
-  - [... that a schoolteacher predicted the existence of Iru hillfort after reading about the hill in an ancient poem?](https://en.wikipedia.org/wiki/Iru_hillfort)
-  - [... that Anju Jason nearly quit taekwondo before he became one of the first Olympians for the Marshall Islands?](https://en.wikipedia.org/wiki/Anju_Jason)
+  - [... that Sydney McLaughlin 's world record of 50.68 seconds in the 400 metres hurdles (medalists pictured) was called "one of the greatest track performances of all time"?](https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone)
+  - [... that Emperor Tenmu had his sons swear to honor his consort and niece Uno-no-sarara as their mother, including two of her brothers?](https://en.wikipedia.org/wiki/Emperor_Tenmu)
+  - [... that a 1981 article about the disease of Turku claimed that the city council of Turku was made up of Finnish Freemasons?](https://en.wikipedia.org/wiki/Disease_of_Turku)
 <!--DYK:END-->
 
 ### XKCD for today
