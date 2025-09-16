@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Red wattlebird](https://en.wikipedia.org/wiki/Red_wattlebird)
+  - [Socompa](https://en.wikipedia.org/wiki/Socompa)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Sydney McLaughlin 's world record of 50.68 seconds in the 400 metres hurdles (medalists pictured) was called "one of the greatest track performances of all time"?](https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone)
-  - [... that Emperor Tenmu had his sons swear to honor his consort and niece Uno-no-sarara as their mother, including two of her brothers?](https://en.wikipedia.org/wiki/Emperor_Tenmu)
-  - [... that a 1981 article about the disease of Turku claimed that the city council of Turku was made up of Finnish Freemasons?](https://en.wikipedia.org/wiki/Disease_of_Turku)
+  - [... that different sounds drummed on the garamut (example pictured) can indicate the intended recipient?](https://en.wikipedia.org/wiki/Garamut)
+  - [... that Papua New Guinea , despite having only 11.7 million people, speaks more than 800 languages?](https://en.wikipedia.org/wiki/Papua_New_Guinea)
+  - [... that the Papua New Guinean government almost ran out of foreign exchange reserves during a financial crisis in 1994 ?](https://en.wikipedia.org/wiki/1994_Papua_New_Guinea_financial_crisis)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Mantle Model](https://imgs.xkcd.com/comics/mantle_model.png)
+![-Style Pizza](https://imgs.xkcd.com/comics/city_style_pizza.png)
 
-[Mantle Model](https://xkcd.com/3141) — *Mantle plumes explain Hawaii, Yellowstone, Iceland, the East African Rift, the Adirondack uplift, the Permian extinction, the decline of Rome, the DB Cooper hijacking, and the balrog in Moria. Those little hills of sand in your yard are caused by antle plumes.*
+[-Style Pizza](https://xkcd.com/3142) — *If you want to see true audacity, do an image search for 'Altoona-style pizza.'*
 <!--XKCD:END-->
