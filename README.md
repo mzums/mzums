@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Socompa](https://en.wikipedia.org/wiki/Socompa)
+  - [Through the Looking-Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that different sounds drummed on the garamut (example pictured) can indicate the intended recipient?](https://en.wikipedia.org/wiki/Garamut)
-  - [... that Papua New Guinea , despite having only 11.7 million people, speaks more than 800 languages?](https://en.wikipedia.org/wiki/Papua_New_Guinea)
-  - [... that the Papua New Guinean government almost ran out of foreign exchange reserves during a financial crisis in 1994 ?](https://en.wikipedia.org/wiki/1994_Papua_New_Guinea_financial_crisis)
+  - [... that the Top Chef Masters judge Jay Rayner (pictured) has attributed writing his viral review of Le Cinq to being "eye-gougingly, bone-crunchingly, teeth-grindingly angry"?](https://en.wikipedia.org/wiki/Top_Chef_Masters)
+  - [... that Red Sea tuna and seashells found at the roadside station of Khirbet es-Samra suggest that long-distance trade reached deep into Roman Arabia?](https://en.wikipedia.org/wiki/Khirbet_es-Samra)
+  - [... that Dan Pashman spent three years working on a new pasta shape that he named cascatelli , after the Italian word for 'waterfall'?](https://en.wikipedia.org/wiki/Dan_Pashman)
 <!--DYK:END-->
 
 ### XKCD for today
