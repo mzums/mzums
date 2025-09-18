@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Through the Looking-Glass](https://en.wikipedia.org/wiki/Through_the_Looking-Glass)
+  - [Alicia (album)](https://en.wikipedia.org/wiki/Alicia_(album))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Top Chef Masters judge Jay Rayner (pictured) has attributed writing his viral review of Le Cinq to being "eye-gougingly, bone-crunchingly, teeth-grindingly angry"?](https://en.wikipedia.org/wiki/Top_Chef_Masters)
-  - [... that Red Sea tuna and seashells found at the roadside station of Khirbet es-Samra suggest that long-distance trade reached deep into Roman Arabia?](https://en.wikipedia.org/wiki/Khirbet_es-Samra)
-  - [... that Dan Pashman spent three years working on a new pasta shape that he named cascatelli , after the Italian word for 'waterfall'?](https://en.wikipedia.org/wiki/Dan_Pashman)
+  - [... that in Ngāti Whātua culture, Neocicindela tuberculata (example pictured) could be the manifestation of the demigoddess Kui?](https://en.wikipedia.org/wiki/Ng%C4%81ti_Wh%C4%81tua)
+  - [... that the freighter James Gayley is one of the largest undiscovered shipwrecks on the Great Lakes ?](https://en.wikipedia.org/wiki/SS_James_Gayley)
+  - [... that the old defensive walls at New College, Oxford , are examined by the lord mayor every three years in a tradition dating back to 1379?](https://en.wikipedia.org/wiki/Oxford_city_walls)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![-Style Pizza](https://imgs.xkcd.com/comics/city_style_pizza.png)
+![Question Mark](https://imgs.xkcd.com/comics/question_mark.png)
 
-[-Style Pizza](https://xkcd.com/3142) — *If you want to see true audacity, do an image search for 'Altoona-style pizza.'*
+[Question Mark](https://xkcd.com/3143) — *Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...*
 <!--XKCD:END-->
