@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Alicia (album)](https://en.wikipedia.org/wiki/Alicia_(album))
+  - [Homer Simpson](https://en.wikipedia.org/wiki/Homer_Simpson)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that in Ngāti Whātua culture, Neocicindela tuberculata (example pictured) could be the manifestation of the demigoddess Kui?](https://en.wikipedia.org/wiki/Ng%C4%81ti_Wh%C4%81tua)
-  - [... that the freighter James Gayley is one of the largest undiscovered shipwrecks on the Great Lakes ?](https://en.wikipedia.org/wiki/SS_James_Gayley)
-  - [... that the old defensive walls at New College, Oxford , are examined by the lord mayor every three years in a tradition dating back to 1379?](https://en.wikipedia.org/wiki/Oxford_city_walls)
+  - [... that the next Commonwealth Games mascot is a unicorn (pictured) designed by 76 children?](https://en.wikipedia.org/wiki/Finnie_(mascot))
+  - [... that Mary Karadja founded an organisation to deport European Jews to Madagascar, despite previously advocating against antisemitism?](https://en.wikipedia.org/wiki/Mary_Karadja)
+  - [... that the writer Laurence Sterne became famous for a bawdy comic novel, and immediately sold a book of sermons ?](https://en.wikipedia.org/wiki/Sermons_of_Laurence_Sterne)
 <!--DYK:END-->
 
 ### XKCD for today
