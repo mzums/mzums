@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Homer Simpson](https://en.wikipedia.org/wiki/Homer_Simpson)
+  - [Myst V: End of Ages](https://en.wikipedia.org/wiki/Myst_V:_End_of_Ages)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the next Commonwealth Games mascot is a unicorn (pictured) designed by 76 children?](https://en.wikipedia.org/wiki/Finnie_(mascot))
-  - [... that Mary Karadja founded an organisation to deport European Jews to Madagascar, despite previously advocating against antisemitism?](https://en.wikipedia.org/wiki/Mary_Karadja)
-  - [... that the writer Laurence Sterne became famous for a bawdy comic novel, and immediately sold a book of sermons ?](https://en.wikipedia.org/wiki/Sermons_of_Laurence_Sterne)
+  - [... that Mary Jo Copeland (pictured) received the Presidential Citizens Medal from Barack Obama for founding Sharing and Caring Hands ?](https://en.wikipedia.org/wiki/Mary_Jo_Copeland)
+  - [... that Reedsburg Municipal Airport had a water runway during the 1960s for use by the builder of Lake Redstone ?](https://en.wikipedia.org/wiki/Reedsburg_Municipal_Airport)
+  - [... that Xu Jie avoided the purges of the Great Rites Controversy because he was at home mourning his father?](https://en.wikipedia.org/wiki/Xu_Jie)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Question Mark](https://imgs.xkcd.com/comics/question_mark.png)
+![Phase Changes](https://imgs.xkcd.com/comics/phase_changes.png)
 
-[Question Mark](https://xkcd.com/3143) — *Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...*
+[Phase Changes](https://xkcd.com/3144) — *People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.*
 <!--XKCD:END-->
