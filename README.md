@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Myst V: End of Ages](https://en.wikipedia.org/wiki/Myst_V:_End_of_Ages)
+  - [Caerleon pipe burial](https://en.wikipedia.org/wiki/Caerleon_pipe_burial)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Mary Jo Copeland (pictured) received the Presidential Citizens Medal from Barack Obama for founding Sharing and Caring Hands ?](https://en.wikipedia.org/wiki/Mary_Jo_Copeland)
-  - [... that Reedsburg Municipal Airport had a water runway during the 1960s for use by the builder of Lake Redstone ?](https://en.wikipedia.org/wiki/Reedsburg_Municipal_Airport)
-  - [... that Xu Jie avoided the purges of the Great Rites Controversy because he was at home mourning his father?](https://en.wikipedia.org/wiki/Xu_Jie)
+  - [... that pillow lava can be found along the upper reaches of the Duckabush River (pictured) , even though those structures can only form underwater?](https://en.wikipedia.org/wiki/Pillow_lava)
+  - [... that Spanish footballer Emilia Ibáñez scored 40 league goals in the 1985–86 season, yet was not the top goalscorer in the league?](https://en.wikipedia.org/wiki/Emilia_Ib%C3%A1%C3%B1ez)
+  - [... that the Sanok Construction Company operated its own medical clinic and had sports teams for shooting and volleyball?](https://en.wikipedia.org/wiki/Sanok_Construction_Company)
 <!--DYK:END-->
 
 ### XKCD for today
