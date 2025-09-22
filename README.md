@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Caerleon pipe burial](https://en.wikipedia.org/wiki/Caerleon_pipe_burial)
+  - [Thomas J. Hudner Jr.](https://en.wikipedia.org/wiki/Thomas_J._Hudner_Jr.)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that pillow lava can be found along the upper reaches of the Duckabush River (pictured) , even though those structures can only form underwater?](https://en.wikipedia.org/wiki/Pillow_lava)
-  - [... that Spanish footballer Emilia Ibáñez scored 40 league goals in the 1985–86 season, yet was not the top goalscorer in the league?](https://en.wikipedia.org/wiki/Emilia_Ib%C3%A1%C3%B1ez)
-  - [... that the Sanok Construction Company operated its own medical clinic and had sports teams for shooting and volleyball?](https://en.wikipedia.org/wiki/Sanok_Construction_Company)
+  - [... that the statue of Michael Arthur Bass (pictured) in England stands in front of the town hall he paid for?](https://en.wikipedia.org/wiki/Statue_of_Michael_Arthur_Bass)
+  - [... that the subjects of Robert M. Edsel 's book The Monuments Men returned more than five million works of art stolen by the Nazis during World War II?](https://en.wikipedia.org/wiki/Robert_M._Edsel)
+  - [... that Rinalds Grants , Archbishop of Riga, began his career as a criminal investigator?](https://en.wikipedia.org/wiki/Rinalds_Grants)
 <!--DYK:END-->
 
 ### XKCD for today
