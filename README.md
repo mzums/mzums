@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Thomas J. Hudner Jr.](https://en.wikipedia.org/wiki/Thomas_J._Hudner_Jr.)
+  - [20 Exchange Place](https://en.wikipedia.org/wiki/20_Exchange_Place)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the statue of Michael Arthur Bass (pictured) in England stands in front of the town hall he paid for?](https://en.wikipedia.org/wiki/Statue_of_Michael_Arthur_Bass)
-  - [... that the subjects of Robert M. Edsel 's book The Monuments Men returned more than five million works of art stolen by the Nazis during World War II?](https://en.wikipedia.org/wiki/Robert_M._Edsel)
-  - [... that Rinalds Grants , Archbishop of Riga, began his career as a criminal investigator?](https://en.wikipedia.org/wiki/Rinalds_Grants)
+  - [... that Jorge Meléndez (pictured) was appointed as the National Democratic Party 's candidate for president of El Salvador in 1919, after both frontrunners suddenly dropped out days before the election?](https://en.wikipedia.org/wiki/Jorge_Mel%C3%A9ndez)
+  - [... that the Téléscaphe was an underwater cable car system that allowed tourists to visit the seabed?](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9scaphe)
+  - [... that opera singer Olga Olgina used the same stage name as her mother?](https://en.wikipedia.org/wiki/Olga_Olgina)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Phase Changes](https://imgs.xkcd.com/comics/phase_changes.png)
+![Piercing](https://imgs.xkcd.com/comics/piercing.png)
 
-[Phase Changes](https://xkcd.com/3144) — *People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.*
+[Piercing](https://xkcd.com/3145) — *Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.*
 <!--XKCD:END-->
