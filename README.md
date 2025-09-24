@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [20 Exchange Place](https://en.wikipedia.org/wiki/20_Exchange_Place)
+  - [Burger's Daughter](https://en.wikipedia.org/wiki/Burger's_Daughter)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Jorge Meléndez (pictured) was appointed as the National Democratic Party 's candidate for president of El Salvador in 1919, after both frontrunners suddenly dropped out days before the election?](https://en.wikipedia.org/wiki/Jorge_Mel%C3%A9ndez)
-  - [... that the Téléscaphe was an underwater cable car system that allowed tourists to visit the seabed?](https://en.wikipedia.org/wiki/T%C3%A9l%C3%A9scaphe)
-  - [... that opera singer Olga Olgina used the same stage name as her mother?](https://en.wikipedia.org/wiki/Olga_Olgina)
+  - [... that four statues at the tomb of Yue Fei (two pictured) in Hangzhou, China, were ritually defecated on for centuries?](https://en.wikipedia.org/wiki/Tomb_of_Yue_Fei)
+  - [... that on the same day as the Pikysyry campaign 's final battle , Paraguayan president Francisco Solano López had his brother shot?](https://en.wikipedia.org/wiki/Pikysyry_campaign)
+  - [... that Émilienne Morin participated in the legal defence campaign of her future partner before they had even met?](https://en.wikipedia.org/wiki/%C3%89milienne_Morin)
 <!--DYK:END-->
 
 ### XKCD for today
