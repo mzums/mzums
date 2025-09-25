@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Burger's Daughter](https://en.wikipedia.org/wiki/Burger's_Daughter)
+  - [Joan (collection)](https://en.wikipedia.org/wiki/Joan_(collection))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that four statues at the tomb of Yue Fei (two pictured) in Hangzhou, China, were ritually defecated on for centuries?](https://en.wikipedia.org/wiki/Tomb_of_Yue_Fei)
-  - [... that on the same day as the Pikysyry campaign 's final battle , Paraguayan president Francisco Solano López had his brother shot?](https://en.wikipedia.org/wiki/Pikysyry_campaign)
-  - [... that Émilienne Morin participated in the legal defence campaign of her future partner before they had even met?](https://en.wikipedia.org/wiki/%C3%89milienne_Morin)
+  - [... that Romanian actor Matei Millo (pictured) continued an 1877 performance of a politically charged comedy even after the offended authorities had extinguished his theater's candelabra?](https://en.wikipedia.org/wiki/Matei_Millo)
+  - [... that Kembangan station is decorated with a mural of a church and a mosque?](https://en.wikipedia.org/wiki/Kembangan_MRT_station)
+  - [... that several 19th-century presidential elections in El Salvador had candidates that ran virtually unopposed?](https://en.wikipedia.org/wiki/Elections_in_El_Salvador)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Piercing](https://imgs.xkcd.com/comics/piercing.png)
+![Fantastic Four](https://imgs.xkcd.com/comics/fantastic_four.png)
 
-[Piercing](https://xkcd.com/3145) — *Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.*
+[Fantastic Four](https://xkcd.com/3146) — *One perk of being born at 0.88c is that your birthday is over two days long.*
 <!--XKCD:END-->
