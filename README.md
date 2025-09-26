@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Joan (collection)](https://en.wikipedia.org/wiki/Joan_(collection))
+  - [SMS Rheinland](https://en.wikipedia.org/wiki/SMS_Rheinland)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Romanian actor Matei Millo (pictured) continued an 1877 performance of a politically charged comedy even after the offended authorities had extinguished his theater's candelabra?](https://en.wikipedia.org/wiki/Matei_Millo)
-  - [... that Kembangan station is decorated with a mural of a church and a mosque?](https://en.wikipedia.org/wiki/Kembangan_MRT_station)
-  - [... that several 19th-century presidential elections in El Salvador had candidates that ran virtually unopposed?](https://en.wikipedia.org/wiki/Elections_in_El_Salvador)
+  - [... that 99% of the collection of the National Museum of Ecuador is not on public display (example of the 1% pictured) ?](https://en.wikipedia.org/wiki/National_Museum_of_Ecuador)
+  - [... that Samsul Ashar pawned personal valuables to support his city's football club?](https://en.wikipedia.org/wiki/Samsul_Ashar)
+  - [... that the size of the entrance hall at the British legation in Uruguay was increased after a diplomat complained that there was not enough room to hold dances?](https://en.wikipedia.org/wiki/Embassy_of_the_United_Kingdom,_Montevideo)
 <!--DYK:END-->
 
 ### XKCD for today
