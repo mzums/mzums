@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [SMS Rheinland](https://en.wikipedia.org/wiki/SMS_Rheinland)
+  - [Stockton and Darlington Railway](https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that 99% of the collection of the National Museum of Ecuador is not on public display (example of the 1% pictured) ?](https://en.wikipedia.org/wiki/National_Museum_of_Ecuador)
-  - [... that Samsul Ashar pawned personal valuables to support his city's football club?](https://en.wikipedia.org/wiki/Samsul_Ashar)
-  - [... that the size of the entrance hall at the British legation in Uruguay was increased after a diplomat complained that there was not enough room to hold dances?](https://en.wikipedia.org/wiki/Embassy_of_the_United_Kingdom,_Montevideo)
+  - [... that the American electronic artist Ships In The Night (pictured) makes synthwave music with melodies inspired by bird songs, church bells, and trains?](https://en.wikipedia.org/wiki/Ships_in_the_Night_(musician))
+  - [... that Gerard Way played pornography while recording the vocals of " You Know What They Do to Guys Like Us in Prison " as a form of method acting ?](https://en.wikipedia.org/wiki/Gerard_Way)
+  - [... that Richard Nixon asked Jet Li to be his personal bodyguard during the 1974 China national wushu team 's tour to the United States?](https://en.wikipedia.org/wiki/Jet_Li)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Fantastic Four](https://imgs.xkcd.com/comics/fantastic_four.png)
+![Hiking](https://imgs.xkcd.com/comics/hiking.png)
 
-[Fantastic Four](https://xkcd.com/3146) — *One perk of being born at 0.88c is that your birthday is over two days long.*
+[Hiking](https://xkcd.com/3147) — *Every downhill walk is a waterslide that might have been.*
 <!--XKCD:END-->
