@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Stockton and Darlington Railway](https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway)
+  - [Feather (song)](https://en.wikipedia.org/wiki/Feather_(song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the American electronic artist Ships In The Night (pictured) makes synthwave music with melodies inspired by bird songs, church bells, and trains?](https://en.wikipedia.org/wiki/Ships_in_the_Night_(musician))
-  - [... that Gerard Way played pornography while recording the vocals of " You Know What They Do to Guys Like Us in Prison " as a form of method acting ?](https://en.wikipedia.org/wiki/Gerard_Way)
-  - [... that Richard Nixon asked Jet Li to be his personal bodyguard during the 1974 China national wushu team 's tour to the United States?](https://en.wikipedia.org/wiki/Jet_Li)
+  - [... that a memorial park was planned in South Korea for composer Zheng Lücheng (pictured) , despite controversy over his collaboration with North Korea and China?](https://en.wikipedia.org/wiki/Zheng_L%C3%BCcheng)
+  - [... that an 829-kilometer-long (515 mi) lightning flash set a record eight years later?](https://en.wikipedia.org/wiki/Lightning_records)
+  - [... that prison abolition is not embraced by most human rights organizations, despite similar evidence for harm as from recognized forms of cruel, inhuman or degrading treatment?](https://en.wikipedia.org/wiki/Prison_abolition)
 <!--DYK:END-->
 
 ### XKCD for today
