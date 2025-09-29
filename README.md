@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Feather (song)](https://en.wikipedia.org/wiki/Feather_(song))
+  - [Casey Stengel](https://en.wikipedia.org/wiki/Casey_Stengel)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a memorial park was planned in South Korea for composer Zheng Lücheng (pictured) , despite controversy over his collaboration with North Korea and China?](https://en.wikipedia.org/wiki/Zheng_L%C3%BCcheng)
-  - [... that an 829-kilometer-long (515 mi) lightning flash set a record eight years later?](https://en.wikipedia.org/wiki/Lightning_records)
-  - [... that prison abolition is not embraced by most human rights organizations, despite similar evidence for harm as from recognized forms of cruel, inhuman or degrading treatment?](https://en.wikipedia.org/wiki/Prison_abolition)
+  - [... that Nereus Mendenhall (pictured) led a delegation to the Confederate States Congress in April 1862 to allow military exemption in the Confederate Army for Quakers ?](https://en.wikipedia.org/wiki/Nereus_Mendenhall)
+  - [... that chess tournaments implemented doping tests before doping in chess was even proven to be possible?](https://en.wikipedia.org/wiki/Doping_in_chess)
+  - [... that Salvador Chuliá composed Tríptico elegíaco para un percusionista for orchestra in memory of his son?](https://en.wikipedia.org/wiki/Salvador_Chuli%C3%A1_Hern%C3%A1ndez)
 <!--DYK:END-->
 
 ### XKCD for today
