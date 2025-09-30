@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Casey Stengel](https://en.wikipedia.org/wiki/Casey_Stengel)
+  - [Battle of Morlaix](https://en.wikipedia.org/wiki/Battle_of_Morlaix)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nereus Mendenhall (pictured) led a delegation to the Confederate States Congress in April 1862 to allow military exemption in the Confederate Army for Quakers ?](https://en.wikipedia.org/wiki/Nereus_Mendenhall)
-  - [... that chess tournaments implemented doping tests before doping in chess was even proven to be possible?](https://en.wikipedia.org/wiki/Doping_in_chess)
-  - [... that Salvador Chuliá composed Tríptico elegíaco para un percusionista for orchestra in memory of his son?](https://en.wikipedia.org/wiki/Salvador_Chuli%C3%A1_Hern%C3%A1ndez)
+  - [... that in 1919 a restaurant with vending machines was opened in the 17th-century Great Armoury (pictured) in Gdańsk ?](https://en.wikipedia.org/wiki/Great_Armoury)
+  - [... that Livingstone Luboobi claimed that he chose to teach himself double mathematics at A-level because there was no teacher qualified enough?](https://en.wikipedia.org/wiki/Livingstone_Luboobi)
+  - [... that Aso Tateno Dam started construction in 1983 and was only completed in 2024?](https://en.wikipedia.org/wiki/Aso_Tateno_Dam)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Hiking](https://imgs.xkcd.com/comics/hiking.png)
+![100% All Achievements](https://imgs.xkcd.com/comics/100_all_achievements.png)
 
-[Hiking](https://xkcd.com/3147) — *Every downhill walk is a waterslide that might have been.*
+[100% All Achievements](https://xkcd.com/3148) — *I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.*
 <!--XKCD:END-->
