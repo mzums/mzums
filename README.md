@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Battle of Morlaix](https://en.wikipedia.org/wiki/Battle_of_Morlaix)
+  - [Yugoslav torpedo boat T4](https://en.wikipedia.org/wiki/Yugoslav_torpedo_boat_T4)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that in 1919 a restaurant with vending machines was opened in the 17th-century Great Armoury (pictured) in Gdańsk ?](https://en.wikipedia.org/wiki/Great_Armoury)
-  - [... that Livingstone Luboobi claimed that he chose to teach himself double mathematics at A-level because there was no teacher qualified enough?](https://en.wikipedia.org/wiki/Livingstone_Luboobi)
-  - [... that Aso Tateno Dam started construction in 1983 and was only completed in 2024?](https://en.wikipedia.org/wiki/Aso_Tateno_Dam)
+  - [... that musical theatre actress Josephine Hall (pictured) became famous for performing a song that she purposefully sang high and off-key?](https://en.wikipedia.org/wiki/Josephine_Hall)
+  - [... that Northwest Marine Iron Works produced the last sternwheel steam tugboat operated in the United States?](https://en.wikipedia.org/wiki/Northwest_Marine_Iron_Works)
+  - [... that Elias Peleti is said to have been the most forgettable Latin patriarch of Jerusalem in a century?](https://en.wikipedia.org/wiki/Elias_Peleti)
 <!--DYK:END-->
 
 ### XKCD for today
