@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yugoslav torpedo boat T4](https://en.wikipedia.org/wiki/Yugoslav_torpedo_boat_T4)
+  - [2019 WPA World Ten-ball Championship](https://en.wikipedia.org/wiki/2019_WPA_World_Ten-ball_Championship)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that musical theatre actress Josephine Hall (pictured) became famous for performing a song that she purposefully sang high and off-key?](https://en.wikipedia.org/wiki/Josephine_Hall)
-  - [... that Northwest Marine Iron Works produced the last sternwheel steam tugboat operated in the United States?](https://en.wikipedia.org/wiki/Northwest_Marine_Iron_Works)
-  - [... that Elias Peleti is said to have been the most forgettable Latin patriarch of Jerusalem in a century?](https://en.wikipedia.org/wiki/Elias_Peleti)
+  - [... that the Ferber House (pictured) was rumored to be haunted after the family who owned it went extinct?](https://en.wikipedia.org/wiki/Ferber_House)
+  - [... that voice actress Azusa Tachibana shares a name with a character from the anime K-On! , and so her mother pushed her to join her high school band?](https://en.wikipedia.org/wiki/Azusa_Tachibana)
+  - [... that a Maryland TV station 's facilities originally housed a pharmacy and restaurant?](https://en.wikipedia.org/wiki/WMDT)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![100% All Achievements](https://imgs.xkcd.com/comics/100_all_achievements.png)
+![Measure Twice, Cut Once](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
 
-[100% All Achievements](https://xkcd.com/3148) — *I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.*
+[Measure Twice, Cut Once](https://xkcd.com/3149) — *"Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is*
 <!--XKCD:END-->
