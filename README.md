@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2019 WPA World Ten-ball Championship](https://en.wikipedia.org/wiki/2019_WPA_World_Ten-ball_Championship)
+  - [Spaghetti House siege](https://en.wikipedia.org/wiki/Spaghetti_House_siege)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Ferber House (pictured) was rumored to be haunted after the family who owned it went extinct?](https://en.wikipedia.org/wiki/Ferber_House)
-  - [... that voice actress Azusa Tachibana shares a name with a character from the anime K-On! , and so her mother pushed her to join her high school band?](https://en.wikipedia.org/wiki/Azusa_Tachibana)
-  - [... that a Maryland TV station 's facilities originally housed a pharmacy and restaurant?](https://en.wikipedia.org/wiki/WMDT)
+  - [... that Anne (pictured) was the last circus elephant in the United Kingdom?](https://en.wikipedia.org/wiki/Anne_(elephant))
+  - [... that priest Suitbert Mollinger served five years for fraud in a Dutch prison before founding one of the world's largest relic chapels in the United States?](https://en.wikipedia.org/wiki/Suitbert_Mollinger)
+  - [... that agate gemstones have been found on every continent, including Antarctica?](https://en.wikipedia.org/wiki/Agate)
 <!--DYK:END-->
 
 ### XKCD for today
