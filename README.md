@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Spaghetti House siege](https://en.wikipedia.org/wiki/Spaghetti_House_siege)
+  - [Clownfish](https://en.wikipedia.org/wiki/Clownfish)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Anne (pictured) was the last circus elephant in the United Kingdom?](https://en.wikipedia.org/wiki/Anne_(elephant))
-  - [... that priest Suitbert Mollinger served five years for fraud in a Dutch prison before founding one of the world's largest relic chapels in the United States?](https://en.wikipedia.org/wiki/Suitbert_Mollinger)
-  - [... that agate gemstones have been found on every continent, including Antarctica?](https://en.wikipedia.org/wiki/Agate)
+  - [... that Shaktikanta Das (pictured) qualified with a degree in history, yet rose to lead India's central bank ?](https://en.wikipedia.org/wiki/Shaktikanta_Das)
+  - [... that to compete as Timor-Leste's first Winter Olympian at the 2014 Games , Yohan Goutt Gonçalves had to raise US$75,000, most of which came from himself and his family?](https://en.wikipedia.org/wiki/Timor-Leste_at_the_2014_Winter_Olympics)
+  - [... that Zinaida Nevzorova entered into a marriage of convenience with Gleb Krzhizhanovsky to keep their activist group together, but they later developed a genuine romantic relationship?](https://en.wikipedia.org/wiki/Zinaida_Nevzorova)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Measure Twice, Cut Once](https://imgs.xkcd.com/comics/measure_twice_cut_once.png)
+![Ping](https://imgs.xkcd.com/comics/ping.png)
 
-[Measure Twice, Cut Once](https://xkcd.com/3149) — *"Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is*
+[Ping](https://xkcd.com/3150) — *Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.*
 <!--XKCD:END-->
