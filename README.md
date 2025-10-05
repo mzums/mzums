@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Clownfish](https://en.wikipedia.org/wiki/Clownfish)
+  - [Otto Hahn](https://en.wikipedia.org/wiki/Otto_Hahn)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Shaktikanta Das (pictured) qualified with a degree in history, yet rose to lead India's central bank ?](https://en.wikipedia.org/wiki/Shaktikanta_Das)
-  - [... that to compete as Timor-Leste's first Winter Olympian at the 2014 Games , Yohan Goutt Gonçalves had to raise US$75,000, most of which came from himself and his family?](https://en.wikipedia.org/wiki/Timor-Leste_at_the_2014_Winter_Olympics)
-  - [... that Zinaida Nevzorova entered into a marriage of convenience with Gleb Krzhizhanovsky to keep their activist group together, but they later developed a genuine romantic relationship?](https://en.wikipedia.org/wiki/Zinaida_Nevzorova)
+  - [... that Abenaki guide Mitchell Sabattis (pictured) co-invented the Adirondack guideboat ?](https://en.wikipedia.org/wiki/Abenaki)
+  - [... that President Maximiliano Hernández Martínez resigned prior to the 1935 Salvadoran presidential election so that he could circumvent a constitutional ban on re-election?](https://en.wikipedia.org/wiki/Maximiliano_Hern%C3%A1ndez_Mart%C3%ADnez)
+  - [... that Hyde Park Presbyterian Church in Austin, Texas, was disassembled and moved in order to drive a saloon out of the neighborhood?](https://en.wikipedia.org/wiki/Hyde_Park_Presbyterian_Church_(Austin,_Texas))
 <!--DYK:END-->
 
 ### XKCD for today
