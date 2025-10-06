@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Otto Hahn](https://en.wikipedia.org/wiki/Otto_Hahn)
+  - [70 Pine Street](https://en.wikipedia.org/wiki/70_Pine_Street)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Abenaki guide Mitchell Sabattis (pictured) co-invented the Adirondack guideboat ?](https://en.wikipedia.org/wiki/Abenaki)
-  - [... that President Maximiliano Hernández Martínez resigned prior to the 1935 Salvadoran presidential election so that he could circumvent a constitutional ban on re-election?](https://en.wikipedia.org/wiki/Maximiliano_Hern%C3%A1ndez_Mart%C3%ADnez)
-  - [... that Hyde Park Presbyterian Church in Austin, Texas, was disassembled and moved in order to drive a saloon out of the neighborhood?](https://en.wikipedia.org/wiki/Hyde_Park_Presbyterian_Church_(Austin,_Texas))
+  - [... that a window-washing railroad track ran atop Chicago's Inland Steel Building (pictured) ?](https://en.wikipedia.org/wiki/Inland_Steel_Building)
+  - [... that Ted Aber created a series of alphabetized files on 1,600 family names while researching the history of Hamilton County, New York?](https://en.wikipedia.org/wiki/Ted_Aber)
+  - [... that the 2022 German presidential election was held at Paul Löbe House instead of the Reichstag due to the COVID-19 pandemic?](https://en.wikipedia.org/wiki/2022_German_presidential_election)
 <!--DYK:END-->
 
 ### XKCD for today
