@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [70 Pine Street](https://en.wikipedia.org/wiki/70_Pine_Street)
+  - [Licancabur](https://en.wikipedia.org/wiki/Licancabur)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a window-washing railroad track ran atop Chicago's Inland Steel Building (pictured) ?](https://en.wikipedia.org/wiki/Inland_Steel_Building)
-  - [... that Ted Aber created a series of alphabetized files on 1,600 family names while researching the history of Hamilton County, New York?](https://en.wikipedia.org/wiki/Ted_Aber)
-  - [... that the 2022 German presidential election was held at Paul Löbe House instead of the Reichstag due to the COVID-19 pandemic?](https://en.wikipedia.org/wiki/2022_German_presidential_election)
+  - [... that the force developed by the engines of the Saturn V (pictured) during testing shattered the windows of nearby houses?](https://en.wikipedia.org/wiki/Saturn_V)
+  - [... that voice actress Niina Hanamiya taught herself to read and write Egyptian hieroglyphs?](https://en.wikipedia.org/wiki/Niina_Hanamiya)
+  - [... that the editors of The Eastern Miscellany refused to cooperate with a British-imposed media blackout following the 1925 Shanghai massacre ?](https://en.wikipedia.org/wiki/The_Eastern_Miscellany)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Ping](https://imgs.xkcd.com/comics/ping.png)
+![Window Screen](https://imgs.xkcd.com/comics/window_screen.png)
 
-[Ping](https://xkcd.com/3150) — *Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow.*
+[Window Screen](https://xkcd.com/3151) — *The Nobel Prize in Physiology or Medicine or Home Improvement or DIY*
 <!--XKCD:END-->
