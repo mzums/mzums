@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Licancabur](https://en.wikipedia.org/wiki/Licancabur)
+  - [Terraria](https://en.wikipedia.org/wiki/Terraria)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the force developed by the engines of the Saturn V (pictured) during testing shattered the windows of nearby houses?](https://en.wikipedia.org/wiki/Saturn_V)
-  - [... that voice actress Niina Hanamiya taught herself to read and write Egyptian hieroglyphs?](https://en.wikipedia.org/wiki/Niina_Hanamiya)
-  - [... that the editors of The Eastern Miscellany refused to cooperate with a British-imposed media blackout following the 1925 Shanghai massacre ?](https://en.wikipedia.org/wiki/The_Eastern_Miscellany)
+  - [... that Ivatan women wear waterproof headdresses made of leaves (example pictured) ?](https://en.wikipedia.org/wiki/Ivatan_people)
+  - [... that John Stonebraker moved 300-pound (140 kg) ice blocks to prepare for the 1939 college football season?](https://en.wikipedia.org/wiki/John_Stonebraker)
+  - [... that the rulers of the 14th-century Emirate of Erzincan were Muslims, but its major cities were primarily Christian?](https://en.wikipedia.org/wiki/Emirate_of_Erzincan)
 <!--DYK:END-->
 
 ### XKCD for today
