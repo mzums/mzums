@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Terraria](https://en.wikipedia.org/wiki/Terraria)
+  - [Chris Pratt](https://en.wikipedia.org/wiki/Chris_Pratt)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Ivatan women wear waterproof headdresses made of leaves (example pictured) ?](https://en.wikipedia.org/wiki/Ivatan_people)
-  - [... that John Stonebraker moved 300-pound (140 kg) ice blocks to prepare for the 1939 college football season?](https://en.wikipedia.org/wiki/John_Stonebraker)
-  - [... that the rulers of the 14th-century Emirate of Erzincan were Muslims, but its major cities were primarily Christian?](https://en.wikipedia.org/wiki/Emirate_of_Erzincan)
+  - [... that flying ace Ángel Salas Larrazábal (pictured) was a co-leader of Spain for two days between the death of Francisco Franco and the ascension of King Juan Carlos I ?](https://en.wikipedia.org/wiki/%C3%81ngel_Salas_Larraz%C3%A1bal)
+  - [... that the architect of Chicago's 860–880 Lake Shore Drive nearly quit the project after his original floor plans were rejected?](https://en.wikipedia.org/wiki/860%E2%80%93880_Lake_Shore_Drive)
+  - [... that author Jilly Cooper used Sue Macartney-Snape 's illustrations to create the satirical novel Araminta's Wedding ?](https://en.wikipedia.org/wiki/Jilly_Cooper)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Window Screen](https://imgs.xkcd.com/comics/window_screen.png)
+![Skateboard](https://imgs.xkcd.com/comics/skateboard.png)
 
-[Window Screen](https://xkcd.com/3151) — *The Nobel Prize in Physiology or Medicine or Home Improvement or DIY*
+[Skateboard](https://xkcd.com/3152) — *I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.*
 <!--XKCD:END-->
