@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Chris Pratt](https://en.wikipedia.org/wiki/Chris_Pratt)
+  - [Tragic Kingdom](https://en.wikipedia.org/wiki/Tragic_Kingdom)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that flying ace Ángel Salas Larrazábal (pictured) was a co-leader of Spain for two days between the death of Francisco Franco and the ascension of King Juan Carlos I ?](https://en.wikipedia.org/wiki/%C3%81ngel_Salas_Larraz%C3%A1bal)
-  - [... that the architect of Chicago's 860–880 Lake Shore Drive nearly quit the project after his original floor plans were rejected?](https://en.wikipedia.org/wiki/860%E2%80%93880_Lake_Shore_Drive)
-  - [... that author Jilly Cooper used Sue Macartney-Snape 's illustrations to create the satirical novel Araminta's Wedding ?](https://en.wikipedia.org/wiki/Jilly_Cooper)
+  - [... that architect Dirk Lohan paid $2,705 for the right to smash a window at a building his grandfather designed (pictured) ?](https://en.wikipedia.org/wiki/Dirk_Lohan)
+  - [... that Bernardo Zapater , a founding member of Spain's oldest private scientific society , is the namesake of a "totally underrated" flower ?](https://en.wikipedia.org/wiki/Bernardo_Zapater)
+  - [... that the Sentachan Mine was listed as the second-coldest mine in the world by Mining.com ?](https://en.wikipedia.org/wiki/Sentachan_Mine)
 <!--DYK:END-->
 
 ### XKCD for today
