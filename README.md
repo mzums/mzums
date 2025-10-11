@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tragic Kingdom](https://en.wikipedia.org/wiki/Tragic_Kingdom)
+  - [Georg Karo](https://en.wikipedia.org/wiki/Georg_Karo)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that architect Dirk Lohan paid $2,705 for the right to smash a window at a building his grandfather designed (pictured) ?](https://en.wikipedia.org/wiki/Dirk_Lohan)
-  - [... that Bernardo Zapater , a founding member of Spain's oldest private scientific society , is the namesake of a "totally underrated" flower ?](https://en.wikipedia.org/wiki/Bernardo_Zapater)
-  - [... that the Sentachan Mine was listed as the second-coldest mine in the world by Mining.com ?](https://en.wikipedia.org/wiki/Sentachan_Mine)
+  - [... that the Sappho Fresco (pictured) from Pompeii is not a portrait of Sappho ?](https://en.wikipedia.org/wiki/Sappho_Fresco)
+  - [... that Thames lightermen would pull their barges up to the Leaning Tower of Rotherhithe to collect their wages?](https://en.wikipedia.org/wiki/Lighterman)
+  - [... that Christophe de Menil had "a long history of supporting 'difficult' art projects", according to The New York Times ?](https://en.wikipedia.org/wiki/Christophe_de_Menil)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Skateboard](https://imgs.xkcd.com/comics/skateboard.png)
+![Hot Water Balloon](https://imgs.xkcd.com/comics/hot_water_balloon.png)
 
-[Skateboard](https://xkcd.com/3152) — *I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.*
+[Hot Water Balloon](https://xkcd.com/3153) — *Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.*
 <!--XKCD:END-->
