@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Georg Karo](https://en.wikipedia.org/wiki/Georg_Karo)
+  - [2021 World Figure Skating Championships](https://en.wikipedia.org/wiki/2021_World_Figure_Skating_Championships)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Sappho Fresco (pictured) from Pompeii is not a portrait of Sappho ?](https://en.wikipedia.org/wiki/Sappho_Fresco)
-  - [... that Thames lightermen would pull their barges up to the Leaning Tower of Rotherhithe to collect their wages?](https://en.wikipedia.org/wiki/Lighterman)
-  - [... that Christophe de Menil had "a long history of supporting 'difficult' art projects", according to The New York Times ?](https://en.wikipedia.org/wiki/Christophe_de_Menil)
+  - [... that the only casualty of USS Missouri 's destruction (pictured) was a pet bear?](https://en.wikipedia.org/wiki/USS_Missouri_(1841))
+  - [... that Lourdes Ambriz , singing voice of Belle in the Spanish version of Beauty and the Beast , became the artistic director of the Mexican national opera ?](https://en.wikipedia.org/wiki/Lourdes_Ambriz)
+  - [... that numerous historians and academics have argued that Israel has used the Holocaust to justify its treatment of Palestinians?](https://en.wikipedia.org/wiki/Instrumentalization_of_the_Holocaust)
 <!--DYK:END-->
 
 ### XKCD for today
