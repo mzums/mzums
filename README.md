@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2021 World Figure Skating Championships](https://en.wikipedia.org/wiki/2021_World_Figure_Skating_Championships)
+  - [Tell es-Sakan](https://en.wikipedia.org/wiki/Tell_es-Sakan)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the only casualty of USS Missouri 's destruction (pictured) was a pet bear?](https://en.wikipedia.org/wiki/USS_Missouri_(1841))
-  - [... that Lourdes Ambriz , singing voice of Belle in the Spanish version of Beauty and the Beast , became the artistic director of the Mexican national opera ?](https://en.wikipedia.org/wiki/Lourdes_Ambriz)
-  - [... that numerous historians and academics have argued that Israel has used the Holocaust to justify its treatment of Palestinians?](https://en.wikipedia.org/wiki/Instrumentalization_of_the_Holocaust)
+  - [... that women's rights activist Shreen Saroor (pictured) was sent to a Catholic convent for her education after her mother became concerned with her tomboy-like behavior?](https://en.wikipedia.org/wiki/Shreen_Abdul_Saroor)
+  - [... that four US Army soldiers stole $36 million in valuables from a German castle in late 1945?](https://en.wikipedia.org/wiki/Theft_of_the_Hesse_crown_jewels)
+  - [... that forensic scientist Luke S. May was nicknamed "America's Sherlock Holmes" for his work as an investigator?](https://en.wikipedia.org/wiki/Luke_S._May)
 <!--DYK:END-->
 
 ### XKCD for today
