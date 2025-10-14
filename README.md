@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tell es-Sakan](https://en.wikipedia.org/wiki/Tell_es-Sakan)
+  - [Fourpence (British coin)](https://en.wikipedia.org/wiki/Fourpence_(British_coin))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that women's rights activist Shreen Saroor (pictured) was sent to a Catholic convent for her education after her mother became concerned with her tomboy-like behavior?](https://en.wikipedia.org/wiki/Shreen_Abdul_Saroor)
-  - [... that four US Army soldiers stole $36 million in valuables from a German castle in late 1945?](https://en.wikipedia.org/wiki/Theft_of_the_Hesse_crown_jewels)
-  - [... that forensic scientist Luke S. May was nicknamed "America's Sherlock Holmes" for his work as an investigator?](https://en.wikipedia.org/wiki/Luke_S._May)
+  - [... that the 1969 Corrective Move (commemorative stamp pictured) transformed South Yemen into a communist state?](https://en.wikipedia.org/wiki/Corrective_Move)
+  - [... that more than 50 New Caledonian women enlisted to join a World War II Free French regiment , but only two – Raymonde Jore and Raymonde Rolly – ultimately served?](https://en.wikipedia.org/wiki/Corps_des_Volontaires_fran%C3%A7aises)
+  - [... that Muhammad Ahmed Miftah was arrested while leading prayers 20 years before becoming prime minister of the Houthi -led government of Yemen?](https://en.wikipedia.org/wiki/Muhammad_Ahmed_Miftah)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Hot Water Balloon](https://imgs.xkcd.com/comics/hot_water_balloon.png)
+![Physics Insight](https://imgs.xkcd.com/comics/physics_insight.png)
 
-[Hot Water Balloon](https://xkcd.com/3153) — *Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.*
+[Physics Insight](https://xkcd.com/3154) — *When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'*
 <!--XKCD:END-->
