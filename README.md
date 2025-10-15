@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Fourpence (British coin)](https://en.wikipedia.org/wiki/Fourpence_(British_coin))
+  - [Jozo Tomasevich](https://en.wikipedia.org/wiki/Jozo_Tomasevich)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the 1969 Corrective Move (commemorative stamp pictured) transformed South Yemen into a communist state?](https://en.wikipedia.org/wiki/Corrective_Move)
-  - [... that more than 50 New Caledonian women enlisted to join a World War II Free French regiment , but only two – Raymonde Jore and Raymonde Rolly – ultimately served?](https://en.wikipedia.org/wiki/Corps_des_Volontaires_fran%C3%A7aises)
-  - [... that Muhammad Ahmed Miftah was arrested while leading prayers 20 years before becoming prime minister of the Houthi -led government of Yemen?](https://en.wikipedia.org/wiki/Muhammad_Ahmed_Miftah)
+  - [... that Winnipeg's historic Holy Trinity Anglican Church (pictured) is at risk of structural failure within the next few years?](https://en.wikipedia.org/wiki/Holy_Trinity_Anglican_Church_(Winnipeg))
+  - [... that Olympic cyclist Michael Watson was hospitalised because of a dog?](https://en.wikipedia.org/wiki/Michael_Watson_(cyclist))
+  - [... that the Roblox video game Grow a Garden once had more than 20 million simultaneous players?](https://en.wikipedia.org/wiki/Roblox)
 <!--DYK:END-->
 
 ### XKCD for today
