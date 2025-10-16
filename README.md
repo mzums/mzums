@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Jozo Tomasevich](https://en.wikipedia.org/wiki/Jozo_Tomasevich)
+  - [Angela Lansbury](https://en.wikipedia.org/wiki/Angela_Lansbury)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Winnipeg's historic Holy Trinity Anglican Church (pictured) is at risk of structural failure within the next few years?](https://en.wikipedia.org/wiki/Holy_Trinity_Anglican_Church_(Winnipeg))
-  - [... that Olympic cyclist Michael Watson was hospitalised because of a dog?](https://en.wikipedia.org/wiki/Michael_Watson_(cyclist))
-  - [... that the Roblox video game Grow a Garden once had more than 20 million simultaneous players?](https://en.wikipedia.org/wiki/Roblox)
+  - [... that Sylvester Espelage (pictured) , unlike most American clergy, wore a queue and a long beard during his missionary work in Wuhan ?](https://en.wikipedia.org/wiki/Sylvester_Espelage)
+  - [... that Erika Kirk forgave her husband's alleged killer at his memorial service ?](https://en.wikipedia.org/wiki/Erika_Kirk)
+  - [... that the spider Desis marina makes its nest in the intertidal zone of the coast, where it can survive for up to 19 days submerged underwater?](https://en.wikipedia.org/wiki/Desis_marina)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Physics Insight](https://imgs.xkcd.com/comics/physics_insight.png)
+![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)
 
-[Physics Insight](https://xkcd.com/3154) — *When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'*
+[Physics Paths](https://xkcd.com/3155) — *If nothing else, that reasoning definitely overturns syllogisms.*
 <!--XKCD:END-->
