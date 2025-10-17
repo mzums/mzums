@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Angela Lansbury](https://en.wikipedia.org/wiki/Angela_Lansbury)
+  - [Neutral Milk Hotel](https://en.wikipedia.org/wiki/Neutral_Milk_Hotel)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Sylvester Espelage (pictured) , unlike most American clergy, wore a queue and a long beard during his missionary work in Wuhan ?](https://en.wikipedia.org/wiki/Sylvester_Espelage)
-  - [... that Erika Kirk forgave her husband's alleged killer at his memorial service ?](https://en.wikipedia.org/wiki/Erika_Kirk)
-  - [... that the spider Desis marina makes its nest in the intertidal zone of the coast, where it can survive for up to 19 days submerged underwater?](https://en.wikipedia.org/wiki/Desis_marina)
+  - [... that the giant centipede Cormocephalus rubriceps (pictured) can grow up to 20 centimetres (8 inches) in length?](https://en.wikipedia.org/wiki/Cormocephalus_rubriceps)
+  - [... that a Russian spy couple used comments on Cristiano Ronaldo YouTube videos to send coded messages to Moscow?](https://en.wikipedia.org/wiki/Use_of_Cristiano_Ronaldo_videos_in_Russian_espionage_plot)
+  - [... that racing driver Neil Cunningham was also a stunt double in the James Bond film Quantum of Solace ?](https://en.wikipedia.org/wiki/Neil_Cunningham)
 <!--DYK:END-->
 
 ### XKCD for today
