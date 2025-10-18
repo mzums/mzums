@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Neutral Milk Hotel](https://en.wikipedia.org/wiki/Neutral_Milk_Hotel)
+  - [Ulfcytel](https://en.wikipedia.org/wiki/Ulfcytel)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the giant centipede Cormocephalus rubriceps (pictured) can grow up to 20 centimetres (8 inches) in length?](https://en.wikipedia.org/wiki/Cormocephalus_rubriceps)
-  - [... that a Russian spy couple used comments on Cristiano Ronaldo YouTube videos to send coded messages to Moscow?](https://en.wikipedia.org/wiki/Use_of_Cristiano_Ronaldo_videos_in_Russian_espionage_plot)
-  - [... that racing driver Neil Cunningham was also a stunt double in the James Bond film Quantum of Solace ?](https://en.wikipedia.org/wiki/Neil_Cunningham)
+  - [... that, unusually for contemporary Islamic chronicles, the Tarikh-i Alfi (page pictured) begins with the death of Muhammad, not his birth?](https://en.wikipedia.org/wiki/Tarikh-i_Alfi)
+  - [... that Albert Gatschet 's field notes on the grammar of Atakapa is the only surviving work on the language carried out with native speakers?](https://en.wikipedia.org/wiki/Albert_Gatschet)
+  - [... that one reviewer criticised The Magician's Daughter for not mentioning its setting's historical context?](https://en.wikipedia.org/wiki/The_Magician%27s_Daughter)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)
+![Planetary Rings](https://imgs.xkcd.com/comics/planetary_rings.png)
 
-[Physics Paths](https://xkcd.com/3155) — *If nothing else, that reasoning definitely overturns syllogisms.*
+[Planetary Rings](https://xkcd.com/3156) — *If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.*
 <!--XKCD:END-->
