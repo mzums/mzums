@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ulfcytel](https://en.wikipedia.org/wiki/Ulfcytel)
+  - [U.S. Route 34 in Iowa](https://en.wikipedia.org/wiki/U.S._Route_34_in_Iowa)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, unusually for contemporary Islamic chronicles, the Tarikh-i Alfi (page pictured) begins with the death of Muhammad, not his birth?](https://en.wikipedia.org/wiki/Tarikh-i_Alfi)
-  - [... that Albert Gatschet 's field notes on the grammar of Atakapa is the only surviving work on the language carried out with native speakers?](https://en.wikipedia.org/wiki/Albert_Gatschet)
-  - [... that one reviewer criticised The Magician's Daughter for not mentioning its setting's historical context?](https://en.wikipedia.org/wiki/The_Magician%27s_Daughter)
+  - [... that, as the University of Edinburgh's chaplain, Harriet Harris (pictured) appointed more than 40 honorary chaplains to serve traditions including Daoism, humanism, paganism and mindfulness?](https://en.wikipedia.org/wiki/Harriet_Harris_(academic))
+  - [... that Badingah became the first female regent of Gunung Kidul after her predecessor died of a heart attack?](https://en.wikipedia.org/wiki/Badingah)
+  - [... that First Nations actor and musician Erroll Kinistino grew up in a two-room, mud-shack cabin?](https://en.wikipedia.org/wiki/Erroll_Kinistino)
 <!--DYK:END-->
 
 ### XKCD for today
