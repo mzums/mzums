@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [U.S. Route 34 in Iowa](https://en.wikipedia.org/wiki/U.S._Route_34_in_Iowa)
+  - [Illinois Public Access Opinion 16-006](https://en.wikipedia.org/wiki/Illinois_Public_Access_Opinion_16-006)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, as the University of Edinburgh's chaplain, Harriet Harris (pictured) appointed more than 40 honorary chaplains to serve traditions including Daoism, humanism, paganism and mindfulness?](https://en.wikipedia.org/wiki/Harriet_Harris_(academic))
-  - [... that Badingah became the first female regent of Gunung Kidul after her predecessor died of a heart attack?](https://en.wikipedia.org/wiki/Badingah)
-  - [... that First Nations actor and musician Erroll Kinistino grew up in a two-room, mud-shack cabin?](https://en.wikipedia.org/wiki/Erroll_Kinistino)
+  - [... that the ground beetle Mecodema howittii (pictured) , only known to be found on Banks Peninsula in New Zealand, is in decline?](https://en.wikipedia.org/wiki/Mecodema_howittii)
+  - [... that prior to becoming prime minister of Canada, Paul Martin frequently searched the basement of Devonshire Lodge for a bootlegging tunnel?](https://en.wikipedia.org/wiki/Paul_Martin)
+  - [... that the world's longest continuous rock climbing route is a horizontal 4,500-metre (14,800 ft) traverse on El Capitan , according to Guinness World Records ?](https://en.wikipedia.org/wiki/Traverse_(climbing))
 <!--DYK:END-->
 
 ### XKCD for today
