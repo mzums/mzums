@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Illinois Public Access Opinion 16-006](https://en.wikipedia.org/wiki/Illinois_Public_Access_Opinion_16-006)
+  - [Manchester United F.C. 9–0 Ipswich Town F.C.](https://en.wikipedia.org/wiki/Manchester_United_F.C._9–0_Ipswich_Town_F.C.)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the ground beetle Mecodema howittii (pictured) , only known to be found on Banks Peninsula in New Zealand, is in decline?](https://en.wikipedia.org/wiki/Mecodema_howittii)
-  - [... that prior to becoming prime minister of Canada, Paul Martin frequently searched the basement of Devonshire Lodge for a bootlegging tunnel?](https://en.wikipedia.org/wiki/Paul_Martin)
-  - [... that the world's longest continuous rock climbing route is a horizontal 4,500-metre (14,800 ft) traverse on El Capitan , according to Guinness World Records ?](https://en.wikipedia.org/wiki/Traverse_(climbing))
+  - [... that Vietnamese prisoner Triệu Quân Sự (pictured) escaped from jail four times, and was twice caught while playing online games at internet cafés?](https://en.wikipedia.org/wiki/Tri%E1%BB%87u_Qu%C3%A2n_S%E1%BB%B1)
+  - [... that while a British school inspired by a circus tent was described as "eclectic and witty", its "plain functional" replacement won an RIBA Award ?](https://en.wikipedia.org/wiki/Burnham_Copse_Infant_School)
+  - [... that the pianist Panka Pelishek was a Heroine of Socialist Labor?](https://en.wikipedia.org/wiki/Panka_Pelishek)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Planetary Rings](https://imgs.xkcd.com/comics/planetary_rings.png)
+![Emperor Palpatine](https://imgs.xkcd.com/comics/emperor_palpatine.png)
 
-[Planetary Rings](https://xkcd.com/3156) — *If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.*
+[Emperor Palpatine](https://xkcd.com/3157) — *Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.*
 <!--XKCD:END-->
