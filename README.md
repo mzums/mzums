@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Manchester United F.C. 9–0 Ipswich Town F.C.](https://en.wikipedia.org/wiki/Manchester_United_F.C._9–0_Ipswich_Town_F.C.)
+  - [Deer Lady](https://en.wikipedia.org/wiki/Deer_Lady)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Vietnamese prisoner Triệu Quân Sự (pictured) escaped from jail four times, and was twice caught while playing online games at internet cafés?](https://en.wikipedia.org/wiki/Tri%E1%BB%87u_Qu%C3%A2n_S%E1%BB%B1)
-  - [... that while a British school inspired by a circus tent was described as "eclectic and witty", its "plain functional" replacement won an RIBA Award ?](https://en.wikipedia.org/wiki/Burnham_Copse_Infant_School)
-  - [... that the pianist Panka Pelishek was a Heroine of Socialist Labor?](https://en.wikipedia.org/wiki/Panka_Pelishek)
+  - [... that soprano Sarah Fischer (pictured) sang excerpts from the title role in Carmen for the very first televised BBC broadcast of opera music?](https://en.wikipedia.org/wiki/Sarah_Fischer_(soprano))
+  - [... that Jeff Baena made his characters Jewish in Life After Beth because he thought that Jews would be more likely to come back as zombies?](https://en.wikipedia.org/wiki/Jeff_Baena)
+  - [... that Dorothy Sproule received letters from five British monarchs , earning her the title "Canadian Poet-Laureate to Royalty"?](https://en.wikipedia.org/wiki/Dorothy_Sproule)
 <!--DYK:END-->
 
 ### XKCD for today
