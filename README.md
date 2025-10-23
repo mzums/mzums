@@ -9,12 +9,7 @@ An aspiring computer science student.
 
 ## 📌 Projects that I'm proud of
 <!--PINNED:START-->
-- [typeman](https://github.com/mzums/typeman) -  Typing speed test with practice mode in GUI, TUI and CLI 
-- [algorithms](https://github.com/mzums/algorithms)
-- [machine-learning](https://github.com/mzums/machine-learning)
-- [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
-- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't go out
-- [battleship](https://github.com/mzums/battleship) - cli written in rust
+GitHub API error 401: {"message":"Bad credentials","documentation_url":"https://docs.github.com/graphql","status":"401"}
 <!--PINNED:END-->
 
 ## Currently learning:
@@ -28,19 +23,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Deer Lady](https://en.wikipedia.org/wiki/Deer_Lady)
+  - [Redshift](https://en.wikipedia.org/wiki/Redshift)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that soprano Sarah Fischer (pictured) sang excerpts from the title role in Carmen for the very first televised BBC broadcast of opera music?](https://en.wikipedia.org/wiki/Sarah_Fischer_(soprano))
-  - [... that Jeff Baena made his characters Jewish in Life After Beth because he thought that Jews would be more likely to come back as zombies?](https://en.wikipedia.org/wiki/Jeff_Baena)
-  - [... that Dorothy Sproule received letters from five British monarchs , earning her the title "Canadian Poet-Laureate to Royalty"?](https://en.wikipedia.org/wiki/Dorothy_Sproule)
+  - [... that Gibraltar Mountain (pictured) is one of a few documented U.S. sites where Okanogan fameflower is native?](https://en.wikipedia.org/wiki/Gibraltar_Mountain_(Washington))
+  - [... that Mohamed Saïl refused prisoner support from International Red Aid in protest against the treatment of Soviet prisoners in the Solovki prison camp ?](https://en.wikipedia.org/wiki/Mohamed_Sa%C3%AFl)
+  - [... that the 1939 NIT and the 1939 NCAA tournament determined two different national champions in men's college basketball ?](https://en.wikipedia.org/wiki/1939_National_Invitation_Tournament)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Emperor Palpatine](https://imgs.xkcd.com/comics/emperor_palpatine.png)
+![Shielding Chart](https://imgs.xkcd.com/comics/shielding_chart.png)
 
-[Emperor Palpatine](https://xkcd.com/3157) — *Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call.*
+[Shielding Chart](https://xkcd.com/3158) — *Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.*
 <!--XKCD:END-->
