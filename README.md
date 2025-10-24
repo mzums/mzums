@@ -23,14 +23,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Redshift](https://en.wikipedia.org/wiki/Redshift)
+  - [Red-billed quelea](https://en.wikipedia.org/wiki/Red-billed_quelea)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Gibraltar Mountain (pictured) is one of a few documented U.S. sites where Okanogan fameflower is native?](https://en.wikipedia.org/wiki/Gibraltar_Mountain_(Washington))
-  - [... that Mohamed Saïl refused prisoner support from International Red Aid in protest against the treatment of Soviet prisoners in the Solovki prison camp ?](https://en.wikipedia.org/wiki/Mohamed_Sa%C3%AFl)
-  - [... that the 1939 NIT and the 1939 NCAA tournament determined two different national champions in men's college basketball ?](https://en.wikipedia.org/wiki/1939_National_Invitation_Tournament)
+  - [... that the Help Mark (pictured) is a Japanese accessibility symbol for people with invisible disabilities ?](https://en.wikipedia.org/wiki/Help_Mark)
+  - [... that King Hugh I of Cyprus married his stepsister with a special permission from the pope?](https://en.wikipedia.org/wiki/Hugh_I_of_Cyprus)
+  - [... that penicillin was largely forgotten about for a decade after its initial discovery in 1929?](https://en.wikipedia.org/wiki/History_of_penicillin)
 <!--DYK:END-->
 
 ### XKCD for today
