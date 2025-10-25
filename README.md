@@ -23,19 +23,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Red-billed quelea](https://en.wikipedia.org/wiki/Red-billed_quelea)
+  - [Act of Accord](https://en.wikipedia.org/wiki/Act_of_Accord)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Help Mark (pictured) is a Japanese accessibility symbol for people with invisible disabilities ?](https://en.wikipedia.org/wiki/Help_Mark)
-  - [... that King Hugh I of Cyprus married his stepsister with a special permission from the pope?](https://en.wikipedia.org/wiki/Hugh_I_of_Cyprus)
-  - [... that penicillin was largely forgotten about for a decade after its initial discovery in 1929?](https://en.wikipedia.org/wiki/History_of_penicillin)
+  - [... that the red bands on the flag of Mauritania (pictured) were added in 2017 to represent the blood shed for the country's independence from France?](https://en.wikipedia.org/wiki/Flag_of_Mauritania)
+  - [... that, according to the ruling party, the citizenry overwhelmingly allowed the president to be re-elected in the 1939 Salvadoran presidential election ?](https://en.wikipedia.org/wiki/1939_Salvadoran_presidential_election)
+  - [... that the wedding ceremony of Fukura P and Kazumi Takayama was held at the Tokyo Metropolitan Government Building ?](https://en.wikipedia.org/wiki/Fukura_P)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Shielding Chart](https://imgs.xkcd.com/comics/shielding_chart.png)
+![Continents](https://imgs.xkcd.com/comics/continents.png)
 
-[Shielding Chart](https://xkcd.com/3158) — *Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.*
+[Continents](https://xkcd.com/3159) — *The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.*
 <!--XKCD:END-->
