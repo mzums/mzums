@@ -23,14 +23,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Oriental Stories](https://en.wikipedia.org/wiki/Oriental_Stories)
+  - [How You Get the Girl](https://en.wikipedia.org/wiki/How_You_Get_the_Girl)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the alleged son (pictured) of an Ottoman sultan and an enslaved concubine became a Catholic friar?](https://en.wikipedia.org/wiki/Domenico_Ottomano)
-  - [... that the healthcare needs of intersex people depend on what physical characteristics they have?](https://en.wikipedia.org/wiki/Intersex_healthcare)
-  - [... that Queen Isabella I lost her first husband to politics, her second to assassins, her third to a window, and her fourth to fish?](https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem)
+  - [... that the Angel of Long Point (pictured) saved seventeen lives across five different incidents?](https://en.wikipedia.org/wiki/Abigail_Becker)
+  - [... that Aboriginal Australians who first saw herds of water buffalo interpreted the new animals as a manifestation of their dreaming ?](https://en.wikipedia.org/wiki/Water_buffalo)
+  - [... that the departure of Carl Borgmann from the University of Vermont ended 17 years of scientists serving consecutive terms as president?](https://en.wikipedia.org/wiki/Carl_Borgmann)
 <!--DYK:END-->
 
 ### XKCD for today
