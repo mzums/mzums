@@ -9,7 +9,12 @@ An aspiring computer science student.
 
 ## 📌 Projects that I'm proud of
 <!--PINNED:START-->
-GitHub API error 401: {"message":"Bad credentials","documentation_url":"https://docs.github.com/graphql","status":"401"}
+- [typeman](https://github.com/mzums/typeman) -  Typing speed test with practice mode in GUI, TUI and CLI 
+- [algorithms](https://github.com/mzums/algorithms)
+- [machine-learning](https://github.com/mzums/machine-learning)
+- [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
+- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't go out
+- [battleship](https://github.com/mzums/battleship) - cli written in rust
 <!--PINNED:END-->
 
 ## Currently learning:
@@ -35,7 +40,7 @@ https://crates.io/users/mzums
 
 ### XKCD for today
 <!--XKCD:START-->
-![Continents](https://imgs.xkcd.com/comics/continents.png)
+![Document Forgery](https://imgs.xkcd.com/comics/document_forgery.png)
 
-[Continents](https://xkcd.com/3159) — *The inflection point was probably in late 1966 or 1967, so when Neil Armstrong flew to space on Gemini 8, plate tectonics was not widely accepted, but when he landed on the Moon three years later it was the mainstream consensus.*
+[Document Forgery](https://xkcd.com/3160) — *It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...*
 <!--XKCD:END-->
