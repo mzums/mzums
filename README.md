@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [How You Get the Girl](https://en.wikipedia.org/wiki/How_You_Get_the_Girl)
+  - [Siege of Tunis (Mercenary War)](https://en.wikipedia.org/wiki/Siege_of_Tunis_(Mercenary_War))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Angel of Long Point (pictured) saved seventeen lives across five different incidents?](https://en.wikipedia.org/wiki/Abigail_Becker)
-  - [... that Aboriginal Australians who first saw herds of water buffalo interpreted the new animals as a manifestation of their dreaming ?](https://en.wikipedia.org/wiki/Water_buffalo)
-  - [... that the departure of Carl Borgmann from the University of Vermont ended 17 years of scientists serving consecutive terms as president?](https://en.wikipedia.org/wiki/Carl_Borgmann)
+  - [... that the Abyssinian hare (pictured) is thought to be spreading outside its native range because of overgrazing by domestic animals there?](https://en.wikipedia.org/wiki/Abyssinian_hare)
+  - [... that Charles C. Peterson played billiards in a plane 4,000 ft (1,200 m) in the air in 1930?](https://en.wikipedia.org/wiki/Charles_C._Peterson)
+  - [... that the Tāhuna Glenorchy Dark Sky Sanctuary is in an astronomical "sweet spot" where the aurora australis and the core of the Milky Way can both be seen?](https://en.wikipedia.org/wiki/T%C4%81huna_Glenorchy_Dark_Sky_Sanctuary)
 <!--DYK:END-->
 
 ### XKCD for today
