@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Siege of Tunis (Mercenary War)](https://en.wikipedia.org/wiki/Siege_of_Tunis_(Mercenary_War))
+  - [John Bullock Clark](https://en.wikipedia.org/wiki/John_Bullock_Clark)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Abyssinian hare (pictured) is thought to be spreading outside its native range because of overgrazing by domestic animals there?](https://en.wikipedia.org/wiki/Abyssinian_hare)
-  - [... that Charles C. Peterson played billiards in a plane 4,000 ft (1,200 m) in the air in 1930?](https://en.wikipedia.org/wiki/Charles_C._Peterson)
-  - [... that the Tāhuna Glenorchy Dark Sky Sanctuary is in an astronomical "sweet spot" where the aurora australis and the core of the Milky Way can both be seen?](https://en.wikipedia.org/wiki/T%C4%81huna_Glenorchy_Dark_Sky_Sanctuary)
+  - [... that the Dulles International Airport Main Terminal (pictured) was once so empty that it attracted more tourists than travelers?](https://en.wikipedia.org/wiki/Dulles_International_Airport_Main_Terminal)
+  - [... that the Mesadorm singer Blythe Pepino founded a movement of people refusing to have children until the climate crisis ends?](https://en.wikipedia.org/wiki/Mesadorm)
+  - [... that the narrator in The Path to Rome repeatedly argues with an imagined reader who is often combative and confused?](https://en.wikipedia.org/wiki/The_Path_to_Rome)
 <!--DYK:END-->
 
 ### XKCD for today
