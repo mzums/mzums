@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [John Bullock Clark](https://en.wikipedia.org/wiki/John_Bullock_Clark)
+  - [1858 Bradford sweets poisoning](https://en.wikipedia.org/wiki/1858_Bradford_sweets_poisoning)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Dulles International Airport Main Terminal (pictured) was once so empty that it attracted more tourists than travelers?](https://en.wikipedia.org/wiki/Dulles_International_Airport_Main_Terminal)
-  - [... that the Mesadorm singer Blythe Pepino founded a movement of people refusing to have children until the climate crisis ends?](https://en.wikipedia.org/wiki/Mesadorm)
-  - [... that the narrator in The Path to Rome repeatedly argues with an imagined reader who is often combative and confused?](https://en.wikipedia.org/wiki/The_Path_to_Rome)
+  - [... that Mikan (pictured) , the cat station master of Ciaotou Sugar Refinery metro station , visited the Jiji line in Nantou County for the appointment of Longjiaosun as cat station master of Jiji railway station ?](https://en.wikipedia.org/wiki/Mikan_(cat))
+  - [... that in 1973 Carme Travesset became the first woman in Andorra to hold elected office?](https://en.wikipedia.org/wiki/Carme_Travesset)
+  - [... that mull , mor and moder are humus forms ?](https://en.wikipedia.org/wiki/Mull_humus)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Document Forgery](https://imgs.xkcd.com/comics/document_forgery.png)
+![Airspeed](https://imgs.xkcd.com/comics/airspeed.png)
 
-[Document Forgery](https://xkcd.com/3160) — *It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...*
+[Airspeed](https://xkcd.com/3161) — *Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record*
 <!--XKCD:END-->
