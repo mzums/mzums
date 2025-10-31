@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1858 Bradford sweets poisoning](https://en.wikipedia.org/wiki/1858_Bradford_sweets_poisoning)
+  - [Gott der Herr ist Sonn und Schild, BWV 79](https://en.wikipedia.org/wiki/Gott_der_Herr_ist_Sonn_und_Schild,_BWV_79)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Mikan (pictured) , the cat station master of Ciaotou Sugar Refinery metro station , visited the Jiji line in Nantou County for the appointment of Longjiaosun as cat station master of Jiji railway station ?](https://en.wikipedia.org/wiki/Mikan_(cat))
-  - [... that in 1973 Carme Travesset became the first woman in Andorra to hold elected office?](https://en.wikipedia.org/wiki/Carme_Travesset)
-  - [... that mull , mor and moder are humus forms ?](https://en.wikipedia.org/wiki/Mull_humus)
+  - [... that a Hungarian nobleman (pictured) survived with a spear in his head?](https://en.wikipedia.org/wiki/Portrait_of_Gregor_Baci)
+  - [... that Friday the 13th has been credited for popularizing the trope of teenage characters suffering violent murders after having premarital sex?](https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film))
+  - [... that Tish Weinstock got married over the Halloween weekend in 2022 at a castle wearing a wedding dress made from antique lace styled after Morticia Addams ?](https://en.wikipedia.org/wiki/Tish_Weinstock)
 <!--DYK:END-->
 
 ### XKCD for today
