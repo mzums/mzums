@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Gott der Herr ist Sonn und Schild, BWV 79](https://en.wikipedia.org/wiki/Gott_der_Herr_ist_Sonn_und_Schild,_BWV_79)
+  - [African striped weasel](https://en.wikipedia.org/wiki/African_striped_weasel)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a Hungarian nobleman (pictured) survived with a spear in his head?](https://en.wikipedia.org/wiki/Portrait_of_Gregor_Baci)
-  - [... that Friday the 13th has been credited for popularizing the trope of teenage characters suffering violent murders after having premarital sex?](https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film))
-  - [... that Tish Weinstock got married over the Halloween weekend in 2022 at a castle wearing a wedding dress made from antique lace styled after Morticia Addams ?](https://en.wikipedia.org/wiki/Tish_Weinstock)
+  - [... that the freighter D. M. Clemson (pictured) was one of the largest vessels on the Great Lakes in 1903?](https://en.wikipedia.org/wiki/SS_D._M._Clemson_(1903))
+  - [... that Filipino politician Miriam Defensor Santiago is known as the "Iron Lady of Asia"?](https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago)
+  - [... that a 16th-century ethnic term used in Africa is still used today for a Brazilian religion , a Togolese and Beninese ethnic group , and their language ?](https://en.wikipedia.org/wiki/Mina_(historical_ethnic_term))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Airspeed](https://imgs.xkcd.com/comics/airspeed.png)
+![Heart Mountain](https://imgs.xkcd.com/comics/heart_mountain.png)
 
-[Airspeed](https://xkcd.com/3161) — *Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record*
+[Heart Mountain](https://xkcd.com/3162) — *Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."*
 <!--XKCD:END-->
