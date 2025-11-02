@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [African striped weasel](https://en.wikipedia.org/wiki/African_striped_weasel)
+  - [Allan Walters](https://en.wikipedia.org/wiki/Allan_Walters)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the freighter D. M. Clemson (pictured) was one of the largest vessels on the Great Lakes in 1903?](https://en.wikipedia.org/wiki/SS_D._M._Clemson_(1903))
-  - [... that Filipino politician Miriam Defensor Santiago is known as the "Iron Lady of Asia"?](https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago)
-  - [... that a 16th-century ethnic term used in Africa is still used today for a Brazilian religion , a Togolese and Beninese ethnic group , and their language ?](https://en.wikipedia.org/wiki/Mina_(historical_ethnic_term))
+  - [... that the Sursock bronze (pictured) was discovered in a damaged state with hacked parts, possibly after being vandalized by early Christian iconoclasts?](https://en.wikipedia.org/wiki/Sursock_bronze)
+  - [... that, according to a 2025 book about artificial superintelligence, If Anyone Builds It, Everyone Dies ?](https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies)
+  - [... that a Dutch publisher pirated the first four volumes of Memoirs and Adventures of a Man of Quality , then hired the author to write more?](https://en.wikipedia.org/wiki/Memoirs_and_Adventures_of_a_Man_of_Quality)
 <!--DYK:END-->
 
 ### XKCD for today
