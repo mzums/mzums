@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Allan Walters](https://en.wikipedia.org/wiki/Allan_Walters)
+  - [Nizaa language](https://en.wikipedia.org/wiki/Nizaa_language)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Sursock bronze (pictured) was discovered in a damaged state with hacked parts, possibly after being vandalized by early Christian iconoclasts?](https://en.wikipedia.org/wiki/Sursock_bronze)
-  - [... that, according to a 2025 book about artificial superintelligence, If Anyone Builds It, Everyone Dies ?](https://en.wikipedia.org/wiki/If_Anyone_Builds_It,_Everyone_Dies)
-  - [... that a Dutch publisher pirated the first four volumes of Memoirs and Adventures of a Man of Quality , then hired the author to write more?](https://en.wikipedia.org/wiki/Memoirs_and_Adventures_of_a_Man_of_Quality)
+  - [... that a 13th-century wooden sculpture (pictured) of the bodhisattva Rāgarāja was carved from the debris of the Great Buddha Hall at Tōdai-ji in Nara, Japan?](https://en.wikipedia.org/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum))
+  - [... that Habib Mousa wrote a song about the village of Enhil to object to the Turkification of Assyrian villages in Tur Abdin ?](https://en.wikipedia.org/wiki/Habib_Mousa)
+  - [... that the leading engineer during the 1702 siege of Liège was so angered by a colleague's disobedience that he threatened to abandon the siege?](https://en.wikipedia.org/wiki/Capture_of_Li%C3%A8ge_(1702))
 <!--DYK:END-->
 
 ### XKCD for today
