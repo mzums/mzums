@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Nizaa language](https://en.wikipedia.org/wiki/Nizaa_language)
+  - [2019 Champion of Champions](https://en.wikipedia.org/wiki/2019_Champion_of_Champions)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a 13th-century wooden sculpture (pictured) of the bodhisattva Rāgarāja was carved from the debris of the Great Buddha Hall at Tōdai-ji in Nara, Japan?](https://en.wikipedia.org/wiki/Seated_R%C4%81gar%C4%81ja_(Nara_National_Museum))
-  - [... that Habib Mousa wrote a song about the village of Enhil to object to the Turkification of Assyrian villages in Tur Abdin ?](https://en.wikipedia.org/wiki/Habib_Mousa)
-  - [... that the leading engineer during the 1702 siege of Liège was so angered by a colleague's disobedience that he threatened to abandon the siege?](https://en.wikipedia.org/wiki/Capture_of_Li%C3%A8ge_(1702))
+  - [... that future Olympic runner Maher Abbas (pictured) switched from basketball to track over his frustration of referees being "easy to bribe"?](https://en.wikipedia.org/wiki/Maher_Abbas)
+  - [... that non-destructive virtual unfolding was used to read burned or otherwise highly damaged scrolls?](https://en.wikipedia.org/wiki/Virtual_unfolding)
+  - [... that the Hongguang Emperor was betrayed by his troops and handed over to the enemy, who criticised his poor battle strategy and allowed locals to humiliate him?](https://en.wikipedia.org/wiki/Hongguang_Emperor)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Heart Mountain](https://imgs.xkcd.com/comics/heart_mountain.png)
+![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)
 
-[Heart Mountain](https://xkcd.com/3162) — *Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."*
+[Repair Video](https://xkcd.com/3163) — *The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.*
 <!--XKCD:END-->
