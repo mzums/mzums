@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2019 Champion of Champions](https://en.wikipedia.org/wiki/2019_Champion_of_Champions)
+  - [Gunpowder Plot](https://en.wikipedia.org/wiki/Gunpowder_Plot)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that future Olympic runner Maher Abbas (pictured) switched from basketball to track over his frustration of referees being "easy to bribe"?](https://en.wikipedia.org/wiki/Maher_Abbas)
-  - [... that non-destructive virtual unfolding was used to read burned or otherwise highly damaged scrolls?](https://en.wikipedia.org/wiki/Virtual_unfolding)
-  - [... that the Hongguang Emperor was betrayed by his troops and handed over to the enemy, who criticised his poor battle strategy and allowed locals to humiliate him?](https://en.wikipedia.org/wiki/Hongguang_Emperor)
+  - [... that legend has it that Ko Myo Shin (statue pictured) became a spirit after allowing his head to be cut off?](https://en.wikipedia.org/wiki/Ko_Myo_Shin)
+  - [... that the children's music singer Damaris Gelabert was the first Catalan music channel on YouTube to win a Silver Button?](https://en.wikipedia.org/wiki/Damaris_Gelabert)
+  - [... that a 2025 ecclesiastical trial had three successive prosecutors during its first three weeks?](https://en.wikipedia.org/wiki/Ecclesiastical_trial_of_Stewart_Ruch)
 <!--DYK:END-->
 
 ### XKCD for today
