@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Gunpowder Plot](https://en.wikipedia.org/wiki/Gunpowder_Plot)
+  - [Sieges of Berwick (1355 and 1356)](https://en.wikipedia.org/wiki/Sieges_of_Berwick_(1355_and_1356))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that legend has it that Ko Myo Shin (statue pictured) became a spirit after allowing his head to be cut off?](https://en.wikipedia.org/wiki/Ko_Myo_Shin)
-  - [... that the children's music singer Damaris Gelabert was the first Catalan music channel on YouTube to win a Silver Button?](https://en.wikipedia.org/wiki/Damaris_Gelabert)
-  - [... that a 2025 ecclesiastical trial had three successive prosecutors during its first three weeks?](https://en.wikipedia.org/wiki/Ecclesiastical_trial_of_Stewart_Ruch)
+  - [... that Alex the Great (pictured) signed autographs by biting the corners of business cards?](https://en.wikipedia.org/wiki/Alex_the_Great_(rabbit))
+  - [... that San Marino politician Lorenzo Bugli first ran for office when he was a teenager?](https://en.wikipedia.org/wiki/Lorenzo_Bugli)
+  - [... that John F. Kennedy's pollster found many West Virginia voters concerned that a Pope in the White House would arrive by transatlantic tunnel?](https://en.wikipedia.org/wiki/Pope_in_the_White_House)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)
+![Metric Tip](https://imgs.xkcd.com/comics/metric_tip.png)
 
-[Repair Video](https://xkcd.com/3163) — *The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.*
+[Metric Tip](https://xkcd.com/3164) — *The package weighs 7 kg 9 oz.*
 <!--XKCD:END-->
