@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Sieges of Berwick (1355 and 1356)](https://en.wikipedia.org/wiki/Sieges_of_Berwick_(1355_and_1356))
+  - [Slug (song)](https://en.wikipedia.org/wiki/Slug_(song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Alex the Great (pictured) signed autographs by biting the corners of business cards?](https://en.wikipedia.org/wiki/Alex_the_Great_(rabbit))
-  - [... that San Marino politician Lorenzo Bugli first ran for office when he was a teenager?](https://en.wikipedia.org/wiki/Lorenzo_Bugli)
-  - [... that John F. Kennedy's pollster found many West Virginia voters concerned that a Pope in the White House would arrive by transatlantic tunnel?](https://en.wikipedia.org/wiki/Pope_in_the_White_House)
+  - [... that YouTuber Dianna Cowern (pictured) has an asteroid named after her?](https://en.wikipedia.org/wiki/Dianna_Cowern)
+  - [... that the song " Seasons of Change " featured future AC/DC lead vocalist Bon Scott on the recorder?](https://en.wikipedia.org/wiki/Seasons_of_Change)
+  - [... that Jocelyn Borgella was the first Haitian to be selected in the NFL draft?](https://en.wikipedia.org/wiki/Jocelyn_Borgella)
 <!--DYK:END-->
 
 ### XKCD for today
