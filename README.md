@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Slug (song)](https://en.wikipedia.org/wiki/Slug_(song))
+  - [Hensley Henson](https://en.wikipedia.org/wiki/Hensley_Henson)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that YouTuber Dianna Cowern (pictured) has an asteroid named after her?](https://en.wikipedia.org/wiki/Dianna_Cowern)
-  - [... that the song " Seasons of Change " featured future AC/DC lead vocalist Bon Scott on the recorder?](https://en.wikipedia.org/wiki/Seasons_of_Change)
-  - [... that Jocelyn Borgella was the first Haitian to be selected in the NFL draft?](https://en.wikipedia.org/wiki/Jocelyn_Borgella)
+  - [... that Claude Hayes ran away to sea in the 1860s before beginning his career as a landscape painter (painting pictured) ?](https://en.wikipedia.org/wiki/Claude_Hayes_(artist))
+  - [... that an activist remotely projected anti-CCP slogans onto a building in Chongqing University Town in August 2025?](https://en.wikipedia.org/wiki/2025_Chongqing_anti-CCP_protest)
+  - [... that Amon G. Carter Jr. worked as a newspaper salesman as a child, despite his father being a successful businessman?](https://en.wikipedia.org/wiki/Amon_G._Carter_Jr.)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Metric Tip](https://imgs.xkcd.com/comics/metric_tip.png)
+![Earthquake Prediction Flowchart](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
 
-[Metric Tip](https://xkcd.com/3164) — *The package weighs 7 kg 9 oz.*
+[Earthquake Prediction Flowchart](https://xkcd.com/3165) — *At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'*
 <!--XKCD:END-->
