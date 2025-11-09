@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hensley Henson](https://en.wikipedia.org/wiki/Hensley_Henson)
+  - [Royal Artillery Memorial](https://en.wikipedia.org/wiki/Royal_Artillery_Memorial)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Claude Hayes ran away to sea in the 1860s before beginning his career as a landscape painter (painting pictured) ?](https://en.wikipedia.org/wiki/Claude_Hayes_(artist))
-  - [... that an activist remotely projected anti-CCP slogans onto a building in Chongqing University Town in August 2025?](https://en.wikipedia.org/wiki/2025_Chongqing_anti-CCP_protest)
-  - [... that Amon G. Carter Jr. worked as a newspaper salesman as a child, despite his father being a successful businessman?](https://en.wikipedia.org/wiki/Amon_G._Carter_Jr.)
+  - [... that the McLaren MCL38 Formula One car (example pictured) won McLaren their first World Constructors' Championship since 1998?](https://en.wikipedia.org/wiki/McLaren_MCL38)
+  - [... that most portrayals of hypnosis in fiction are negative stereotypes—usually depicting it as criminal, or seductive?](https://en.wikipedia.org/wiki/Hypnosis_in_fiction)
+  - [... that Agus Budianto adopted the nickname "Black Hoe" from his skin color and his work on his parents' farm?](https://en.wikipedia.org/wiki/Agus_Black_Hoe_Budianto)
 <!--DYK:END-->
 
 ### XKCD for today
