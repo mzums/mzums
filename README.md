@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Royal Artillery Memorial](https://en.wikipedia.org/wiki/Royal_Artillery_Memorial)
+  - [Merenre Nemtyemsaf I](https://en.wikipedia.org/wiki/Merenre_Nemtyemsaf_I)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the McLaren MCL38 Formula One car (example pictured) won McLaren their first World Constructors' Championship since 1998?](https://en.wikipedia.org/wiki/McLaren_MCL38)
-  - [... that most portrayals of hypnosis in fiction are negative stereotypes—usually depicting it as criminal, or seductive?](https://en.wikipedia.org/wiki/Hypnosis_in_fiction)
-  - [... that Agus Budianto adopted the nickname "Black Hoe" from his skin color and his work on his parents' farm?](https://en.wikipedia.org/wiki/Agus_Black_Hoe_Budianto)
+  - [... that Emilie Louise Flöge did not like Gustav Klimt 's 1902 portrait of her (pictured) ?](https://en.wikipedia.org/wiki/Emilie_Louise_Fl%C3%B6ge)
+  - [... that the gender-flipped story of Warriors was partly inspired by the Gamergate harassment campaign?](https://en.wikipedia.org/wiki/Gender_flip)
+  - [... that Liechtensteiner athlete Oskar Ospelt was a two-time Swiss national champion ?](https://en.wikipedia.org/wiki/Oskar_Ospelt)
 <!--DYK:END-->
 
 ### XKCD for today
