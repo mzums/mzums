@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Merenre Nemtyemsaf I](https://en.wikipedia.org/wiki/Merenre_Nemtyemsaf_I)
+  - [1975 Australian constitutional crisis](https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Emilie Louise Flöge did not like Gustav Klimt 's 1902 portrait of her (pictured) ?](https://en.wikipedia.org/wiki/Emilie_Louise_Fl%C3%B6ge)
-  - [... that the gender-flipped story of Warriors was partly inspired by the Gamergate harassment campaign?](https://en.wikipedia.org/wiki/Gender_flip)
-  - [... that Liechtensteiner athlete Oskar Ospelt was a two-time Swiss national champion ?](https://en.wikipedia.org/wiki/Oskar_Ospelt)
+  - [... that Queen Maria of Jerusalem died while giving birth to Queen Isabella II (pictured) ,  who died while giving birth?](https://en.wikipedia.org/wiki/Maria_of_Montferrat)
+  - [... that Al Sheehan , despite being WCCO's expert on contract bridge , did not know "a trump from a rubber "?](https://en.wikipedia.org/wiki/Al_Sheehan)
+  - [... that chloroform extracts from the seeds of the Spanish fennel flower have exhibited anti-inflammatory properties?](https://en.wikipedia.org/wiki/Nigella_hispanica)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Earthquake Prediction Flowchart](https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png)
+![Big and Little Spoons](https://imgs.xkcd.com/comics/big_and_little_spoons.png)
 
-[Earthquake Prediction Flowchart](https://xkcd.com/3165) — *At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'*
+[Big and Little Spoons](https://xkcd.com/3166) — *Are you the annoying spoon or the sleepy spoon?*
 <!--XKCD:END-->
