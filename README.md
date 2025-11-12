@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1975 Australian constitutional crisis](https://en.wikipedia.org/wiki/1975_Australian_constitutional_crisis)
+  - [Bejeweled (video game)](https://en.wikipedia.org/wiki/Bejeweled_(video_game))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Queen Maria of Jerusalem died while giving birth to Queen Isabella II (pictured) ,  who died while giving birth?](https://en.wikipedia.org/wiki/Maria_of_Montferrat)
-  - [... that Al Sheehan , despite being WCCO's expert on contract bridge , did not know "a trump from a rubber "?](https://en.wikipedia.org/wiki/Al_Sheehan)
-  - [... that chloroform extracts from the seeds of the Spanish fennel flower have exhibited anti-inflammatory properties?](https://en.wikipedia.org/wiki/Nigella_hispanica)
+  - [... that the Chapel of St. Cornelius the Centurion (pictured) in New York City was designed by Charles C. Haight , whose father had previously served in the clergy of the chapel's parish?](https://en.wikipedia.org/wiki/Chapel_of_St._Cornelius_the_Centurion)
+  - [... that archaeologist Arne Furumark intended to follow a career in business until he visited the British Museum as a teenager?](https://en.wikipedia.org/wiki/Arne_Furumark)
+  - [... that the 2025 book The World After Gaza was deemed "repugnant" and "monstrous" for being both overly and insufficiently critical of Israel?](https://en.wikipedia.org/wiki/The_World_After_Gaza)
 <!--DYK:END-->
 
 ### XKCD for today
