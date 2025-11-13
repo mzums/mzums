@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Bejeweled (video game)](https://en.wikipedia.org/wiki/Bejeweled_(video_game))
+  - [270 Park Avenue (1960–2021)](https://en.wikipedia.org/wiki/270_Park_Avenue_(1960–2021))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Chapel of St. Cornelius the Centurion (pictured) in New York City was designed by Charles C. Haight , whose father had previously served in the clergy of the chapel's parish?](https://en.wikipedia.org/wiki/Chapel_of_St._Cornelius_the_Centurion)
-  - [... that archaeologist Arne Furumark intended to follow a career in business until he visited the British Museum as a teenager?](https://en.wikipedia.org/wiki/Arne_Furumark)
-  - [... that the 2025 book The World After Gaza was deemed "repugnant" and "monstrous" for being both overly and insufficiently critical of Israel?](https://en.wikipedia.org/wiki/The_World_After_Gaza)
+  - [... that Sidney Gish (pictured) has described her composition process as "Frankensteining"?](https://en.wikipedia.org/wiki/Sidney_Gish)
+  - [... that the roof of Aljunied station has been described as a "caterpillar" and a "rib cage"?](https://en.wikipedia.org/wiki/Aljunied_MRT_station)
+  - [... that a Japanese YouTuber launched a project aiming to "eradicate poverty in Ghana"?](https://en.wikipedia.org/wiki/Issei_(YouTuber))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Big and Little Spoons](https://imgs.xkcd.com/comics/big_and_little_spoons.png)
+![Car Size](https://imgs.xkcd.com/comics/car_size.png)
 
-[Big and Little Spoons](https://xkcd.com/3166) — *Are you the annoying spoon or the sleepy spoon?*
+[Car Size](https://xkcd.com/3167) — *'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'*
 <!--XKCD:END-->
