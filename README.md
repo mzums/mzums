@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [270 Park Avenue (1960–2021)](https://en.wikipedia.org/wiki/270_Park_Avenue_(1960–2021))
+  - [Elinor Fettiplace](https://en.wikipedia.org/wiki/Elinor_Fettiplace)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Sidney Gish (pictured) has described her composition process as "Frankensteining"?](https://en.wikipedia.org/wiki/Sidney_Gish)
-  - [... that the roof of Aljunied station has been described as a "caterpillar" and a "rib cage"?](https://en.wikipedia.org/wiki/Aljunied_MRT_station)
-  - [... that a Japanese YouTuber launched a project aiming to "eradicate poverty in Ghana"?](https://en.wikipedia.org/wiki/Issei_(YouTuber))
+  - [... that Fort George (pictured) was the execution site of Maurice Bishop , the prime minister of Grenada?](https://en.wikipedia.org/wiki/Fort_George,_Grenada)
+  - [... that choreographer Nat Horne 's father, a Baptist minister, opposed dancing, and Horne began his dance training by sneaking out of Saturday-night prayer meetings?](https://en.wikipedia.org/wiki/Nat_Horne)
+  - [... that the television drama This Thriving Land revived public interest in Chinese sage ?](https://en.wikipedia.org/wiki/This_Thriving_Land)
 <!--DYK:END-->
 
 ### XKCD for today
