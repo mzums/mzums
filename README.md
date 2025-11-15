@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Elinor Fettiplace](https://en.wikipedia.org/wiki/Elinor_Fettiplace)
+⚠️ Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Fort George (pictured) was the execution site of Maurice Bishop , the prime minister of Grenada?](https://en.wikipedia.org/wiki/Fort_George,_Grenada)
-  - [... that choreographer Nat Horne 's father, a Baptist minister, opposed dancing, and Horne began his dance training by sneaking out of Saturday-night prayer meetings?](https://en.wikipedia.org/wiki/Nat_Horne)
-  - [... that the television drama This Thriving Land revived public interest in Chinese sage ?](https://en.wikipedia.org/wiki/This_Thriving_Land)
+  - [... that Bayden Barber (pictured) , the chair of Ngāti Kahungunu , has supported establishing a parliament for Māori?](https://en.wikipedia.org/wiki/Bayden_Barber)
+  - [... that The London Standard described the lyrics in a Taylor Swift song as "a car crash of outdated millennial cringe"?](https://en.wikipedia.org/wiki/Cancelled!)
+  - [... that Xavian Stapleton was given a list of 55 schools to which he was not allowed to transfer?](https://en.wikipedia.org/wiki/Xavian_Stapleton)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Car Size](https://imgs.xkcd.com/comics/car_size.png)
+![Beam Dump](https://imgs.xkcd.com/comics/beam_dump.png)
 
-[Car Size](https://xkcd.com/3167) — *'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'*
+[Beam Dump](https://xkcd.com/3168) — *We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.*
 <!--XKCD:END-->
