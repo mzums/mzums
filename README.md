@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-⚠️ Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+  - [Black Widow (Natasha Romanova)](https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Bayden Barber (pictured) , the chair of Ngāti Kahungunu , has supported establishing a parliament for Māori?](https://en.wikipedia.org/wiki/Bayden_Barber)
-  - [... that The London Standard described the lyrics in a Taylor Swift song as "a car crash of outdated millennial cringe"?](https://en.wikipedia.org/wiki/Cancelled!)
-  - [... that Xavian Stapleton was given a list of 55 schools to which he was not allowed to transfer?](https://en.wikipedia.org/wiki/Xavian_Stapleton)
+  - [... that local folklore links Boghead (ruins pictured) , a Northumbrian bastle house, to the story of Barty Milburn, an accomplished swordsman and killer of Scots?](https://en.wikipedia.org/wiki/Boghead_(bastle))
+  - [... that Adolf Real was re-elected as Mayor of Vaduz in 1900, but he refused to take the office?](https://en.wikipedia.org/wiki/Adolf_Real)
+  - [... that a crew member of the film Velký vlastenecký výlet walked out after a protagonist justified rape?](https://en.wikipedia.org/wiki/Velk%C3%BD_vlasteneck%C3%BD_v%C3%BDlet)
 <!--DYK:END-->
 
 ### XKCD for today
