@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Black Widow (Natasha Romanova)](https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova))
+  - [Alicella](https://en.wikipedia.org/wiki/Alicella)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that local folklore links Boghead (ruins pictured) , a Northumbrian bastle house, to the story of Barty Milburn, an accomplished swordsman and killer of Scots?](https://en.wikipedia.org/wiki/Boghead_(bastle))
-  - [... that Adolf Real was re-elected as Mayor of Vaduz in 1900, but he refused to take the office?](https://en.wikipedia.org/wiki/Adolf_Real)
-  - [... that a crew member of the film Velký vlastenecký výlet walked out after a protagonist justified rape?](https://en.wikipedia.org/wiki/Velk%C3%BD_vlasteneck%C3%BD_v%C3%BDlet)
+  - [... that according to an urban legend, Queen Victoria was too scared to travel across the Digswell Viaduct (pictured) ?](https://en.wikipedia.org/wiki/Queen_Victoria)
+  - [... that Anita Lidya Luhulima and her husband died during their terms as ambassador and deputy ambassador, respectively?](https://en.wikipedia.org/wiki/Anita_Lidya_Luhulima)
+  - [... that the stern of the wrecked freighter William C. Moreland was used in the construction of another ship ?](https://en.wikipedia.org/wiki/SS_William_C._Moreland)
 <!--DYK:END-->
 
 ### XKCD for today
