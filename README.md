@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Alicella](https://en.wikipedia.org/wiki/Alicella)
+  - [Uncanny Tales (Canadian pulp magazine)](https://en.wikipedia.org/wiki/Uncanny_Tales_(Canadian_pulp_magazine))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that according to an urban legend, Queen Victoria was too scared to travel across the Digswell Viaduct (pictured) ?](https://en.wikipedia.org/wiki/Queen_Victoria)
-  - [... that Anita Lidya Luhulima and her husband died during their terms as ambassador and deputy ambassador, respectively?](https://en.wikipedia.org/wiki/Anita_Lidya_Luhulima)
-  - [... that the stern of the wrecked freighter William C. Moreland was used in the construction of another ship ?](https://en.wikipedia.org/wiki/SS_William_C._Moreland)
+  - [... that Teck Lee station (pictured) opened nearly 20 years after it finished construction?](https://en.wikipedia.org/wiki/Teck_Lee_LRT_station)
+  - [... that Georgie Purcell arranged for a trafficked greyhound to meet the Victorian minister for racing ?](https://en.wikipedia.org/wiki/Georgie_Purcell)
+  - [... that a "sea of mega solar farms" concerns environmentalists in Kushiro , Hokkaido?](https://en.wikipedia.org/wiki/Kushiro_wetlands_megasolar_issue)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Beam Dump](https://imgs.xkcd.com/comics/beam_dump.png)
+![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)
 
-[Beam Dump](https://xkcd.com/3168) — *We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.*
+[EPIRBs](https://xkcd.com/3169) — *'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'*
 <!--XKCD:END-->
