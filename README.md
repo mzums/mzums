@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Uncanny Tales (Canadian pulp magazine)](https://en.wikipedia.org/wiki/Uncanny_Tales_(Canadian_pulp_magazine))
+  - [Water Under the Bridge](https://en.wikipedia.org/wiki/Water_Under_the_Bridge)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Teck Lee station (pictured) opened nearly 20 years after it finished construction?](https://en.wikipedia.org/wiki/Teck_Lee_LRT_station)
-  - [... that Georgie Purcell arranged for a trafficked greyhound to meet the Victorian minister for racing ?](https://en.wikipedia.org/wiki/Georgie_Purcell)
-  - [... that a "sea of mega solar farms" concerns environmentalists in Kushiro , Hokkaido?](https://en.wikipedia.org/wiki/Kushiro_wetlands_megasolar_issue)
+  - [... that a large carnivorous dinosaur recorded at Copper Ridge (fossil track pictured) might have been limping?](https://en.wikipedia.org/wiki/Copper_Ridge_dinosaur_tracksite)
+  - [... that Luke Felix-Fualalo played rugby despite being below his league's age limit because he "was just too big to tell no"?](https://en.wikipedia.org/wiki/Luke_Felix-Fualalo)
+  - [... that the filming location of the Neighbours International Men's Day episode had to be changed due to the COVID-19 pandemic?](https://en.wikipedia.org/wiki/Episode_8498_(Neighbours))
 <!--DYK:END-->
 
 ### XKCD for today
