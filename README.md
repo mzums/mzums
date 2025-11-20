@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Water Under the Bridge](https://en.wikipedia.org/wiki/Water_Under_the_Bridge)
+  - [Nuremberg trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a large carnivorous dinosaur recorded at Copper Ridge (fossil track pictured) might have been limping?](https://en.wikipedia.org/wiki/Copper_Ridge_dinosaur_tracksite)
-  - [... that Luke Felix-Fualalo played rugby despite being below his league's age limit because he "was just too big to tell no"?](https://en.wikipedia.org/wiki/Luke_Felix-Fualalo)
-  - [... that the filming location of the Neighbours International Men's Day episode had to be changed due to the COVID-19 pandemic?](https://en.wikipedia.org/wiki/Episode_8498_(Neighbours))
+  - [... that Masoud El Amaratly , one of Iraq's most popular folk singers in the 1920s (recording featured) , was a mustarjil ?](https://en.wikipedia.org/wiki/Masoud_El_Amaratly)
+  - [... that a recent Kate Nash song rebranding TERFs as GERMs caused her to trend on X within hours of its release?](https://en.wikipedia.org/wiki/Germ_(song))
+  - [... that Blossom C. Brown attracted national attention for highlighting violence against Black trans women?](https://en.wikipedia.org/wiki/Blossom_C._Brown)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)
+![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)
 
-[EPIRBs](https://xkcd.com/3169) — *'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'*
+[Service Outage](https://xkcd.com/3170) — *Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.*
 <!--XKCD:END-->
