@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Nuremberg trials](https://en.wikipedia.org/wiki/Nuremberg_trials)
+  - [Canoe River train crash](https://en.wikipedia.org/wiki/Canoe_River_train_crash)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Masoud El Amaratly , one of Iraq's most popular folk singers in the 1920s (recording featured) , was a mustarjil ?](https://en.wikipedia.org/wiki/Masoud_El_Amaratly)
-  - [... that a recent Kate Nash song rebranding TERFs as GERMs caused her to trend on X within hours of its release?](https://en.wikipedia.org/wiki/Germ_(song))
-  - [... that Blossom C. Brown attracted national attention for highlighting violence against Black trans women?](https://en.wikipedia.org/wiki/Blossom_C._Brown)
+  - [... that recruitment for the French SS Volunteer Assault Brigade (members pictured) was promoted through a Waffen-SS exhibition in Paris that attracted thousands of visitors daily?](https://en.wikipedia.org/wiki/SS_Volunteer_Sturmbrigade_France)
+  - [... that the " No Toilet, No Bride " campaign encouraged women's families to demand a toilet as a precondition for marriage?](https://en.wikipedia.org/wiki/No_Toilet,_No_Bride)
+  - [... that GK Barry said that her girlfriend is used to Barry discussing their sex life on her podcast ?](https://en.wikipedia.org/wiki/Saving_Grace_(podcast))
 <!--DYK:END-->
 
 ### XKCD for today
