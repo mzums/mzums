@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Canoe River train crash](https://en.wikipedia.org/wiki/Canoe_River_train_crash)
+  - [Indigenous people of the Everglades region](https://en.wikipedia.org/wiki/Indigenous_people_of_the_Everglades_region)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that recruitment for the French SS Volunteer Assault Brigade (members pictured) was promoted through a Waffen-SS exhibition in Paris that attracted thousands of visitors daily?](https://en.wikipedia.org/wiki/SS_Volunteer_Sturmbrigade_France)
-  - [... that the " No Toilet, No Bride " campaign encouraged women's families to demand a toilet as a precondition for marriage?](https://en.wikipedia.org/wiki/No_Toilet,_No_Bride)
-  - [... that GK Barry said that her girlfriend is used to Barry discussing their sex life on her podcast ?](https://en.wikipedia.org/wiki/Saving_Grace_(podcast))
+  - [... that, although Richard Meier mostly designed white buildings, he used a black facade for 685 First Avenue (pictured) because of his close relationship with its developer?](https://en.wikipedia.org/wiki/Richard_Meier)
+  - [... that in 2023 Nick McKenzie won what was dubbed "the defamation trial of the century" against Ben Roberts-Smith ?](https://en.wikipedia.org/wiki/Nick_McKenzie)
+  - [... that Jilly Cooper published volumes of nature diaries , as well as compilations of journalism and other non-fiction ?](https://en.wikipedia.org/wiki/Jilly_Cooper)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)
+![Geologic Core Sample](https://imgs.xkcd.com/comics/geologic_core_sample.png)
 
-[Service Outage](https://xkcd.com/3170) — *Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.*
+[Geologic Core Sample](https://xkcd.com/3171) — *If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.*
 <!--XKCD:END-->
