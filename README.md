@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Indigenous people of the Everglades region](https://en.wikipedia.org/wiki/Indigenous_people_of_the_Everglades_region)
+  - [Yeti (Doctor Who)](https://en.wikipedia.org/wiki/Yeti_(Doctor_Who))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, although Richard Meier mostly designed white buildings, he used a black facade for 685 First Avenue (pictured) because of his close relationship with its developer?](https://en.wikipedia.org/wiki/Richard_Meier)
-  - [... that in 2023 Nick McKenzie won what was dubbed "the defamation trial of the century" against Ben Roberts-Smith ?](https://en.wikipedia.org/wiki/Nick_McKenzie)
-  - [... that Jilly Cooper published volumes of nature diaries , as well as compilations of journalism and other non-fiction ?](https://en.wikipedia.org/wiki/Jilly_Cooper)
+  - [... that the Sjölejonet class (example pictured) , Sweden's first indigenous submarines, featured rotating torpedo tubes and disappearing guns?](https://en.wikipedia.org/wiki/Sj%C3%B6lejonet-class_submarine)
+  - [... that David Avraham Voluck , a Chabad Jew and native tribal judge, credits Alaska natives with inspiring him to become more observant in his own faith?](https://en.wikipedia.org/wiki/David_Avraham_Voluck)
+  - [... that the music video for Bini 's " First Luv " was inspired by rococo art?](https://en.wikipedia.org/wiki/Bini_(group))
 <!--DYK:END-->
 
 ### XKCD for today
