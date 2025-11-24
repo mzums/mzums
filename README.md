@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yeti (Doctor Who)](https://en.wikipedia.org/wiki/Yeti_(Doctor_Who))
+  - [Chagatai Khan](https://en.wikipedia.org/wiki/Chagatai_Khan)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Sjölejonet class (example pictured) , Sweden's first indigenous submarines, featured rotating torpedo tubes and disappearing guns?](https://en.wikipedia.org/wiki/Sj%C3%B6lejonet-class_submarine)
-  - [... that David Avraham Voluck , a Chabad Jew and native tribal judge, credits Alaska natives with inspiring him to become more observant in his own faith?](https://en.wikipedia.org/wiki/David_Avraham_Voluck)
-  - [... that the music video for Bini 's " First Luv " was inspired by rococo art?](https://en.wikipedia.org/wiki/Bini_(group))
+  - [... that Emma Finucane (pictured) recently became the first British woman in sixty years to win three medals at a single Olympic Games?](https://en.wikipedia.org/wiki/Emma_Finucane)
+  - [... that researchers accidentally discovered a new antibiotic in soil bacteria?](https://en.wikipedia.org/wiki/Premethylenomycin_C_lactone)
+  - [... that Budi Bowoleksono always traveled with chili paste in his briefcase?](https://en.wikipedia.org/wiki/Budi_Bowoleksono)
 <!--DYK:END-->
 
 ### XKCD for today
