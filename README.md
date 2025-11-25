@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Chagatai Khan](https://en.wikipedia.org/wiki/Chagatai_Khan)
+  - [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Emma Finucane (pictured) recently became the first British woman in sixty years to win three medals at a single Olympic Games?](https://en.wikipedia.org/wiki/Emma_Finucane)
-  - [... that researchers accidentally discovered a new antibiotic in soil bacteria?](https://en.wikipedia.org/wiki/Premethylenomycin_C_lactone)
-  - [... that Budi Bowoleksono always traveled with chili paste in his briefcase?](https://en.wikipedia.org/wiki/Budi_Bowoleksono)
+  - [... that the origin of chole bhature (example pictured) is disputed?](https://en.wikipedia.org/wiki/Chole_bhature)
+  - [... that King Henry I of Cyprus is better known for having been fat than for anything he achieved in his 20-year rule?](https://en.wikipedia.org/wiki/Henry_I_of_Cyprus)
+  - [... that most paper in Europe was made from discarded rags until the 19th century?](https://en.wikipedia.org/wiki/Rag_paper)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Geologic Core Sample](https://imgs.xkcd.com/comics/geologic_core_sample.png)
+![Fifteen Years](https://imgs.xkcd.com/comics/fifteen_years.png)
 
-[Geologic Core Sample](https://xkcd.com/3171) — *If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment.*
+[Fifteen Years](https://xkcd.com/3172) — *"Want to feel old?" "Yes."*
 <!--XKCD:END-->
