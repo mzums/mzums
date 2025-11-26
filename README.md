@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
+  - [Terry Griffiths](https://en.wikipedia.org/wiki/Terry_Griffiths)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the origin of chole bhature (example pictured) is disputed?](https://en.wikipedia.org/wiki/Chole_bhature)
-  - [... that King Henry I of Cyprus is better known for having been fat than for anything he achieved in his 20-year rule?](https://en.wikipedia.org/wiki/Henry_I_of_Cyprus)
-  - [... that most paper in Europe was made from discarded rags until the 19th century?](https://en.wikipedia.org/wiki/Rag_paper)
+  - [... that one newspaper described the North Christian Church (pictured) as "poised to lift off and take man to meet his Maker"?](https://en.wikipedia.org/wiki/North_Christian_Church)
+  - [... that Donald Trump nicknamed a lawyer " Sir Charles " because he would "act like royalty"?](https://en.wikipedia.org/wiki/Charles_Goldstein)
+  - [... that the first literary work published in Alabama criticized a participant in the Battle of Burnt Corn ?](https://en.wikipedia.org/wiki/Battle_of_Burnt_Corn)
 <!--DYK:END-->
 
 ### XKCD for today
