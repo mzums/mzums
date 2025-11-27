@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Terry Griffiths](https://en.wikipedia.org/wiki/Terry_Griffiths)
+  - [Freedom from Want](https://en.wikipedia.org/wiki/Freedom_from_Want)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that one newspaper described the North Christian Church (pictured) as "poised to lift off and take man to meet his Maker"?](https://en.wikipedia.org/wiki/North_Christian_Church)
-  - [... that Donald Trump nicknamed a lawyer " Sir Charles " because he would "act like royalty"?](https://en.wikipedia.org/wiki/Charles_Goldstein)
-  - [... that the first literary work published in Alabama criticized a participant in the Battle of Burnt Corn ?](https://en.wikipedia.org/wiki/Battle_of_Burnt_Corn)
+  - [... that fixing a " Null ID " error could have prevented a train derailment and a six-day disruption (pictured) ?](https://en.wikipedia.org/wiki/Null_(SQL))
+  - [... that Michael Gardener preached a sermon in Inuktitut even though he did not yet understand the language?](https://en.wikipedia.org/wiki/Michael_Gardener_(priest))
+  - [... that the East River Generating Station in New York City was opened by the Queen of Romania?](https://en.wikipedia.org/wiki/East_River_Generating_Station)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Fifteen Years](https://imgs.xkcd.com/comics/fifteen_years.png)
+![Satellite Imagery](https://imgs.xkcd.com/comics/satellite_imagery.png)
 
-[Fifteen Years](https://xkcd.com/3172) — *"Want to feel old?" "Yes."*
+[Satellite Imagery](https://xkcd.com/3173) — *Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.*
 <!--XKCD:END-->
