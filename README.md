@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Freedom from Want](https://en.wikipedia.org/wiki/Freedom_from_Want)
+  - [Appaloosa](https://en.wikipedia.org/wiki/Appaloosa)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that fixing a " Null ID " error could have prevented a train derailment and a six-day disruption (pictured) ?](https://en.wikipedia.org/wiki/Null_(SQL))
-  - [... that Michael Gardener preached a sermon in Inuktitut even though he did not yet understand the language?](https://en.wikipedia.org/wiki/Michael_Gardener_(priest))
-  - [... that the East River Generating Station in New York City was opened by the Queen of Romania?](https://en.wikipedia.org/wiki/East_River_Generating_Station)
+  - [... that African-American civil rights activist Jesse L. Douglas (pictured) was called an "unidentified white man" during protests in 1965?](https://en.wikipedia.org/wiki/Jesse_L._Douglas)
+  - [... that 133 notable Viennese personalities are in Gustav Klimt 's Auditorium of the Old Burgtheater ?](https://en.wikipedia.org/wiki/Gustav_Klimt)
+  - [... that the family of a man charged with murdering a police officer ten years ago today were surprised when the jury acquitted him?](https://en.wikipedia.org/wiki/Killing_of_Lloyd_Reed)
 <!--DYK:END-->
 
 ### XKCD for today
