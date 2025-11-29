@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Appaloosa](https://en.wikipedia.org/wiki/Appaloosa)
+  - [KEXP-FM](https://en.wikipedia.org/wiki/KEXP-FM)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that African-American civil rights activist Jesse L. Douglas (pictured) was called an "unidentified white man" during protests in 1965?](https://en.wikipedia.org/wiki/Jesse_L._Douglas)
-  - [... that 133 notable Viennese personalities are in Gustav Klimt 's Auditorium of the Old Burgtheater ?](https://en.wikipedia.org/wiki/Gustav_Klimt)
-  - [... that the family of a man charged with murdering a police officer ten years ago today were surprised when the jury acquitted him?](https://en.wikipedia.org/wiki/Killing_of_Lloyd_Reed)
+  - [... that most "citrine" on the market is not natural citrine (example pictured) , but rather heat-treated amethyst?](https://en.wikipedia.org/wiki/Citrine_(quartz))
+  - [... that Jack Fitzgerald was " father " of the South Australian House of Assembly?](https://en.wikipedia.org/wiki/Jack_Fitzgerald_(Australian_politician))
+  - [... that thousands moved to Gowganda during a silver rush, but its population declined significantly after gold was found in Kirkland Lake ?](https://en.wikipedia.org/wiki/Gowganda)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Satellite Imagery](https://imgs.xkcd.com/comics/satellite_imagery.png)
+![Bridge Clearance](https://imgs.xkcd.com/comics/bridge_clearance.png)
 
-[Satellite Imagery](https://xkcd.com/3173) — *Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape.*
+[Bridge Clearance](https://xkcd.com/3174) — *A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.*
 <!--XKCD:END-->
