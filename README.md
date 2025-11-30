@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [KEXP-FM](https://en.wikipedia.org/wiki/KEXP-FM)
+  - [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that most "citrine" on the market is not natural citrine (example pictured) , but rather heat-treated amethyst?](https://en.wikipedia.org/wiki/Citrine_(quartz))
-  - [... that Jack Fitzgerald was " father " of the South Australian House of Assembly?](https://en.wikipedia.org/wiki/Jack_Fitzgerald_(Australian_politician))
-  - [... that thousands moved to Gowganda during a silver rush, but its population declined significantly after gold was found in Kirkland Lake ?](https://en.wikipedia.org/wiki/Gowganda)
+  - [... that American black bear Yellow 2291 (pictured) and her cubs are the first family of bears in decades to live in the Santa Monica Mountains ?](https://en.wikipedia.org/wiki/Yellow_2291)
+  - [... that the 13th-century Autumn Colors on the Que and Hua Mountains inspired many imitations over the following seven centuries?](https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains)
+  - [... that during the siege of Jerusalem in the First Jewish Revolt , the Romans crucified prisoners in various positions to intimidate the defenders into surrender?](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE))
 <!--DYK:END-->
 
 ### XKCD for today
