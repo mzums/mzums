@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mechanical Turk](https://en.wikipedia.org/wiki/Mechanical_Turk)
+  - [Julio and Marisol](https://en.wikipedia.org/wiki/Julio_and_Marisol)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that American black bear Yellow 2291 (pictured) and her cubs are the first family of bears in decades to live in the Santa Monica Mountains ?](https://en.wikipedia.org/wiki/Yellow_2291)
-  - [... that the 13th-century Autumn Colors on the Que and Hua Mountains inspired many imitations over the following seven centuries?](https://en.wikipedia.org/wiki/Autumn_Colors_on_the_Que_and_Hua_Mountains)
-  - [... that during the siege of Jerusalem in the First Jewish Revolt , the Romans crucified prisoners in various positions to intimidate the defenders into surrender?](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE))
+  - [... that fiction about impact events (pictured) typically focuses more on the societal ramifications than on the science?](https://en.wikipedia.org/wiki/Impact_events_in_fiction)
+  - [... that after her father's death, Thora Thersner completed his work documenting Swedish buildings and landscapes?](https://en.wikipedia.org/wiki/Thora_Thersner)
+  - [... that a 2025 musical film , which topped the U.S. box office within a weekend, had its global release plan scrapped in multiple countries?](https://en.wikipedia.org/wiki/Taylor_Swift:_The_Official_Release_Party_of_a_Showgirl)
 <!--DYK:END-->
 
 ### XKCD for today
