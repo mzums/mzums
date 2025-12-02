@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Julio and Marisol](https://en.wikipedia.org/wiki/Julio_and_Marisol)
+  - [SMS Pommern](https://en.wikipedia.org/wiki/SMS_Pommern)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that fiction about impact events (pictured) typically focuses more on the societal ramifications than on the science?](https://en.wikipedia.org/wiki/Impact_events_in_fiction)
-  - [... that after her father's death, Thora Thersner completed his work documenting Swedish buildings and landscapes?](https://en.wikipedia.org/wiki/Thora_Thersner)
-  - [... that a 2025 musical film , which topped the U.S. box office within a weekend, had its global release plan scrapped in multiple countries?](https://en.wikipedia.org/wiki/Taylor_Swift:_The_Official_Release_Party_of_a_Showgirl)
+  - [... that the soprillo saxophone (example pictured) is about half the length of a soprano saxophone and pitched one octave higher?](https://en.wikipedia.org/wiki/Soprillo)
+  - [... that Stalin told the Turkestan Autonomy to invade the Soviet Commissariat in Tashkent instead of asking him to dissolve it?](https://en.wikipedia.org/wiki/Turkestan_Autonomy)
+  - [... that Josèphe Jacquiot founded a museum that was named in her honour ?](https://en.wikipedia.org/wiki/Jos%C3%A8phe_Jacquiot)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Bridge Clearance](https://imgs.xkcd.com/comics/bridge_clearance.png)
+![Website Task Flowchart](https://imgs.xkcd.com/comics/website_task_flowchart.png)
 
-[Bridge Clearance](https://xkcd.com/3174) — *A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.*
+[Website Task Flowchart](https://xkcd.com/3175) — *Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!*
 <!--XKCD:END-->
