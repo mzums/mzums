@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [SMS Pommern](https://en.wikipedia.org/wiki/SMS_Pommern)
+  - [Ovalipes catharus](https://en.wikipedia.org/wiki/Ovalipes_catharus)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the soprillo saxophone (example pictured) is about half the length of a soprano saxophone and pitched one octave higher?](https://en.wikipedia.org/wiki/Soprillo)
-  - [... that Stalin told the Turkestan Autonomy to invade the Soviet Commissariat in Tashkent instead of asking him to dissolve it?](https://en.wikipedia.org/wiki/Turkestan_Autonomy)
-  - [... that Josèphe Jacquiot founded a museum that was named in her honour ?](https://en.wikipedia.org/wiki/Jos%C3%A8phe_Jacquiot)
+  - [... that Nestor Makhno described the evolutionary biologist Marie Goldsmith (pictured) as one of the "titans of anarchism"?](https://en.wikipedia.org/wiki/Nestor_Makhno)
+  - [... that a house that was once called "almost the opposite of a landmark" later became a U.S. National Historic Landmark?](https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House)
+  - [... that two successive Hanthawaddy commanders who held the title of Smin Maw-Khwin surrendered to Ava forces in 1414?](https://en.wikipedia.org/wiki/Hanthawaddy_kingdom)
 <!--DYK:END-->
 
 ### XKCD for today
