@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ovalipes catharus](https://en.wikipedia.org/wiki/Ovalipes_catharus)
+  - [Flag of Hong Kong](https://en.wikipedia.org/wiki/Flag_of_Hong_Kong)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nestor Makhno described the evolutionary biologist Marie Goldsmith (pictured) as one of the "titans of anarchism"?](https://en.wikipedia.org/wiki/Nestor_Makhno)
-  - [... that a house that was once called "almost the opposite of a landmark" later became a U.S. National Historic Landmark?](https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House)
-  - [... that two successive Hanthawaddy commanders who held the title of Smin Maw-Khwin surrendered to Ava forces in 1414?](https://en.wikipedia.org/wiki/Hanthawaddy_kingdom)
+  - [... that The Banquet of Cleopatra (pictured) depicts Cleopatra drinking a dissolved pearl to impress Mark Antony?](https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Jordaens))
+  - [... that an on-stage incident traumatized Antonie Mielke so much that she retired from opera?](https://en.wikipedia.org/wiki/Antonie_Mielke)
+  - [... that people entered the Bronze Age tombs at Volimidia centuries later in the Iron Age to leave offerings to the dead?](https://en.wikipedia.org/wiki/Volimidia)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Website Task Flowchart](https://imgs.xkcd.com/comics/website_task_flowchart.png)
+![Inverted Catenaries](https://imgs.xkcd.com/comics/inverted_catenaries.png)
 
-[Website Task Flowchart](https://xkcd.com/3175) — *Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!*
+[Inverted Catenaries](https://xkcd.com/3176) — *Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.*
 <!--XKCD:END-->
