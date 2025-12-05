@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Flag of Hong Kong](https://en.wikipedia.org/wiki/Flag_of_Hong_Kong)
+  - [Raichu](https://en.wikipedia.org/wiki/Raichu)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that The Banquet of Cleopatra (pictured) depicts Cleopatra drinking a dissolved pearl to impress Mark Antony?](https://en.wikipedia.org/wiki/The_Banquet_of_Cleopatra_(Jordaens))
-  - [... that an on-stage incident traumatized Antonie Mielke so much that she retired from opera?](https://en.wikipedia.org/wiki/Antonie_Mielke)
-  - [... that people entered the Bronze Age tombs at Volimidia centuries later in the Iron Age to leave offerings to the dead?](https://en.wikipedia.org/wiki/Volimidia)
+  - [... that Sneeze Achiu (pictured) had documents listing him as Caucasian so that he would not be segregated from his teammates?](https://en.wikipedia.org/wiki/Sneeze_Achiu)
+  - [... that a nationwide survey found that one in three Japanese people have an oshi ?](https://en.wikipedia.org/wiki/Oshikatsu)
+  - [... that in 1900 Isabel Fidler was appointed as tutor to the 70 women students at the University of Sydney; by the time of her retirement in 1939 there were more than 800?](https://en.wikipedia.org/wiki/Isabel_Fidler)
 <!--DYK:END-->
 
 ### XKCD for today
