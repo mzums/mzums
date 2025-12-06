@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Raichu](https://en.wikipedia.org/wiki/Raichu)
+  - [Jefferson Davis](https://en.wikipedia.org/wiki/Jefferson_Davis)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Sneeze Achiu (pictured) had documents listing him as Caucasian so that he would not be segregated from his teammates?](https://en.wikipedia.org/wiki/Sneeze_Achiu)
-  - [... that a nationwide survey found that one in three Japanese people have an oshi ?](https://en.wikipedia.org/wiki/Oshikatsu)
-  - [... that in 1900 Isabel Fidler was appointed as tutor to the 70 women students at the University of Sydney; by the time of her retirement in 1939 there were more than 800?](https://en.wikipedia.org/wiki/Isabel_Fidler)
+  - [... that the seven­teen species of the prehistoric horse relative Plagiolophus ranged in weight from 10 kg (22 lb) to more than 150 kg (330 lb) (size chart pictured) ?](https://en.wikipedia.org/wiki/Plagiolophus_(mammal))
+  - [... that in 2025 Oscar Piastri became the first Australian since 2010 to lead the Formula One World Drivers' Championship ?](https://en.wikipedia.org/wiki/Oscar_Piastri)
+  - [... that tens of thousands of Vietnamese Catholics travel to Missouri annually to attend Marian Days at Our Lady of the Ozarks College ?](https://en.wikipedia.org/wiki/Marian_Days)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Inverted Catenaries](https://imgs.xkcd.com/comics/inverted_catenaries.png)
+![Chessboard Alignment](https://imgs.xkcd.com/comics/chessboard_alignment.png)
 
-[Inverted Catenaries](https://xkcd.com/3176) — *Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.*
+[Chessboard Alignment](https://xkcd.com/3177) — *Luckily, the range is limited by the fact that the square boundary lines follow great circles.*
 <!--XKCD:END-->
