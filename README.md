@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Jefferson Davis](https://en.wikipedia.org/wiki/Jefferson_Davis)
+  - [2015 Trophée Éric Bompard](https://en.wikipedia.org/wiki/2015_Trophée_Éric_Bompard)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the seven­teen species of the prehistoric horse relative Plagiolophus ranged in weight from 10 kg (22 lb) to more than 150 kg (330 lb) (size chart pictured) ?](https://en.wikipedia.org/wiki/Plagiolophus_(mammal))
-  - [... that in 2025 Oscar Piastri became the first Australian since 2010 to lead the Formula One World Drivers' Championship ?](https://en.wikipedia.org/wiki/Oscar_Piastri)
-  - [... that tens of thousands of Vietnamese Catholics travel to Missouri annually to attend Marian Days at Our Lady of the Ozarks College ?](https://en.wikipedia.org/wiki/Marian_Days)
+  - [... that Daniela Melchior (pictured) once did a chemistry screen test with fancy rats?](https://en.wikipedia.org/wiki/Daniela_Melchior)
+  - [... that scholar Martin P. Nilsson called the Ring of Nestor "a most amazing find", but later doubted its authenticity?](https://en.wikipedia.org/wiki/Martin_P._Nilsson)
+  - [... that Ken Selby walked along U.S. Route 66 from Oklahoma City to Tulsa at the age of 73?](https://en.wikipedia.org/wiki/Ken_Selby)
 <!--DYK:END-->
 
 ### XKCD for today
