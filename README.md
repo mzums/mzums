@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2015 Trophée Éric Bompard](https://en.wikipedia.org/wiki/2015_Trophée_Éric_Bompard)
+  - [Coventry ring road](https://en.wikipedia.org/wiki/Coventry_ring_road)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Daniela Melchior (pictured) once did a chemistry screen test with fancy rats?](https://en.wikipedia.org/wiki/Daniela_Melchior)
-  - [... that scholar Martin P. Nilsson called the Ring of Nestor "a most amazing find", but later doubted its authenticity?](https://en.wikipedia.org/wiki/Martin_P._Nilsson)
-  - [... that Ken Selby walked along U.S. Route 66 from Oklahoma City to Tulsa at the age of 73?](https://en.wikipedia.org/wiki/Ken_Selby)
+  - [... that Ahmad Shah Durrani (pictured) conducted fifteen major military campaigns during his reign, comprising nine invasions of India , three in Khorasan , and three in Afghan Turkestan ?](https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani)
+  - [... that, when workers of the Zenkoku Jiren went on strike at a Hitachi factory, anarchist militants firebombed the mansion of Hitachi's president, Namihei Odaira ?](https://en.wikipedia.org/wiki/Zenkoku_Jiren)
+  - [... that Matilda Freeman did not originally intend to be an actress, but auditioned for a role after being teased by some classmates?](https://en.wikipedia.org/wiki/Matilda_Freeman)
 <!--DYK:END-->
 
 ### XKCD for today
