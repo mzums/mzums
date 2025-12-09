@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Coventry ring road](https://en.wikipedia.org/wiki/Coventry_ring_road)
+  - [Macrobdella decora](https://en.wikipedia.org/wiki/Macrobdella_decora)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Ahmad Shah Durrani (pictured) conducted fifteen major military campaigns during his reign, comprising nine invasions of India , three in Khorasan , and three in Afghan Turkestan ?](https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani)
-  - [... that, when workers of the Zenkoku Jiren went on strike at a Hitachi factory, anarchist militants firebombed the mansion of Hitachi's president, Namihei Odaira ?](https://en.wikipedia.org/wiki/Zenkoku_Jiren)
-  - [... that Matilda Freeman did not originally intend to be an actress, but auditioned for a role after being teased by some classmates?](https://en.wikipedia.org/wiki/Matilda_Freeman)
+  - [... that Satank Bridge (pictured) to Satank, Colorado , was constructed in 1900 for $2,325, while its 2011 restoration was estimated to cost at least $750,000?](https://en.wikipedia.org/wiki/Satank_Bridge)
+  - [... that one newspaper labelled Caroline Hodgson the "wickedest woman in Melbourne"?](https://en.wikipedia.org/wiki/Caroline_Hodgson)
+  - [... that Gävle Hospital in Sweden was so overrun with scarlet fever in 1934 that it considered requisitioning a local gymnasium?](https://en.wikipedia.org/wiki/G%C3%A4vle_Hospital)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Chessboard Alignment](https://imgs.xkcd.com/comics/chessboard_alignment.png)
+![Hyperacute Interdynamics](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
 
-[Chessboard Alignment](https://xkcd.com/3177) — *Luckily, the range is limited by the fact that the square boundary lines follow great circles.*
+[Hyperacute Interdynamics](https://xkcd.com/3178) — *Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.*
 <!--XKCD:END-->
