@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Macrobdella decora](https://en.wikipedia.org/wiki/Macrobdella_decora)
+  - [Edmund Ætheling](https://en.wikipedia.org/wiki/Edmund_Ætheling)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Satank Bridge (pictured) to Satank, Colorado , was constructed in 1900 for $2,325, while its 2011 restoration was estimated to cost at least $750,000?](https://en.wikipedia.org/wiki/Satank_Bridge)
-  - [... that one newspaper labelled Caroline Hodgson the "wickedest woman in Melbourne"?](https://en.wikipedia.org/wiki/Caroline_Hodgson)
-  - [... that Gävle Hospital in Sweden was so overrun with scarlet fever in 1934 that it considered requisitioning a local gymnasium?](https://en.wikipedia.org/wiki/G%C3%A4vle_Hospital)
+  - [... that Paul Revere's daughter had a portrait of him (pictured) revised, as it depicted him dressed informally?](https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere)
+  - [... that the Tudor historian Polydore Vergil erroneously wrote that the site of the Battle of Edington was in Abingdon?](https://en.wikipedia.org/wiki/Polydore_Vergil)
+  - [... that the aria " Caro mio ben " has been attributed to three Giordanis, one of whom was unrelated to the other two?](https://en.wikipedia.org/wiki/Aria)
 <!--DYK:END-->
 
 ### XKCD for today
