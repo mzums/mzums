@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Edmund Ætheling](https://en.wikipedia.org/wiki/Edmund_Ætheling)
+  - [George Mason](https://en.wikipedia.org/wiki/George_Mason)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Paul Revere's daughter had a portrait of him (pictured) revised, as it depicted him dressed informally?](https://en.wikipedia.org/wiki/Portrait_of_Paul_Revere)
-  - [... that the Tudor historian Polydore Vergil erroneously wrote that the site of the Battle of Edington was in Abingdon?](https://en.wikipedia.org/wiki/Polydore_Vergil)
-  - [... that the aria " Caro mio ben " has been attributed to three Giordanis, one of whom was unrelated to the other two?](https://en.wikipedia.org/wiki/Aria)
+  - [... that Charles Strong founded the Australian Church (building pictured) after facing heresy charges, and attracted many elite congregants including a future prime minister?](https://en.wikipedia.org/wiki/Australian_Church)
+  - [... that Baek Se-hee wrote I Want to Die but I Want to Eat Tteokbokki ?](https://en.wikipedia.org/wiki/Baek_Se-hee)
+  - [... that, after winning the Eurovision Song Contest 1965 , France Gall was slapped by a fellow competitor?](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1965)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Hyperacute Interdynamics](https://imgs.xkcd.com/comics/hyperacute_interdynamics.png)
+![Fishing](https://imgs.xkcd.com/comics/fishing.png)
 
-[Hyperacute Interdynamics](https://xkcd.com/3178) — *Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.*
+[Fishing](https://xkcd.com/3179) — *'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'*
 <!--XKCD:END-->
