@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [George Mason](https://en.wikipedia.org/wiki/George_Mason)
+  - [Theodosius III](https://en.wikipedia.org/wiki/Theodosius_III)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Charles Strong founded the Australian Church (building pictured) after facing heresy charges, and attracted many elite congregants including a future prime minister?](https://en.wikipedia.org/wiki/Australian_Church)
-  - [... that Baek Se-hee wrote I Want to Die but I Want to Eat Tteokbokki ?](https://en.wikipedia.org/wiki/Baek_Se-hee)
-  - [... that, after winning the Eurovision Song Contest 1965 , France Gall was slapped by a fellow competitor?](https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1965)
+  - [... that the opening of the General Motors Technical Center (pictured) featured an appearance by Indonesia's president and a speech from the US president?](https://en.wikipedia.org/wiki/General_Motors_Technical_Center)
+  - [... that author Tareq Baconi , after studying water scarcity and Hamas, wrote a memoir about queer identity, family displacement, and political awakening?](https://en.wikipedia.org/wiki/Tareq_Baconi)
+  - [... that a New York railroad once operated a special train to a former train station so that people could see model trains?](https://en.wikipedia.org/wiki/Pelham_Manor_station)
 <!--DYK:END-->
 
 ### XKCD for today
