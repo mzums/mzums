@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Theodosius III](https://en.wikipedia.org/wiki/Theodosius_III)
+  - [Scott Zolak](https://en.wikipedia.org/wiki/Scott_Zolak)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the opening of the General Motors Technical Center (pictured) featured an appearance by Indonesia's president and a speech from the US president?](https://en.wikipedia.org/wiki/General_Motors_Technical_Center)
-  - [... that author Tareq Baconi , after studying water scarcity and Hamas, wrote a memoir about queer identity, family displacement, and political awakening?](https://en.wikipedia.org/wiki/Tareq_Baconi)
-  - [... that a New York railroad once operated a special train to a former train station so that people could see model trains?](https://en.wikipedia.org/wiki/Pelham_Manor_station)
+  - [... that traditional stone houses on the island of Pantelleria (examples pictured) passively maintain an internal temperature up to 8 °C (14 °F) cooler than the ambient air temperature in summer?](https://en.wikipedia.org/wiki/Dammuso)
+  - [... that Kenssy Dwi Ekaningsih used her skills in traditional Javanese dance at diplomatic receptions during an assignment in Rome?](https://en.wikipedia.org/wiki/Kenssy_Dwi_Ekaningsih)
+  - [... that Yonki-no-kai Productions was founded by Akira Kurosawa , Masaki Kobayashi , Kon Ichikawa and Keisuke Kinoshita with the aim of reviving the struggling Japanese film industry?](https://en.wikipedia.org/wiki/Yonki-no-kai_Productions)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Fishing](https://imgs.xkcd.com/comics/fishing.png)
+![Apples](https://imgs.xkcd.com/comics/apples.png)
 
-[Fishing](https://xkcd.com/3179) — *'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'*
+[Apples](https://xkcd.com/3180) — *The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.*
 <!--XKCD:END-->
