@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Scott Zolak](https://en.wikipedia.org/wiki/Scott_Zolak)
+  - [Commander Keen in Invasion of the Vorticons](https://en.wikipedia.org/wiki/Commander_Keen_in_Invasion_of_the_Vorticons)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that traditional stone houses on the island of Pantelleria (examples pictured) passively maintain an internal temperature up to 8 °C (14 °F) cooler than the ambient air temperature in summer?](https://en.wikipedia.org/wiki/Dammuso)
-  - [... that Kenssy Dwi Ekaningsih used her skills in traditional Javanese dance at diplomatic receptions during an assignment in Rome?](https://en.wikipedia.org/wiki/Kenssy_Dwi_Ekaningsih)
-  - [... that Yonki-no-kai Productions was founded by Akira Kurosawa , Masaki Kobayashi , Kon Ichikawa and Keisuke Kinoshita with the aim of reviving the struggling Japanese film industry?](https://en.wikipedia.org/wiki/Yonki-no-kai_Productions)
+  - [... that Swedish general Lorens von der Linde (pictured) once shocked a British diplomat with his stories of King Charles X Gustav 's German liaisons?](https://en.wikipedia.org/wiki/Lorens_von_der_Linde)
+  - [... that scholars have described the 1946 book The Failure of Technology as a precursor to the environmental movement?](https://en.wikipedia.org/wiki/The_Failure_of_Technology)
+  - [... that Romanian far-right journalist Ilariu Dobridor died after being beaten and locked in his own home?](https://en.wikipedia.org/wiki/Ilariu_Dobridor)
 <!--DYK:END-->
 
 ### XKCD for today
