@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Commander Keen in Invasion of the Vorticons](https://en.wikipedia.org/wiki/Commander_Keen_in_Invasion_of_the_Vorticons)
+  - [Simon Cameron](https://en.wikipedia.org/wiki/Simon_Cameron)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Swedish general Lorens von der Linde (pictured) once shocked a British diplomat with his stories of King Charles X Gustav 's German liaisons?](https://en.wikipedia.org/wiki/Lorens_von_der_Linde)
-  - [... that scholars have described the 1946 book The Failure of Technology as a precursor to the environmental movement?](https://en.wikipedia.org/wiki/The_Failure_of_Technology)
-  - [... that Romanian far-right journalist Ilariu Dobridor died after being beaten and locked in his own home?](https://en.wikipedia.org/wiki/Ilariu_Dobridor)
+  - [... that Jessie Wright , director of physical medicine at the D.T. Watson Home for Crippled Children , helped invent the rocking bed (pictured) as a treatment for polio?](https://en.wikipedia.org/wiki/Jessie_Wright)
+  - [... that the Pacific Australia Labour Mobility scheme has been criticised for placing workers at risk of modern slavery?](https://en.wikipedia.org/wiki/Pacific_Australia_Labour_Mobility_scheme)
+  - [... that G. Michael Brown said that his 1980 conviction of four mobsters showed that the Mafia wasn't merely "a figment of Hollywood's imagination"?](https://en.wikipedia.org/wiki/G._Michael_Brown)
 <!--DYK:END-->
 
 ### XKCD for today
