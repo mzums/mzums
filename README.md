@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Simon Cameron](https://en.wikipedia.org/wiki/Simon_Cameron)
+  - [Littlehampton libels](https://en.wikipedia.org/wiki/Littlehampton_libels)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Jessie Wright , director of physical medicine at the D.T. Watson Home for Crippled Children , helped invent the rocking bed (pictured) as a treatment for polio?](https://en.wikipedia.org/wiki/Jessie_Wright)
-  - [... that the Pacific Australia Labour Mobility scheme has been criticised for placing workers at risk of modern slavery?](https://en.wikipedia.org/wiki/Pacific_Australia_Labour_Mobility_scheme)
-  - [... that G. Michael Brown said that his 1980 conviction of four mobsters showed that the Mafia wasn't merely "a figment of Hollywood's imagination"?](https://en.wikipedia.org/wiki/G._Michael_Brown)
+  - [... that, upon the death of Truganini (pictured) , the Aboriginal population of Tasmania was declared to be extinct?](https://en.wikipedia.org/wiki/Truganini)
+  - [... that the 141 Schools for Peace campaign was formed in the aftermath of the 2014 Peshawar school massacre and received proceeds from "We Will Fly" ?](https://en.wikipedia.org/wiki/141_Schools_for_Peace)
+  - [... that a retired manufacturing CEO and a former Muppeteer co-produced a biopic of Dietrich Bonhoeffer ?](https://en.wikipedia.org/wiki/Emmanuel_Kampouris)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Apples](https://imgs.xkcd.com/comics/apples.png)
+![Jumping Frog Radius](https://imgs.xkcd.com/comics/jumping_frog_radius.png)
 
-[Apples](https://xkcd.com/3180) — *The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph.*
+[Jumping Frog Radius](https://xkcd.com/3181) — *Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.*
 <!--XKCD:END-->
