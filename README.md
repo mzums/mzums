@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Littlehampton libels](https://en.wikipedia.org/wiki/Littlehampton_libels)
+  - [Poisoning of Abbot Greenwell](https://en.wikipedia.org/wiki/Poisoning_of_Abbot_Greenwell)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, upon the death of Truganini (pictured) , the Aboriginal population of Tasmania was declared to be extinct?](https://en.wikipedia.org/wiki/Truganini)
-  - [... that the 141 Schools for Peace campaign was formed in the aftermath of the 2014 Peshawar school massacre and received proceeds from "We Will Fly" ?](https://en.wikipedia.org/wiki/141_Schools_for_Peace)
-  - [... that a retired manufacturing CEO and a former Muppeteer co-produced a biopic of Dietrich Bonhoeffer ?](https://en.wikipedia.org/wiki/Emmanuel_Kampouris)
+  - [... that Traum von Monte Carlo (pictured) depicts a casino transformed into an allegorical vision of destruction and moral decay?](https://en.wikipedia.org/wiki/Traum_von_Monte_Carlo)
+  - [... that Waverly W. Wray was a quarter-inch from death?](https://en.wikipedia.org/wiki/Waverly_W._Wray)
+  - [... that a senator once brought fake dynamite into an Australian budget estimates hearing to make a point about parliamentary security arrangements?](https://en.wikipedia.org/wiki/Australian_Senate_estimates)
 <!--DYK:END-->
 
 ### XKCD for today
