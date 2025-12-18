@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Poisoning of Abbot Greenwell](https://en.wikipedia.org/wiki/Poisoning_of_Abbot_Greenwell)
+  - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Traum von Monte Carlo (pictured) depicts a casino transformed into an allegorical vision of destruction and moral decay?](https://en.wikipedia.org/wiki/Traum_von_Monte_Carlo)
-  - [... that Waverly W. Wray was a quarter-inch from death?](https://en.wikipedia.org/wiki/Waverly_W._Wray)
-  - [... that a senator once brought fake dynamite into an Australian budget estimates hearing to make a point about parliamentary security arrangements?](https://en.wikipedia.org/wiki/Australian_Senate_estimates)
+  - [... that most blue lace agate (example pictured) was sourced from a single mine in Namibia until 2017?](https://en.wikipedia.org/wiki/Blue_lace_agate)
+  - [... that the cast of the 1965 film Winter Kept Us Warm were not told about its queer subject matter?](https://en.wikipedia.org/wiki/Winter_Kept_Us_Warm)
+  - [... that the 2025 Enderlin tornado threw train cars nearly twice as far as required to qualify for the highest intensity tornado rating?](https://en.wikipedia.org/wiki/2025_Enderlin_tornado)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Jumping Frog Radius](https://imgs.xkcd.com/comics/jumping_frog_radius.png)
+![Telescope Types](https://imgs.xkcd.com/comics/telescope_types.png)
 
-[Jumping Frog Radius](https://xkcd.com/3181) — *Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.*
+[Telescope Types](https://xkcd.com/3182) — *I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.*
 <!--XKCD:END-->
