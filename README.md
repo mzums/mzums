@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+  - [The Getaway (1972 film)](https://en.wikipedia.org/wiki/The_Getaway_(1972_film))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that most blue lace agate (example pictured) was sourced from a single mine in Namibia until 2017?](https://en.wikipedia.org/wiki/Blue_lace_agate)
-  - [... that the cast of the 1965 film Winter Kept Us Warm were not told about its queer subject matter?](https://en.wikipedia.org/wiki/Winter_Kept_Us_Warm)
-  - [... that the 2025 Enderlin tornado threw train cars nearly twice as far as required to qualify for the highest intensity tornado rating?](https://en.wikipedia.org/wiki/2025_Enderlin_tornado)
+  - [... that a U.S. senator advocated for the lobster emoji (pictured) ?](https://en.wikipedia.org/wiki/Angus_King)
+  - [... that Irina Voronina was once painted blue and orange for a nude photoshoot?](https://en.wikipedia.org/wiki/Irina_Voronina)
+  - [... that, under O'Donoghue v. United States , Washington, D.C.'s courts are the only tribunals in the United States that might be both constitutional and legislative courts at the same time?](https://en.wikipedia.org/wiki/O%27Donoghue_v._United_States)
 <!--DYK:END-->
 
 ### XKCD for today
