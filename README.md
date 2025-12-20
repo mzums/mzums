@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Getaway (1972 film)](https://en.wikipedia.org/wiki/The_Getaway_(1972_film))
+  - [Battle of Bronkhorstspruit](https://en.wikipedia.org/wiki/Battle_of_Bronkhorstspruit)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a U.S. senator advocated for the lobster emoji (pictured) ?](https://en.wikipedia.org/wiki/Angus_King)
-  - [... that Irina Voronina was once painted blue and orange for a nude photoshoot?](https://en.wikipedia.org/wiki/Irina_Voronina)
-  - [... that, under O'Donoghue v. United States , Washington, D.C.'s courts are the only tribunals in the United States that might be both constitutional and legislative courts at the same time?](https://en.wikipedia.org/wiki/O%27Donoghue_v._United_States)
+  - [... that sky lanterns released during the Yi Peng festival (pictured) cause Chiang Mai International Airport to cancel and reschedule flights every year?](https://en.wikipedia.org/wiki/Yi_Peng_festival)
+  - [... that Paper Girl concluded that the super-rich are removing the "ladder of upward mobility" from the lower class?](https://en.wikipedia.org/wiki/Paper_Girl)
+  - [... that Gholdengo has been jokingly described as looking like a "walking Ponzi scheme"?](https://en.wikipedia.org/wiki/Gholdengo)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Telescope Types](https://imgs.xkcd.com/comics/telescope_types.png)
+![Pole Vault Pole](https://imgs.xkcd.com/comics/pole_vault_pole.png)
 
-[Telescope Types](https://xkcd.com/3182) — *I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.*
+[Pole Vault Pole](https://xkcd.com/3183) — *My goal in life is to be personally responsible for at least one sports rule change.*
 <!--XKCD:END-->
