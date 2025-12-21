@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Battle of Bronkhorstspruit](https://en.wikipedia.org/wiki/Battle_of_Bronkhorstspruit)
+  - [Foreign volunteers in the Rhodesian Security Forces](https://en.wikipedia.org/wiki/Foreign_volunteers_in_the_Rhodesian_Security_Forces)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that sky lanterns released during the Yi Peng festival (pictured) cause Chiang Mai International Airport to cancel and reschedule flights every year?](https://en.wikipedia.org/wiki/Yi_Peng_festival)
-  - [... that Paper Girl concluded that the super-rich are removing the "ladder of upward mobility" from the lower class?](https://en.wikipedia.org/wiki/Paper_Girl)
-  - [... that Gholdengo has been jokingly described as looking like a "walking Ponzi scheme"?](https://en.wikipedia.org/wiki/Gholdengo)
+  - [... that Laura Kenny (pictured) is the most decorated British female athlete in Olympic history?](https://en.wikipedia.org/wiki/Laura_Kenny)
+  - [... that Hanoikids gave free tours of Hanoi to a prime minister of Australia , an American general , and an American senator ?](https://en.wikipedia.org/wiki/Hanoikids)
+  - [... that the mysterious Longfellow Boom has been attributed to rail cars coupling, secret NORAD flights, an underground meth lab, or a fault line in the Mississippi River?](https://en.wikipedia.org/wiki/Longfellow_Boom)
 <!--DYK:END-->
 
 ### XKCD for today
