@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Foreign volunteers in the Rhodesian Security Forces](https://en.wikipedia.org/wiki/Foreign_volunteers_in_the_Rhodesian_Security_Forces)
+  - [Algemeyne Entsiklopedye](https://en.wikipedia.org/wiki/Algemeyne_Entsiklopedye)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Laura Kenny (pictured) is the most decorated British female athlete in Olympic history?](https://en.wikipedia.org/wiki/Laura_Kenny)
-  - [... that Hanoikids gave free tours of Hanoi to a prime minister of Australia , an American general , and an American senator ?](https://en.wikipedia.org/wiki/Hanoikids)
-  - [... that the mysterious Longfellow Boom has been attributed to rail cars coupling, secret NORAD flights, an underground meth lab, or a fault line in the Mississippi River?](https://en.wikipedia.org/wiki/Longfellow_Boom)
+  - [... that an estimated 23 billion seven-spot ladybirds (example pictured) swarmed England's eastern and southern coasts during a heatwave in 1976 ?](https://en.wikipedia.org/wiki/Coccinella_septempunctata)
+  - [... that Bill Cottrell went from playing for a high-school team that had 32 consecutive losses to starting for an NFL team?](https://en.wikipedia.org/wiki/Bill_Cottrell)
+  - [... that a type of flute known as a fluier was sometimes built into Romanian shepherds' whips and staffs?](https://en.wikipedia.org/wiki/Fluier)
 <!--DYK:END-->
 
 ### XKCD for today
