@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Algemeyne Entsiklopedye](https://en.wikipedia.org/wiki/Algemeyne_Entsiklopedye)
+  - [Melaka Fray](https://en.wikipedia.org/wiki/Melaka_Fray)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that an estimated 23 billion seven-spot ladybirds (example pictured) swarmed England's eastern and southern coasts during a heatwave in 1976 ?](https://en.wikipedia.org/wiki/Coccinella_septempunctata)
-  - [... that Bill Cottrell went from playing for a high-school team that had 32 consecutive losses to starting for an NFL team?](https://en.wikipedia.org/wiki/Bill_Cottrell)
-  - [... that a type of flute known as a fluier was sometimes built into Romanian shepherds' whips and staffs?](https://en.wikipedia.org/wiki/Fluier)
+  - [... that the Perron of Liège (pictured) was dismantled and removed by the duke of Burgundy, Charles the Bold , following a failed uprising?](https://en.wikipedia.org/wiki/Perron_of_Li%C3%A8ge)
+  - [... that shortly after the fall of Suharto , Indonesia's 1st Mechanized Infantry Brigade was deployed around the former president's house to protect him from mobs?](https://en.wikipedia.org/wiki/Fall_of_Suharto)
+  - [... that the house of actor Calum Lill was used as a set for the drama Waterloo Road when he was a child?](https://en.wikipedia.org/wiki/Calum_Lill)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Pole Vault Pole](https://imgs.xkcd.com/comics/pole_vault_pole.png)
+![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)
 
-[Pole Vault Pole](https://xkcd.com/3183) — *My goal in life is to be personally responsible for at least one sports rule change.*
+[Funny Numbers](https://xkcd.com/3184) — *In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
 <!--XKCD:END-->
