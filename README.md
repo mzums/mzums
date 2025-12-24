@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Melaka Fray](https://en.wikipedia.org/wiki/Melaka_Fray)
+  - [Tufted jay](https://en.wikipedia.org/wiki/Tufted_jay)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Perron of Liège (pictured) was dismantled and removed by the duke of Burgundy, Charles the Bold , following a failed uprising?](https://en.wikipedia.org/wiki/Perron_of_Li%C3%A8ge)
-  - [... that shortly after the fall of Suharto , Indonesia's 1st Mechanized Infantry Brigade was deployed around the former president's house to protect him from mobs?](https://en.wikipedia.org/wiki/Fall_of_Suharto)
-  - [... that the house of actor Calum Lill was used as a set for the drama Waterloo Road when he was a child?](https://en.wikipedia.org/wiki/Calum_Lill)
+  - [... that Mai Murakami (pictured) was the first Japanese female gymnast in 63 years to win a world title?](https://en.wikipedia.org/wiki/Mai_Murakami)
+  - [... that Maid Marian in Super Robin Hood was voiced by the developers' mother?](https://en.wikipedia.org/wiki/Super_Robin_Hood)
+  - [... that Charles Throsby Smith led the first British expedition to what became Canberra , and is a founding figure of Wollongong ?](https://en.wikipedia.org/wiki/Charles_Throsby_Smith)
 <!--DYK:END-->
 
 ### XKCD for today
