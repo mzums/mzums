@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tufted jay](https://en.wikipedia.org/wiki/Tufted_jay)
+  - [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Mai Murakami (pictured) was the first Japanese female gymnast in 63 years to win a world title?](https://en.wikipedia.org/wiki/Mai_Murakami)
-  - [... that Maid Marian in Super Robin Hood was voiced by the developers' mother?](https://en.wikipedia.org/wiki/Super_Robin_Hood)
-  - [... that Charles Throsby Smith led the first British expedition to what became Canberra , and is a founding figure of Wollongong ?](https://en.wikipedia.org/wiki/Charles_Throsby_Smith)
+  - [... that The Dream of Saint Joseph (pictured) by Philippe de Champaigne was owned by Napoleon's half-uncle ?](https://en.wikipedia.org/wiki/The_Dream_of_Saint_Joseph_(Champaigne))
+  - [... that the 2025 UK Christmas number-one single, " XMAS ", made Kylie Minogue the oldest woman to top the UK singles chart with a new recording?](https://en.wikipedia.org/wiki/XMAS_(song))
+  - [... that a book about a Finnish Santa figure sold particularly well in Germany and Japan?](https://en.wikipedia.org/wiki/Santa_Claus_and_His_Elves)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)
+![Sauropods](https://imgs.xkcd.com/comics/sauropods.png)
 
-[Funny Numbers](https://xkcd.com/3184) — *In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
+[Sauropods](https://xkcd.com/3185) — *Vertebrae Georg*
 <!--XKCD:END-->
