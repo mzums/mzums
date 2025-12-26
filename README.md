@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol)
+  - [1937–38 Gillingham F.C. season](https://en.wikipedia.org/wiki/1937–38_Gillingham_F.C._season)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that The Dream of Saint Joseph (pictured) by Philippe de Champaigne was owned by Napoleon's half-uncle ?](https://en.wikipedia.org/wiki/The_Dream_of_Saint_Joseph_(Champaigne))
-  - [... that the 2025 UK Christmas number-one single, " XMAS ", made Kylie Minogue the oldest woman to top the UK singles chart with a new recording?](https://en.wikipedia.org/wiki/XMAS_(song))
-  - [... that a book about a Finnish Santa figure sold particularly well in Germany and Japan?](https://en.wikipedia.org/wiki/Santa_Claus_and_His_Elves)
+  - [... that the final novel by Catherine Helen Spence (pictured) remained unpublished for over a century after being labelled "socialistic" and "dangerous"?](https://en.wikipedia.org/wiki/Catherine_Helen_Spence)
+  - [... that Tex Ritter 's recording of " Blood on the Saddle " has often been presented by an animatronic bear?](https://en.wikipedia.org/wiki/Tex_Ritter)
+  - [... that Mao Zedong encouraged Zeng Zesheng not to join the Chinese Communist Party, believing his non-Party status would help him engage more effectively with Taiwan and the international community?](https://en.wikipedia.org/wiki/Zeng_Zesheng)
 <!--DYK:END-->
 
 ### XKCD for today
