@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1937–38 Gillingham F.C. season](https://en.wikipedia.org/wiki/1937–38_Gillingham_F.C._season)
+  - [Trichogenes claviger](https://en.wikipedia.org/wiki/Trichogenes_claviger)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the final novel by Catherine Helen Spence (pictured) remained unpublished for over a century after being labelled "socialistic" and "dangerous"?](https://en.wikipedia.org/wiki/Catherine_Helen_Spence)
-  - [... that Tex Ritter 's recording of " Blood on the Saddle " has often been presented by an animatronic bear?](https://en.wikipedia.org/wiki/Tex_Ritter)
-  - [... that Mao Zedong encouraged Zeng Zesheng not to join the Chinese Communist Party, believing his non-Party status would help him engage more effectively with Taiwan and the international community?](https://en.wikipedia.org/wiki/Zeng_Zesheng)
+  - [... that Maria Rickmers (pictured) , one of the largest sailing ships of her day, disappeared on her maiden voyage?](https://en.wikipedia.org/wiki/Maria_Rickmers_(barque))
+  - [... that a convent at St. John Church was used by Hassan Jeru-Ahmed 's Blackman's Development Center, a Black paramilitary group?](https://en.wikipedia.org/wiki/Saint_John_the_Evangelist_Church_(Columbus,_Ohio))
+  - [... that in one survey, two thirds of US adults attributed some possibility of consciousness to ChatGPT ?](https://en.wikipedia.org/wiki/AI_anthropomorphism)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Sauropods](https://imgs.xkcd.com/comics/sauropods.png)
+![Truly Universal Outlet](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
 
-[Sauropods](https://xkcd.com/3185) — *Vertebrae Georg*
+[Truly Universal Outlet](https://xkcd.com/3186) — *Building Inspectors HATE This One Weird Trick*
 <!--XKCD:END-->
