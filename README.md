@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Trichogenes claviger](https://en.wikipedia.org/wiki/Trichogenes_claviger)
+  - [Moltke-class battlecruiser](https://en.wikipedia.org/wiki/Moltke-class_battlecruiser)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Maria Rickmers (pictured) , one of the largest sailing ships of her day, disappeared on her maiden voyage?](https://en.wikipedia.org/wiki/Maria_Rickmers_(barque))
-  - [... that a convent at St. John Church was used by Hassan Jeru-Ahmed 's Blackman's Development Center, a Black paramilitary group?](https://en.wikipedia.org/wiki/Saint_John_the_Evangelist_Church_(Columbus,_Ohio))
-  - [... that in one survey, two thirds of US adults attributed some possibility of consciousness to ChatGPT ?](https://en.wikipedia.org/wiki/AI_anthropomorphism)
+  - [... that the walls of Babylon (reconstruction pictured) were included in many early lists of the Seven Wonders of the Ancient World ?](https://en.wikipedia.org/wiki/Walls_of_Babylon)
+  - [... that time limits in the 2025 video game Time Flies are based on the life expectancy of the country selected by the player?](https://en.wikipedia.org/wiki/Time_Flies_(video_game))
+  - [... that the death of Princess Charlotte precipitated " Hymen's war terrific ", a race among her middle-aged uncles to produce a new heir to the British throne?](https://en.wikipedia.org/wiki/Princess_Charlotte_of_Wales_(1796%E2%80%931817))
 <!--DYK:END-->
 
 ### XKCD for today
