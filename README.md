@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Moltke-class battlecruiser](https://en.wikipedia.org/wiki/Moltke-class_battlecruiser)
+  - [Hearst Tower (Manhattan)](https://en.wikipedia.org/wiki/Hearst_Tower_(Manhattan))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the walls of Babylon (reconstruction pictured) were included in many early lists of the Seven Wonders of the Ancient World ?](https://en.wikipedia.org/wiki/Walls_of_Babylon)
-  - [... that time limits in the 2025 video game Time Flies are based on the life expectancy of the country selected by the player?](https://en.wikipedia.org/wiki/Time_Flies_(video_game))
-  - [... that the death of Princess Charlotte precipitated " Hymen's war terrific ", a race among her middle-aged uncles to produce a new heir to the British throne?](https://en.wikipedia.org/wiki/Princess_Charlotte_of_Wales_(1796%E2%80%931817))
+  - [... that the jazz artist Aaron Diehl became the organist at St. Dominic Church (pictured) at the age of seven?](https://en.wikipedia.org/wiki/Aaron_Diehl)
+  - [... that the Link light rail system in Seattle is planned to include the first railway line on a floating bridge?](https://en.wikipedia.org/wiki/Link_light_rail)
+  - [... that the television host Jimmy Kimmel met his bandleader Cleto Escobedo III when they were both nine years old?](https://en.wikipedia.org/wiki/Jimmy_Kimmel)
 <!--DYK:END-->
 
 ### XKCD for today
