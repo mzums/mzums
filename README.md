@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hearst Tower (Manhattan)](https://en.wikipedia.org/wiki/Hearst_Tower_(Manhattan))
+  - [William Anderson (RAAF officer)](https://en.wikipedia.org/wiki/William_Anderson_(RAAF_officer))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the jazz artist Aaron Diehl became the organist at St. Dominic Church (pictured) at the age of seven?](https://en.wikipedia.org/wiki/Aaron_Diehl)
-  - [... that the Link light rail system in Seattle is planned to include the first railway line on a floating bridge?](https://en.wikipedia.org/wiki/Link_light_rail)
-  - [... that the television host Jimmy Kimmel met his bandleader Cleto Escobedo III when they were both nine years old?](https://en.wikipedia.org/wiki/Jimmy_Kimmel)
+  - [... that SKA Saint Petersburg's longest-tenured player (pictured) was traded to SKA after losing a playoff series to them?](https://en.wikipedia.org/wiki/Evgeny_Ketov)
+  - [... that Neoliner Origin is the largest wind-propelled cargo ship currently in service?](https://en.wikipedia.org/wiki/Neoliner_Origin)
+  - [... that Guillermo de Osma endowed his alma mater's De Osma Studentship to support Spanish studies at his Institute of Valencia de Don Juan ?](https://en.wikipedia.org/wiki/Guillermo_de_Osma)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Truly Universal Outlet](https://imgs.xkcd.com/comics/truly_universal_outlet.png)
+![High Altitude Cooking Instructions](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
 
-[Truly Universal Outlet](https://xkcd.com/3186) — *Building Inspectors HATE This One Weird Trick*
+[High Altitude Cooking Instructions](https://xkcd.com/3187) — *1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.*
 <!--XKCD:END-->
