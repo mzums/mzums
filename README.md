@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [William Anderson (RAAF officer)](https://en.wikipedia.org/wiki/William_Anderson_(RAAF_officer))
+  - [Tarrare](https://en.wikipedia.org/wiki/Tarrare)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that SKA Saint Petersburg's longest-tenured player (pictured) was traded to SKA after losing a playoff series to them?](https://en.wikipedia.org/wiki/Evgeny_Ketov)
-  - [... that Neoliner Origin is the largest wind-propelled cargo ship currently in service?](https://en.wikipedia.org/wiki/Neoliner_Origin)
-  - [... that Guillermo de Osma endowed his alma mater's De Osma Studentship to support Spanish studies at his Institute of Valencia de Don Juan ?](https://en.wikipedia.org/wiki/Guillermo_de_Osma)
+  - [... that one procedure for simultaneous approach (example pictured) allows aircraft to land on runways as close as 750 feet (230 m) apart?](https://en.wikipedia.org/wiki/Simultaneous_approach)
+  - [... that a doctor reattached a farmer's severed hand in a remote Swedish hospital in 1964?](https://en.wikipedia.org/wiki/Pite%C3%A5_Hospital)
+  - [... that 12-year-old Knowa De Baraso gained attention in the United States when he challenged Mike Lindell 's claims about the 2020 presidential election?](https://en.wikipedia.org/wiki/Knowa_De_Baraso)
 <!--DYK:END-->
 
 ### XKCD for today
