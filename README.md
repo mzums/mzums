@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tarrare](https://en.wikipedia.org/wiki/Tarrare)
+  - [Al-Muti'](https://en.wikipedia.org/wiki/Al-Muti')
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that one procedure for simultaneous approach (example pictured) allows aircraft to land on runways as close as 750 feet (230 m) apart?](https://en.wikipedia.org/wiki/Simultaneous_approach)
-  - [... that a doctor reattached a farmer's severed hand in a remote Swedish hospital in 1964?](https://en.wikipedia.org/wiki/Pite%C3%A5_Hospital)
-  - [... that 12-year-old Knowa De Baraso gained attention in the United States when he challenged Mike Lindell 's claims about the 2020 presidential election?](https://en.wikipedia.org/wiki/Knowa_De_Baraso)
+  - [... that the face of the goddess Hera in The Birth of the Milky Way (pictured) was modelled after Peter Paul Rubens 's wife?](https://en.wikipedia.org/wiki/The_Birth_of_the_Milky_Way)
+  - [... that cameras of the Canon EOS series were used to film portions of House , Dexter , and Iron Man 2 ?](https://en.wikipedia.org/wiki/Canon_EOS)
+  - [... that Laurence J. Lesh worked on the aerodynamics of horse-drawn gliders, sailboats, and throwing knives?](https://en.wikipedia.org/wiki/Laurence_J._Lesh)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![High Altitude Cooking Instructions](https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png)
+![Anyone Else Here](https://imgs.xkcd.com/comics/anyone_else_here.png)
 
-[High Altitude Cooking Instructions](https://xkcd.com/3187) — *1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer.*
+[Anyone Else Here](https://xkcd.com/3188) — *Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.*
 <!--XKCD:END-->
