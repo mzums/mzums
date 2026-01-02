@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Al-Muti'](https://en.wikipedia.org/wiki/Al-Muti')
+  - [Ann Cook (cookery book writer)](https://en.wikipedia.org/wiki/Ann_Cook_(cookery_book_writer))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the face of the goddess Hera in The Birth of the Milky Way (pictured) was modelled after Peter Paul Rubens 's wife?](https://en.wikipedia.org/wiki/The_Birth_of_the_Milky_Way)
-  - [... that cameras of the Canon EOS series were used to film portions of House , Dexter , and Iron Man 2 ?](https://en.wikipedia.org/wiki/Canon_EOS)
-  - [... that Laurence J. Lesh worked on the aerodynamics of horse-drawn gliders, sailboats, and throwing knives?](https://en.wikipedia.org/wiki/Laurence_J._Lesh)
+  - [... that the 1930 Marx Brothers film Animal Crackers (complete film featured) entered the public domain in the United States on January 1, 2026?](https://en.wikipedia.org/wiki/Marx_Brothers)
+  - [... that Jane Rigby was too short to become an astronaut, so she became an astronomer instead?](https://en.wikipedia.org/wiki/Jane_Rigby)
+  - [... that the ownership of Lucian Freud's portrait of Queen Elizabeth II is unclear?](https://en.wikipedia.org/wiki/Portrait_of_Elizabeth_II_(Freud))
 <!--DYK:END-->
 
 ### XKCD for today
