@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ann Cook (cookery book writer)](https://en.wikipedia.org/wiki/Ann_Cook_(cookery_book_writer))
+  - [Tseax Cone](https://en.wikipedia.org/wiki/Tseax_Cone)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the 1930 Marx Brothers film Animal Crackers (complete film featured) entered the public domain in the United States on January 1, 2026?](https://en.wikipedia.org/wiki/Marx_Brothers)
-  - [... that Jane Rigby was too short to become an astronaut, so she became an astronomer instead?](https://en.wikipedia.org/wiki/Jane_Rigby)
-  - [... that the ownership of Lucian Freud's portrait of Queen Elizabeth II is unclear?](https://en.wikipedia.org/wiki/Portrait_of_Elizabeth_II_(Freud))
+  - [... that, under the governments of Andreas Papandreou (pictured) , any Greek citizen raising political criticisms against him was considered a national security threat?](https://en.wikipedia.org/wiki/Andreas_Papandreou)
+  - [... that the Sweet Sulphur Springs hotel was famous for the supposed healing powers of its mineral waters?](https://en.wikipedia.org/wiki/Sweet_Sulphur_Springs)
+  - [... that the social work of Sister Stan was praised by two presidents of Ireland?](https://en.wikipedia.org/wiki/Stanislaus_Kennedy)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Anyone Else Here](https://imgs.xkcd.com/comics/anyone_else_here.png)
+![Conic Sections](https://imgs.xkcd.com/comics/conic_sections.png)
 
-[Anyone Else Here](https://xkcd.com/3188) — *Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.*
+[Conic Sections](https://xkcd.com/3189) — *They're not generally used for crewed spacecraft because astronauts HATE going around the corners.*
 <!--XKCD:END-->
