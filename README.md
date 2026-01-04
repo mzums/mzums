@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tseax Cone](https://en.wikipedia.org/wiki/Tseax_Cone)
+  - [Exhumation and reburial of Richard III of England](https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, under the governments of Andreas Papandreou (pictured) , any Greek citizen raising political criticisms against him was considered a national security threat?](https://en.wikipedia.org/wiki/Andreas_Papandreou)
-  - [... that the Sweet Sulphur Springs hotel was famous for the supposed healing powers of its mineral waters?](https://en.wikipedia.org/wiki/Sweet_Sulphur_Springs)
-  - [... that the social work of Sister Stan was praised by two presidents of Ireland?](https://en.wikipedia.org/wiki/Stanislaus_Kennedy)
+  - [... that the Zoninus collar (pictured) is the only known Roman slave collar that offers a reward for returning its wearer?](https://en.wikipedia.org/wiki/Zoninus_collar)
+  - [... that Nuala O'Faolain 's first book was so popular that shops sold copies straight from the box, because they did not have the time to shelve them?](https://en.wikipedia.org/wiki/Nuala_O%27Faolain)
+  - [... that the West Gold Hill dinosaur made a full turn and crossed its own path?](https://en.wikipedia.org/wiki/West_Gold_Hill_dinosaur_tracksite)
 <!--DYK:END-->
 
 ### XKCD for today
