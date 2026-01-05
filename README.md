@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Exhumation and reburial of Richard III of England](https://en.wikipedia.org/wiki/Exhumation_and_reburial_of_Richard_III_of_England)
+  - [Poisoning of Margaret Warden](https://en.wikipedia.org/wiki/Poisoning_of_Margaret_Warden)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Zoninus collar (pictured) is the only known Roman slave collar that offers a reward for returning its wearer?](https://en.wikipedia.org/wiki/Zoninus_collar)
-  - [... that Nuala O'Faolain 's first book was so popular that shops sold copies straight from the box, because they did not have the time to shelve them?](https://en.wikipedia.org/wiki/Nuala_O%27Faolain)
-  - [... that the West Gold Hill dinosaur made a full turn and crossed its own path?](https://en.wikipedia.org/wiki/West_Gold_Hill_dinosaur_tracksite)
+  - [... that Eugene Parker (pictured) described the mathematics behind his theory of solar wind as just "four lines of algebra"?](https://en.wikipedia.org/wiki/Eugene_Parker)
+  - [... that the Papyrus Bingen 45 may contain a word handwritten by Cleopatra?](https://en.wikipedia.org/wiki/Papyrus_Bingen_45)
+  - [... that the Free Universal Construction Kit connects ten otherwise incompatible children's construction toys?](https://en.wikipedia.org/wiki/Free_Universal_Construction_Kit)
 <!--DYK:END-->
 
 ### XKCD for today
