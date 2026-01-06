@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Poisoning of Margaret Warden](https://en.wikipedia.org/wiki/Poisoning_of_Margaret_Warden)
+  - [New England Revolution in international competition](https://en.wikipedia.org/wiki/New_England_Revolution_in_international_competition)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Eugene Parker (pictured) described the mathematics behind his theory of solar wind as just "four lines of algebra"?](https://en.wikipedia.org/wiki/Eugene_Parker)
-  - [... that the Papyrus Bingen 45 may contain a word handwritten by Cleopatra?](https://en.wikipedia.org/wiki/Papyrus_Bingen_45)
-  - [... that the Free Universal Construction Kit connects ten otherwise incompatible children's construction toys?](https://en.wikipedia.org/wiki/Free_Universal_Construction_Kit)
+  - [... that the art historian Murad Khan Mumtaz believes that the tree in Squirrels in a Plane Tree (pictured) represents the tree of life?](https://en.wikipedia.org/wiki/Murad_Khan_Mumtaz)
+  - [... that many women with polycystic ovary syndrome grow hair in a "male" pattern, including facial hair?](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)
+  - [... that painter Emily Powell used her synaesthesia to portray British prime minister Keir Starmer as a potted plant?](https://en.wikipedia.org/wiki/Emily_Powell)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Conic Sections](https://imgs.xkcd.com/comics/conic_sections.png)
+![Tensegrity](https://imgs.xkcd.com/comics/tensegrity.png)
 
-[Conic Sections](https://xkcd.com/3189) — *They're not generally used for crewed spacecraft because astronauts HATE going around the corners.*
+[Tensegrity](https://xkcd.com/3190) — *Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.*
 <!--XKCD:END-->
