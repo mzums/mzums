@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [New England Revolution in international competition](https://en.wikipedia.org/wiki/New_England_Revolution_in_international_competition)
+  - [Yoshi's New Island](https://en.wikipedia.org/wiki/Yoshi's_New_Island)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the art historian Murad Khan Mumtaz believes that the tree in Squirrels in a Plane Tree (pictured) represents the tree of life?](https://en.wikipedia.org/wiki/Murad_Khan_Mumtaz)
-  - [... that many women with polycystic ovary syndrome grow hair in a "male" pattern, including facial hair?](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)
-  - [... that painter Emily Powell used her synaesthesia to portray British prime minister Keir Starmer as a potted plant?](https://en.wikipedia.org/wiki/Emily_Powell)
+  - [... that the letters of Rachel Henning (pictured) were "deleted, distorted, and defaced" by their editor, according to one scholar?](https://en.wikipedia.org/wiki/Rachel_Henning)
+  - [... that one of the few jazz proponents of the euphonium was 20th-century musician Rich Matteson ?](https://en.wikipedia.org/wiki/Euphonium)
+  - [... that Jalal Baleedi played for a professional football club before becoming an Islamist militant?](https://en.wikipedia.org/wiki/Jalal_Baleedi)
 <!--DYK:END-->
 
 ### XKCD for today
