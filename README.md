@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yamato-class battleship](https://en.wikipedia.org/wiki/Yamato-class_battleship)
+  - [Political philosophy](https://en.wikipedia.org/wiki/Political_philosophy)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the coconut (examples pictured) may have bisexual flowers?](https://en.wikipedia.org/wiki/Coconut)
-  - [... that Franz Wilczek played a violin made of wood from a table that was handcrafted generations earlier by Native Americans?](https://en.wikipedia.org/wiki/Franz_Wilczek)
-  - [... that the "fall and rise of Femke Bol " refers to her fall in the mixed 4 × 400 m relay followed by her world title in the 400 metres hurdles ?](https://en.wikipedia.org/wiki/Femke_Bol)
+  - [... that Rembrandt's Pallas Athena (pictured) has sometimes been identified as a painting of Alexander the Great?](https://en.wikipedia.org/wiki/Pallas_Athena_(Rembrandt))
+  - [... that Kaleena Smith received her first NCAA Division I offer to play college basketball as a pre-teen?](https://en.wikipedia.org/wiki/Kaleena_Smith)
+  - [... that "transients" that appear in 1950s celestial images have been attributed to defects in the Palomar Observatory's photographic plates?](https://en.wikipedia.org/wiki/Aligned,_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey)
 <!--DYK:END-->
 
 ### XKCD for today
