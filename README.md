@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Political philosophy](https://en.wikipedia.org/wiki/Political_philosophy)
+  - [2021 Masters (snooker)](https://en.wikipedia.org/wiki/2021_Masters_(snooker))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Rembrandt's Pallas Athena (pictured) has sometimes been identified as a painting of Alexander the Great?](https://en.wikipedia.org/wiki/Pallas_Athena_(Rembrandt))
-  - [... that Kaleena Smith received her first NCAA Division I offer to play college basketball as a pre-teen?](https://en.wikipedia.org/wiki/Kaleena_Smith)
-  - [... that "transients" that appear in 1950s celestial images have been attributed to defects in the Palomar Observatory's photographic plates?](https://en.wikipedia.org/wiki/Aligned,_Multiple-transient_Events_in_the_First_Palomar_Sky_Survey)
+  - [... that dinosaur tracks near Lommiswil (examples pictured) were studied with a helicopter?](https://en.wikipedia.org/wiki/Lommiswil_tracksite)
+  - [... that actor Toru Watanabe ate six meals a day?](https://en.wikipedia.org/wiki/Toru_Watanabe)
+  - [... that a former New York City morgue later became an emergency children's shelter?](https://en.wikipedia.org/wiki/R_%26_S_Building)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Superstition](https://imgs.xkcd.com/comics/superstition.png)
+![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
 
-[Superstition](https://xkcd.com/3191) — *It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!*
+[Planetary Alignment](https://xkcd.com/3192) — *We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?*
 <!--XKCD:END-->
