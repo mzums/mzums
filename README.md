@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2021 Masters (snooker)](https://en.wikipedia.org/wiki/2021_Masters_(snooker))
+  - [Northern gannet](https://en.wikipedia.org/wiki/Northern_gannet)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that dinosaur tracks near Lommiswil (examples pictured) were studied with a helicopter?](https://en.wikipedia.org/wiki/Lommiswil_tracksite)
-  - [... that actor Toru Watanabe ate six meals a day?](https://en.wikipedia.org/wiki/Toru_Watanabe)
-  - [... that a former New York City morgue later became an emergency children's shelter?](https://en.wikipedia.org/wiki/R_%26_S_Building)
+  - [... that some Lake Superior agates have circular, concentric rings on their surfaces, called "eyes" (examples pictured) ?](https://en.wikipedia.org/wiki/Lake_Superior_agate)
+  - [... that Cūḷāmaṇi Cetiya is believed in Buddhist cosmology to enshrine both the Buddha's topknot and his right canine tooth?](https://en.wikipedia.org/wiki/C%C5%AB%E1%B8%B7%C4%81ma%E1%B9%87i_Cetiya)
+  - [... that Joscelin I of Edessa won his final battle while carried in a litter and died of his wounds shortly thereafter?](https://en.wikipedia.org/wiki/Joscelin_I,_Count_of_Edessa)
 <!--DYK:END-->
 
 ### XKCD for today
