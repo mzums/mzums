@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Elizabeth Alkin](https://en.wikipedia.org/wiki/Elizabeth_Alkin)
+  - [Shine (Gwen Stefani song)](https://en.wikipedia.org/wiki/Shine_(Gwen_Stefani_song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, after previous officials had "wanted to leave as soon as possible", Michael Menzinger (pictured) applied to become governor of Liechtenstein and served 28 years?](https://en.wikipedia.org/wiki/Michael_Menzinger)
-  - [... that the Indian emperor Jahangir commissioned a painting depicting his superiority over his rival, the Shah of Iran ?](https://en.wikipedia.org/wiki/Jahangir)
-  - [... that Dolores Jiménez y Muro staged a hunger strike from prison while she was in her sixties and in poor health?](https://en.wikipedia.org/wiki/Dolores_Jim%C3%A9nez_y_Muro)
+  - [... that the Chandigarh chair (example pictured) gained recognition in the West after European dealers displayed discarded chairs bought from the local government "for peanuts"?](https://en.wikipedia.org/wiki/Chandigarh_chair)
+  - [... that Hajime Kawakami once donated all of his belongings in accordance with his interpretation of the Sermon on the Mount ?](https://en.wikipedia.org/wiki/Hajime_Kawakami)
+  - [... that teams of college students have competed in the World Geography Bowl at the American Association of Geographers ' annual meeting since 1993?](https://en.wikipedia.org/wiki/World_Geography_Bowl)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)
+![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
 
-[Planetary Alignment](https://xkcd.com/3192) — *We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?*
+[Sailing Rigs](https://xkcd.com/3193) — *I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.*
 <!--XKCD:END-->
