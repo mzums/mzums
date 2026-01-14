@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Shine (Gwen Stefani song)](https://en.wikipedia.org/wiki/Shine_(Gwen_Stefani_song))
+  - [The Snow Queen (Kernaghan novel)](https://en.wikipedia.org/wiki/The_Snow_Queen_(Kernaghan_novel))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Chandigarh chair (example pictured) gained recognition in the West after European dealers displayed discarded chairs bought from the local government "for peanuts"?](https://en.wikipedia.org/wiki/Chandigarh_chair)
-  - [... that Hajime Kawakami once donated all of his belongings in accordance with his interpretation of the Sermon on the Mount ?](https://en.wikipedia.org/wiki/Hajime_Kawakami)
-  - [... that teams of college students have competed in the World Geography Bowl at the American Association of Geographers ' annual meeting since 1993?](https://en.wikipedia.org/wiki/World_Geography_Bowl)
+  - [... that Portrait of Elisabeth Lederer (pictured) is one of the most valuable paintings ever sold at auction?](https://en.wikipedia.org/wiki/Portrait_of_Elisabeth_Lederer)
+  - [... that the Dukiełka stream in southeastern Poland supplied water to a 19th-century brewery?](https://en.wikipedia.org/wiki/Dukie%C5%82ka)
+  - [... that Isamu Noguchi designed Akari light sculptures because a Japanese mayor asked him to revitalize the dying paper-lantern industry?](https://en.wikipedia.org/wiki/Akari_(lamp))
 <!--DYK:END-->
 
 ### XKCD for today
