@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Snow Queen (Kernaghan novel)](https://en.wikipedia.org/wiki/The_Snow_Queen_(Kernaghan_novel))
+  - [Louis Abramson](https://en.wikipedia.org/wiki/Louis_Abramson)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Portrait of Elisabeth Lederer (pictured) is one of the most valuable paintings ever sold at auction?](https://en.wikipedia.org/wiki/Portrait_of_Elisabeth_Lederer)
-  - [... that the Dukiełka stream in southeastern Poland supplied water to a 19th-century brewery?](https://en.wikipedia.org/wiki/Dukie%C5%82ka)
-  - [... that Isamu Noguchi designed Akari light sculptures because a Japanese mayor asked him to revitalize the dying paper-lantern industry?](https://en.wikipedia.org/wiki/Akari_(lamp))
+  - [... that Nubian ibex (pictured) have special desert adaptations compared to other wild goats, including thicker skin to protect from solar radiation and water loss?](https://en.wikipedia.org/wiki/Nubian_ibex)
+  - [... that Mike Soutar went viral on TikTok for his forensic investigations of business plans?](https://en.wikipedia.org/wiki/Mike_Soutar)
+  - [... that Aram Khachaturian 's " Sabre Dance ", a classical piece, was turned into a UK rock hit?](https://en.wikipedia.org/wiki/Aram_Khachaturian)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)
+![16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
 
-[Sailing Rigs](https://xkcd.com/3193) — *I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.*
+[16-Part Epoxy](https://xkcd.com/3194) — *Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.*
 <!--XKCD:END-->
