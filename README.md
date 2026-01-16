@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Louis Abramson](https://en.wikipedia.org/wiki/Louis_Abramson)
+  - [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nubian ibex (pictured) have special desert adaptations compared to other wild goats, including thicker skin to protect from solar radiation and water loss?](https://en.wikipedia.org/wiki/Nubian_ibex)
-  - [... that Mike Soutar went viral on TikTok for his forensic investigations of business plans?](https://en.wikipedia.org/wiki/Mike_Soutar)
-  - [... that Aram Khachaturian 's " Sabre Dance ", a classical piece, was turned into a UK rock hit?](https://en.wikipedia.org/wiki/Aram_Khachaturian)
+  - [... that, when reminiscing about her Spitting Image puppet, bonkbuster writer Jilly Cooper (pictured) only remembered it shouting "sex sex sex sex sex sex"?](https://en.wikipedia.org/wiki/Bonkbuster)
+  - [... that the film Wicked was dubbed by actresses who were part of the stage show in various countries returning to voice their characters?](https://en.wikipedia.org/wiki/Wicked_(2024_film))
+  - [... that Fernando Mayén was named the top college football player in Mexico in 2023 after leading the nation with 14 touchdowns?](https://en.wikipedia.org/wiki/Fernando_May%C3%A9n)
 <!--DYK:END-->
 
 ### XKCD for today
