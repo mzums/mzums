@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)
+  - [Frank Hague](https://en.wikipedia.org/wiki/Frank_Hague)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, when reminiscing about her Spitting Image puppet, bonkbuster writer Jilly Cooper (pictured) only remembered it shouting "sex sex sex sex sex sex"?](https://en.wikipedia.org/wiki/Bonkbuster)
-  - [... that the film Wicked was dubbed by actresses who were part of the stage show in various countries returning to voice their characters?](https://en.wikipedia.org/wiki/Wicked_(2024_film))
-  - [... that Fernando Mayén was named the top college football player in Mexico in 2023 after leading the nation with 14 touchdowns?](https://en.wikipedia.org/wiki/Fernando_May%C3%A9n)
+  - [... that the Indian emperor Jahangir was so amazed by the emaciated condition of a dying nobleman that he ordered a court artist to create a painting of him (detail pictured) ?](https://en.wikipedia.org/wiki/Jahangir)
+  - [... that Young MasterChef judge Poppy O'Toole accidentally caused an archaic term for the vulva to trend online?](https://en.wikipedia.org/wiki/Young_MasterChef)
+  - [... that Against the Current singer Chrissy Costanza sang a promotional song for the Genshin Impact character Mavuika ?](https://en.wikipedia.org/wiki/Against_the_Current_(band))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![16-Part Epoxy](https://imgs.xkcd.com/comics/16_part_epoxy.png)
+![International Station](https://imgs.xkcd.com/comics/international_station.png)
 
-[16-Part Epoxy](https://xkcd.com/3194) — *Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors.*
+[International Station](https://xkcd.com/3195) — *Welcome to the International Space Station Exclamation Point!*
 <!--XKCD:END-->
