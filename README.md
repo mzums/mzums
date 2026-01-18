@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Frank Hague](https://en.wikipedia.org/wiki/Frank_Hague)
+  - [2017 Africa Cup of Nations final](https://en.wikipedia.org/wiki/2017_Africa_Cup_of_Nations_final)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Indian emperor Jahangir was so amazed by the emaciated condition of a dying nobleman that he ordered a court artist to create a painting of him (detail pictured) ?](https://en.wikipedia.org/wiki/Jahangir)
-  - [... that Young MasterChef judge Poppy O'Toole accidentally caused an archaic term for the vulva to trend online?](https://en.wikipedia.org/wiki/Young_MasterChef)
-  - [... that Against the Current singer Chrissy Costanza sang a promotional song for the Genshin Impact character Mavuika ?](https://en.wikipedia.org/wiki/Against_the_Current_(band))
+  - [... that the extinct oak relative Fagopsis had wind-carried fruit wedges (fossil pictured) ?](https://en.wikipedia.org/wiki/Fagopsis)
+  - [... that a historian described Eugene S. Bonelli as San Francisco's "most eminent early musician" who was a "performer and instructor, with just a dash of quack doctor thrown in for good measure"?](https://en.wikipedia.org/wiki/Eugene_S._Bonelli)
+  - [... that British DJ Wes Butters said that he received a murder threat over his song " Ring Ding Ding "?](https://en.wikipedia.org/wiki/Wes_Butters)
 <!--DYK:END-->
 
 ### XKCD for today
