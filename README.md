@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2017 Africa Cup of Nations final](https://en.wikipedia.org/wiki/2017_Africa_Cup_of_Nations_final)
+  - [Edward III's Breton campaign](https://en.wikipedia.org/wiki/Edward_III's_Breton_campaign)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the extinct oak relative Fagopsis had wind-carried fruit wedges (fossil pictured) ?](https://en.wikipedia.org/wiki/Fagopsis)
-  - [... that a historian described Eugene S. Bonelli as San Francisco's "most eminent early musician" who was a "performer and instructor, with just a dash of quack doctor thrown in for good measure"?](https://en.wikipedia.org/wiki/Eugene_S._Bonelli)
-  - [... that British DJ Wes Butters said that he received a murder threat over his song " Ring Ding Ding "?](https://en.wikipedia.org/wiki/Wes_Butters)
+  - [... that Wiley Griffon (pictured with streetcar) became the first streetcar operator in Eugene, Oregon, despite Black settlers being outlawed in the state?](https://en.wikipedia.org/wiki/Wiley_Griffon)
+  - [... that Martin Luther King Jr.'s speech "The Other America" is thought to have been influenced by a post-Keynesian economist and a democratic socialist ?](https://en.wikipedia.org/wiki/The_Other_America_(speech))
+  - [... that Dorothy Homer declared her library was "dedicated to the principles of Democracy which cherish books while Dictatorships burn them"?](https://en.wikipedia.org/wiki/Dorothy_Robinson_Homer)
 <!--DYK:END-->
 
 ### XKCD for today
