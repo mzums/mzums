@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Musidora: The Bather 'At the Doubtful Breeze Alarmed'](https://en.wikipedia.org/wiki/Musidora:_The_Bather_'At_the_Doubtful_Breeze_Alarmed')
+  - [CSS General Earl Van Dorn](https://en.wikipedia.org/wiki/CSS_General_Earl_Van_Dorn)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that remains from the largest rodent in history (pictured) were found in Uruguay ?](https://en.wikipedia.org/wiki/Paleontology_in_Uruguay)
-  - [... that Thomas Edison made talking dolls?](https://en.wikipedia.org/wiki/Thomas_Edison)
-  - [... that a 17th-century painting shows a half-naked ascetic in a cave occupying the position of honour, even ahead of the emperor ?](https://en.wikipedia.org/wiki/Jahangir_Visiting_the_Ascetic_Jadrup)
+  - [... that the function of more than thirty grooved stone pillars at Horvat Sumaqa (pictured) remains unknown?](https://en.wikipedia.org/wiki/Horvat_Sumaqa)
+  - [... that an early Elton John song has been described as "only marginally less horrifying" than its title?](https://en.wikipedia.org/wiki/Jamaica_Jerk-Off)
+  - [... that two rowhouses survive amid skyscrapers in Midtown Manhattan?](https://en.wikipedia.org/wiki/311_and_313_East_58th_Street)
 <!--DYK:END-->
 
 ### XKCD for today
