@@ -9,12 +9,11 @@ An aspiring computer science student.
 
 ## 📌 Projects that I'm proud of
 <!--PINNED:START-->
-- [typeman](https://github.com/mzums/typeman) -  Typing speed test with practice mode in GUI, TUI and CLI 
-- [algorithms](https://github.com/mzums/algorithms)
-- [machine-learning](https://github.com/mzums/machine-learning)
-- [tic-tac-toe](https://github.com/mzums/tic-tac-toe) - Tic Tac Toe bot using various technics
-- [arch-i3wm-rice](https://github.com/mzums/arch-i3wm-rice) - stay safe and don't go out
-- [battleship](https://github.com/mzums/battleship) - cli written in rust
+GitHub API error 401: {
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
+}
 <!--PINNED:END-->
 
 ## Currently learning:
@@ -28,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [CSS General Earl Van Dorn](https://en.wikipedia.org/wiki/CSS_General_Earl_Van_Dorn)
+  - [Louis Leblanc](https://en.wikipedia.org/wiki/Louis_Leblanc)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the function of more than thirty grooved stone pillars at Horvat Sumaqa (pictured) remains unknown?](https://en.wikipedia.org/wiki/Horvat_Sumaqa)
-  - [... that an early Elton John song has been described as "only marginally less horrifying" than its title?](https://en.wikipedia.org/wiki/Jamaica_Jerk-Off)
-  - [... that two rowhouses survive amid skyscrapers in Midtown Manhattan?](https://en.wikipedia.org/wiki/311_and_313_East_58th_Street)
+  - [... that a 17th-century painting depicts the goddess Bhairavi wearing a skirt made of skulls (pictured) ?](https://en.wikipedia.org/wiki/The_Goddess_Bhairavi_Devi_with_Shiva)
+  - [... that Stephanie Gilmore won her first four surfing world titles in her first four seasons on the professional circuit?](https://en.wikipedia.org/wiki/Stephanie_Gilmore)
+  - [... that pieces of Atlanta's Carnegie Library were reused as vehicle barricades after the library was demolished?](https://en.wikipedia.org/wiki/Carnegie_Library_(Atlanta))
 <!--DYK:END-->
 
 ### XKCD for today
