@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Louis Leblanc](https://en.wikipedia.org/wiki/Louis_Leblanc)
+  - [History of the Jews in Dęblin and Irena during World War II](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Dęblin_and_Irena_during_World_War_II)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a 17th-century painting depicts the goddess Bhairavi wearing a skirt made of skulls (pictured) ?](https://en.wikipedia.org/wiki/The_Goddess_Bhairavi_Devi_with_Shiva)
-  - [... that Stephanie Gilmore won her first four surfing world titles in her first four seasons on the professional circuit?](https://en.wikipedia.org/wiki/Stephanie_Gilmore)
-  - [... that pieces of Atlanta's Carnegie Library were reused as vehicle barricades after the library was demolished?](https://en.wikipedia.org/wiki/Carnegie_Library_(Atlanta))
+  - [... that a lake at the John Deere World Headquarters (pictured) is used for air conditioning?](https://en.wikipedia.org/wiki/John_Deere_World_Headquarters)
+  - [... that a 16th-century painting is based on a sultan's description of himself as a god?](https://en.wikipedia.org/wiki/Sultan_Ibrahim_Adil_Shah_II_Playing_the_Tambur)
+  - [... that Idaho's Ridgevue High School collaborated with a local museum to select their mascot, which honors the P-40 Warhawk World War II fighter plane?](https://en.wikipedia.org/wiki/Ridgevue_High_School)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Double-Pronged Extension Cord](https://imgs.xkcd.com/comics/double_pronged_extension_cord.png)
+![Early Arthropods](https://imgs.xkcd.com/comics/early_arthropods.png)
 
-[Double-Pronged Extension Cord](https://xkcd.com/3198) — *'Oh, and can I borrow 50 sacks of loose flour, a pile of lithium-ion batteries, a bucket of bleach, and a bucket of vinega--' 'NO!!!!!!'*
+[Early Arthropods](https://xkcd.com/3199) — *'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects*
 <!--XKCD:END-->
