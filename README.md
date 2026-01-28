@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [History of the Jews in Dęblin and Irena during World War II](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Dęblin_and_Irena_during_World_War_II)
+  - [The Ladies' Journal](https://en.wikipedia.org/wiki/The_Ladies'_Journal)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a lake at the John Deere World Headquarters (pictured) is used for air conditioning?](https://en.wikipedia.org/wiki/John_Deere_World_Headquarters)
-  - [... that a 16th-century painting is based on a sultan's description of himself as a god?](https://en.wikipedia.org/wiki/Sultan_Ibrahim_Adil_Shah_II_Playing_the_Tambur)
-  - [... that Idaho's Ridgevue High School collaborated with a local museum to select their mascot, which honors the P-40 Warhawk World War II fighter plane?](https://en.wikipedia.org/wiki/Ridgevue_High_School)
+  - [... that the US Navy sold USS Severn (pictured) as part of a scheme to build a new warship discreetly?](https://en.wikipedia.org/wiki/USS_Severn_(1867))
+  - [... that El Sistema Sweden has provided low-cost or free music lessons to 9,000 children across 30 Swedish cities?](https://en.wikipedia.org/wiki/El_Sistema_Sweden)
+  - [... that a bad review inspired Aya Ogawa to create an Obie Award –winning play?](https://en.wikipedia.org/wiki/Aya_Ogawa_(playwright))
 <!--DYK:END-->
 
 ### XKCD for today
