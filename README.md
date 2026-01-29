@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Ladies' Journal](https://en.wikipedia.org/wiki/The_Ladies'_Journal)
+  - [Opifex fuscus](https://en.wikipedia.org/wiki/Opifex_fuscus)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the US Navy sold USS Severn (pictured) as part of a scheme to build a new warship discreetly?](https://en.wikipedia.org/wiki/USS_Severn_(1867))
-  - [... that El Sistema Sweden has provided low-cost or free music lessons to 9,000 children across 30 Swedish cities?](https://en.wikipedia.org/wiki/El_Sistema_Sweden)
-  - [... that a bad review inspired Aya Ogawa to create an Obie Award –winning play?](https://en.wikipedia.org/wiki/Aya_Ogawa_(playwright))
+  - [... that Tudor Arghezi (pictured) , "perhaps the strongest personality in all of 20th-century Romanian literature", claimed that he could identify people with cancer by their smell?](https://en.wikipedia.org/wiki/Tudor_Arghezi)
+  - [... that footballer Matilda Nildén went viral after being unexpectedly soaked by stadium sprinklers during a live halftime TV interview?](https://en.wikipedia.org/wiki/Matilda_Nild%C3%A9n)
+  - [... that the live stream of the cassation hearing for Larisa Dolina's apartment deal was the most-watched in the history of the Supreme Court of Russia ?](https://en.wikipedia.org/wiki/Court_of_cassation)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Early Arthropods](https://imgs.xkcd.com/comics/early_arthropods.png)
+![Chemical Formula](https://imgs.xkcd.com/comics/chemical_formula.png)
 
-[Early Arthropods](https://xkcd.com/3199) — *'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects*
+[Chemical Formula](https://xkcd.com/3200) — *Some of the atoms in the molecule are very weakly bound.*
 <!--XKCD:END-->
