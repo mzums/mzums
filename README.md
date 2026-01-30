@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Opifex fuscus](https://en.wikipedia.org/wiki/Opifex_fuscus)
+  - [Life on Mars?](https://en.wikipedia.org/wiki/Life_on_Mars?)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Tudor Arghezi (pictured) , "perhaps the strongest personality in all of 20th-century Romanian literature", claimed that he could identify people with cancer by their smell?](https://en.wikipedia.org/wiki/Tudor_Arghezi)
-  - [... that footballer Matilda Nildén went viral after being unexpectedly soaked by stadium sprinklers during a live halftime TV interview?](https://en.wikipedia.org/wiki/Matilda_Nild%C3%A9n)
-  - [... that the live stream of the cassation hearing for Larisa Dolina's apartment deal was the most-watched in the history of the Supreme Court of Russia ?](https://en.wikipedia.org/wiki/Court_of_cassation)
+  - [... that in 2013 a barrack from the Beaune-la-Rolande internment camp (pictured) was discovered in a private garden, still bearing detainees' graffiti from 1942?](https://en.wikipedia.org/wiki/Beaune-la-Rolande_internment_camp)
+  - [... that a giant mask was added to the El Colotero sculpture in 2020 to raise awareness of COVID-19?](https://en.wikipedia.org/wiki/El_Colotero)
+  - [... that the New York City Police Department was deceived into guarding a nearly-vacant house ?](https://en.wikipedia.org/wiki/John_Henry_Hammond_House)
 <!--DYK:END-->
 
 ### XKCD for today
