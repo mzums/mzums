@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Life on Mars?](https://en.wikipedia.org/wiki/Life_on_Mars?)
+  - [Ford Foundation Center for Social Justice](https://en.wikipedia.org/wiki/Ford_Foundation_Center_for_Social_Justice)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that in 2013 a barrack from the Beaune-la-Rolande internment camp (pictured) was discovered in a private garden, still bearing detainees' graffiti from 1942?](https://en.wikipedia.org/wiki/Beaune-la-Rolande_internment_camp)
-  - [... that a giant mask was added to the El Colotero sculpture in 2020 to raise awareness of COVID-19?](https://en.wikipedia.org/wiki/El_Colotero)
-  - [... that the New York City Police Department was deceived into guarding a nearly-vacant house ?](https://en.wikipedia.org/wiki/John_Henry_Hammond_House)
+  - [... that the Washington DC Snowball Fight Association was formed when around 2,000 people showed up to a snowball fight (pictured) organized over Facebook?](https://en.wikipedia.org/wiki/Washington_DC_Snowball_Fight_Association)
+  - [... that Emily Sutton illustrated an abridged children's edition of Shakespeare's First Folio with "red-cheeked gentlemen, sword-wielding warriors and ladies in striking attire"?](https://en.wikipedia.org/wiki/Emily_Sutton)
+  - [... that gamblers in Myanmar worship the spirit Thone Myo Shin to ensure victory in cockfights?](https://en.wikipedia.org/wiki/Thone_Myo_Shin)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Chemical Formula](https://imgs.xkcd.com/comics/chemical_formula.png)
+![Proof Without Content](https://imgs.xkcd.com/comics/proof_without_content.png)
 
-[Chemical Formula](https://xkcd.com/3200) — *Some of the atoms in the molecule are very weakly bound.*
+[Proof Without Content](https://xkcd.com/3201) — *There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.*
 <!--XKCD:END-->
