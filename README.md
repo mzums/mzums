@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ford Foundation Center for Social Justice](https://en.wikipedia.org/wiki/Ford_Foundation_Center_for_Social_Justice)
+  - [Siege of Utica](https://en.wikipedia.org/wiki/Siege_of_Utica)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Washington DC Snowball Fight Association was formed when around 2,000 people showed up to a snowball fight (pictured) organized over Facebook?](https://en.wikipedia.org/wiki/Washington_DC_Snowball_Fight_Association)
-  - [... that Emily Sutton illustrated an abridged children's edition of Shakespeare's First Folio with "red-cheeked gentlemen, sword-wielding warriors and ladies in striking attire"?](https://en.wikipedia.org/wiki/Emily_Sutton)
-  - [... that gamblers in Myanmar worship the spirit Thone Myo Shin to ensure victory in cockfights?](https://en.wikipedia.org/wiki/Thone_Myo_Shin)
+  - [... that Veronika the cow can scratch herself using brooms (depicted) ?](https://en.wikipedia.org/wiki/Veronika_(cow))
+  - [... that a popular series interviews celebrities without an interviewer?](https://en.wikipedia.org/wiki/Autocomplete_Interview)
+  - [... that a Mexican vice admiral who exposed radioactive milk imports was accused of treason and sent to the Revillagigedo Islands?](https://en.wikipedia.org/wiki/1986%E2%80%931988_radioactive_milk_distribution_in_Mexico)
 <!--DYK:END-->
 
 ### XKCD for today
