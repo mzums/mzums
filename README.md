@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Siege of Utica](https://en.wikipedia.org/wiki/Siege_of_Utica)
+  - [Mount Edziza](https://en.wikipedia.org/wiki/Mount_Edziza)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Veronika the cow can scratch herself using brooms (depicted) ?](https://en.wikipedia.org/wiki/Veronika_(cow))
-  - [... that a popular series interviews celebrities without an interviewer?](https://en.wikipedia.org/wiki/Autocomplete_Interview)
-  - [... that a Mexican vice admiral who exposed radioactive milk imports was accused of treason and sent to the Revillagigedo Islands?](https://en.wikipedia.org/wiki/1986%E2%80%931988_radioactive_milk_distribution_in_Mexico)
+  - [... that Cuba's Girardinus fish (pictured) may have evolved into different species because the island's rivers are often interrupted by waterfalls or vanish underground?](https://en.wikipedia.org/wiki/Girardinus)
+  - [... that Tinashe's 333 and Wishy's Triple Seven are both named for angel numbers?](https://en.wikipedia.org/wiki/333_(Tinashe_album))
+  - [... that slipper lamps produced in the Umayyad era sometimes carried bilingual inscriptions with "The Light of Christ shines for all" in Greek, alongside "God" ( Allah ) in Arabic?](https://en.wikipedia.org/wiki/Slipper_lamp)
 <!--DYK:END-->
 
 ### XKCD for today
