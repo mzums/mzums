@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mount Edziza](https://en.wikipedia.org/wiki/Mount_Edziza)
+  - [Friedrich Wilhelm von Seydlitz](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Seydlitz)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Cuba's Girardinus fish (pictured) may have evolved into different species because the island's rivers are often interrupted by waterfalls or vanish underground?](https://en.wikipedia.org/wiki/Girardinus)
-  - [... that Tinashe's 333 and Wishy's Triple Seven are both named for angel numbers?](https://en.wikipedia.org/wiki/333_(Tinashe_album))
-  - [... that slipper lamps produced in the Umayyad era sometimes carried bilingual inscriptions with "The Light of Christ shines for all" in Greek, alongside "God" ( Allah ) in Arabic?](https://en.wikipedia.org/wiki/Slipper_lamp)
+  - [... that a 17th-century painting (pictured) may depict the emperor Jahangir listening as a portrait of his dead father speaks to him?](https://en.wikipedia.org/wiki/Jahangir_with_a_Portrait_of_Akbar)
+  - [... that Achmad Soebardjo said that he adopted a surname after hearing a voice while urinating in prison?](https://en.wikipedia.org/wiki/Achmad_Soebardjo)
+  - [... that Munich's " Shirker's Alley " got its nickname in the 1930s because people used it to avoid giving the Hitler salute at a nearby Nazi memorial?](https://en.wikipedia.org/wiki/Dr%C3%BCckebergergasse)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Proof Without Content](https://imgs.xkcd.com/comics/proof_without_content.png)
+![Groundhog Day Meaning](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
 
-[Proof Without Content](https://xkcd.com/3201) — *There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.*
+[Groundhog Day Meaning](https://xkcd.com/3202) — *Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.*
 <!--XKCD:END-->
