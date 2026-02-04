@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Friedrich Wilhelm von Seydlitz](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Seydlitz)
+  - [Rosa Parks](https://en.wikipedia.org/wiki/Rosa_Parks)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a 17th-century painting (pictured) may depict the emperor Jahangir listening as a portrait of his dead father speaks to him?](https://en.wikipedia.org/wiki/Jahangir_with_a_Portrait_of_Akbar)
-  - [... that Achmad Soebardjo said that he adopted a surname after hearing a voice while urinating in prison?](https://en.wikipedia.org/wiki/Achmad_Soebardjo)
-  - [... that Munich's " Shirker's Alley " got its nickname in the 1930s because people used it to avoid giving the Hitler salute at a nearby Nazi memorial?](https://en.wikipedia.org/wiki/Dr%C3%BCckebergergasse)
+  - [... that Nemiah Wilson (pictured) ran a tailoring business while playing in the NFL?](https://en.wikipedia.org/wiki/Nemiah_Wilson)
+  - [... that Yun Jin 's appearance in Genshin Impact draws inspiration from legendary Chinese figures like Hua Mulan ?](https://en.wikipedia.org/wiki/Yun_Jin)
+  - [... that Donald Rumsfeld helped develop a mobile game ?](https://en.wikipedia.org/wiki/Donald_Rumsfeld)
 <!--DYK:END-->
 
 ### XKCD for today
