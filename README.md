@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Rosa Parks](https://en.wikipedia.org/wiki/Rosa_Parks)
+  - [Saxaul sparrow](https://en.wikipedia.org/wiki/Saxaul_sparrow)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nemiah Wilson (pictured) ran a tailoring business while playing in the NFL?](https://en.wikipedia.org/wiki/Nemiah_Wilson)
-  - [... that Yun Jin 's appearance in Genshin Impact draws inspiration from legendary Chinese figures like Hua Mulan ?](https://en.wikipedia.org/wiki/Yun_Jin)
-  - [... that Donald Rumsfeld helped develop a mobile game ?](https://en.wikipedia.org/wiki/Donald_Rumsfeld)
+  - [... that the Oceanic Steamship Company (advertisement pictured) beat a rival company in a trans-Pacific race, bought the rival's ships, and added them to its own fleet ?](https://en.wikipedia.org/wiki/Oceanic_Steamship_Company)
+  - [... that the play Sagittarius Ponderosa by MJ Kaufman recreates the scent of a tree as part of the performance?](https://en.wikipedia.org/wiki/Sagittarius_Ponderosa)
+  - [... that Thea Ehre performed nude at the 2021 Porn Film Festival Vienna ?](https://en.wikipedia.org/wiki/Thea_Ehre)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Groundhog Day Meaning](https://imgs.xkcd.com/comics/groundhog_day_meaning.png)
+![Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
 
-[Groundhog Day Meaning](https://xkcd.com/3202) — *Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.*
+[Binary Star](https://xkcd.com/3203) — *The discovery of a fully typographical star system comes with a big asterisk.*
 <!--XKCD:END-->
