@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Saxaul sparrow](https://en.wikipedia.org/wiki/Saxaul_sparrow)
+  - [Tara Lipinski](https://en.wikipedia.org/wiki/Tara_Lipinski)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Oceanic Steamship Company (advertisement pictured) beat a rival company in a trans-Pacific race, bought the rival's ships, and added them to its own fleet ?](https://en.wikipedia.org/wiki/Oceanic_Steamship_Company)
-  - [... that the play Sagittarius Ponderosa by MJ Kaufman recreates the scent of a tree as part of the performance?](https://en.wikipedia.org/wiki/Sagittarius_Ponderosa)
-  - [... that Thea Ehre performed nude at the 2021 Porn Film Festival Vienna ?](https://en.wikipedia.org/wiki/Thea_Ehre)
+  - [... that a photograph of an airplane propeller taken by a camera with a rolling shutter (pictured) may distort the propeller into curves resembling the quadratrix of Hippias ?](https://en.wikipedia.org/wiki/Rolling_shutter)
+  - [... that the remains of at least 970 people were discovered at the former Kilkenny Union Workhouse ?](https://en.wikipedia.org/wiki/Kilkenny_Union_Workhouse)
+  - [... that 17-year-old video game developers Andy Gavin and Jason Rubin obtained a contract with Electronic Arts by cold-calling them and sending them a copy of Dream Zone ?](https://en.wikipedia.org/wiki/Andy_Gavin)
 <!--DYK:END-->
 
 ### XKCD for today
