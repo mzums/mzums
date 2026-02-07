@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tara Lipinski](https://en.wikipedia.org/wiki/Tara_Lipinski)
+  - [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a photograph of an airplane propeller taken by a camera with a rolling shutter (pictured) may distort the propeller into curves resembling the quadratrix of Hippias ?](https://en.wikipedia.org/wiki/Rolling_shutter)
-  - [... that the remains of at least 970 people were discovered at the former Kilkenny Union Workhouse ?](https://en.wikipedia.org/wiki/Kilkenny_Union_Workhouse)
-  - [... that 17-year-old video game developers Andy Gavin and Jason Rubin obtained a contract with Electronic Arts by cold-calling them and sending them a copy of Dream Zone ?](https://en.wikipedia.org/wiki/Andy_Gavin)
+  - [... that Yucatán molly males flare their "sails" (pictured) both to woo and to shoo?](https://en.wikipedia.org/wiki/Poecilia_velifera)
+  - [... that Wales's first Commonwealth Games medallist in shooting walked off the podium when the wrong national anthem was played?](https://en.wikipedia.org/wiki/John_Vivian,_4th_Baron_Swansea)
+  - [... that the death of the heath hen Booming Ben marked the first time that biologists observed the extinction of a species firsthand?](https://en.wikipedia.org/wiki/Booming_Ben)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Binary Star](https://imgs.xkcd.com/comics/binary_star.png)
+![Dinosaurs And Non-Dinosaurs](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
 
-[Binary Star](https://xkcd.com/3203) — *The discovery of a fully typographical star system comes with a big asterisk.*
+[Dinosaurs And Non-Dinosaurs](https://xkcd.com/3204) — *Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.*
 <!--XKCD:END-->
