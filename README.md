@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics)
+  - [Master Juba](https://en.wikipedia.org/wiki/Master_Juba)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Yucatán molly males flare their "sails" (pictured) both to woo and to shoo?](https://en.wikipedia.org/wiki/Poecilia_velifera)
-  - [... that Wales's first Commonwealth Games medallist in shooting walked off the podium when the wrong national anthem was played?](https://en.wikipedia.org/wiki/John_Vivian,_4th_Baron_Swansea)
-  - [... that the death of the heath hen Booming Ben marked the first time that biologists observed the extinction of a species firsthand?](https://en.wikipedia.org/wiki/Booming_Ben)
+  - [... that the College of William & Mary was established by royal charter (pictured) 333 years ago today?](https://en.wikipedia.org/wiki/College_of_William_%26_Mary)
+  - [... that Richard Lee Morton became the head of the College of William & Mary's history department after two years of teaching?](https://en.wikipedia.org/wiki/Richard_Lee_Morton)
+  - [... that Chandler Court and Pollard Park , which were designed and occupied by William & Mary faculty, have been called "two of Williamsburg 's most appealing twentieth-century neighborhoods"?](https://en.wikipedia.org/wiki/Chandler_Court_and_Pollard_Park_Historic_District)
 <!--DYK:END-->
 
 ### XKCD for today
