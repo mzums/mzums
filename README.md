@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Master Juba](https://en.wikipedia.org/wiki/Master_Juba)
+  - [Mud March (suffragists)](https://en.wikipedia.org/wiki/Mud_March_(suffragists))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the College of William & Mary was established by royal charter (pictured) 333 years ago today?](https://en.wikipedia.org/wiki/College_of_William_%26_Mary)
-  - [... that Richard Lee Morton became the head of the College of William & Mary's history department after two years of teaching?](https://en.wikipedia.org/wiki/Richard_Lee_Morton)
-  - [... that Chandler Court and Pollard Park , which were designed and occupied by William & Mary faculty, have been called "two of Williamsburg 's most appealing twentieth-century neighborhoods"?](https://en.wikipedia.org/wiki/Chandler_Court_and_Pollard_Park_Historic_District)
+  - [... that the Bombay sandwich (example pictured) typically uses potatoes and chutney, but some versions use chocolate?](https://en.wikipedia.org/wiki/Bombay_sandwich)
+  - [... that all five chaplains awarded the Medal of Honor since the American Civil War were Catholic priests?](https://en.wikipedia.org/wiki/List_of_Chaplain_Corps_Medal_of_Honor_recipients)
+  - [... that the attorney of the last person executed by Peru requested Pope John Paul II's intervention to save his client's life?](https://en.wikipedia.org/wiki/Julio_Vargas_Garayar)
 <!--DYK:END-->
 
 ### XKCD for today
