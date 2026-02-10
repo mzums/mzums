@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mud March (suffragists)](https://en.wikipedia.org/wiki/Mud_March_(suffragists))
+  - [St Scholastica Day riot](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Bombay sandwich (example pictured) typically uses potatoes and chutney, but some versions use chocolate?](https://en.wikipedia.org/wiki/Bombay_sandwich)
-  - [... that all five chaplains awarded the Medal of Honor since the American Civil War were Catholic priests?](https://en.wikipedia.org/wiki/List_of_Chaplain_Corps_Medal_of_Honor_recipients)
-  - [... that the attorney of the last person executed by Peru requested Pope John Paul II's intervention to save his client's life?](https://en.wikipedia.org/wiki/Julio_Vargas_Garayar)
+  - [... that a Washington state park (pictured) drew more visitors in 2021 than Yosemite National Park?](https://en.wikipedia.org/wiki/Deception_Pass_State_Park)
+  - [... that James I. Hopkins Jr. , who signed the order to bomb Hiroshima, mysteriously disappeared without a trace?](https://en.wikipedia.org/wiki/James_I._Hopkins_Jr.)
+  - [... that the critically endangered fish Quintana atrizona has not been seen in the wild since 2007–2008?](https://en.wikipedia.org/wiki/Quintana_atrizona)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Dinosaurs And Non-Dinosaurs](https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png)
+![Carbon Dating](https://imgs.xkcd.com/comics/carbon_dating.png)
 
-[Dinosaurs And Non-Dinosaurs](https://xkcd.com/3204) — *Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.*
+[Carbon Dating](https://xkcd.com/3205) — *This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.*
 <!--XKCD:END-->
