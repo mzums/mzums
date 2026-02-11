@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [St Scholastica Day riot](https://en.wikipedia.org/wiki/St_Scholastica_Day_riot)
+  - [Adolfo Farsari](https://en.wikipedia.org/wiki/Adolfo_Farsari)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a Washington state park (pictured) drew more visitors in 2021 than Yosemite National Park?](https://en.wikipedia.org/wiki/Deception_Pass_State_Park)
-  - [... that James I. Hopkins Jr. , who signed the order to bomb Hiroshima, mysteriously disappeared without a trace?](https://en.wikipedia.org/wiki/James_I._Hopkins_Jr.)
-  - [... that the critically endangered fish Quintana atrizona has not been seen in the wild since 2007–2008?](https://en.wikipedia.org/wiki/Quintana_atrizona)
+  - [... that novelist Susie Boyt described Nesselrode pudding (example pictured) as tasting "of Christmas, without any of the disappointment"?](https://en.wikipedia.org/wiki/Nesselrode_pudding)
+  - [... that, according to Guyanese authorities, an oil tanker seized by the United States off the coast of Venezuela in 2025 was falsely flying Guyana's flag?](https://en.wikipedia.org/wiki/United_States_oil_blockade_during_Operation_Southern_Spear)
+  - [... that a 70-foot (21 m) statue of Lionel Messi was unveiled in India during his G.O.A.T. India Tour ?](https://en.wikipedia.org/wiki/Lionel_Messi)
 <!--DYK:END-->
 
 ### XKCD for today
