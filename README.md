@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Adolfo Farsari](https://en.wikipedia.org/wiki/Adolfo_Farsari)
+  - [Black American Sign Language](https://en.wikipedia.org/wiki/Black_American_Sign_Language)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that novelist Susie Boyt described Nesselrode pudding (example pictured) as tasting "of Christmas, without any of the disappointment"?](https://en.wikipedia.org/wiki/Nesselrode_pudding)
-  - [... that, according to Guyanese authorities, an oil tanker seized by the United States off the coast of Venezuela in 2025 was falsely flying Guyana's flag?](https://en.wikipedia.org/wiki/United_States_oil_blockade_during_Operation_Southern_Spear)
-  - [... that a 70-foot (21 m) statue of Lionel Messi was unveiled in India during his G.O.A.T. India Tour ?](https://en.wikipedia.org/wiki/Lionel_Messi)
+  - [... that the tiny Abra aequalis (pictured) is a major food source for a species of large starfish ?](https://en.wikipedia.org/wiki/Abra_aequalis)
+  - [... that Justin Timberlake's 2013 comeback single was promoted by relaunching Myspace ?](https://en.wikipedia.org/wiki/Suit_%26_Tie)
+  - [... that George Brandt chose to have a song from the soundtrack of Pinocchio at his own funeral?](https://en.wikipedia.org/wiki/George_Brandt)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Carbon Dating](https://imgs.xkcd.com/comics/carbon_dating.png)
+![Installation](https://imgs.xkcd.com/comics/installation.png)
 
-[Carbon Dating](https://xkcd.com/3205) — *This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.*
+[Installation](https://xkcd.com/3206) — *Do YOU remember the skylight being this big?*
 <!--XKCD:END-->
