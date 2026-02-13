@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Black American Sign Language](https://en.wikipedia.org/wiki/Black_American_Sign_Language)
+  - [Saxe–Goldstein hypothesis](https://en.wikipedia.org/wiki/Saxe–Goldstein_hypothesis)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the tiny Abra aequalis (pictured) is a major food source for a species of large starfish ?](https://en.wikipedia.org/wiki/Abra_aequalis)
-  - [... that Justin Timberlake's 2013 comeback single was promoted by relaunching Myspace ?](https://en.wikipedia.org/wiki/Suit_%26_Tie)
-  - [... that George Brandt chose to have a song from the soundtrack of Pinocchio at his own funeral?](https://en.wikipedia.org/wiki/George_Brandt)
+  - [... that Calvin Duncan (pictured) was elected clerk of the same court that wrongfully convicted him of murder and sentenced him to life in prison?](https://en.wikipedia.org/wiki/Calvin_Duncan_(legal_advocate))
+  - [... that there are cognitions about cognitions?](https://en.wikipedia.org/wiki/Cognition)
+  - [... that Billy Gallagher 's Times Square cabaret was open from sundown to dawn, with a mix of "reputable people" and those "who had practical reasons for circulating after dark"?](https://en.wikipedia.org/wiki/Billy_Gallagher_(businessman))
 <!--DYK:END-->
 
 ### XKCD for today
