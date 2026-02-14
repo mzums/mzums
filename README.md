@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Saxe–Goldstein hypothesis](https://en.wikipedia.org/wiki/Saxe–Goldstein_hypothesis)
+  - [James Cook](https://en.wikipedia.org/wiki/James_Cook)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Calvin Duncan (pictured) was elected clerk of the same court that wrongfully convicted him of murder and sentenced him to life in prison?](https://en.wikipedia.org/wiki/Calvin_Duncan_(legal_advocate))
-  - [... that there are cognitions about cognitions?](https://en.wikipedia.org/wiki/Cognition)
-  - [... that Billy Gallagher 's Times Square cabaret was open from sundown to dawn, with a mix of "reputable people" and those "who had practical reasons for circulating after dark"?](https://en.wikipedia.org/wiki/Billy_Gallagher_(businessman))
+  - [... that in 1930s America, you could buy a quart of frozen salad (pictured) for a dollar?](https://en.wikipedia.org/wiki/Frozen_salad)
+  - [... that Bruce Springsteen's ICE protest song , " Streets of Minneapolis ", was written the day Alex Pretti was killed and performed live the same week?](https://en.wikipedia.org/wiki/ICE_protest_songs)
+  - [... that Liu Shasha didn't own a mobile phone because it might take away from her learning billiards?](https://en.wikipedia.org/wiki/Liu_Shasha)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Installation](https://imgs.xkcd.com/comics/installation.png)
+![Bad Map Projection: Zero Declination](https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png)
 
-[Installation](https://xkcd.com/3206) — *Do YOU remember the skylight being this big?*
+[Bad Map Projection: Zero Declination](https://xkcd.com/3207) — *'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day.*
 <!--XKCD:END-->
