@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [James Cook](https://en.wikipedia.org/wiki/James_Cook)
+  - [Brass threepence](https://en.wikipedia.org/wiki/Brass_threepence)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that in 1930s America, you could buy a quart of frozen salad (pictured) for a dollar?](https://en.wikipedia.org/wiki/Frozen_salad)
-  - [... that Bruce Springsteen's ICE protest song , " Streets of Minneapolis ", was written the day Alex Pretti was killed and performed live the same week?](https://en.wikipedia.org/wiki/ICE_protest_songs)
-  - [... that Liu Shasha didn't own a mobile phone because it might take away from her learning billiards?](https://en.wikipedia.org/wiki/Liu_Shasha)
+  - [... that The Dance of Anitra (pictured) is one of the few sculptures by Edith Maryon known to have survived in private ownership?](https://en.wikipedia.org/wiki/The_Dance_of_Anitra)
+  - [... that a building in New York City had to be classified as a hospital despite containing classrooms and a dormitory?](https://en.wikipedia.org/wiki/400_First_Avenue)
+  - [... that sulfur mollies create rhythmic waves to avoid ending up in birds' beaks?](https://en.wikipedia.org/wiki/Sulphur_molly)
 <!--DYK:END-->
 
 ### XKCD for today
