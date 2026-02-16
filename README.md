@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Brass threepence](https://en.wikipedia.org/wiki/Brass_threepence)
+  - [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that The Dance of Anitra (pictured) is one of the few sculptures by Edith Maryon known to have survived in private ownership?](https://en.wikipedia.org/wiki/The_Dance_of_Anitra)
-  - [... that a building in New York City had to be classified as a hospital despite containing classrooms and a dormitory?](https://en.wikipedia.org/wiki/400_First_Avenue)
-  - [... that sulfur mollies create rhythmic waves to avoid ending up in birds' beaks?](https://en.wikipedia.org/wiki/Sulphur_molly)
+  - [... that William Bloomfield (pictured) is recognized as the first known Māori architect?](https://en.wikipedia.org/wiki/William_Bloomfield_(architect))
+  - [... that rock wrens build pavements made of flat stones to keep their nests dry?](https://en.wikipedia.org/wiki/Rock_wren)
+  - [... that the developers of Arlington Forest followed the U.S. government's recommendations for both residential architecture and racially restrictive covenants?](https://en.wikipedia.org/wiki/Arlington_Forest,_Virginia)
 <!--DYK:END-->
 
 ### XKCD for today
