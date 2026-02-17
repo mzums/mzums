@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)
+  - [USS Romeo](https://en.wikipedia.org/wiki/USS_Romeo)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that William Bloomfield (pictured) is recognized as the first known Māori architect?](https://en.wikipedia.org/wiki/William_Bloomfield_(architect))
-  - [... that rock wrens build pavements made of flat stones to keep their nests dry?](https://en.wikipedia.org/wiki/Rock_wren)
-  - [... that the developers of Arlington Forest followed the U.S. government's recommendations for both residential architecture and racially restrictive covenants?](https://en.wikipedia.org/wiki/Arlington_Forest,_Virginia)
+  - [... that the 17-arch Shuanglong Bridge (pictured) is considered the largest and most artistically valuable ancient stone bridge in Yunnan, China?](https://en.wikipedia.org/wiki/Shuanglong_Bridge)
+  - [... that the circle packing theorem has been used to construct flattened maps of the human brain?](https://en.wikipedia.org/wiki/Circle_packing_theorem)
+  - [... that the band Self recorded an entire album using only toy instruments?](https://en.wikipedia.org/wiki/Self_(band))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Bad Map Projection: Zero Declination](https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png)
+![SNEWS](https://imgs.xkcd.com/comics/snews.png)
 
-[Bad Map Projection: Zero Declination](https://xkcd.com/3207) — *'The zero line in WMM2025 passes through a lot of population centers; I wonder what year the largest share of the population lived in a zone of less than 5° of declination,' he thought, derailing all other tasks for the rest of the day.*
+[SNEWS](https://xkcd.com/3208) — *People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.*
 <!--XKCD:END-->
