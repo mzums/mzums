@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [USS Romeo](https://en.wikipedia.org/wiki/USS_Romeo)
+  - [Ælfwynn, wife of Æthelstan Half-King](https://en.wikipedia.org/wiki/Ælfwynn,_wife_of_Æthelstan_Half-King)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the 17-arch Shuanglong Bridge (pictured) is considered the largest and most artistically valuable ancient stone bridge in Yunnan, China?](https://en.wikipedia.org/wiki/Shuanglong_Bridge)
-  - [... that the circle packing theorem has been used to construct flattened maps of the human brain?](https://en.wikipedia.org/wiki/Circle_packing_theorem)
-  - [... that the band Self recorded an entire album using only toy instruments?](https://en.wikipedia.org/wiki/Self_(band))
+  - [... that the sound of the cimpoi (pictured) , a type of pastoral bagpipe, was often mimicked by folk violins and shepherd's flutes, inspiring Béla Bartók to imitate it on the piano?](https://en.wikipedia.org/wiki/Cimpoi)
+  - [... that an investigation on the collision of Air Serbia Flight 324 noted that, despite the aircraft leaking fuel, it was sent to park at the terminal anyway?](https://en.wikipedia.org/wiki/Air_Serbia_Flight_324)
+  - [... that mining in Greenland began in 1782 with coal extraction on Disko Island?](https://en.wikipedia.org/wiki/Mining_in_Greenland)
 <!--DYK:END-->
 
 ### XKCD for today
