@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ælfwynn, wife of Æthelstan Half-King](https://en.wikipedia.org/wiki/Ælfwynn,_wife_of_Æthelstan_Half-King)
+  - [Mindful (song)](https://en.wikipedia.org/wiki/Mindful_(song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the sound of the cimpoi (pictured) , a type of pastoral bagpipe, was often mimicked by folk violins and shepherd's flutes, inspiring Béla Bartók to imitate it on the piano?](https://en.wikipedia.org/wiki/Cimpoi)
-  - [... that an investigation on the collision of Air Serbia Flight 324 noted that, despite the aircraft leaking fuel, it was sent to park at the terminal anyway?](https://en.wikipedia.org/wiki/Air_Serbia_Flight_324)
-  - [... that mining in Greenland began in 1782 with coal extraction on Disko Island?](https://en.wikipedia.org/wiki/Mining_in_Greenland)
+  - [... that an eleven-year-old sentenced to three weeks' hard labour for stealing a loaf of bread has a statue commemorating her (pictured) ?](https://en.wikipedia.org/wiki/The_Ballad_of_Sophia_Constable)
+  - [... that Anno 117 received around €5.7 million from the federal government of Germany, its largest grant for a single video-game project to date?](https://en.wikipedia.org/wiki/Anno_117)
+  - [... that astronomers discovered the wide binary system 2001 QW322 while searching for new moons of Uranus?](https://en.wikipedia.org/wiki/2001_QW322)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![SNEWS](https://imgs.xkcd.com/comics/snews.png)
+![Plums](https://imgs.xkcd.com/comics/plums.png)
 
-[SNEWS](https://xkcd.com/3208) — *People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.*
+[Plums](https://xkcd.com/3209) — *My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.*
 <!--XKCD:END-->
