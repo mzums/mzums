@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mindful (song)](https://en.wikipedia.org/wiki/Mindful_(song))
+  - [Zhang Jingsheng](https://en.wikipedia.org/wiki/Zhang_Jingsheng)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that an eleven-year-old sentenced to three weeks' hard labour for stealing a loaf of bread has a statue commemorating her (pictured) ?](https://en.wikipedia.org/wiki/The_Ballad_of_Sophia_Constable)
-  - [... that Anno 117 received around €5.7 million from the federal government of Germany, its largest grant for a single video-game project to date?](https://en.wikipedia.org/wiki/Anno_117)
-  - [... that astronomers discovered the wide binary system 2001 QW322 while searching for new moons of Uranus?](https://en.wikipedia.org/wiki/2001_QW322)
+  - [... that a medieval illuminated manuscript (pictured) was rediscovered in the attic of a castle under rubble and piles of paper?](https://en.wikipedia.org/wiki/Breviary_of_Marie_of_Savoy)
+  - [... that Call of Duty: Black Ops 6 's four-year development cycle was the longest in Call of Duty 's history?](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6)
+  - [... that Aleksandar Vučić , the president of Serbia, is said to have dominated the 2023 Serbian parliamentary election campaign despite not being a candidate?](https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87)
 <!--DYK:END-->
 
 ### XKCD for today
