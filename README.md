@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Zhang Jingsheng](https://en.wikipedia.org/wiki/Zhang_Jingsheng)
+  - [Shigi Qutuqu](https://en.wikipedia.org/wiki/Shigi_Qutuqu)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a medieval illuminated manuscript (pictured) was rediscovered in the attic of a castle under rubble and piles of paper?](https://en.wikipedia.org/wiki/Breviary_of_Marie_of_Savoy)
-  - [... that Call of Duty: Black Ops 6 's four-year development cycle was the longest in Call of Duty 's history?](https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_6)
-  - [... that Aleksandar Vučić , the president of Serbia, is said to have dominated the 2023 Serbian parliamentary election campaign despite not being a candidate?](https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87)
+  - [... that for her work in Poor Things , the costume designer Holly Waddington (pictured) was influenced by the Victorian era, early 20th-century German Expressionism, and 1960s fashion?](https://en.wikipedia.org/wiki/Poor_Things_(film))
+  - [... that the fossil maple Acer wehri is named for a composer, artist, and amateur paleontologist?](https://en.wikipedia.org/wiki/Acer_wehri)
+  - [... that Micronesia was the second country to cut ties with Russia after the 2022 invasion of Ukraine—the first being Ukraine?](https://en.wikipedia.org/wiki/Federated_States_of_Micronesia%E2%80%93Russia_relations)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Plums](https://imgs.xkcd.com/comics/plums.png)
+![Eliminating the Impossible](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
 
-[Plums](https://xkcd.com/3209) — *My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.*
+[Eliminating the Impossible](https://xkcd.com/3210) — *'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.*
 <!--XKCD:END-->
