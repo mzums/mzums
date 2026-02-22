@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Shigi Qutuqu](https://en.wikipedia.org/wiki/Shigi_Qutuqu)
+  - [Donkey Kong (character)](https://en.wikipedia.org/wiki/Donkey_Kong_(character))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that for her work in Poor Things , the costume designer Holly Waddington (pictured) was influenced by the Victorian era, early 20th-century German Expressionism, and 1960s fashion?](https://en.wikipedia.org/wiki/Poor_Things_(film))
-  - [... that the fossil maple Acer wehri is named for a composer, artist, and amateur paleontologist?](https://en.wikipedia.org/wiki/Acer_wehri)
-  - [... that Micronesia was the second country to cut ties with Russia after the 2022 invasion of Ukraine—the first being Ukraine?](https://en.wikipedia.org/wiki/Federated_States_of_Micronesia%E2%80%93Russia_relations)
+  - [... that seed fossils (example pictured) from western North America, despite being first reported in 1906, were not fully described and named Pteroheterochrosperma until 2023?](https://en.wikipedia.org/wiki/Pteroheterochrosperma)
+  - [... that Stephen Linard designed clothes for David Bowie and Boy George ?](https://en.wikipedia.org/wiki/Stephen_Linard)
+  - [... that beta-propeller protein-associated neurodegeneration can more often be seen in girls due to its inheritance nature?](https://en.wikipedia.org/wiki/Beta-propeller_protein-associated_neurodegeneration)
 <!--DYK:END-->
 
 ### XKCD for today
