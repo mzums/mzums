@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Donkey Kong (character)](https://en.wikipedia.org/wiki/Donkey_Kong_(character))
+  - [First Jewish–Roman War](https://en.wikipedia.org/wiki/First_Jewish–Roman_War)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that seed fossils (example pictured) from western North America, despite being first reported in 1906, were not fully described and named Pteroheterochrosperma until 2023?](https://en.wikipedia.org/wiki/Pteroheterochrosperma)
-  - [... that Stephen Linard designed clothes for David Bowie and Boy George ?](https://en.wikipedia.org/wiki/Stephen_Linard)
-  - [... that beta-propeller protein-associated neurodegeneration can more often be seen in girls due to its inheritance nature?](https://en.wikipedia.org/wiki/Beta-propeller_protein-associated_neurodegeneration)
+  - [... that a British steam locomotive (pictured) sat at a logistics center in Kentucky for more than a decade?](https://en.wikipedia.org/wiki/Flying_Duchess)
+  - [... that JoJo Townsell caught the game-winning touchdown in his professional debut, only two days after signing a contract with his team?](https://en.wikipedia.org/wiki/JoJo_Townsell)
+  - [... that an African elephant named Craig had tusks that were so long that they reached the ground?](https://en.wikipedia.org/wiki/Craig_(elephant))
 <!--DYK:END-->
 
 ### XKCD for today
