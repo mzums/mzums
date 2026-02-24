@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [First Jewish–Roman War](https://en.wikipedia.org/wiki/First_Jewish–Roman_War)
+  - [Kent Haruf](https://en.wikipedia.org/wiki/Kent_Haruf)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a British steam locomotive (pictured) sat at a logistics center in Kentucky for more than a decade?](https://en.wikipedia.org/wiki/Flying_Duchess)
-  - [... that JoJo Townsell caught the game-winning touchdown in his professional debut, only two days after signing a contract with his team?](https://en.wikipedia.org/wiki/JoJo_Townsell)
-  - [... that an African elephant named Craig had tusks that were so long that they reached the ground?](https://en.wikipedia.org/wiki/Craig_(elephant))
+  - [... that Marie Engle (pictured) was one of the earliest operatic singers to be recorded on rare Bettini cylinders ?](https://en.wikipedia.org/wiki/Marie_Engle)
+  - [... that the Enrei Onodachi Memorial Festival can last for only 15 seconds?](https://en.wikipedia.org/wiki/Enrei_Onodachi_Memorial_Festival)
+  - [... that The Tigress of Forlì earned its title because its protagonist was accused of being "willing to eat her young to gain power"?](https://en.wikipedia.org/wiki/The_Tigress_of_Forl%C3%AC)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Eliminating the Impossible](https://imgs.xkcd.com/comics/eliminating_the_impossible.png)
+![Amperage](https://imgs.xkcd.com/comics/amperage.png)
 
-[Eliminating the Impossible](https://xkcd.com/3210) — *'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.*
+[Amperage](https://xkcd.com/3211) — *Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?*
 <!--XKCD:END-->
