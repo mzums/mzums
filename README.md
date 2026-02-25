@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Kent Haruf](https://en.wikipedia.org/wiki/Kent_Haruf)
+  - [The Voices of Morebath](https://en.wikipedia.org/wiki/The_Voices_of_Morebath)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Marie Engle (pictured) was one of the earliest operatic singers to be recorded on rare Bettini cylinders ?](https://en.wikipedia.org/wiki/Marie_Engle)
-  - [... that the Enrei Onodachi Memorial Festival can last for only 15 seconds?](https://en.wikipedia.org/wiki/Enrei_Onodachi_Memorial_Festival)
-  - [... that The Tigress of Forlì earned its title because its protagonist was accused of being "willing to eat her young to gain power"?](https://en.wikipedia.org/wiki/The_Tigress_of_Forl%C3%AC)
+  - [... that Bonnie Blue's "1,000 men in a day" challenge inspired an event and a planned event by fellow sex workers Annie Knight (pictured) and Drake Von ?](https://en.wikipedia.org/wiki/Annie_Knight)
+  - [... that the development of the 2019 video game Retro Mystery Club Vol.1: The Ise-Shima Case started in 2010?](https://en.wikipedia.org/wiki/Retro_Mystery_Club_Vol.1:_The_Ise-Shima_Case)
+  - [... that the Troadec family murders were committed over an inheritance dispute due to a myth involving gold bars?](https://en.wikipedia.org/wiki/Troadec_family_murders)
 <!--DYK:END-->
 
 ### XKCD for today
