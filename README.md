@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Voices of Morebath](https://en.wikipedia.org/wiki/The_Voices_of_Morebath)
+  - [Mary Fortune](https://en.wikipedia.org/wiki/Mary_Fortune)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Bonnie Blue's "1,000 men in a day" challenge inspired an event and a planned event by fellow sex workers Annie Knight (pictured) and Drake Von ?](https://en.wikipedia.org/wiki/Annie_Knight)
-  - [... that the development of the 2019 video game Retro Mystery Club Vol.1: The Ise-Shima Case started in 2010?](https://en.wikipedia.org/wiki/Retro_Mystery_Club_Vol.1:_The_Ise-Shima_Case)
-  - [... that the Troadec family murders were committed over an inheritance dispute due to a myth involving gold bars?](https://en.wikipedia.org/wiki/Troadec_family_murders)
+  - [... that recordings of the voice of Fanny Cochrane Smith (pictured) were used in the development of a modern Aboriginal Tasmanian constructed language?](https://en.wikipedia.org/wiki/Fanny_Cochrane_Smith)
+  - [... that The Missing took three years to write but only four days to film?](https://en.wikipedia.org/wiki/The_Missing_(2023_film))
+  - [... that Chicago State Cougars football is the only NCAA Division I gridiron football program in Chicago?](https://en.wikipedia.org/wiki/Chicago_State_Cougars_football)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Amperage](https://imgs.xkcd.com/comics/amperage.png)
+![Little Red Dots](https://imgs.xkcd.com/comics/little_red_dots.png)
 
-[Amperage](https://xkcd.com/3211) — *Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?*
+[Little Red Dots](https://xkcd.com/3212) — *After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.*
 <!--XKCD:END-->
