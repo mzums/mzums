@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mary Fortune](https://en.wikipedia.org/wiki/Mary_Fortune)
+  - [Fort Southerland](https://en.wikipedia.org/wiki/Fort_Southerland)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that recordings of the voice of Fanny Cochrane Smith (pictured) were used in the development of a modern Aboriginal Tasmanian constructed language?](https://en.wikipedia.org/wiki/Fanny_Cochrane_Smith)
-  - [... that The Missing took three years to write but only four days to film?](https://en.wikipedia.org/wiki/The_Missing_(2023_film))
-  - [... that Chicago State Cougars football is the only NCAA Division I gridiron football program in Chicago?](https://en.wikipedia.org/wiki/Chicago_State_Cougars_football)
+  - [... that as a youth, Paul Idlout (pictured) was relocated to the high Arctic by the Canadian government?](https://en.wikipedia.org/wiki/Paul_Idlout)
+  - [... that a golden branch in Virgil's Aeneid inspired a painting by Turner , poems by Yeats , and an anthropological study of ritual murder?](https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid))
+  - [... that a box of apparently unopened Base Set card packs was purchased by Logan Paul for $3.5 million, only for it to turn out to be fake?](https://en.wikipedia.org/wiki/Base_Set_(Pok%C3%A9mon))
 <!--DYK:END-->
 
 ### XKCD for today
