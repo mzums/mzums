@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Fort Southerland](https://en.wikipedia.org/wiki/Fort_Southerland)
+  - [Hume MRT station](https://en.wikipedia.org/wiki/Hume_MRT_station)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that as a youth, Paul Idlout (pictured) was relocated to the high Arctic by the Canadian government?](https://en.wikipedia.org/wiki/Paul_Idlout)
-  - [... that a golden branch in Virgil's Aeneid inspired a painting by Turner , poems by Yeats , and an anthropological study of ritual murder?](https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid))
-  - [... that a box of apparently unopened Base Set card packs was purchased by Logan Paul for $3.5 million, only for it to turn out to be fake?](https://en.wikipedia.org/wiki/Base_Set_(Pok%C3%A9mon))
+  - [... that the Washington State Ferries fleet (vessel pictured) uses names with tribal significance?](https://en.wikipedia.org/wiki/Washington_State_Ferries_fleet)
+  - [... that En rejse til månen , a 1973 amateur film made with Lego, was not released publicly until forty years after it was created?](https://en.wikipedia.org/wiki/En_rejse_til_m%C3%A5nen)
+  - [... that the Andrea Margutti Trophy was founded to commemorate a 14-year-old Italian kart racer who died while racing in 1989?](https://en.wikipedia.org/wiki/Andrea_Margutti_Trophy)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Little Red Dots](https://imgs.xkcd.com/comics/little_red_dots.png)
+![Dental Formulas](https://imgs.xkcd.com/comics/dental_formulas.png)
 
-[Little Red Dots](https://xkcd.com/3212) — *After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.*
+[Dental Formulas](https://xkcd.com/3213) — *I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.*
 <!--XKCD:END-->
