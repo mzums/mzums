@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hume MRT station](https://en.wikipedia.org/wiki/Hume_MRT_station)
+  - [High and Low (1963 film)](https://en.wikipedia.org/wiki/High_and_Low_(1963_film))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Washington State Ferries fleet (vessel pictured) uses names with tribal significance?](https://en.wikipedia.org/wiki/Washington_State_Ferries_fleet)
-  - [... that En rejse til månen , a 1973 amateur film made with Lego, was not released publicly until forty years after it was created?](https://en.wikipedia.org/wiki/En_rejse_til_m%C3%A5nen)
-  - [... that the Andrea Margutti Trophy was founded to commemorate a 14-year-old Italian kart racer who died while racing in 1989?](https://en.wikipedia.org/wiki/Andrea_Margutti_Trophy)
+  - [... that an Iberian beetle (specimen pictured) is undergoing substantial evolution that makes it hard to distinguish from its nearby relatives?](https://en.wikipedia.org/wiki/Alphasida_zapaterii)
+  - [... that Mary Theresa Vidal began her writing career with a collection of Christian moral tales intended to educate convicts and servants?](https://en.wikipedia.org/wiki/Mary_Theresa_Vidal)
+  - [... that an unreleased video game themed around Metallica was described as " Twisted Metal meets Grand Theft Auto "?](https://en.wikipedia.org/wiki/Damage,_Inc._(video_game))
 <!--DYK:END-->
 
 ### XKCD for today
