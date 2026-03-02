@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [High and Low (1963 film)](https://en.wikipedia.org/wiki/High_and_Low_(1963_film))
+  - [Galaxy](https://en.wikipedia.org/wiki/Galaxy)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that an Iberian beetle (specimen pictured) is undergoing substantial evolution that makes it hard to distinguish from its nearby relatives?](https://en.wikipedia.org/wiki/Alphasida_zapaterii)
-  - [... that Mary Theresa Vidal began her writing career with a collection of Christian moral tales intended to educate convicts and servants?](https://en.wikipedia.org/wiki/Mary_Theresa_Vidal)
-  - [... that an unreleased video game themed around Metallica was described as " Twisted Metal meets Grand Theft Auto "?](https://en.wikipedia.org/wiki/Damage,_Inc._(video_game))
+  - [... that the voivode of a Polish region bought a townhouse (pictured) for his brother, an abbot who converted it to an inn?](https://en.wikipedia.org/wiki/Voivode)
+  - [... that in 2025, Liz Pelly published the book Mood Machine , a critical examination of Spotify including the platform's promotion of fake artists?](https://en.wikipedia.org/wiki/Liz_Pelly)
+  - [... that " Aeao " was involved in a multi-platform trend joined by numerous K-pop celebrities nine years after its release?](https://en.wikipedia.org/wiki/Aeao)
 <!--DYK:END-->
 
 ### XKCD for today
