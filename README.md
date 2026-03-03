@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Galaxy](https://en.wikipedia.org/wiki/Galaxy)
+  - [John Tonkin](https://en.wikipedia.org/wiki/John_Tonkin)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the voivode of a Polish region bought a townhouse (pictured) for his brother, an abbot who converted it to an inn?](https://en.wikipedia.org/wiki/Voivode)
-  - [... that in 2025, Liz Pelly published the book Mood Machine , a critical examination of Spotify including the platform's promotion of fake artists?](https://en.wikipedia.org/wiki/Liz_Pelly)
-  - [... that " Aeao " was involved in a multi-platform trend joined by numerous K-pop celebrities nine years after its release?](https://en.wikipedia.org/wiki/Aeao)
+  - [... that Bella Ramsey (pictured) is the youngest person ever to be nominated twice for a Primetime Emmy lead-actress award?](https://en.wikipedia.org/wiki/Bella_Ramsey)
+  - [... that German settler newspapers played a significant role in agitating for the Herero and Nama genocide ?](https://en.wikipedia.org/wiki/Herero_and_Nama_genocide)
+  - [... that British academic Kadiatu Kanneh-Mason quit her job to raise seven children and encouraged them to become musicians?](https://en.wikipedia.org/wiki/Kadiatu_Kanneh-Mason)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Dental Formulas](https://imgs.xkcd.com/comics/dental_formulas.png)
+![Electric Vehicles](https://imgs.xkcd.com/comics/electric_vehicles.png)
 
-[Dental Formulas](https://xkcd.com/3213) — *I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.*
+[Electric Vehicles](https://xkcd.com/3214) — *Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.*
 <!--XKCD:END-->
