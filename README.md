@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [John Tonkin](https://en.wikipedia.org/wiki/John_Tonkin)
+  - [Montana-class battleship](https://en.wikipedia.org/wiki/Montana-class_battleship)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Bella Ramsey (pictured) is the youngest person ever to be nominated twice for a Primetime Emmy lead-actress award?](https://en.wikipedia.org/wiki/Bella_Ramsey)
-  - [... that German settler newspapers played a significant role in agitating for the Herero and Nama genocide ?](https://en.wikipedia.org/wiki/Herero_and_Nama_genocide)
-  - [... that British academic Kadiatu Kanneh-Mason quit her job to raise seven children and encouraged them to become musicians?](https://en.wikipedia.org/wiki/Kadiatu_Kanneh-Mason)
+  - [... that John David Rogers represented Australia at the Japanese surrender in Singapore in September 1945 (video featured) ?](https://en.wikipedia.org/wiki/John_David_Rogers)
+  - [... that the lyricist of " Coffee Houser Sei Addata " wrote its last lyrics on a cigarette packet?](https://en.wikipedia.org/wiki/Coffee_Houser_Sei_Addata)
+  - [... that a John Robert Cozens painting set the record auction price for an 18th-century English watercolour at £2.4 million?](https://en.wikipedia.org/wiki/John_Robert_Cozens)
 <!--DYK:END-->
 
 ### XKCD for today
