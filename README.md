@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Montana-class battleship](https://en.wikipedia.org/wiki/Montana-class_battleship)
+  - [Elizabeth Lyon (criminal)](https://en.wikipedia.org/wiki/Elizabeth_Lyon_(criminal))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that John David Rogers represented Australia at the Japanese surrender in Singapore in September 1945 (video featured) ?](https://en.wikipedia.org/wiki/John_David_Rogers)
-  - [... that the lyricist of " Coffee Houser Sei Addata " wrote its last lyrics on a cigarette packet?](https://en.wikipedia.org/wiki/Coffee_Houser_Sei_Addata)
-  - [... that a John Robert Cozens painting set the record auction price for an 18th-century English watercolour at £2.4 million?](https://en.wikipedia.org/wiki/John_Robert_Cozens)
+  - [... that the " Queen of Shitty Robots " (pictured) built a "Pussy Grabs Back Machine"?](https://en.wikipedia.org/wiki/Simone_Giertz)
+  - [... that Alex Honnold 's memoir Alone on the Wall was called a "celebration of nonthinking" by The Atlantic ?](https://en.wikipedia.org/wiki/Alex_Honnold)
+  - [... that Uruguayan perennial candidate Domingo Tortorelli campaigned on promises such as a 15-minute workday and installing free milk taps on every street corner?](https://en.wikipedia.org/wiki/Domingo_Tortorelli)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Electric Vehicles](https://imgs.xkcd.com/comics/electric_vehicles.png)
+![Solar Warning](https://imgs.xkcd.com/comics/solar_warning.png)
 
-[Electric Vehicles](https://xkcd.com/3214) — *Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.*
+[Solar Warning](https://xkcd.com/3215) — *This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.*
 <!--XKCD:END-->
