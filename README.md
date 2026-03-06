@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Elizabeth Lyon (criminal)](https://en.wikipedia.org/wiki/Elizabeth_Lyon_(criminal))
+  - [Paradises Lost](https://en.wikipedia.org/wiki/Paradises_Lost)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the " Queen of Shitty Robots " (pictured) built a "Pussy Grabs Back Machine"?](https://en.wikipedia.org/wiki/Simone_Giertz)
-  - [... that Alex Honnold 's memoir Alone on the Wall was called a "celebration of nonthinking" by The Atlantic ?](https://en.wikipedia.org/wiki/Alex_Honnold)
-  - [... that Uruguayan perennial candidate Domingo Tortorelli campaigned on promises such as a 15-minute workday and installing free milk taps on every street corner?](https://en.wikipedia.org/wiki/Domingo_Tortorelli)
+  - [... that a pastor of a Chicago church (pictured) resigned after it was discovered that he had previously been defrocked in 1915 for having multiple wives?](https://en.wikipedia.org/wiki/St._Paul%27s_Reformed_Episcopal_Church)
+  - [... that local custom at Pyapon Mountain dictates that all jewelry must be hidden from view to avoid offending Pyapon Taung Shinma ?](https://en.wikipedia.org/wiki/Pyapon_Taung_Shinma)
+  - [... that Dai Dai Ames and Justin Pippen joined the Cal Bears after it replaced nearly all of its players in 2025?](https://en.wikipedia.org/wiki/Dai_Dai_Ames)
 <!--DYK:END-->
 
 ### XKCD for today
