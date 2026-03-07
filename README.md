@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Paradises Lost](https://en.wikipedia.org/wiki/Paradises_Lost)
+  - [Mean (song)](https://en.wikipedia.org/wiki/Mean_(song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a pastor of a Chicago church (pictured) resigned after it was discovered that he had previously been defrocked in 1915 for having multiple wives?](https://en.wikipedia.org/wiki/St._Paul%27s_Reformed_Episcopal_Church)
-  - [... that local custom at Pyapon Mountain dictates that all jewelry must be hidden from view to avoid offending Pyapon Taung Shinma ?](https://en.wikipedia.org/wiki/Pyapon_Taung_Shinma)
-  - [... that Dai Dai Ames and Justin Pippen joined the Cal Bears after it replaced nearly all of its players in 2025?](https://en.wikipedia.org/wiki/Dai_Dai_Ames)
+  - [... that when the medieval Book of Hours of Boussu (miniature pictured) was restored in 2020,  it was discovered that the spine of the book was still sewed with the original thread?](https://en.wikipedia.org/wiki/Book_of_Hours_of_Boussu)
+  - [... that Yemeni president Ali Abdullah Saleh may have facilitated the killing of a political rival through a United States airstrike ?](https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh)
+  - [... that Russian astrophysicist Inna Nikolaevna Leman-Balanovskaja was sentenced to five years in a Siberian labor camp as a result of false charges?](https://en.wikipedia.org/wiki/Inna_Nikolaevna_Leman-Balanovskaja)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Solar Warning](https://imgs.xkcd.com/comics/solar_warning.png)
+![Bazookasaurus](https://imgs.xkcd.com/comics/bazookasaurus.png)
 
-[Solar Warning](https://xkcd.com/3215) — *This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.*
+[Bazookasaurus](https://xkcd.com/3216) — *In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.*
 <!--XKCD:END-->
