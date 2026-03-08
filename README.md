@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Mean (song)](https://en.wikipedia.org/wiki/Mean_(song))
+  - [Luisa Capetillo](https://en.wikipedia.org/wiki/Luisa_Capetillo)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that when the medieval Book of Hours of Boussu (miniature pictured) was restored in 2020,  it was discovered that the spine of the book was still sewed with the original thread?](https://en.wikipedia.org/wiki/Book_of_Hours_of_Boussu)
-  - [... that Yemeni president Ali Abdullah Saleh may have facilitated the killing of a political rival through a United States airstrike ?](https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh)
-  - [... that Russian astrophysicist Inna Nikolaevna Leman-Balanovskaja was sentenced to five years in a Siberian labor camp as a result of false charges?](https://en.wikipedia.org/wiki/Inna_Nikolaevna_Leman-Balanovskaja)
+  - [... that Halloween Martin (pictured) became one of the first modern DJs at a time when radio widely discriminated against women?](https://en.wikipedia.org/wiki/Halloween_Martin)
+  - [... that the editors of a dictionary of women's quotations were motivated to create it when they observed that mixed-gender volumes were 90% men?](https://en.wikipedia.org/wiki/Violets_and_Vinegar)
+  - [... that Ruth Wagner , the minister of culture in Hesse from 1999 to 2003, was nicknamed Mother Courage of Hesse?](https://en.wikipedia.org/wiki/Ruth_Wagner)
 <!--DYK:END-->
 
 ### XKCD for today
