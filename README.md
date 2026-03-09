@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Luisa Capetillo](https://en.wikipedia.org/wiki/Luisa_Capetillo)
+  - [Zungeni Mountain skirmish](https://en.wikipedia.org/wiki/Zungeni_Mountain_skirmish)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Halloween Martin (pictured) became one of the first modern DJs at a time when radio widely discriminated against women?](https://en.wikipedia.org/wiki/Halloween_Martin)
-  - [... that the editors of a dictionary of women's quotations were motivated to create it when they observed that mixed-gender volumes were 90% men?](https://en.wikipedia.org/wiki/Violets_and_Vinegar)
-  - [... that Ruth Wagner , the minister of culture in Hesse from 1999 to 2003, was nicknamed Mother Courage of Hesse?](https://en.wikipedia.org/wiki/Ruth_Wagner)
+  - [... that a Minnesota church building (pictured) is considered to be a "historic non-operating cemetery" because a former priest was buried in a crypt underneath the sanctuary?](https://en.wikipedia.org/wiki/Cities_Church)
+  - [... that Apollon Karelin established an order of the Knights Templar to promote anarchism in Soviet Russia?](https://en.wikipedia.org/wiki/Apollon_Karelin)
+  - [... that an Abbott Elementary episode was filmed at an abandoned shopping mall , after which it was demolished to build an NFL facility ?](https://en.wikipedia.org/wiki/Mall_(Abbott_Elementary))
 <!--DYK:END-->
 
 ### XKCD for today
