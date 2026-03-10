@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Zungeni Mountain skirmish](https://en.wikipedia.org/wiki/Zungeni_Mountain_skirmish)
+  - [Duckport Canal](https://en.wikipedia.org/wiki/Duckport_Canal)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a Minnesota church building (pictured) is considered to be a "historic non-operating cemetery" because a former priest was buried in a crypt underneath the sanctuary?](https://en.wikipedia.org/wiki/Cities_Church)
-  - [... that Apollon Karelin established an order of the Knights Templar to promote anarchism in Soviet Russia?](https://en.wikipedia.org/wiki/Apollon_Karelin)
-  - [... that an Abbott Elementary episode was filmed at an abandoned shopping mall , after which it was demolished to build an NFL facility ?](https://en.wikipedia.org/wiki/Mall_(Abbott_Elementary))
+  - [... that Savannah Bond (pictured) sold cosmetics before entering the adult film industry?](https://en.wikipedia.org/wiki/Savannah_Bond)
+  - [... that during their migration upstream to reproduce, smaller neritid snails were observed to "hitchhike" on the bigger Neritina pulligera to save energy?](https://en.wikipedia.org/wiki/Neritina_pulligera)
+  - [... that Jordan Shanks 's house was firebombed after he published a YouTube video about the Alameddine crime family ?](https://en.wikipedia.org/wiki/Friendlyjordies)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Bazookasaurus](https://imgs.xkcd.com/comics/bazookasaurus.png)
+![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)
 
-[Bazookasaurus](https://xkcd.com/3216) — *In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.*
+[Home Remedies](https://xkcd.com/3217) — *As always, you are permitted to call one person for guidance, but that person must be a grandparent.*
 <!--XKCD:END-->
