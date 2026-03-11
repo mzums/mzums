@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Duckport Canal](https://en.wikipedia.org/wiki/Duckport_Canal)
+  - [1876 FA Cup final](https://en.wikipedia.org/wiki/1876_FA_Cup_final)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Savannah Bond (pictured) sold cosmetics before entering the adult film industry?](https://en.wikipedia.org/wiki/Savannah_Bond)
-  - [... that during their migration upstream to reproduce, smaller neritid snails were observed to "hitchhike" on the bigger Neritina pulligera to save energy?](https://en.wikipedia.org/wiki/Neritina_pulligera)
-  - [... that Jordan Shanks 's house was firebombed after he published a YouTube video about the Alameddine crime family ?](https://en.wikipedia.org/wiki/Friendlyjordies)
+  - [... that the facade of Populus Denver (pictured) has been compared to a "cheese grater"?](https://en.wikipedia.org/wiki/Populus_Denver)
+  - [... that Dalmatius was murdered by his soldiers during a massacre that killed nearly all the male members of the Constantinian dynasty ?](https://en.wikipedia.org/wiki/Dalmatius)
+  - [... that news of the deadliest cyclone in the Southern Hemisphere took a month to reach authorities?](https://en.wikipedia.org/wiki/1973_Flores_cyclone)
 <!--DYK:END-->
 
 ### XKCD for today
