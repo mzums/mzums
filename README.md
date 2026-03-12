@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1876 FA Cup final](https://en.wikipedia.org/wiki/1876_FA_Cup_final)
+  - [Young Head coinage](https://en.wikipedia.org/wiki/Young_Head_coinage)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the facade of Populus Denver (pictured) has been compared to a "cheese grater"?](https://en.wikipedia.org/wiki/Populus_Denver)
-  - [... that Dalmatius was murdered by his soldiers during a massacre that killed nearly all the male members of the Constantinian dynasty ?](https://en.wikipedia.org/wiki/Dalmatius)
-  - [... that news of the deadliest cyclone in the Southern Hemisphere took a month to reach authorities?](https://en.wikipedia.org/wiki/1973_Flores_cyclone)
+  - [... that the Pogues once had a drummer who had to play one handed (pictured) while recovering from blood poisoning?](https://en.wikipedia.org/wiki/Andrew_Ranken)
+  - [... that the Colección de Lenguas Indígenas includes the only written records of three languages that have since died out?](https://en.wikipedia.org/wiki/Colecci%C3%B3n_de_Lenguas_Ind%C3%ADgenas)
+  - [... that Alfonso Quiñónez Molina suddenly becoming President of El Salvador before the 1919 election was described as a "mixed blessing"?](https://en.wikipedia.org/wiki/Alfonso_Qui%C3%B1%C3%B3nez_Molina)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)
+![Subduction Retrieval](https://imgs.xkcd.com/comics/subduction_retrieval.png)
 
-[Home Remedies](https://xkcd.com/3217) — *As always, you are permitted to call one person for guidance, but that person must be a grandparent.*
+[Subduction Retrieval](https://xkcd.com/3218) — *Aww, the oceanic crust and the continental crust are getting married!*
 <!--XKCD:END-->
