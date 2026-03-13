@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Young Head coinage](https://en.wikipedia.org/wiki/Young_Head_coinage)
+  - [Swift Justice](https://en.wikipedia.org/wiki/Swift_Justice)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Pogues once had a drummer who had to play one handed (pictured) while recovering from blood poisoning?](https://en.wikipedia.org/wiki/Andrew_Ranken)
-  - [... that the Colección de Lenguas Indígenas includes the only written records of three languages that have since died out?](https://en.wikipedia.org/wiki/Colecci%C3%B3n_de_Lenguas_Ind%C3%ADgenas)
-  - [... that Alfonso Quiñónez Molina suddenly becoming President of El Salvador before the 1919 election was described as a "mixed blessing"?](https://en.wikipedia.org/wiki/Alfonso_Qui%C3%B1%C3%B3nez_Molina)
+  - [... that the Aitape Skull (pictured) may be part of the remains of the oldest known tsunami victim?](https://en.wikipedia.org/wiki/Aitape_Skull)
+  - [... that Kim Chwajin was imprisoned for three years for freeing his family's slaves?](https://en.wikipedia.org/wiki/Kim_Chwajin)
+  - [... that the galaxy CDG-2 is over 99.9% dark matter , one of the highest proportions discovered?](https://en.wikipedia.org/wiki/CDG-2)
 <!--DYK:END-->
 
 ### XKCD for today
