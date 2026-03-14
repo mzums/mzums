@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Swift Justice](https://en.wikipedia.org/wiki/Swift_Justice)
+  - [Pi](https://en.wikipedia.org/wiki/Pi)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Aitape Skull (pictured) may be part of the remains of the oldest known tsunami victim?](https://en.wikipedia.org/wiki/Aitape_Skull)
-  - [... that Kim Chwajin was imprisoned for three years for freeing his family's slaves?](https://en.wikipedia.org/wiki/Kim_Chwajin)
-  - [... that the galaxy CDG-2 is over 99.9% dark matter , one of the highest proportions discovered?](https://en.wikipedia.org/wiki/CDG-2)
+  - [... that it took nearly two years to cut into a cliff to complete a road across Mã Pí Lèng Pass (pictured) in Vietnam?](https://en.wikipedia.org/wiki/M%C3%A3_P%C3%AD_L%C3%A8ng_Pass)
+  - [... that Bernhard Waldenfels discussed "black holes of everyday life" in a book subtitled Challenges of Phenomenology ?](https://en.wikipedia.org/wiki/Bernhard_Waldenfels)
+  - [... that the actresses in Night King visited a nightclub and spoke with mama-sans to prepare for their roles?](https://en.wikipedia.org/wiki/Night_King_(film))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Subduction Retrieval](https://imgs.xkcd.com/comics/subduction_retrieval.png)
+![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
 
-[Subduction Retrieval](https://xkcd.com/3218) — *Aww, the oceanic crust and the continental crust are getting married!*
+[Planets and Bright Stars](https://xkcd.com/3219) — *An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.*
 <!--XKCD:END-->
