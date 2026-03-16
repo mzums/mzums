@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Zenobia](https://en.wikipedia.org/wiki/Zenobia)
+  - [Yan Ruisheng](https://en.wikipedia.org/wiki/Yan_Ruisheng)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Boston's Quincy Market (building pictured) , once described by the city's mayor as an "eyesore", later became more popular than Disney World?](https://en.wikipedia.org/wiki/Quincy_Market)
-  - [... that after divorcing her husband, Winifred Lewellin James was required to report to a police station each time she went more than 5 miles (8 km) from her home?](https://en.wikipedia.org/wiki/Winifred_Lewellin_James)
-  - [... that  a fuel-tax evasion scheme in Mexico involves importing fuels under unrelated customs categories?](https://en.wikipedia.org/wiki/Huachicol_fiscal)
+  - [... that there was a decades-long search for a photograph of Shorty Gallagher (pictured) ?](https://en.wikipedia.org/wiki/Shorty_Gallagher)
+  - [... that, by establishing diplomatic missions like an embassy in Fiji , the Philippine government hopes to play a bigger role in international politics?](https://en.wikipedia.org/wiki/Embassy_of_the_Philippines,_Suva)
+  - [... that the head of one piano department called Lucie Stern "the rarest talent of any child I ever heard"?](https://en.wikipedia.org/wiki/Lucie_Stern)
 <!--DYK:END-->
 
 ### XKCD for today
