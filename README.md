@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yan Ruisheng](https://en.wikipedia.org/wiki/Yan_Ruisheng)
+  - [Corleck Head](https://en.wikipedia.org/wiki/Corleck_Head)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that there was a decades-long search for a photograph of Shorty Gallagher (pictured) ?](https://en.wikipedia.org/wiki/Shorty_Gallagher)
-  - [... that, by establishing diplomatic missions like an embassy in Fiji , the Philippine government hopes to play a bigger role in international politics?](https://en.wikipedia.org/wiki/Embassy_of_the_Philippines,_Suva)
-  - [... that the head of one piano department called Lucie Stern "the rarest talent of any child I ever heard"?](https://en.wikipedia.org/wiki/Lucie_Stern)
+  - [... that Franklin D. Roosevelt was so impressed by the companion paintings Return of the Mayflower (pictured) and Surrender of the German Fleet to the Grand Fleet at Scapa Flow that he commissioned smaller versions for his own private collection?](https://en.wikipedia.org/wiki/Return_of_the_Mayflower)
+  - [... that violinist Sol Babitz , a pioneer in historically informed performance , was twice evicted by the police from meetings of the American Musicological Society?](https://en.wikipedia.org/wiki/Sol_Babitz)
+  - [... that some green beer is colored with spirulina algae?](https://en.wikipedia.org/wiki/Green_beer)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)
+![Rotational Gravity](https://imgs.xkcd.com/comics/rotational_gravity.png)
 
-[Planets and Bright Stars](https://xkcd.com/3219) — *An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.*
+[Rotational Gravity](https://xkcd.com/3220) — *I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.*
 <!--XKCD:END-->
