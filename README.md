@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Corleck Head](https://en.wikipedia.org/wiki/Corleck_Head)
+  - [Appellate Division Courthouse of New York State](https://en.wikipedia.org/wiki/Appellate_Division_Courthouse_of_New_York_State)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Franklin D. Roosevelt was so impressed by the companion paintings Return of the Mayflower (pictured) and Surrender of the German Fleet to the Grand Fleet at Scapa Flow that he commissioned smaller versions for his own private collection?](https://en.wikipedia.org/wiki/Return_of_the_Mayflower)
-  - [... that violinist Sol Babitz , a pioneer in historically informed performance , was twice evicted by the police from meetings of the American Musicological Society?](https://en.wikipedia.org/wiki/Sol_Babitz)
-  - [... that some green beer is colored with spirulina algae?](https://en.wikipedia.org/wiki/Green_beer)
+  - [... that data collected by FRA DOTX 219 (pictured) have been used in investigations of train derailments?](https://en.wikipedia.org/wiki/FRA_DOTX_219)
+  - [... that an eight-track EP lasting less than nine minutes was re-released ten years after the death of its performer in a fire ?](https://en.wikipedia.org/wiki/Redemption_of_the_Flesh)
+  - [... that shortly after the publication of Women Without Men in Iran, it was banned and its author imprisoned?](https://en.wikipedia.org/wiki/Women_Without_Men_(novella))
 <!--DYK:END-->
 
 ### XKCD for today
