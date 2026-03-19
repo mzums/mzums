@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Appellate Division Courthouse of New York State](https://en.wikipedia.org/wiki/Appellate_Division_Courthouse_of_New_York_State)
+  - [Hurricane Hilary](https://en.wikipedia.org/wiki/Hurricane_Hilary)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that data collected by FRA DOTX 219 (pictured) have been used in investigations of train derailments?](https://en.wikipedia.org/wiki/FRA_DOTX_219)
-  - [... that an eight-track EP lasting less than nine minutes was re-released ten years after the death of its performer in a fire ?](https://en.wikipedia.org/wiki/Redemption_of_the_Flesh)
-  - [... that shortly after the publication of Women Without Men in Iran, it was banned and its author imprisoned?](https://en.wikipedia.org/wiki/Women_Without_Men_(novella))
+  - [... that the pianist Alide Topp (pictured) once responded to claims that women lacked the "biceps of a man" for great music by stating she broke her pianos as well as any man?](https://en.wikipedia.org/wiki/Alide_Topp)
+  - [... that the first writing system for Tlingit , a Native American language, was based on the Cyrillic alphabet?](https://en.wikipedia.org/wiki/Tlingit_language)
+  - [... that some players who obtained Stardew Valley illegally were so impressed they planned to buy it?](https://en.wikipedia.org/wiki/Stardew_Valley)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Rotational Gravity](https://imgs.xkcd.com/comics/rotational_gravity.png)
+![Landscape Features](https://imgs.xkcd.com/comics/landscape_features.png)
 
-[Rotational Gravity](https://xkcd.com/3220) — *I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.*
+[Landscape Features](https://xkcd.com/3221) — *'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question*
 <!--XKCD:END-->
