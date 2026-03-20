@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hurricane Hilary](https://en.wikipedia.org/wiki/Hurricane_Hilary)
+  - [Robert Poore](https://en.wikipedia.org/wiki/Robert_Poore)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the pianist Alide Topp (pictured) once responded to claims that women lacked the "biceps of a man" for great music by stating she broke her pianos as well as any man?](https://en.wikipedia.org/wiki/Alide_Topp)
-  - [... that the first writing system for Tlingit , a Native American language, was based on the Cyrillic alphabet?](https://en.wikipedia.org/wiki/Tlingit_language)
-  - [... that some players who obtained Stardew Valley illegally were so impressed they planned to buy it?](https://en.wikipedia.org/wiki/Stardew_Valley)
+  - [... that Makeship produced a plush toy of Wikipedia's 25th-anniversary mascot (pictured) ?](https://en.wikipedia.org/wiki/Makeship)
+  - [... that Sudjarwo Tjondronegoro advanced Indonesia's claim to Western New Guinea in the United Nations, and later accepted control over the territory?](https://en.wikipedia.org/wiki/Sudjarwo_Tjondronegoro)
+  - [... that Henry Williamson stopped writing The Patriot's Progress for a year because he was so disgusted by the praise for All Quiet on the Western Front ?](https://en.wikipedia.org/wiki/Henry_Williamson)
 <!--DYK:END-->
 
 ### XKCD for today
