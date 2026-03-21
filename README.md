@@ -27,19 +27,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Robert Poore](https://en.wikipedia.org/wiki/Robert_Poore)
+  - [Arthur Sullivan](https://en.wikipedia.org/wiki/Arthur_Sullivan)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Makeship produced a plush toy of Wikipedia's 25th-anniversary mascot (pictured) ?](https://en.wikipedia.org/wiki/Makeship)
-  - [... that Sudjarwo Tjondronegoro advanced Indonesia's claim to Western New Guinea in the United Nations, and later accepted control over the territory?](https://en.wikipedia.org/wiki/Sudjarwo_Tjondronegoro)
-  - [... that Henry Williamson stopped writing The Patriot's Progress for a year because he was so disgusted by the praise for All Quiet on the Western Front ?](https://en.wikipedia.org/wiki/Henry_Williamson)
+  - [... that works in the forty-hadith genre (example pictured) were produced based on a hadith promising special treatment on Judgement Day ?](https://en.wikipedia.org/wiki/Forty_hadith)
+  - [... that the Awlad al-Imam were venerated for their knowledge and legacy, but none of their works have survived?](https://en.wikipedia.org/wiki/Awlad_al-Imam)
+  - [... that the Canal of Zubaidah , built on the order of a queen , provided water to Hajj pilgrims for over a thousand years?](https://en.wikipedia.org/wiki/Canal_of_Zubaidah)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Landscape Features](https://imgs.xkcd.com/comics/landscape_features.png)
+![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)
 
-[Landscape Features](https://xkcd.com/3221) — *'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question*
+[Star Formation](https://xkcd.com/3222) — *It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!*
 <!--XKCD:END-->
