@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Arthur Sullivan](https://en.wikipedia.org/wiki/Arthur_Sullivan)
+  - [Chris Redfield](https://en.wikipedia.org/wiki/Chris_Redfield)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that works in the forty-hadith genre (example pictured) were produced based on a hadith promising special treatment on Judgement Day ?](https://en.wikipedia.org/wiki/Forty_hadith)
-  - [... that the Awlad al-Imam were venerated for their knowledge and legacy, but none of their works have survived?](https://en.wikipedia.org/wiki/Awlad_al-Imam)
-  - [... that the Canal of Zubaidah , built on the order of a queen , provided water to Hajj pilgrims for over a thousand years?](https://en.wikipedia.org/wiki/Canal_of_Zubaidah)
+  - [... that an Indian sugar-factory timekeeper (pictured) founded a library with more than two million books?](https://en.wikipedia.org/wiki/Anke_Gowda)
+  - [... that the Delta River is likely older than the mountain range it cuts across?](https://en.wikipedia.org/wiki/Delta_River)
+  - [... that Carlos Meléndez ran for both president and vice president in the 1903 Salvadoran presidential election ?](https://en.wikipedia.org/wiki/Carlos_Mel%C3%A9ndez_(politician))
 <!--DYK:END-->
 
 ### XKCD for today
