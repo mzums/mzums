@@ -27,14 +27,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Chris Redfield](https://en.wikipedia.org/wiki/Chris_Redfield)
+  - [Ethan Hawke](https://en.wikipedia.org/wiki/Ethan_Hawke)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that an Indian sugar-factory timekeeper (pictured) founded a library with more than two million books?](https://en.wikipedia.org/wiki/Anke_Gowda)
-  - [... that the Delta River is likely older than the mountain range it cuts across?](https://en.wikipedia.org/wiki/Delta_River)
-  - [... that Carlos Meléndez ran for both president and vice president in the 1903 Salvadoran presidential election ?](https://en.wikipedia.org/wiki/Carlos_Mel%C3%A9ndez_(politician))
+  - [... that the jumping spider Pellenes nigrociliatus (pictured) makes a silk curtain across the entrance of the snail shell that it uses as a nest?](https://en.wikipedia.org/wiki/Pellenes_nigrociliatus)
+  - [... that advertising material for an Indonesian film included an entire chapter of the Quran?](https://en.wikipedia.org/wiki/Al_Kautsar_(film))
+  - [... that J. Verne Smith sold tires before becoming a state senator?](https://en.wikipedia.org/wiki/J._Verne_Smith)
 <!--DYK:END-->
 
 ### XKCD for today
