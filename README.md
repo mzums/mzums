@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ethan Hawke](https://en.wikipedia.org/wiki/Ethan_Hawke)
+  - [Despre tine](https://en.wikipedia.org/wiki/Despre_tine)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the jumping spider Pellenes nigrociliatus (pictured) makes a silk curtain across the entrance of the snail shell that it uses as a nest?](https://en.wikipedia.org/wiki/Pellenes_nigrociliatus)
-  - [... that advertising material for an Indonesian film included an entire chapter of the Quran?](https://en.wikipedia.org/wiki/Al_Kautsar_(film))
-  - [... that J. Verne Smith sold tires before becoming a state senator?](https://en.wikipedia.org/wiki/J._Verne_Smith)
+  - [... that the Indian Communist Party distinguished itself from the Communist Party of India by using a yellow hammer and sickle on its flag (pictured) ?](https://en.wikipedia.org/wiki/Indian_Communist_Party_(1987))
+  - [... that Queen Plaisance was chastised for carrying on with another woman's husband in a letter from the pope ?](https://en.wikipedia.org/wiki/Plaisance_of_Antioch)
+  - [... that Tujiaaspis had a single pair of ridge-like fins that may have been the precursors to human arms and legs?](https://en.wikipedia.org/wiki/Tujiaaspis)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)
+![Inflation Timeline](https://imgs.xkcd.com/comics/inflation_timeline.png)
 
-[Star Formation](https://xkcd.com/3222) — *It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!*
+[Inflation Timeline](https://xkcd.com/3223) — *Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'*
 <!--XKCD:END-->
