@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Despre tine](https://en.wikipedia.org/wiki/Despre_tine)
+  - [Loveday (1458)](https://en.wikipedia.org/wiki/Loveday_(1458))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Indian Communist Party distinguished itself from the Communist Party of India by using a yellow hammer and sickle on its flag (pictured) ?](https://en.wikipedia.org/wiki/Indian_Communist_Party_(1987))
-  - [... that Queen Plaisance was chastised for carrying on with another woman's husband in a letter from the pope ?](https://en.wikipedia.org/wiki/Plaisance_of_Antioch)
-  - [... that Tujiaaspis had a single pair of ridge-like fins that may have been the precursors to human arms and legs?](https://en.wikipedia.org/wiki/Tujiaaspis)
+  - [... that a stained-glass depiction of the Relief of Maat (pictured) has decorated Yale Law School's dining hall since 1930?](https://en.wikipedia.org/wiki/Relief_of_Maat)
+  - [... that Mary Hannay Foott 's best-known poem was inspired by the true story of two men who disappeared in the Australian outback in 1877?](https://en.wikipedia.org/wiki/Mary_Hannay_Foott)
+  - [... that the Cavinti Underground River and Caves Complex has a naturally formed "fountain of youth" from which visitors can drink?](https://en.wikipedia.org/wiki/Cavinti_Underground_River_and_Caves_Complex)
 <!--DYK:END-->
 
 ### XKCD for today
