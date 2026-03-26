@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Loveday (1458)](https://en.wikipedia.org/wiki/Loveday_(1458))
+  - [Massospondylus](https://en.wikipedia.org/wiki/Massospondylus)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a stained-glass depiction of the Relief of Maat (pictured) has decorated Yale Law School's dining hall since 1930?](https://en.wikipedia.org/wiki/Relief_of_Maat)
-  - [... that Mary Hannay Foott 's best-known poem was inspired by the true story of two men who disappeared in the Australian outback in 1877?](https://en.wikipedia.org/wiki/Mary_Hannay_Foott)
-  - [... that the Cavinti Underground River and Caves Complex has a naturally formed "fountain of youth" from which visitors can drink?](https://en.wikipedia.org/wiki/Cavinti_Underground_River_and_Caves_Complex)
+  - [... that Twisted Tea (cans pictured) was rebranded after being sued for trademark infringement?](https://en.wikipedia.org/wiki/Twisted_Tea)
+  - [... that Asma Nadia , who has travelled to 72 countries, has published dozens of books – including one with tips for Muslim travellers?](https://en.wikipedia.org/wiki/Asma_Nadia)
+  - [... that Maxentius was the last Roman emperor in the 4th century to reside in Rome ?](https://en.wikipedia.org/wiki/Maxentius)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Inflation Timeline](https://imgs.xkcd.com/comics/inflation_timeline.png)
+![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)
 
-[Inflation Timeline](https://xkcd.com/3223) — *Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'*
+[Centimeter Wavelengths](https://xkcd.com/3224) — *Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?*
 <!--XKCD:END-->
