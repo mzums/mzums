@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Massospondylus](https://en.wikipedia.org/wiki/Massospondylus)
+  - [The Boat Races 2016](https://en.wikipedia.org/wiki/The_Boat_Races_2016)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Twisted Tea (cans pictured) was rebranded after being sued for trademark infringement?](https://en.wikipedia.org/wiki/Twisted_Tea)
-  - [... that Asma Nadia , who has travelled to 72 countries, has published dozens of books – including one with tips for Muslim travellers?](https://en.wikipedia.org/wiki/Asma_Nadia)
-  - [... that Maxentius was the last Roman emperor in the 4th century to reside in Rome ?](https://en.wikipedia.org/wiki/Maxentius)
+  - [... that the Apumanque Mall (pictured) is the oldest shopping mall in Chile?](https://en.wikipedia.org/wiki/Apumanque_Mall)
+  - [... that the Mayor of Paris has suggested adding the name of Alice Sollier , the first Black French woman to qualify as a medical doctor, to the Eiffel Tower ?](https://en.wikipedia.org/wiki/Alice_Sollier)
+  - [... that J Dilla worked on Donuts , which was released three days before his death, in the hospital?](https://en.wikipedia.org/wiki/J_Dilla)
 <!--DYK:END-->
 
 ### XKCD for today
