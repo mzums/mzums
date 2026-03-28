@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Boat Races 2016](https://en.wikipedia.org/wiki/The_Boat_Races_2016)
+  - [Octopussy and The Living Daylights](https://en.wikipedia.org/wiki/Octopussy_and_The_Living_Daylights)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Apumanque Mall (pictured) is the oldest shopping mall in Chile?](https://en.wikipedia.org/wiki/Apumanque_Mall)
-  - [... that the Mayor of Paris has suggested adding the name of Alice Sollier , the first Black French woman to qualify as a medical doctor, to the Eiffel Tower ?](https://en.wikipedia.org/wiki/Alice_Sollier)
-  - [... that J Dilla worked on Donuts , which was released three days before his death, in the hospital?](https://en.wikipedia.org/wiki/J_Dilla)
+  - [... that Marie Salmon (pictured) was condemned to be burned at the stake for a crime she didn't commit, but narrowly avoided execution by claiming she was pregnant?](https://en.wikipedia.org/wiki/Marie_Salmon)
+  - [... that Yokohama's articulated tourist buses feature a matte metallic blue livery inspired by the city?](https://en.wikipedia.org/wiki/Bayside_Blue)
+  - [... that Ukrainian author Osyp Turiansky 's works were suppressed in his homeland?](https://en.wikipedia.org/wiki/Osyp_Turiansky)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)
+![Satellite Pollution](https://imgs.xkcd.com/comics/satellite_pollution.png)
 
-[Centimeter Wavelengths](https://xkcd.com/3224) — *Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?*
+[Satellite Pollution](https://xkcd.com/3225) — *We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.*
 <!--XKCD:END-->
