@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Octopussy and The Living Daylights](https://en.wikipedia.org/wiki/Octopussy_and_The_Living_Daylights)
+  - [The Goldfinch (painting)](https://en.wikipedia.org/wiki/The_Goldfinch_(painting))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Marie Salmon (pictured) was condemned to be burned at the stake for a crime she didn't commit, but narrowly avoided execution by claiming she was pregnant?](https://en.wikipedia.org/wiki/Marie_Salmon)
-  - [... that Yokohama's articulated tourist buses feature a matte metallic blue livery inspired by the city?](https://en.wikipedia.org/wiki/Bayside_Blue)
-  - [... that Ukrainian author Osyp Turiansky 's works were suppressed in his homeland?](https://en.wikipedia.org/wiki/Osyp_Turiansky)
+  - [... that Michael Gove (pictured) , now a member of the UK House of Lords , appeared on a televised quiz show before entering politics?](https://en.wikipedia.org/wiki/Michael_Gove)
+  - [... that the loss of the freighter Hippocampus represented the deadliest disaster in the southwestern Michigan fruit trade?](https://en.wikipedia.org/wiki/SS_Hippocampus)
+  - [... that costume designer Gwen Wakeling crafted Shirley Temple 's on-screen image by working on 14 of her films?](https://en.wikipedia.org/wiki/Gwen_Wakeling)
 <!--DYK:END-->
 
 ### XKCD for today
