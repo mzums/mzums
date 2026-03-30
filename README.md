@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Goldfinch (painting)](https://en.wikipedia.org/wiki/The_Goldfinch_(painting))
+  - [2025 World Figure Skating Championships](https://en.wikipedia.org/wiki/2025_World_Figure_Skating_Championships)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Michael Gove (pictured) , now a member of the UK House of Lords , appeared on a televised quiz show before entering politics?](https://en.wikipedia.org/wiki/Michael_Gove)
-  - [... that the loss of the freighter Hippocampus represented the deadliest disaster in the southwestern Michigan fruit trade?](https://en.wikipedia.org/wiki/SS_Hippocampus)
-  - [... that costume designer Gwen Wakeling crafted Shirley Temple 's on-screen image by working on 14 of her films?](https://en.wikipedia.org/wiki/Gwen_Wakeling)
+  - [... that Te Ahi Tupua (pictured) is reportedly the largest 3D-printed sculpture in the world?](https://en.wikipedia.org/wiki/Te_Ahi_Tupua)
+  - [... that Minnesota's national-championship quarterback Babe LeVoir became the commander of US aircraft-carrier athletics in the Pacific during World War II?](https://en.wikipedia.org/wiki/Babe_LeVoir)
+  - [... that a purported " Clinton plan " cited by Trump officials came from Russian intelligence material later described as likely disinformation?](https://en.wikipedia.org/wiki/Clinton_plan_intelligence_conspiracy_theory)
 <!--DYK:END-->
 
 ### XKCD for today
