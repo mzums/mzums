@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2025 World Figure Skating Championships](https://en.wikipedia.org/wiki/2025_World_Figure_Skating_Championships)
+  - [1937 tour of Germany by the Duke and Duchess of Windsor](https://en.wikipedia.org/wiki/1937_tour_of_Germany_by_the_Duke_and_Duchess_of_Windsor)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Te Ahi Tupua (pictured) is reportedly the largest 3D-printed sculpture in the world?](https://en.wikipedia.org/wiki/Te_Ahi_Tupua)
-  - [... that Minnesota's national-championship quarterback Babe LeVoir became the commander of US aircraft-carrier athletics in the Pacific during World War II?](https://en.wikipedia.org/wiki/Babe_LeVoir)
-  - [... that a purported " Clinton plan " cited by Trump officials came from Russian intelligence material later described as likely disinformation?](https://en.wikipedia.org/wiki/Clinton_plan_intelligence_conspiracy_theory)
+  - [... that Kim Petras (pictured) was described as the "world's youngest" person to transition?](https://en.wikipedia.org/wiki/Kim_Petras)
+  - [... that a textile cooperative that helps to lift trans women out of poverty was named after activist Nadia Echazú ?](https://en.wikipedia.org/wiki/Nadia_Echaz%C3%BA)
+  - [... that sixteen countries fully recognize a non-binary gender marker for all individuals?](https://en.wikipedia.org/wiki/Gender_marker)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Satellite Pollution](https://imgs.xkcd.com/comics/satellite_pollution.png)
+![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)
 
-[Satellite Pollution](https://xkcd.com/3225) — *We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies.*
+[Home Solar](https://xkcd.com/3226) — *"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."*
 <!--XKCD:END-->
