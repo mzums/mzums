@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1937 tour of Germany by the Duke and Duchess of Windsor](https://en.wikipedia.org/wiki/1937_tour_of_Germany_by_the_Duke_and_Duchess_of_Windsor)
+  - [Dirty Dick](https://en.wikipedia.org/wiki/Dirty_Dick)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Kim Petras (pictured) was described as the "world's youngest" person to transition?](https://en.wikipedia.org/wiki/Kim_Petras)
-  - [... that a textile cooperative that helps to lift trans women out of poverty was named after activist Nadia Echazú ?](https://en.wikipedia.org/wiki/Nadia_Echaz%C3%BA)
-  - [... that sixteen countries fully recognize a non-binary gender marker for all individuals?](https://en.wikipedia.org/wiki/Gender_marker)
+  - [... that they did surgery on a grape (pictured) ?](https://en.wikipedia.org/wiki/Grape_surgery)
+  - [... that Elvis the Pelvis got rickets from hibernating?](https://en.wikipedia.org/wiki/Sima_de_los_Huesos_hominins)
+  - [... that sardines had engines?](https://en.wikipedia.org/wiki/Letov_%C5%A0-10)
 <!--DYK:END-->
 
 ### XKCD for today
