@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Dirty Dick](https://en.wikipedia.org/wiki/Dirty_Dick)
+  - [Pied butcherbird](https://en.wikipedia.org/wiki/Pied_butcherbird)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that they did surgery on a grape (pictured) ?](https://en.wikipedia.org/wiki/Grape_surgery)
-  - [... that Elvis the Pelvis got rickets from hibernating?](https://en.wikipedia.org/wiki/Sima_de_los_Huesos_hominins)
-  - [... that sardines had engines?](https://en.wikipedia.org/wiki/Letov_%C5%A0-10)
+  - [... that the island Grimskär (pictured) was probably used for executions of criminals, whose bodies were left there on display as a warning to passing ships?](https://en.wikipedia.org/wiki/Grimsk%C3%A4r)
+  - [... that the wedding of Jan Opaliński became infamous due to several accidents and quarrels?](https://en.wikipedia.org/wiki/Jan_Opali%C5%84ski_(died_1598))
+  - [... that the lyrics of " Bull Believer " were inspired by Cocaine & Rhinestones and contain references to Mortal Kombat and Augustine of Hippo ?](https://en.wikipedia.org/wiki/Bull_Believer)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)
+![Creation](https://imgs.xkcd.com/comics/creation.png)
 
-[Home Solar](https://xkcd.com/3226) — *"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."*
+[Creation](https://xkcd.com/3227) — *This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.*
 <!--XKCD:END-->
