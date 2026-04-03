@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Pied butcherbird](https://en.wikipedia.org/wiki/Pied_butcherbird)
+  - [Three Studies for Figures at the Base of a Crucifixion](https://en.wikipedia.org/wiki/Three_Studies_for_Figures_at_the_Base_of_a_Crucifixion)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the island Grimskär (pictured) was probably used for executions of criminals, whose bodies were left there on display as a warning to passing ships?](https://en.wikipedia.org/wiki/Grimsk%C3%A4r)
-  - [... that the wedding of Jan Opaliński became infamous due to several accidents and quarrels?](https://en.wikipedia.org/wiki/Jan_Opali%C5%84ski_(died_1598))
-  - [... that the lyrics of " Bull Believer " were inspired by Cocaine & Rhinestones and contain references to Mortal Kombat and Augustine of Hippo ?](https://en.wikipedia.org/wiki/Bull_Believer)
+  - [... that lawyer Gilbert Ray Hawes (pictured) exposed an American diplomat for bribing the president of Venezuela?](https://en.wikipedia.org/wiki/Gilbert_Ray_Hawes)
+  - [... that Catherine, Princess of Wales, gave her first public musical performance by playing the piano at the 2021 Together at Christmas service?](https://en.wikipedia.org/wiki/Together_at_Christmas_(carol_service))
+  - [... that the remains of the first Catholic bishop in Tasmania were not returned to the island until 150 years after his death?](https://en.wikipedia.org/wiki/Robert_Willson_(bishop))
 <!--DYK:END-->
 
 ### XKCD for today
