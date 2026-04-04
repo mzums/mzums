@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Three Studies for Figures at the Base of a Crucifixion](https://en.wikipedia.org/wiki/Three_Studies_for_Figures_at_the_Base_of_a_Crucifixion)
+  - [Apollo 6](https://en.wikipedia.org/wiki/Apollo_6)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that lawyer Gilbert Ray Hawes (pictured) exposed an American diplomat for bribing the president of Venezuela?](https://en.wikipedia.org/wiki/Gilbert_Ray_Hawes)
-  - [... that Catherine, Princess of Wales, gave her first public musical performance by playing the piano at the 2021 Together at Christmas service?](https://en.wikipedia.org/wiki/Together_at_Christmas_(carol_service))
-  - [... that the remains of the first Catholic bishop in Tasmania were not returned to the island until 150 years after his death?](https://en.wikipedia.org/wiki/Robert_Willson_(bishop))
+  - [... that Carmen Alfaro Asins (pictured) discovered a previously unknown Punic mint by comparing a coin inscription to an 11th-century tablet?](https://en.wikipedia.org/wiki/Carmen_Alfaro_Asins)
+  - [... that the magazine Annida refused to hire smokers for its cover shoots?](https://en.wikipedia.org/wiki/Annida)
+  - [... that art historian Millard Meiss claimed that the Master of Walters 219 was "one of the first artists to show a skeleton riding a bull"?](https://en.wikipedia.org/wiki/Millard_Meiss)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Creation](https://imgs.xkcd.com/comics/creation.png)
+![Day Counter](https://imgs.xkcd.com/comics/day_counter.png)
 
-[Creation](https://xkcd.com/3227) — *This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.*
+[Day Counter](https://xkcd.com/3228) — *It has been −2,147,483,648 days since our last integer overflow.*
 <!--XKCD:END-->
