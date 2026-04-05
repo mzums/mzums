@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Apollo 6](https://en.wikipedia.org/wiki/Apollo_6)
+  - [Easter Oratorio](https://en.wikipedia.org/wiki/Easter_Oratorio)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Carmen Alfaro Asins (pictured) discovered a previously unknown Punic mint by comparing a coin inscription to an 11th-century tablet?](https://en.wikipedia.org/wiki/Carmen_Alfaro_Asins)
-  - [... that the magazine Annida refused to hire smokers for its cover shoots?](https://en.wikipedia.org/wiki/Annida)
-  - [... that art historian Millard Meiss claimed that the Master of Walters 219 was "one of the first artists to show a skeleton riding a bull"?](https://en.wikipedia.org/wiki/Millard_Meiss)
+  - [... that the " snail mosque " (pictured) , designed by a non-Muslim, has been noted as resembling Indonesia's parliamentary complex?](https://en.wikipedia.org/wiki/Al-Baitul_Amien_Mosque)
+  - [... that lobbyist Brian D. Ballard has represented The Trump Organization and the Socialist Party of Albania?](https://en.wikipedia.org/wiki/Brian_D._Ballard)
+  - [... that differing perceptions on identity amongst Assyrians have dominated internal community discourse for several decades?](https://en.wikipedia.org/wiki/Assyrians)
 <!--DYK:END-->
 
 ### XKCD for today
