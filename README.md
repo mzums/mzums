@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Easter Oratorio](https://en.wikipedia.org/wiki/Easter_Oratorio)
+  - [Duffield Memorial](https://en.wikipedia.org/wiki/Duffield_Memorial)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the " snail mosque " (pictured) , designed by a non-Muslim, has been noted as resembling Indonesia's parliamentary complex?](https://en.wikipedia.org/wiki/Al-Baitul_Amien_Mosque)
-  - [... that lobbyist Brian D. Ballard has represented The Trump Organization and the Socialist Party of Albania?](https://en.wikipedia.org/wiki/Brian_D._Ballard)
-  - [... that differing perceptions on identity amongst Assyrians have dominated internal community discourse for several decades?](https://en.wikipedia.org/wiki/Assyrians)
+  - [... that Miloš Vučević (pictured) only served in the National Assembly of Serbia for five days?](https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87)
+  - [... that historian Robert N. Mullin , in addition to being an expert on outlaw Billy the Kid, was once a politician who was responsible for the building of El Paso Airport?](https://en.wikipedia.org/wiki/Robert_N._Mullin)
+  - [... that the guitarist who created the song " Miku " often felt like he was talking to the fictional Hatsune Miku ?](https://en.wikipedia.org/wiki/Miku_(song))
 <!--DYK:END-->
 
 ### XKCD for today
