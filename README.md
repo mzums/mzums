@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Duffield Memorial](https://en.wikipedia.org/wiki/Duffield_Memorial)
+  - [Interstate 205 (Oregon–Washington)](https://en.wikipedia.org/wiki/Interstate_205_(Oregon–Washington))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Miloš Vučević (pictured) only served in the National Assembly of Serbia for five days?](https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87)
-  - [... that historian Robert N. Mullin , in addition to being an expert on outlaw Billy the Kid, was once a politician who was responsible for the building of El Paso Airport?](https://en.wikipedia.org/wiki/Robert_N._Mullin)
-  - [... that the guitarist who created the song " Miku " often felt like he was talking to the fictional Hatsune Miku ?](https://en.wikipedia.org/wiki/Miku_(song))
+  - [... that the star Sirius B is slightly smaller than Earth (comparison pictured) ?](https://en.wikipedia.org/wiki/Sirius_B)
+  - [... that the father of Lithuanian scientific forestry also directed theatre, organized a school, compiled maps, and wrote a dictionary of plants, a mathematics textbook, and a collection of poetry?](https://en.wikipedia.org/wiki/Povilas_Matulionis)
+  - [... that the screenwriter of Haibane Renmei was given two days to finish the script for the finale?](https://en.wikipedia.org/wiki/Haibane_Renmei)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Day Counter](https://imgs.xkcd.com/comics/day_counter.png)
+![Grammar](https://imgs.xkcd.com/comics/grammar.png)
 
-[Day Counter](https://xkcd.com/3228) — *It has been −2,147,483,648 days since our last integer overflow.*
+[Grammar](https://xkcd.com/3229) — *Communication is one of the most popular ways to transmit information, ahead of rivals such as*
 <!--XKCD:END-->
