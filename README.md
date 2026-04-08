@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Interstate 205 (Oregon–Washington)](https://en.wikipedia.org/wiki/Interstate_205_(Oregon–Washington))
+  - [Yugoslav submarine Mališan](https://en.wikipedia.org/wiki/Yugoslav_submarine_Mališan)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the star Sirius B is slightly smaller than Earth (comparison pictured) ?](https://en.wikipedia.org/wiki/Sirius_B)
-  - [... that the father of Lithuanian scientific forestry also directed theatre, organized a school, compiled maps, and wrote a dictionary of plants, a mathematics textbook, and a collection of poetry?](https://en.wikipedia.org/wiki/Povilas_Matulionis)
-  - [... that the screenwriter of Haibane Renmei was given two days to finish the script for the finale?](https://en.wikipedia.org/wiki/Haibane_Renmei)
+  - [... that British troops turned Boston's Old South Meeting House (pictured) into a horse-riding facility during the American Revolutionary War?](https://en.wikipedia.org/wiki/Old_South_Meeting_House)
+  - [... that Ethiopian migrants have to stay in Malawi's overcrowded Maula Prison until they can fund their own deportation?](https://en.wikipedia.org/wiki/Maula_Prison)
+  - [... that Fatahillah , billed as the saviour of the Indonesian film industry and at the time its most expensive domestic film, was a commercial failure?](https://en.wikipedia.org/wiki/Fatahillah_(film))
 <!--DYK:END-->
 
 ### XKCD for today
