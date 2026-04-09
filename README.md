@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yugoslav submarine Mališan](https://en.wikipedia.org/wiki/Yugoslav_submarine_Mališan)
+  - [Constantine (son of Theophilos)](https://en.wikipedia.org/wiki/Constantine_(son_of_Theophilos))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that British troops turned Boston's Old South Meeting House (pictured) into a horse-riding facility during the American Revolutionary War?](https://en.wikipedia.org/wiki/Old_South_Meeting_House)
-  - [... that Ethiopian migrants have to stay in Malawi's overcrowded Maula Prison until they can fund their own deportation?](https://en.wikipedia.org/wiki/Maula_Prison)
-  - [... that Fatahillah , billed as the saviour of the Indonesian film industry and at the time its most expensive domestic film, was a commercial failure?](https://en.wikipedia.org/wiki/Fatahillah_(film))
+  - [... that in 2020, Rainelle Krause (pictured) sang the " Queen of the Night aria " while doing aerial silks upside down?](https://en.wikipedia.org/wiki/Rainelle_Krause)
+  - [... that a dead raccoon was honoured with a Toronto heritage plaque?](https://en.wikipedia.org/wiki/Conrad_(raccoon))
+  - [... that Tony Award–nominated costume designer Helene Pons patented the first commercial underwire bra ?](https://en.wikipedia.org/wiki/Helene_Pons)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Grammar](https://imgs.xkcd.com/comics/grammar.png)
+![Overton](https://imgs.xkcd.com/comics/overton.png)
 
-[Grammar](https://xkcd.com/3229) — *Communication is one of the most popular ways to transmit information, ahead of rivals such as*
+[Overton](https://xkcd.com/3230) — *I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.*
 <!--XKCD:END-->
