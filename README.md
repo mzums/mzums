@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ojos del Salado](https://en.wikipedia.org/wiki/Ojos_del_Salado)
+  - [Relief of Douglas MacArthur](https://en.wikipedia.org/wiki/Relief_of_Douglas_MacArthur)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that St. Martin's Church, Zillis , used ultramarine imported from medieval Afghanistan as a pigment for its painted ceiling (detail pictured) ?](https://en.wikipedia.org/wiki/St._Martin%27s_Church,_Zillis)
-  - [... that the title track of hip-hop album 400 Degreez has been compared to James Bond music ?](https://en.wikipedia.org/wiki/400_Degreez)
-  - [... that Lou Nicholson first entered politics due to concerns over " no jab, no play " laws?](https://en.wikipedia.org/wiki/Lou_Nicholson)
+  - [... that the reign of Augustus (bust pictured) relied on chance, experimentation and improvisation, according to one historian?](https://en.wikipedia.org/wiki/Reign_of_Augustus)
+  - [... that in 1936 the Supreme Court ruled that Oregon could divert all of its own water in the Walla Walla River from Washington?](https://en.wikipedia.org/wiki/Walla_Walla_River)
+  - [... that Sam Jaffe brought "wine, cheese and live caterpillars" to gallery openings of his photographs?](https://en.wikipedia.org/wiki/Sam_Jaffe_(naturalist))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Overton](https://imgs.xkcd.com/comics/overton.png)
+![Lightning](https://imgs.xkcd.com/comics/lightning.png)
 
-[Overton](https://xkcd.com/3230) — *I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.*
+[Lightning](https://xkcd.com/3231) — *Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
 <!--XKCD:END-->
