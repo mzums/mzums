@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Relief of Douglas MacArthur](https://en.wikipedia.org/wiki/Relief_of_Douglas_MacArthur)
+  - [Henry Darger](https://en.wikipedia.org/wiki/Henry_Darger)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the reign of Augustus (bust pictured) relied on chance, experimentation and improvisation, according to one historian?](https://en.wikipedia.org/wiki/Reign_of_Augustus)
-  - [... that in 1936 the Supreme Court ruled that Oregon could divert all of its own water in the Walla Walla River from Washington?](https://en.wikipedia.org/wiki/Walla_Walla_River)
-  - [... that Sam Jaffe brought "wine, cheese and live caterpillars" to gallery openings of his photographs?](https://en.wikipedia.org/wiki/Sam_Jaffe_(naturalist))
+  - [... that the second issue of Irish War News was printed eight years after the first (pictured) ?](https://en.wikipedia.org/wiki/Irish_War_News)
+  - [... that four years after kidnapping and killing a former de facto president of Argentina , the guerrilla Montoneros snatched his body to demand the repatriation of Eva Perón's remains from Spain?](https://en.wikipedia.org/wiki/Assassination_of_Pedro_Eugenio_Aramburu)
+  - [... that British journalist and barrister Hashi Mohamed was a refugee from Somalia when he was aged nine?](https://en.wikipedia.org/wiki/Hashi_Mohamed)
 <!--DYK:END-->
 
 ### XKCD for today
