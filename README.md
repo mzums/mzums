@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Henry Darger](https://en.wikipedia.org/wiki/Henry_Darger)
+  - [Yuan Shikai coinage](https://en.wikipedia.org/wiki/Yuan_Shikai_coinage)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the second issue of Irish War News was printed eight years after the first (pictured) ?](https://en.wikipedia.org/wiki/Irish_War_News)
-  - [... that four years after kidnapping and killing a former de facto president of Argentina , the guerrilla Montoneros snatched his body to demand the repatriation of Eva Perón's remains from Spain?](https://en.wikipedia.org/wiki/Assassination_of_Pedro_Eugenio_Aramburu)
-  - [... that British journalist and barrister Hashi Mohamed was a refugee from Somalia when he was aged nine?](https://en.wikipedia.org/wiki/Hashi_Mohamed)
+  - [... that the performance of Iberia by Clara Sansoni (pictured) was called a "dual revelation" of Isaac Albéniz's "originality" and her own "courage and affection"?](https://en.wikipedia.org/wiki/Iberia_(Alb%C3%A9niz))
+  - [... that the producers of Assalamualaikum Beijing had to hire an Indonesian embassy chef when shooting on location?](https://en.wikipedia.org/wiki/Assalamualaikum_Beijing)
+  - [... that William Rogers Chapman has been described as "the father of good music in Maine "?](https://en.wikipedia.org/wiki/William_Rogers_Chapman)
 <!--DYK:END-->
 
 ### XKCD for today
