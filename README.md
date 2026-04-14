@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Yuan Shikai coinage](https://en.wikipedia.org/wiki/Yuan_Shikai_coinage)
+  - [Flow (video game)](https://en.wikipedia.org/wiki/Flow_(video_game))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the performance of Iberia by Clara Sansoni (pictured) was called a "dual revelation" of Isaac Albéniz's "originality" and her own "courage and affection"?](https://en.wikipedia.org/wiki/Iberia_(Alb%C3%A9niz))
-  - [... that the producers of Assalamualaikum Beijing had to hire an Indonesian embassy chef when shooting on location?](https://en.wikipedia.org/wiki/Assalamualaikum_Beijing)
-  - [... that William Rogers Chapman has been described as "the father of good music in Maine "?](https://en.wikipedia.org/wiki/William_Rogers_Chapman)
+  - [... that land reclamation in Macau (map pictured) has increased available land threefold?](https://en.wikipedia.org/wiki/Land_reclamation_in_Macau)
+  - [... that Jenna Meek once decorated Love Island contestants with glitter?](https://en.wikipedia.org/wiki/Jenna_Meek)
+  - [... that the fan-made Pokémon games Pokémon Uranium and Pokémon Prism were in development for nine and eight years respectively?](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Uranium)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Lightning](https://imgs.xkcd.com/comics/lightning.png)
+![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)
 
-[Lightning](https://xkcd.com/3231) — *Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
+[Countdown Standard](https://xkcd.com/3232) — *Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.*
 <!--XKCD:END-->
