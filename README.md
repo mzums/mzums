@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Flow (video game)](https://en.wikipedia.org/wiki/Flow_(video_game))
+  - [Coeliac disease](https://en.wikipedia.org/wiki/Coeliac_disease)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that land reclamation in Macau (map pictured) has increased available land threefold?](https://en.wikipedia.org/wiki/Land_reclamation_in_Macau)
-  - [... that Jenna Meek once decorated Love Island contestants with glitter?](https://en.wikipedia.org/wiki/Jenna_Meek)
-  - [... that the fan-made Pokémon games Pokémon Uranium and Pokémon Prism were in development for nine and eight years respectively?](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Uranium)
+  - [... that the original Cruz de Clavos (replica pictured) , which included 260 nails representing women killed in Chihuahua, was later stolen despite being anchored to the ground?](https://en.wikipedia.org/wiki/Cruz_de_Clavos)
+  - [... that People in Trouble was based on Sarah Schulman 's experiences of the AIDS crisis, Donald Trump, and having an affair with a married woman?](https://en.wikipedia.org/wiki/People_in_Trouble)
+  - [... that medieval sources disagree on exactly how Count Henry II of Champagne died in a fall, variously blaming a broken window bar, a carpet, or even a falling dwarf?](https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne)
 <!--DYK:END-->
 
 ### XKCD for today
