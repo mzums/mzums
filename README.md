@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Coeliac disease](https://en.wikipedia.org/wiki/Coeliac_disease)
+  - [Nynetjer](https://en.wikipedia.org/wiki/Nynetjer)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the original Cruz de Clavos (replica pictured) , which included 260 nails representing women killed in Chihuahua, was later stolen despite being anchored to the ground?](https://en.wikipedia.org/wiki/Cruz_de_Clavos)
-  - [... that People in Trouble was based on Sarah Schulman 's experiences of the AIDS crisis, Donald Trump, and having an affair with a married woman?](https://en.wikipedia.org/wiki/People_in_Trouble)
-  - [... that medieval sources disagree on exactly how Count Henry II of Champagne died in a fall, variously blaming a broken window bar, a carpet, or even a falling dwarf?](https://en.wikipedia.org/wiki/Henry_II,_Count_of_Champagne)
+  - [... that Claire Foy (pictured) received awards at the 23rd and 24th Screen Actors Guild Awards for her portrayal of Queen Elizabeth II in The Crown ?](https://en.wikipedia.org/wiki/Claire_Foy)
+  - [... that a fight between Brad Pitt and Tom Cruise, Friends characters reimagined as otters, and Will Smith battling a red-eyed spaghetti monster were early viral videos created with Seedance 2.0 ?](https://en.wikipedia.org/wiki/Will_Smith_Eating_Spaghetti_test)
+  - [... that TOI-1853 b is a Neptune-sized exoplanet that is denser than steel?](https://en.wikipedia.org/wiki/TOI-1853_b)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)
+![Make It Myself](https://imgs.xkcd.com/comics/make_it_myself.png)
 
-[Countdown Standard](https://xkcd.com/3232) — *Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.*
+[Make It Myself](https://xkcd.com/3233) — *It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!*
 <!--XKCD:END-->
