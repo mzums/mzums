@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Nynetjer](https://en.wikipedia.org/wiki/Nynetjer)
+  - [Bridge](https://en.wikipedia.org/wiki/Bridge)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Claire Foy (pictured) received awards at the 23rd and 24th Screen Actors Guild Awards for her portrayal of Queen Elizabeth II in The Crown ?](https://en.wikipedia.org/wiki/Claire_Foy)
-  - [... that a fight between Brad Pitt and Tom Cruise, Friends characters reimagined as otters, and Will Smith battling a red-eyed spaghetti monster were early viral videos created with Seedance 2.0 ?](https://en.wikipedia.org/wiki/Will_Smith_Eating_Spaghetti_test)
-  - [... that TOI-1853 b is a Neptune-sized exoplanet that is denser than steel?](https://en.wikipedia.org/wiki/TOI-1853_b)
+  - [... that the Nile (pictured) is the longest river in the world, but the volume of water it carries is only about 1% of the Amazon , 6% of the Congo , and 12% of the Yangtze ?](https://en.wikipedia.org/wiki/Nile)
+  - [... that although one ancient source reports that the city of Antigoneia was destroyed in 300 BC, another records that it still existed almost 250 years later?](https://en.wikipedia.org/wiki/Antigoneia_(Syria))
+  - [... that Pope John Paul II's brother died from scarlet fever after contracting it from one of his patients?](https://en.wikipedia.org/wiki/Edmund_Wojty%C5%82a)
 <!--DYK:END-->
 
 ### XKCD for today
