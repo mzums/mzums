@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Bridge](https://en.wikipedia.org/wiki/Bridge)
+  - [Tropical Storm Henri (2003)](https://en.wikipedia.org/wiki/Tropical_Storm_Henri_(2003))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Nile (pictured) is the longest river in the world, but the volume of water it carries is only about 1% of the Amazon , 6% of the Congo , and 12% of the Yangtze ?](https://en.wikipedia.org/wiki/Nile)
-  - [... that although one ancient source reports that the city of Antigoneia was destroyed in 300 BC, another records that it still existed almost 250 years later?](https://en.wikipedia.org/wiki/Antigoneia_(Syria))
-  - [... that Pope John Paul II's brother died from scarlet fever after contracting it from one of his patients?](https://en.wikipedia.org/wiki/Edmund_Wojty%C5%82a)
+  - [... that a form of quartz (example pictured) resembles a bunch of grapes?](https://en.wikipedia.org/wiki/Grape_agate)
+  - [... that Minako Yoshida was once called the "Queen of Funk"?](https://en.wikipedia.org/wiki/Minako_Yoshida)
+  - [... that the 2026 Eurovision entry of Romania has been accused of "playing fast and loose with young women's lives"?](https://en.wikipedia.org/wiki/Choke_Me)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Make It Myself](https://imgs.xkcd.com/comics/make_it_myself.png)
+![Europa Missions](https://imgs.xkcd.com/comics/europa_missions.png)
 
-[Make It Myself](https://xkcd.com/3233) — *It's not as big a loss as it looks, because now I have leftover supplies, which will help me talk myself into doing this all over again with a new project!*
+[Europa Missions](https://xkcd.com/3234) — *Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.*
 <!--XKCD:END-->
