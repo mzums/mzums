@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Tropical Storm Henri (2003)](https://en.wikipedia.org/wiki/Tropical_Storm_Henri_(2003))
+  - [1986 World Snooker Championship](https://en.wikipedia.org/wiki/1986_World_Snooker_Championship)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a form of quartz (example pictured) resembles a bunch of grapes?](https://en.wikipedia.org/wiki/Grape_agate)
-  - [... that Minako Yoshida was once called the "Queen of Funk"?](https://en.wikipedia.org/wiki/Minako_Yoshida)
-  - [... that the 2026 Eurovision entry of Romania has been accused of "playing fast and loose with young women's lives"?](https://en.wikipedia.org/wiki/Choke_Me)
+  - [... that conflicting traditions consider Timon (pictured) to have served as bishop of either Bostra or Corinth, to have died by either fire or crucifixion, and to have died in either Corinth or Philippi?](https://en.wikipedia.org/wiki/Timon_(deacon))
+  - [... that the manager of OAP Bratislava was kept a secret from the public because he was Jewish?](https://en.wikipedia.org/wiki/OAP_Bratislava)
+  - [... that Hannah Spencer qualified as a plasterer in the same month that she became the first Green Party MP to win a UK by-election?](https://en.wikipedia.org/wiki/Hannah_Spencer)
 <!--DYK:END-->
 
 ### XKCD for today
