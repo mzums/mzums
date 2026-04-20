@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1986 World Snooker Championship](https://en.wikipedia.org/wiki/1986_World_Snooker_Championship)
+  - [Sci-Fi Dine-In Theater Restaurant](https://en.wikipedia.org/wiki/Sci-Fi_Dine-In_Theater_Restaurant)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that conflicting traditions consider Timon (pictured) to have served as bishop of either Bostra or Corinth, to have died by either fire or crucifixion, and to have died in either Corinth or Philippi?](https://en.wikipedia.org/wiki/Timon_(deacon))
-  - [... that the manager of OAP Bratislava was kept a secret from the public because he was Jewish?](https://en.wikipedia.org/wiki/OAP_Bratislava)
-  - [... that Hannah Spencer qualified as a plasterer in the same month that she became the first Green Party MP to win a UK by-election?](https://en.wikipedia.org/wiki/Hannah_Spencer)
+  - [... that the Mortimer War Memorial (pictured) was erected three years after the end of the First World War, but a plaque honouring those who died in the Second World War was not added until 1999?](https://en.wikipedia.org/wiki/Mortimer_War_Memorial)
+  - [... that Emily Manning used a poetic dialogue between a husband and his clairvoyant wife to examine Victorian gender roles?](https://en.wikipedia.org/wiki/Emily_Manning)
+  - [... that most high-ranking police officials in ancient Egypt during the Ptolemaic period were Greek?](https://en.wikipedia.org/wiki/Phylakitai)
 <!--DYK:END-->
 
 ### XKCD for today
