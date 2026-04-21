@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Sci-Fi Dine-In Theater Restaurant](https://en.wikipedia.org/wiki/Sci-Fi_Dine-In_Theater_Restaurant)
+  - [Sinestro Corps War](https://en.wikipedia.org/wiki/Sinestro_Corps_War)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Mortimer War Memorial (pictured) was erected three years after the end of the First World War, but a plaque honouring those who died in the Second World War was not added until 1999?](https://en.wikipedia.org/wiki/Mortimer_War_Memorial)
-  - [... that Emily Manning used a poetic dialogue between a husband and his clairvoyant wife to examine Victorian gender roles?](https://en.wikipedia.org/wiki/Emily_Manning)
-  - [... that most high-ranking police officials in ancient Egypt during the Ptolemaic period were Greek?](https://en.wikipedia.org/wiki/Phylakitai)
+  - [... that Lea Hinz (pictured) gave up medical school to perform on the aerial hoop ?](https://en.wikipedia.org/wiki/Lea_Hinz)
+  - [... that hundreds of residents of Chanhassen, Minnesota , opposed the construction of the Temple of ECK ?](https://en.wikipedia.org/wiki/Chanhassen,_Minnesota)
+  - [... that South Australian politician Carlos Quaremba said of his childhood, "I was the only wog in the whole school"?](https://en.wikipedia.org/wiki/Carlos_Quaremba)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Europa Missions](https://imgs.xkcd.com/comics/europa_missions.png)
+![Types of Board Game](https://imgs.xkcd.com/comics/types_of_board_game.png)
 
-[Europa Missions](https://xkcd.com/3234) — *Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.*
+[Types of Board Game](https://xkcd.com/3235) — *I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.*
 <!--XKCD:END-->
