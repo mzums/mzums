@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Sinestro Corps War](https://en.wikipedia.org/wiki/Sinestro_Corps_War)
+  - [Nihilism](https://en.wikipedia.org/wiki/Nihilism)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Lea Hinz (pictured) gave up medical school to perform on the aerial hoop ?](https://en.wikipedia.org/wiki/Lea_Hinz)
-  - [... that hundreds of residents of Chanhassen, Minnesota , opposed the construction of the Temple of ECK ?](https://en.wikipedia.org/wiki/Chanhassen,_Minnesota)
-  - [... that South Australian politician Carlos Quaremba said of his childhood, "I was the only wog in the whole school"?](https://en.wikipedia.org/wiki/Carlos_Quaremba)
+  - [... that the first decipherment of a dead language in modern times was of Palmyrene inscriptions (first published example pictured) ?](https://en.wikipedia.org/wiki/Decipherment)
+  - [... that a raja of Kolhapur was knighted at the age of 14?](https://en.wikipedia.org/wiki/Shivaji_IV_of_Kolhapur)
+  - [... that a lunar eclipse is said to have fulfilled a prophecy resulting in the fall of Constantinople ?](https://en.wikipedia.org/wiki/May_1453_lunar_eclipse)
 <!--DYK:END-->
 
 ### XKCD for today
