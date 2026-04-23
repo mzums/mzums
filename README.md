@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Nihilism](https://en.wikipedia.org/wiki/Nihilism)
+  - [Beyoncé](https://en.wikipedia.org/wiki/Beyoncé)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the first decipherment of a dead language in modern times was of Palmyrene inscriptions (first published example pictured) ?](https://en.wikipedia.org/wiki/Decipherment)
-  - [... that a raja of Kolhapur was knighted at the age of 14?](https://en.wikipedia.org/wiki/Shivaji_IV_of_Kolhapur)
-  - [... that a lunar eclipse is said to have fulfilled a prophecy resulting in the fall of Constantinople ?](https://en.wikipedia.org/wiki/May_1453_lunar_eclipse)
+  - [... that the backyard, piazza, and balcony of the Samuel Tredwell Skidmore House (pictured) are all part of different apartments?](https://en.wikipedia.org/wiki/Samuel_Tredwell_Skidmore_House)
+  - [... that Hours for Jerome was released more than a decade after it was filmed?](https://en.wikipedia.org/wiki/Hours_for_Jerome)
+  - [... that James H. Snook won two Olympic gold medals, invented a surgical instrument, and was executed for murder?](https://en.wikipedia.org/wiki/James_H._Snook)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Types of Board Game](https://imgs.xkcd.com/comics/types_of_board_game.png)
+![Border Message](https://imgs.xkcd.com/comics/border_message.png)
 
-[Types of Board Game](https://xkcd.com/3235) — *I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion.*
+[Border Message](https://xkcd.com/3236) — *Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.*
 <!--XKCD:END-->
