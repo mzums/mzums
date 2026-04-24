@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Beyoncé](https://en.wikipedia.org/wiki/Beyoncé)
+  - [Ornithoprion](https://en.wikipedia.org/wiki/Ornithoprion)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the backyard, piazza, and balcony of the Samuel Tredwell Skidmore House (pictured) are all part of different apartments?](https://en.wikipedia.org/wiki/Samuel_Tredwell_Skidmore_House)
-  - [... that Hours for Jerome was released more than a decade after it was filmed?](https://en.wikipedia.org/wiki/Hours_for_Jerome)
-  - [... that James H. Snook won two Olympic gold medals, invented a surgical instrument, and was executed for murder?](https://en.wikipedia.org/wiki/James_H._Snook)
+  - [... that a 4th-century set of Roman glassware (pictured) was highly valued by Silla royalty in Korea, and is considered a National Treasure ?](https://en.wikipedia.org/wiki/Hwangnam-daechong_Roman_Glassware)
+  - [... that the Tabaru River hosts the westernmost mangroves in Japan?](https://en.wikipedia.org/wiki/Tabaru_River)
+  - [... that the Heliodorus stele is an independent source for an episode previously known only from 2 Maccabees ?](https://en.wikipedia.org/wiki/Heliodorus_stele)
 <!--DYK:END-->
 
 ### XKCD for today
