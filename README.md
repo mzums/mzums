@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ornithoprion](https://en.wikipedia.org/wiki/Ornithoprion)
+  - [Bombing of Obersalzberg](https://en.wikipedia.org/wiki/Bombing_of_Obersalzberg)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a 4th-century set of Roman glassware (pictured) was highly valued by Silla royalty in Korea, and is considered a National Treasure ?](https://en.wikipedia.org/wiki/Hwangnam-daechong_Roman_Glassware)
-  - [... that the Tabaru River hosts the westernmost mangroves in Japan?](https://en.wikipedia.org/wiki/Tabaru_River)
-  - [... that the Heliodorus stele is an independent source for an episode previously known only from 2 Maccabees ?](https://en.wikipedia.org/wiki/Heliodorus_stele)
+  - [... that the cisgender actress Siri Dahl (pictured) once won a Trans Erotica Award?](https://en.wikipedia.org/wiki/Siri_Dahl)
+  - [... that scenes for Home and Away ' s Anzac storyline were shot at the Australian War Memorial after budget issues prevented filming in Europe?](https://en.wikipedia.org/wiki/Home_and_Away)
+  - [... that William Robinson , once deemed the first important architect in London, Ontario , did not call himself an architect until his forties?](https://en.wikipedia.org/wiki/William_Robinson_(Canadian_architect))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Border Message](https://imgs.xkcd.com/comics/border_message.png)
+![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)
 
-[Border Message](https://xkcd.com/3236) — *Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.*
+[Husband and Wife](https://xkcd.com/3237) — *Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.*
 <!--XKCD:END-->
