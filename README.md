@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Bombing of Obersalzberg](https://en.wikipedia.org/wiki/Bombing_of_Obersalzberg)
+  - [Neapolitan ragù](https://en.wikipedia.org/wiki/Neapolitan_ragù)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the cisgender actress Siri Dahl (pictured) once won a Trans Erotica Award?](https://en.wikipedia.org/wiki/Siri_Dahl)
-  - [... that scenes for Home and Away ' s Anzac storyline were shot at the Australian War Memorial after budget issues prevented filming in Europe?](https://en.wikipedia.org/wiki/Home_and_Away)
-  - [... that William Robinson , once deemed the first important architect in London, Ontario , did not call himself an architect until his forties?](https://en.wikipedia.org/wiki/William_Robinson_(Canadian_architect))
+  - [... that Australia's only active volcanoes, including Mawson Peak (pictured) , are located about 4,000 km (2,500 mi) from the mainland?](https://en.wikipedia.org/wiki/Mawson_Peak)
+  - [... that Peter Brownell won the 1993 mayoral election in Burlington, Vermont , despite having less money and fewer volunteers than his opponent?](https://en.wikipedia.org/wiki/Peter_Brownell)
+  - [... that the character Eleven 's outfit in an episode of Stranger Things was inspired by Madonna's clothing in the 1980s?](https://en.wikipedia.org/wiki/Eleven_(Stranger_Things))
 <!--DYK:END-->
 
 ### XKCD for today
