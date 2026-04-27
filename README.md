@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Neapolitan ragù](https://en.wikipedia.org/wiki/Neapolitan_ragù)
+  - [Enzyme kinetics](https://en.wikipedia.org/wiki/Enzyme_kinetics)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Australia's only active volcanoes, including Mawson Peak (pictured) , are located about 4,000 km (2,500 mi) from the mainland?](https://en.wikipedia.org/wiki/Mawson_Peak)
-  - [... that Peter Brownell won the 1993 mayoral election in Burlington, Vermont , despite having less money and fewer volunteers than his opponent?](https://en.wikipedia.org/wiki/Peter_Brownell)
-  - [... that the character Eleven 's outfit in an episode of Stranger Things was inspired by Madonna's clothing in the 1980s?](https://en.wikipedia.org/wiki/Eleven_(Stranger_Things))
+  - [... that Madalitso Baloyi (pictured) , Malawi's minister of health, pretended to be a patient at a hospital in Lilongwe ?](https://en.wikipedia.org/wiki/Madalitso_Baloyi)
+  - [... that a critic compared the way in which the protagonist of a 1975 Turkish short story isolated himself out of fear to the COVID-19 lockdowns ?](https://en.wikipedia.org/wiki/Waiting_for_the_Fear)
+  - [... that Madeline Woo , a San Francisco Ballet principal dancer, has tattoos but covers them for performances?](https://en.wikipedia.org/wiki/Madeline_Woo)
 <!--DYK:END-->
 
 ### XKCD for today
