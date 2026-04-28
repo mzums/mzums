@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Enzyme kinetics](https://en.wikipedia.org/wiki/Enzyme_kinetics)
+  - [This Side of the Moon](https://en.wikipedia.org/wiki/This_Side_of_the_Moon)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Madalitso Baloyi (pictured) , Malawi's minister of health, pretended to be a patient at a hospital in Lilongwe ?](https://en.wikipedia.org/wiki/Madalitso_Baloyi)
-  - [... that a critic compared the way in which the protagonist of a 1975 Turkish short story isolated himself out of fear to the COVID-19 lockdowns ?](https://en.wikipedia.org/wiki/Waiting_for_the_Fear)
-  - [... that Madeline Woo , a San Francisco Ballet principal dancer, has tattoos but covers them for performances?](https://en.wikipedia.org/wiki/Madeline_Woo)
+  - [... that following the Assyrians' conquest of the Kingdom of Israel , they incorporated aspects of ancient Israelite architecture (example pictured) into their own constructions in Nineveh ?](https://en.wikipedia.org/wiki/Neo-Assyrian_Empire)
+  - [... that puppeteer James Ortiz thought that his voice would be replaced in Project Hail Mary ?](https://en.wikipedia.org/wiki/James_Ortiz)
+  - [... that the range of characters in a fantasy novel series about cats was compared to that of a Greek drama?](https://en.wikipedia.org/wiki/Warriors_(novel_series))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)
+![Soniferous Aether](https://imgs.xkcd.com/comics/soniferous_aether.png)
 
-[Husband and Wife](https://xkcd.com/3237) — *Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.*
+[Soniferous Aether](https://xkcd.com/3238) — *Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.*
 <!--XKCD:END-->
