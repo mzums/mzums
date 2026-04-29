@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [This Side of the Moon](https://en.wikipedia.org/wiki/This_Side_of_the_Moon)
+  - [1998–99 Gillingham F.C. season](https://en.wikipedia.org/wiki/1998–99_Gillingham_F.C._season)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that following the Assyrians' conquest of the Kingdom of Israel , they incorporated aspects of ancient Israelite architecture (example pictured) into their own constructions in Nineveh ?](https://en.wikipedia.org/wiki/Neo-Assyrian_Empire)
-  - [... that puppeteer James Ortiz thought that his voice would be replaced in Project Hail Mary ?](https://en.wikipedia.org/wiki/James_Ortiz)
-  - [... that the range of characters in a fantasy novel series about cats was compared to that of a Greek drama?](https://en.wikipedia.org/wiki/Warriors_(novel_series))
+  - [... that William H. Rieger (pictured) , a prominent American singer in the late 19th century, turned down an offered opera career in favor of remaining a concert tenor?](https://en.wikipedia.org/wiki/William_H._Rieger)
+  - [... that a Harry Styles song was originally written as a Christmas song, but the concept was abandoned after the first two lines?](https://en.wikipedia.org/wiki/Coming_Up_Roses_(Harry_Styles_song))
+  - [... that a plane flown by Ruth Reinhold was called "pilotless" because her height made it difficult for tower operators to see her in the cockpit?](https://en.wikipedia.org/wiki/Ruth_Reinhold)
 <!--DYK:END-->
 
 ### XKCD for today
