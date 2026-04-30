@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [1998–99 Gillingham F.C. season](https://en.wikipedia.org/wiki/1998–99_Gillingham_F.C._season)
+  - [330 West 42nd Street](https://en.wikipedia.org/wiki/330_West_42nd_Street)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that William H. Rieger (pictured) , a prominent American singer in the late 19th century, turned down an offered opera career in favor of remaining a concert tenor?](https://en.wikipedia.org/wiki/William_H._Rieger)
-  - [... that a Harry Styles song was originally written as a Christmas song, but the concept was abandoned after the first two lines?](https://en.wikipedia.org/wiki/Coming_Up_Roses_(Harry_Styles_song))
-  - [... that a plane flown by Ruth Reinhold was called "pilotless" because her height made it difficult for tower operators to see her in the cockpit?](https://en.wikipedia.org/wiki/Ruth_Reinhold)
+  - [... that a manicule (pictured) in a manuscript of Cicero's Paradoxa Stoicorum had its fingers stretched to cover the full length of a passage?](https://en.wikipedia.org/wiki/Manicule)
+  - [... that by the time she met Queen Elizabeth II, Ann Dallas was amongst the last surviving members of the Kirkcudbright Artists' Colony ?](https://en.wikipedia.org/wiki/Ann_Dallas)
+  - [... that Yamada's Choreographic Symphony "Maria Magdalena" is based on a ballet that couldn't be set due to religious concerns?](https://en.wikipedia.org/wiki/Choreographic_Symphony_%22Maria_Magdalena%22)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Soniferous Aether](https://imgs.xkcd.com/comics/soniferous_aether.png)
+![Simple Machines](https://imgs.xkcd.com/comics/simple_machines.png)
 
-[Soniferous Aether](https://xkcd.com/3238) — *Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.*
+[Simple Machines](https://xkcd.com/3239) — *It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.*
 <!--XKCD:END-->
