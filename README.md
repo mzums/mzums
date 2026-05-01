@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [330 West 42nd Street](https://en.wikipedia.org/wiki/330_West_42nd_Street)
+  - [Crusading movement](https://en.wikipedia.org/wiki/Crusading_movement)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a manicule (pictured) in a manuscript of Cicero's Paradoxa Stoicorum had its fingers stretched to cover the full length of a passage?](https://en.wikipedia.org/wiki/Manicule)
-  - [... that by the time she met Queen Elizabeth II, Ann Dallas was amongst the last surviving members of the Kirkcudbright Artists' Colony ?](https://en.wikipedia.org/wiki/Ann_Dallas)
-  - [... that Yamada's Choreographic Symphony "Maria Magdalena" is based on a ballet that couldn't be set due to religious concerns?](https://en.wikipedia.org/wiki/Choreographic_Symphony_%22Maria_Magdalena%22)
+  - [... that a brewery was responsible for commissioning Philadelphia's Grand Opera House (pictured) ?](https://en.wikipedia.org/wiki/Grand_Opera_House_(Philadelphia))
+  - [... that Seraphina Beh landed a role on EastEnders after a producer saw her perform in Pigeon English ?](https://en.wikipedia.org/wiki/Seraphina_Beh)
+  - [... that a 1920s Muslim women's magazine highlighted women in the Philippines as examples of modern womanhood?](https://en.wikipedia.org/wiki/Isteri_Soesila%E2%80%93Taman_Moeslimah)
 <!--DYK:END-->
 
 ### XKCD for today
