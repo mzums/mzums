@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Crusading movement](https://en.wikipedia.org/wiki/Crusading_movement)
+  - [Fuji-class battleship](https://en.wikipedia.org/wiki/Fuji-class_battleship)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a brewery was responsible for commissioning Philadelphia's Grand Opera House (pictured) ?](https://en.wikipedia.org/wiki/Grand_Opera_House_(Philadelphia))
-  - [... that Seraphina Beh landed a role on EastEnders after a producer saw her perform in Pigeon English ?](https://en.wikipedia.org/wiki/Seraphina_Beh)
-  - [... that a 1920s Muslim women's magazine highlighted women in the Philippines as examples of modern womanhood?](https://en.wikipedia.org/wiki/Isteri_Soesila%E2%80%93Taman_Moeslimah)
+  - [... that The Luck of Cumberland (pictured) , designed by Herbert Maryon and executed by the Keswick School of Industrial Art , is made of more than 200 ounces of solid silver?](https://en.wikipedia.org/wiki/The_Luck_of_Cumberland)
+  - [... that Roy Waldo Miner extracted about forty tons of coral from the Andros Barrier Reef to build a museum diorama?](https://en.wikipedia.org/wiki/Roy_Waldo_Miner)
+  - [... that the Waahine Toa paintings were criticised as unfashionable when first exhibited in the 1980s, but are now considered iconic in New Zealand art?](https://en.wikipedia.org/wiki/Waahine_Toa)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Simple Machines](https://imgs.xkcd.com/comics/simple_machines.png)
+![Bottle](https://imgs.xkcd.com/comics/bottle.png)
 
-[Simple Machines](https://xkcd.com/3239) — *It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.*
+[Bottle](https://xkcd.com/3240) — *"I know it seems impossible, but the trick is that I sailed in here when I was very young."*
 <!--XKCD:END-->
