@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Fuji-class battleship](https://en.wikipedia.org/wiki/Fuji-class_battleship)
+  - [Shipping ethics controversy in fanfiction](https://en.wikipedia.org/wiki/Shipping_ethics_controversy_in_fanfiction)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that The Luck of Cumberland (pictured) , designed by Herbert Maryon and executed by the Keswick School of Industrial Art , is made of more than 200 ounces of solid silver?](https://en.wikipedia.org/wiki/The_Luck_of_Cumberland)
-  - [... that Roy Waldo Miner extracted about forty tons of coral from the Andros Barrier Reef to build a museum diorama?](https://en.wikipedia.org/wiki/Roy_Waldo_Miner)
-  - [... that the Waahine Toa paintings were criticised as unfashionable when first exhibited in the 1980s, but are now considered iconic in New Zealand art?](https://en.wikipedia.org/wiki/Waahine_Toa)
+  - [... that, according to Sallust, Fulvia revealed the details of the Catilinarian conspiracy to Cicero (event pictured) ?](https://en.wikipedia.org/wiki/Fulvia_(mistress_of_Quintus_Curius))
+  - [... that the Manuscript Society of New York provided opportunities to women composers at a time when such support was rarely found elsewhere?](https://en.wikipedia.org/wiki/Manuscript_Society_of_New_York)
+  - [... that Betbunia is Bangladesh's first ground station ?](https://en.wikipedia.org/wiki/Betbunia_Satellite_Ground_Station)
 <!--DYK:END-->
 
 ### XKCD for today
