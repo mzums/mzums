@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Shipping ethics controversy in fanfiction](https://en.wikipedia.org/wiki/Shipping_ethics_controversy_in_fanfiction)
+  - [Maurice Suckling](https://en.wikipedia.org/wiki/Maurice_Suckling)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, according to Sallust, Fulvia revealed the details of the Catilinarian conspiracy to Cicero (event pictured) ?](https://en.wikipedia.org/wiki/Fulvia_(mistress_of_Quintus_Curius))
-  - [... that the Manuscript Society of New York provided opportunities to women composers at a time when such support was rarely found elsewhere?](https://en.wikipedia.org/wiki/Manuscript_Society_of_New_York)
-  - [... that Betbunia is Bangladesh's first ground station ?](https://en.wikipedia.org/wiki/Betbunia_Satellite_Ground_Station)
+  - [... that the Iron Gate (pictured) , the only surviving ancient arch dam , still does its job?](https://en.wikipedia.org/wiki/Iron_Gate_(Antioch))
+  - [... that contrary to folklore, Queen Victoria did not choose Ottawa as the seat of government of Canada by putting her finger at random on a map?](https://en.wikipedia.org/wiki/Canadian_seat_of_government_dispute)
+  - [... that a bikeway was criticized by motorists, a labor union, local vendors, and sex workers?](https://en.wikipedia.org/wiki/Ciclov%C3%ADa_La_Gran_Tenochtitl%C3%A1n)
 <!--DYK:END-->
 
 ### XKCD for today
