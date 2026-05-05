@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Maurice Suckling](https://en.wikipedia.org/wiki/Maurice_Suckling)
+  - [Katipō](https://en.wikipedia.org/wiki/Katipō)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Iron Gate (pictured) , the only surviving ancient arch dam , still does its job?](https://en.wikipedia.org/wiki/Iron_Gate_(Antioch))
-  - [... that contrary to folklore, Queen Victoria did not choose Ottawa as the seat of government of Canada by putting her finger at random on a map?](https://en.wikipedia.org/wiki/Canadian_seat_of_government_dispute)
-  - [... that a bikeway was criticized by motorists, a labor union, local vendors, and sex workers?](https://en.wikipedia.org/wiki/Ciclov%C3%ADa_La_Gran_Tenochtitl%C3%A1n)
+  - [... that ZTF J1239+8347 (pictured) consists of two brown dwarfs orbiting so closely that material flows between them?](https://en.wikipedia.org/wiki/ZTF_J1239%2B8347)
+  - [... that actor and designer Rollo Peters helped transform a barn into a professional theater?](https://en.wikipedia.org/wiki/Rollo_Peters)
+  - [... that The Shikoku Shimbun , which published numerous articles about video game addiction, also published an advertisement that says "don't just study, play some games"?](https://en.wikipedia.org/wiki/The_Shikoku_Shimbun)
 <!--DYK:END-->
 
 ### XKCD for today
