@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Katipō](https://en.wikipedia.org/wiki/Katipō)
+  - [Hurricane Joaquin](https://en.wikipedia.org/wiki/Hurricane_Joaquin)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that ZTF J1239+8347 (pictured) consists of two brown dwarfs orbiting so closely that material flows between them?](https://en.wikipedia.org/wiki/ZTF_J1239%2B8347)
-  - [... that actor and designer Rollo Peters helped transform a barn into a professional theater?](https://en.wikipedia.org/wiki/Rollo_Peters)
-  - [... that The Shikoku Shimbun , which published numerous articles about video game addiction, also published an advertisement that says "don't just study, play some games"?](https://en.wikipedia.org/wiki/The_Shikoku_Shimbun)
+  - [... that a monument in Szczecin, Poland (pictured) , consists of a spirit duplicator encased in resin?](https://en.wikipedia.org/wiki/Duplicating_Machine_Memorial)
+  - [... that, during the Middle Ages, cameline sauce was thickened with bread, almonds, eggs, or chicken livers?](https://en.wikipedia.org/wiki/Cameline_sauce)
+  - [... that Carl Grillmair , a Canadian astrophysicist at Caltech, discovered water on multiple exoplanets ?](https://en.wikipedia.org/wiki/Carl_Grillmair)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Bottle](https://imgs.xkcd.com/comics/bottle.png)
+![Horizontal Stabilizers](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)
 
-[Bottle](https://xkcd.com/3240) — *"I know it seems impossible, but the trick is that I sailed in here when I was very young."*
+[Horizontal Stabilizers](https://xkcd.com/3241) — *It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.*
 <!--XKCD:END-->
