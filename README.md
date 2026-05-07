@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Hurricane Joaquin](https://en.wikipedia.org/wiki/Hurricane_Joaquin)
+  - [Truganini](https://en.wikipedia.org/wiki/Truganini)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a monument in Szczecin, Poland (pictured) , consists of a spirit duplicator encased in resin?](https://en.wikipedia.org/wiki/Duplicating_Machine_Memorial)
-  - [... that, during the Middle Ages, cameline sauce was thickened with bread, almonds, eggs, or chicken livers?](https://en.wikipedia.org/wiki/Cameline_sauce)
-  - [... that Carl Grillmair , a Canadian astrophysicist at Caltech, discovered water on multiple exoplanets ?](https://en.wikipedia.org/wiki/Carl_Grillmair)
+  - [... that Manon Bannerman (pictured) thought that an invitation to audition for Katseye was a scam?](https://en.wikipedia.org/wiki/Manon_Bannerman)
+  - [... that early travelers across Snoqualmie Pass needed to cross the South Fork Snoqualmie River seventeen times?](https://en.wikipedia.org/wiki/Snoqualmie_Pass)
+  - [... that a red triangle used in support of Palestine has been connected with both the flag of Palestine and Nazi concentration-camp badges?](https://en.wikipedia.org/wiki/Red_triangle_(Palestinian_symbol))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Horizontal Stabilizers](https://imgs.xkcd.com/comics/horizontal_stabilizers.png)
+![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)
 
-[Horizontal Stabilizers](https://xkcd.com/3241) — *It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.*
+[Aperiodic Table](https://xkcd.com/3242) — *Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.*
 <!--XKCD:END-->
