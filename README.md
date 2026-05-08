@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Truganini](https://en.wikipedia.org/wiki/Truganini)
+  - [First Treaty of London](https://en.wikipedia.org/wiki/First_Treaty_of_London)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Manon Bannerman (pictured) thought that an invitation to audition for Katseye was a scam?](https://en.wikipedia.org/wiki/Manon_Bannerman)
-  - [... that early travelers across Snoqualmie Pass needed to cross the South Fork Snoqualmie River seventeen times?](https://en.wikipedia.org/wiki/Snoqualmie_Pass)
-  - [... that a red triangle used in support of Palestine has been connected with both the flag of Palestine and Nazi concentration-camp badges?](https://en.wikipedia.org/wiki/Red_triangle_(Palestinian_symbol))
+  - [... that the U.S. Supreme Court and Grover Cleveland presided over the centennial celebration of the federal judiciary of the United States at the Lenox Lyceum (pictured) in 1890?](https://en.wikipedia.org/wiki/Lenox_Lyceum)
+  - [... that the oldest known sexually reproducing organism emerged during the Stenian period?](https://en.wikipedia.org/wiki/Stenian)
+  - [... that György Kurtág dedicated his second opera, Die Stechardin , to his wife Márta and attended its premiere a day after turning 100?](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g)
 <!--DYK:END-->
 
 ### XKCD for today
