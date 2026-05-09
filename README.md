@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [First Treaty of London](https://en.wikipedia.org/wiki/First_Treaty_of_London)
+  - [The Great Mecca Feast](https://en.wikipedia.org/wiki/The_Great_Mecca_Feast)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the U.S. Supreme Court and Grover Cleveland presided over the centennial celebration of the federal judiciary of the United States at the Lenox Lyceum (pictured) in 1890?](https://en.wikipedia.org/wiki/Lenox_Lyceum)
-  - [... that the oldest known sexually reproducing organism emerged during the Stenian period?](https://en.wikipedia.org/wiki/Stenian)
-  - [... that György Kurtág dedicated his second opera, Die Stechardin , to his wife Márta and attended its premiere a day after turning 100?](https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g)
+  - [... that Amanda Coulson (pictured) worked full-time as an emergency dispatcher during her career as an amateur boxer?](https://en.wikipedia.org/wiki/Amanda_Coulson)
+  - [... that the author of one of the first studies of Indigenous Australian literature only arrived in Australia as a doctoral student?](https://en.wikipedia.org/wiki/Black_Words,_White_Page)
+  - [... that a funerary inscription from Campania commemorates a Jerusalem-born woman, likely enslaved during the First Jewish–Roman War , who died at the age of 25?](https://en.wikipedia.org/wiki/Claudia_Aster_inscription)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)
+![Crystal Gazing](https://imgs.xkcd.com/comics/crystal_gazing.png)
 
-[Aperiodic Table](https://xkcd.com/3242) — *Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.*
+[Crystal Gazing](https://xkcd.com/3243) — *'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.*
 <!--XKCD:END-->
