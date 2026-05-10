@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [The Great Mecca Feast](https://en.wikipedia.org/wiki/The_Great_Mecca_Feast)
+  - [Ben&Ben](https://en.wikipedia.org/wiki/Ben&Ben)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Amanda Coulson (pictured) worked full-time as an emergency dispatcher during her career as an amateur boxer?](https://en.wikipedia.org/wiki/Amanda_Coulson)
-  - [... that the author of one of the first studies of Indigenous Australian literature only arrived in Australia as a doctoral student?](https://en.wikipedia.org/wiki/Black_Words,_White_Page)
-  - [... that a funerary inscription from Campania commemorates a Jerusalem-born woman, likely enslaved during the First Jewish–Roman War , who died at the age of 25?](https://en.wikipedia.org/wiki/Claudia_Aster_inscription)
+  - [... that the Perth County Courthouse (pictured) was built after a judge refused to hold hearings in its predecessor building?](https://en.wikipedia.org/wiki/Perth_County_Courthouse)
+  - [... that two films by Chaerul Umam – Ketika Cinta Bertasbih and its sequel – were the first to be labelled halal by the Indonesian Ulama Council ?](https://en.wikipedia.org/wiki/Chaerul_Umam)
+  - [... that the novel The Poison of Polygamy was rediscovered almost a century after its publication by a researcher studying early Chinese-language Australian newspapers?](https://en.wikipedia.org/wiki/The_Poison_of_Polygamy)
 <!--DYK:END-->
 
 ### XKCD for today
