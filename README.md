@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ben&Ben](https://en.wikipedia.org/wiki/Ben&Ben)
+  - [Japan Cup](https://en.wikipedia.org/wiki/Japan_Cup)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Perth County Courthouse (pictured) was built after a judge refused to hold hearings in its predecessor building?](https://en.wikipedia.org/wiki/Perth_County_Courthouse)
-  - [... that two films by Chaerul Umam – Ketika Cinta Bertasbih and its sequel – were the first to be labelled halal by the Indonesian Ulama Council ?](https://en.wikipedia.org/wiki/Chaerul_Umam)
-  - [... that the novel The Poison of Polygamy was rediscovered almost a century after its publication by a researcher studying early Chinese-language Australian newspapers?](https://en.wikipedia.org/wiki/The_Poison_of_Polygamy)
+  - [... that the sobaity seabream (example pictured) is reserved for special occasions in the Persian Gulf region?](https://en.wikipedia.org/wiki/Sparidentex_hasta)
+  - [... that actor Éric Bernard was advised not to hold hands with his husband at the Cannes Film Festival to avoid damaging possible roles as a straight man?](https://en.wikipedia.org/wiki/%C3%89ric_Bernard_(actor))
+  - [... that the Punisher skull has been adopted as an unofficial emblem by real-world police departments and far-right activists?](https://en.wikipedia.org/wiki/Punisher_skull)
 <!--DYK:END-->
 
 ### XKCD for today
