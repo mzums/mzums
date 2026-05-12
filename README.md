@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Japan Cup](https://en.wikipedia.org/wiki/Japan_Cup)
+  - [Golden Bough (Aeneid)](https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the sobaity seabream (example pictured) is reserved for special occasions in the Persian Gulf region?](https://en.wikipedia.org/wiki/Sparidentex_hasta)
-  - [... that actor Éric Bernard was advised not to hold hands with his husband at the Cannes Film Festival to avoid damaging possible roles as a straight man?](https://en.wikipedia.org/wiki/%C3%89ric_Bernard_(actor))
-  - [... that the Punisher skull has been adopted as an unofficial emblem by real-world police departments and far-right activists?](https://en.wikipedia.org/wiki/Punisher_skull)
+  - [... that the Yaxté totem pole (detail pictured) has survived being shot at, set on fire, and pecked by woodpeckers?](https://en.wikipedia.org/wiki/Yaxt%C3%A9_totem_pole)
+  - [... that a private WeChat group coordinated harassment against a Chinese diver , including a rule that banned personal attacks on everyone except her?](https://en.wikipedia.org/wiki/WeChat)
+  - [... that a rights dispute meant that two different actors played Quicksilver in two competing film franchises at the same time?](https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Crystal Gazing](https://imgs.xkcd.com/comics/crystal_gazing.png)
+![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)
 
-[Crystal Gazing](https://xkcd.com/3243) — *'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.*
+[Pullback Drive](https://xkcd.com/3244) — *"How does the spring not run out almost immediately?" "We pull it back REALLY far."*
 <!--XKCD:END-->
