@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Golden Bough (Aeneid)](https://en.wikipedia.org/wiki/Golden_Bough_(Aeneid))
+  - [Splatoon 3: Side Order](https://en.wikipedia.org/wiki/Splatoon_3:_Side_Order)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Yaxté totem pole (detail pictured) has survived being shot at, set on fire, and pecked by woodpeckers?](https://en.wikipedia.org/wiki/Yaxt%C3%A9_totem_pole)
-  - [... that a private WeChat group coordinated harassment against a Chinese diver , including a rule that banned personal attacks on everyone except her?](https://en.wikipedia.org/wiki/WeChat)
-  - [... that a rights dispute meant that two different actors played Quicksilver in two competing film franchises at the same time?](https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics))
+  - [... that, on some days during the Bolt Creek fire (smoke pictured) , IQAir ranked the air quality in the Seattle area as among the worst in the world?](https://en.wikipedia.org/wiki/Bolt_Creek_fire)
+  - [... that the first victim of spree killer Andrew Cunanan was interviewed on CBS News in 1993 to share his opinion on the proposed " don't ask, don't tell " policy?](https://en.wikipedia.org/wiki/Jeffrey_Trail)
+  - [... that the underperformance of the liberalized telephone system was a major issue in the 2001 Liechtenstein general election ?](https://en.wikipedia.org/wiki/2001_Liechtenstein_general_election)
 <!--DYK:END-->
 
 ### XKCD for today
