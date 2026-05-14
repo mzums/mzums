@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Splatoon 3: Side Order](https://en.wikipedia.org/wiki/Splatoon_3:_Side_Order)
+  - [Talyllyn Railway](https://en.wikipedia.org/wiki/Talyllyn_Railway)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that, on some days during the Bolt Creek fire (smoke pictured) , IQAir ranked the air quality in the Seattle area as among the worst in the world?](https://en.wikipedia.org/wiki/Bolt_Creek_fire)
-  - [... that the first victim of spree killer Andrew Cunanan was interviewed on CBS News in 1993 to share his opinion on the proposed " don't ask, don't tell " policy?](https://en.wikipedia.org/wiki/Jeffrey_Trail)
-  - [... that the underperformance of the liberalized telephone system was a major issue in the 2001 Liechtenstein general election ?](https://en.wikipedia.org/wiki/2001_Liechtenstein_general_election)
+  - [... that Nancy Chitera (pictured) leads a university whose commercial subsidiaries plan to manufacture tractors and commence gold mining in Malawi?](https://en.wikipedia.org/wiki/Nancy_Chitera)
+  - [... that an Ibadi mosque in Temezda , Libya, was originally a Byzantine church ?](https://en.wikipedia.org/wiki/Ibadism)
+  - [... that " We Are Charlie Kirk " was ranked as the worst song of 2025 by the magazine Paste ?](https://en.wikipedia.org/wiki/We_Are_Charlie_Kirk)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)
+![Results Age](https://imgs.xkcd.com/comics/results_age.png)
 
-[Pullback Drive](https://xkcd.com/3244) — *"How does the spring not run out almost immediately?" "We pull it back REALLY far."*
+[Results Age](https://xkcd.com/3245) — *Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.*
 <!--XKCD:END-->
