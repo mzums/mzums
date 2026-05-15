@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Talyllyn Railway](https://en.wikipedia.org/wiki/Talyllyn_Railway)
+  - [Operation Brevity](https://en.wikipedia.org/wiki/Operation_Brevity)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nancy Chitera (pictured) leads a university whose commercial subsidiaries plan to manufacture tractors and commence gold mining in Malawi?](https://en.wikipedia.org/wiki/Nancy_Chitera)
-  - [... that an Ibadi mosque in Temezda , Libya, was originally a Byzantine church ?](https://en.wikipedia.org/wiki/Ibadism)
-  - [... that " We Are Charlie Kirk " was ranked as the worst song of 2025 by the magazine Paste ?](https://en.wikipedia.org/wiki/We_Are_Charlie_Kirk)
+  - [... that the tallest onshore wind turbine in England (pictured) is owned by the community of Lawrence Weston ?](https://en.wikipedia.org/wiki/Lawrence_Weston_Wind_Turbine)
+  - [... that a pulp mill was fined by the state of Washington for its greenhouse gas emissions , even though it had been closed for the past two years?](https://en.wikipedia.org/wiki/Cosmo_Specialty_Fibers)
+  - [... that the Crusader castle of Smar Jbeil was built atop a Roman-period necropolis ?](https://en.wikipedia.org/wiki/Castle_of_Smar_Jbeil)
 <!--DYK:END-->
 
 ### XKCD for today
