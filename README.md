@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Operation Brevity](https://en.wikipedia.org/wiki/Operation_Brevity)
+  - [Erik Campbell (Final Destination)](https://en.wikipedia.org/wiki/Erik_Campbell_(Final_Destination))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the tallest onshore wind turbine in England (pictured) is owned by the community of Lawrence Weston ?](https://en.wikipedia.org/wiki/Lawrence_Weston_Wind_Turbine)
-  - [... that a pulp mill was fined by the state of Washington for its greenhouse gas emissions , even though it had been closed for the past two years?](https://en.wikipedia.org/wiki/Cosmo_Specialty_Fibers)
-  - [... that the Crusader castle of Smar Jbeil was built atop a Roman-period necropolis ?](https://en.wikipedia.org/wiki/Castle_of_Smar_Jbeil)
+  - [... that architect Walter Neuhäusser designed several shell structures , including a cemetery hall in Schupbach (pictured) ?](https://en.wikipedia.org/wiki/Walter_Neuh%C3%A4usser)
+  - [... that, during the Byzantine attempt to capture Salona , Mundus led a grief-driven attack that routed the Goths after his son was killed on a reconnaissance mission, but also died while pursuing them?](https://en.wikipedia.org/wiki/Siege_of_Salona_(537))
+  - [... that Edith Maryon 's 1910 sculpture Meditation was made in at least three media?](https://en.wikipedia.org/wiki/Edith_Maryon)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Results Age](https://imgs.xkcd.com/comics/results_age.png)
+![Speedrun](https://imgs.xkcd.com/comics/speedrun.png)
 
-[Results Age](https://xkcd.com/3245) — *Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.*
+[Speedrun](https://xkcd.com/3246) — *Usain Bolt holds the world record in the 100 meter speedrun.*
 <!--XKCD:END-->
