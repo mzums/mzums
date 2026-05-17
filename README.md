@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Erik Campbell (Final Destination)](https://en.wikipedia.org/wiki/Erik_Campbell_(Final_Destination))
+  - [All Hell Breaks Loose (Charmed)](https://en.wikipedia.org/wiki/All_Hell_Breaks_Loose_(Charmed))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that architect Walter Neuhäusser designed several shell structures , including a cemetery hall in Schupbach (pictured) ?](https://en.wikipedia.org/wiki/Walter_Neuh%C3%A4usser)
-  - [... that, during the Byzantine attempt to capture Salona , Mundus led a grief-driven attack that routed the Goths after his son was killed on a reconnaissance mission, but also died while pursuing them?](https://en.wikipedia.org/wiki/Siege_of_Salona_(537))
-  - [... that Edith Maryon 's 1910 sculpture Meditation was made in at least three media?](https://en.wikipedia.org/wiki/Edith_Maryon)
+  - [... that The Park (pictured) by Gustav Klimt has been interpreted as producing a sense of anxiety in the viewer despite its "apparently innocent depiction of a park"?](https://en.wikipedia.org/wiki/The_Park_(Klimt))
+  - [... that Tray Wellington was a part of the black reclamation of banjo music?](https://en.wikipedia.org/wiki/Tray_Wellington)
+  - [... that, on the fourth anniversary of the 2022 Russian invasion of Ukraine , Volodymyr Zelenskyy gave a video address showing the bunker in which he told the US that he needed ammunition, not a ride ?](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 <!--DYK:END-->
 
 ### XKCD for today
