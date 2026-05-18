@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [All Hell Breaks Loose (Charmed)](https://en.wikipedia.org/wiki/All_Hell_Breaks_Loose_(Charmed))
+  - [Sursock bronze](https://en.wikipedia.org/wiki/Sursock_bronze)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that The Park (pictured) by Gustav Klimt has been interpreted as producing a sense of anxiety in the viewer despite its "apparently innocent depiction of a park"?](https://en.wikipedia.org/wiki/The_Park_(Klimt))
-  - [... that Tray Wellington was a part of the black reclamation of banjo music?](https://en.wikipedia.org/wiki/Tray_Wellington)
-  - [... that, on the fourth anniversary of the 2022 Russian invasion of Ukraine , Volodymyr Zelenskyy gave a video address showing the bunker in which he told the US that he needed ammunition, not a ride ?](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
+  - [... that a library of religion and science in Tennessee (pictured) never opened to the public?](https://en.wikipedia.org/wiki/Templeton_Library)
+  - [... that the 2020 series finale of Star Wars: The Clone Wars brought back the actor who played Darth Maul in Phantom Menace in 1999 to perform a fight scene?](https://en.wikipedia.org/wiki/Siege_of_Mandalore)
+  - [... that Byzantine archers hoisted at the ships' masts during the siege of Panormus were elevated above the city walls and caused its Gothic garrison to surrender?](https://en.wikipedia.org/wiki/Siege_of_Panormus)
 <!--DYK:END-->
 
 ### XKCD for today
