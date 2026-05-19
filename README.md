@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Sursock bronze](https://en.wikipedia.org/wiki/Sursock_bronze)
+  - [Silverthrone Caldera](https://en.wikipedia.org/wiki/Silverthrone_Caldera)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a library of religion and science in Tennessee (pictured) never opened to the public?](https://en.wikipedia.org/wiki/Templeton_Library)
-  - [... that the 2020 series finale of Star Wars: The Clone Wars brought back the actor who played Darth Maul in Phantom Menace in 1999 to perform a fight scene?](https://en.wikipedia.org/wiki/Siege_of_Mandalore)
-  - [... that Byzantine archers hoisted at the ships' masts during the siege of Panormus were elevated above the city walls and caused its Gothic garrison to surrender?](https://en.wikipedia.org/wiki/Siege_of_Panormus)
+  - [... that international opera star Julius Prott (pictured) was also a horticulturalist who was acclaimed for his cultivation of roses?](https://en.wikipedia.org/wiki/Julius_Prott)
+  - [... that the plateau vole handles hypoxia at high altitudes by producing more hemoglobin and metabolizing glucose?](https://en.wikipedia.org/wiki/Plateau_vole)
+  - [... that Olympic diver and coach Aileen Allen was also an actress in silent films ?](https://en.wikipedia.org/wiki/Aileen_Allen)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Speedrun](https://imgs.xkcd.com/comics/speedrun.png)
+![Particle Census](https://imgs.xkcd.com/comics/particle_census.png)
 
-[Speedrun](https://xkcd.com/3246) — *Usain Bolt holds the world record in the 100 meter speedrun.*
+[Particle Census](https://xkcd.com/3247) — *Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.*
 <!--XKCD:END-->
