@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Silverthrone Caldera](https://en.wikipedia.org/wiki/Silverthrone_Caldera)
+  - [Maryland and Virginia Rifle Regiment](https://en.wikipedia.org/wiki/Maryland_and_Virginia_Rifle_Regiment)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that international opera star Julius Prott (pictured) was also a horticulturalist who was acclaimed for his cultivation of roses?](https://en.wikipedia.org/wiki/Julius_Prott)
-  - [... that the plateau vole handles hypoxia at high altitudes by producing more hemoglobin and metabolizing glucose?](https://en.wikipedia.org/wiki/Plateau_vole)
-  - [... that Olympic diver and coach Aileen Allen was also an actress in silent films ?](https://en.wikipedia.org/wiki/Aileen_Allen)
+  - [... that the Trump administration imposed a 10-percent tariff on an uninhabited island territory home mostly to penguins (examples pictured) ?](https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands)
+  - [... that the first Japan Cup was won by an American second-rate mare ?](https://en.wikipedia.org/wiki/Japan_Cup)
+  - [... that, according to Australian newspapers, Stephen Jolly was the only Westerner to address protesters at Tiananmen Square in 1989 ?](https://en.wikipedia.org/wiki/Stephen_Jolly)
 <!--DYK:END-->
 
 ### XKCD for today
