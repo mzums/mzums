@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Maryland and Virginia Rifle Regiment](https://en.wikipedia.org/wiki/Maryland_and_Virginia_Rifle_Regiment)
+  - [2006 Football League Championship play-off final](https://en.wikipedia.org/wiki/2006_Football_League_Championship_play-off_final)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Trump administration imposed a 10-percent tariff on an uninhabited island territory home mostly to penguins (examples pictured) ?](https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands)
-  - [... that the first Japan Cup was won by an American second-rate mare ?](https://en.wikipedia.org/wiki/Japan_Cup)
-  - [... that, according to Australian newspapers, Stephen Jolly was the only Westerner to address protesters at Tiananmen Square in 1989 ?](https://en.wikipedia.org/wiki/Stephen_Jolly)
+  - [... that a Love Island derivative (episode featured) has been described as "the perfect example of AI slop"?](https://en.wikipedia.org/wiki/Fruit_Love_Island)
+  - [... that Rudolph Hering designed and constructed the water supply and sewerage for 150 cities?](https://en.wikipedia.org/wiki/Rudolph_Hering)
+  - [... that 72,000 forms for the 2017 Chilean census from the Atacama Region, enough for 60% of its population, were damaged by heavy rains?](https://en.wikipedia.org/wiki/2017_Chilean_census)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Particle Census](https://imgs.xkcd.com/comics/particle_census.png)
+![182.8 Meters](https://imgs.xkcd.com/comics/182_8_meters.png)
 
-[Particle Census](https://xkcd.com/3247) — *Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.*
+[182.8 Meters](https://xkcd.com/3248) — *They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.*
 <!--XKCD:END-->
