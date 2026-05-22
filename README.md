@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [2006 Football League Championship play-off final](https://en.wikipedia.org/wiki/2006_Football_League_Championship_play-off_final)
+  - [Intraproboscis](https://en.wikipedia.org/wiki/Intraproboscis)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a Love Island derivative (episode featured) has been described as "the perfect example of AI slop"?](https://en.wikipedia.org/wiki/Fruit_Love_Island)
-  - [... that Rudolph Hering designed and constructed the water supply and sewerage for 150 cities?](https://en.wikipedia.org/wiki/Rudolph_Hering)
-  - [... that 72,000 forms for the 2017 Chilean census from the Atacama Region, enough for 60% of its population, were damaged by heavy rains?](https://en.wikipedia.org/wiki/2017_Chilean_census)
+  - [... that the 2025 celebration of Tumbuka culture (pictured) saw the unveiling of a tombstone to their first chief at Bolero in northern Malawi?](https://en.wikipedia.org/wiki/Gonapamuhanya_festival)
+  - [... that George F. Durand and his boss were dismissed from a project in part because they were not American?](https://en.wikipedia.org/wiki/George_F._Durand)
+  - [... that Ghafur Akbar Dharmaputra led the evacuation of Indonesian citizens from Ukraine while suffering from terminal cancer?](https://en.wikipedia.org/wiki/Ghafur_Akbar_Dharmaputra)
 <!--DYK:END-->
 
 ### XKCD for today
