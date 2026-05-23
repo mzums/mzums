@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Intraproboscis](https://en.wikipedia.org/wiki/Intraproboscis)
+  - [Running Out of Time (song)](https://en.wikipedia.org/wiki/Running_Out_of_Time_(song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the 2025 celebration of Tumbuka culture (pictured) saw the unveiling of a tombstone to their first chief at Bolero in northern Malawi?](https://en.wikipedia.org/wiki/Gonapamuhanya_festival)
-  - [... that George F. Durand and his boss were dismissed from a project in part because they were not American?](https://en.wikipedia.org/wiki/George_F._Durand)
-  - [... that Ghafur Akbar Dharmaputra led the evacuation of Indonesian citizens from Ukraine while suffering from terminal cancer?](https://en.wikipedia.org/wiki/Ghafur_Akbar_Dharmaputra)
+  - [... that 1,500 citizens petitioned Canadian architect John Mackenzie Moore (pictured) to run for election as mayor of London, Ontario , and he ultimately defeated the popular incumbent?](https://en.wikipedia.org/wiki/John_Mackenzie_Moore)
+  - [... that the Zebulon Devil Dogz , a collegiate baseball team in the United States, is to consist entirely of athletes from Australia?](https://en.wikipedia.org/wiki/Zebulon_Devil_Dogz)
+  - [... that The Assembly premiered during Autism Acceptance Week?](https://en.wikipedia.org/wiki/The_Assembly_(British_TV_series))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![182.8 Meters](https://imgs.xkcd.com/comics/182_8_meters.png)
+![Neutrino Project](https://imgs.xkcd.com/comics/neutrino_project.png)
 
-[182.8 Meters](https://xkcd.com/3248) — *They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.*
+[Neutrino Project](https://xkcd.com/3249) — *We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.*
 <!--XKCD:END-->
