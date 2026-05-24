@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Running Out of Time (song)](https://en.wikipedia.org/wiki/Running_Out_of_Time_(song))
+  - [Figure skating at the 2022 Winter Olympics – Team event](https://en.wikipedia.org/wiki/Figure_skating_at_the_2022_Winter_Olympics_–_Team_event)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that 1,500 citizens petitioned Canadian architect John Mackenzie Moore (pictured) to run for election as mayor of London, Ontario , and he ultimately defeated the popular incumbent?](https://en.wikipedia.org/wiki/John_Mackenzie_Moore)
-  - [... that the Zebulon Devil Dogz , a collegiate baseball team in the United States, is to consist entirely of athletes from Australia?](https://en.wikipedia.org/wiki/Zebulon_Devil_Dogz)
-  - [... that The Assembly premiered during Autism Acceptance Week?](https://en.wikipedia.org/wiki/The_Assembly_(British_TV_series))
+  - [... that the Semois Valley National Park (pictured) and the National Park Entre-Sambre-et-Meuse together form part of one of the largest forested areas of Western Europe?](https://en.wikipedia.org/wiki/Semois_Valley_National_Park)
+  - [... that Eorcengota had a vision predicting her own death in which she was symbolically represented as a gold coin?](https://en.wikipedia.org/wiki/Eorcengota)
+  - [... that quarterback Bart Houston was named after quarterback Bart Starr ?](https://en.wikipedia.org/wiki/Bart_Houston)
 <!--DYK:END-->
 
 ### XKCD for today
