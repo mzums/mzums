@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Figure skating at the 2022 Winter Olympics – Team event](https://en.wikipedia.org/wiki/Figure_skating_at_the_2022_Winter_Olympics_–_Team_event)
+  - [Menora v. Illinois High School Association](https://en.wikipedia.org/wiki/Menora_v._Illinois_High_School_Association)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Semois Valley National Park (pictured) and the National Park Entre-Sambre-et-Meuse together form part of one of the largest forested areas of Western Europe?](https://en.wikipedia.org/wiki/Semois_Valley_National_Park)
-  - [... that Eorcengota had a vision predicting her own death in which she was symbolically represented as a gold coin?](https://en.wikipedia.org/wiki/Eorcengota)
-  - [... that quarterback Bart Houston was named after quarterback Bart Starr ?](https://en.wikipedia.org/wiki/Bart_Houston)
+  - [... that Keely Hodgkinson (pictured) broke an athletics world record that had been set on the day that she was born?](https://en.wikipedia.org/wiki/Keely_Hodgkinson)
+  - [... that the writer of " It Makes No Difference Now " sold the song for $300 before it became a hit that was covered by Ray Charles , the Supremes , and Merle Haggard ?](https://en.wikipedia.org/wiki/It_Makes_No_Difference_Now)
+  - [... that South Hampstead Synagogue has been described as a "model of elegant simplicity in wood, glass and stone"?](https://en.wikipedia.org/wiki/South_Hampstead_Synagogue)
 <!--DYK:END-->
 
 ### XKCD for today
