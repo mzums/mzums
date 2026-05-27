@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Menora v. Illinois High School Association](https://en.wikipedia.org/wiki/Menora_v._Illinois_High_School_Association)
+  - [Nation of Islam](https://en.wikipedia.org/wiki/Nation_of_Islam)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Keely Hodgkinson (pictured) broke an athletics world record that had been set on the day that she was born?](https://en.wikipedia.org/wiki/Keely_Hodgkinson)
-  - [... that the writer of " It Makes No Difference Now " sold the song for $300 before it became a hit that was covered by Ray Charles , the Supremes , and Merle Haggard ?](https://en.wikipedia.org/wiki/It_Makes_No_Difference_Now)
-  - [... that South Hampstead Synagogue has been described as a "model of elegant simplicity in wood, glass and stone"?](https://en.wikipedia.org/wiki/South_Hampstead_Synagogue)
+  - [... that Victoria Hall (pictured) , a National Historic Site of Canada, was gutted by fire weeks after its centennial?](https://en.wikipedia.org/wiki/Victoria_Hall_(Petrolia))
+  - [... that consumer rights activist Mary Bach successfully sued Walmart in 2011 over a matter of two cents?](https://en.wikipedia.org/wiki/Mary_Bach)
+  - [... that the works of Edith Maryon include sculptures of a witch on a broomstick, a dance from Peer Gynt , and a child sucking its thumb ?](https://en.wikipedia.org/wiki/Works_of_Edith_Maryon)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Neutrino Project](https://imgs.xkcd.com/comics/neutrino_project.png)
+![Flag Design](https://imgs.xkcd.com/comics/flag_design.png)
 
-[Neutrino Project](https://xkcd.com/3249) — *We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.*
+[Flag Design](https://xkcd.com/3250) — *Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.*
 <!--XKCD:END-->
