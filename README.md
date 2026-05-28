@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Nation of Islam](https://en.wikipedia.org/wiki/Nation_of_Islam)
+  - [Physella acuta](https://en.wikipedia.org/wiki/Physella_acuta)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Victoria Hall (pictured) , a National Historic Site of Canada, was gutted by fire weeks after its centennial?](https://en.wikipedia.org/wiki/Victoria_Hall_(Petrolia))
-  - [... that consumer rights activist Mary Bach successfully sued Walmart in 2011 over a matter of two cents?](https://en.wikipedia.org/wiki/Mary_Bach)
-  - [... that the works of Edith Maryon include sculptures of a witch on a broomstick, a dance from Peer Gynt , and a child sucking its thumb ?](https://en.wikipedia.org/wiki/Works_of_Edith_Maryon)
+  - [... that a monument to Pope John Paul II (pictured) was cast using more than seven million donated keys?](https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral))
+  - [... that the United States Armed Forces funded a radio station on Ascension Island that transmitted from an extinct volcano ?](https://en.wikipedia.org/wiki/Volcano_Radio)
+  - [... that John Laugharne suddenly died the night after his re-election in 1715?](https://en.wikipedia.org/wiki/John_Laugharne)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Flag Design](https://imgs.xkcd.com/comics/flag_design.png)
+![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)
 
-[Flag Design](https://xkcd.com/3250) — *Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.*
+[Time Machine Conversation](https://xkcd.com/3251) — *It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.*
 <!--XKCD:END-->
