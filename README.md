@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Physella acuta](https://en.wikipedia.org/wiki/Physella_acuta)
+  - [Patrick Henry](https://en.wikipedia.org/wiki/Patrick_Henry)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that a monument to Pope John Paul II (pictured) was cast using more than seven million donated keys?](https://en.wikipedia.org/wiki/Statue_of_Pope_John_Paul_II_(Mexico_City_Metropolitan_Cathedral))
-  - [... that the United States Armed Forces funded a radio station on Ascension Island that transmitted from an extinct volcano ?](https://en.wikipedia.org/wiki/Volcano_Radio)
-  - [... that John Laugharne suddenly died the night after his re-election in 1715?](https://en.wikipedia.org/wiki/John_Laugharne)
+  - [... that Edith Maryon 's fireplace relief May Morning (pictured) was inspired by an ode by William Wordsworth ?](https://en.wikipedia.org/wiki/Edith_Maryon)
+  - [... that in 1939 the Ukrainian National Union 's newspaper waited for the rise of a Ukrainian Mussolini or Hitler?](https://en.wikipedia.org/wiki/Ukrainian_National_Union_(1939))
+  - [... that, following the Battle of Treviso , King Ildibad had Uraias murdered after Uraias's wife insulted Ildibad's wife in a bath house?](https://en.wikipedia.org/wiki/Battle_of_Treviso)
 <!--DYK:END-->
 
 ### XKCD for today
