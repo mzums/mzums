@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Patrick Henry](https://en.wikipedia.org/wiki/Patrick_Henry)
+  - [Serpent labret with articulated tongue](https://en.wikipedia.org/wiki/Serpent_labret_with_articulated_tongue)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Edith Maryon 's fireplace relief May Morning (pictured) was inspired by an ode by William Wordsworth ?](https://en.wikipedia.org/wiki/Edith_Maryon)
-  - [... that in 1939 the Ukrainian National Union 's newspaper waited for the rise of a Ukrainian Mussolini or Hitler?](https://en.wikipedia.org/wiki/Ukrainian_National_Union_(1939))
-  - [... that, following the Battle of Treviso , King Ildibad had Uraias murdered after Uraias's wife insulted Ildibad's wife in a bath house?](https://en.wikipedia.org/wiki/Battle_of_Treviso)
+  - [... that the designs on a doppa (example pictured) symbolize details about its wearer?](https://en.wikipedia.org/wiki/Doppa)
+  - [... that the first leader of the Haitian Communist Party was arrested for requesting " matériel " , which the authorities interpreted to mean explosives but which turned out to be literature?](https://en.wikipedia.org/wiki/Haitian_Communist_Party)
+  - [... that Wylly Folk St. John based most of the characters in her books on her relatives?](https://en.wikipedia.org/wiki/Wylly_Folk_St._John)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)
+![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)
 
-[Time Machine Conversation](https://xkcd.com/3251) — *It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.*
+[Ancestral Genomes](https://xkcd.com/3252) — *SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.*
 <!--XKCD:END-->
