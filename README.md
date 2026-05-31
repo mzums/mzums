@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Serpent labret with articulated tongue](https://en.wikipedia.org/wiki/Serpent_labret_with_articulated_tongue)
+  - [Bicentennial Capitol Mall State Park](https://en.wikipedia.org/wiki/Bicentennial_Capitol_Mall_State_Park)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the designs on a doppa (example pictured) symbolize details about its wearer?](https://en.wikipedia.org/wiki/Doppa)
-  - [... that the first leader of the Haitian Communist Party was arrested for requesting " matériel " , which the authorities interpreted to mean explosives but which turned out to be literature?](https://en.wikipedia.org/wiki/Haitian_Communist_Party)
-  - [... that Wylly Folk St. John based most of the characters in her books on her relatives?](https://en.wikipedia.org/wiki/Wylly_Folk_St._John)
+  - [... that French revolutionary Élisabeth Le Bas (pictured) declared that she would never accept a pension from her husband 's "assassins", signing the statement with her own blood?](https://en.wikipedia.org/wiki/%C3%89lisabeth_Le_Bas)
+  - [... that the construction of Tennessee State Route 155 in Nashville facilitated the development of an entertainment district anchored by the relocated Grand Ole Opry in the 1970s?](https://en.wikipedia.org/wiki/Tennessee_State_Route_155)
+  - [... that a narrative element in The Magical Revolution of the Reincarnated Princess and the Genius Young Lady was described as "explicitly [...] about class conflict"?](https://en.wikipedia.org/wiki/The_Magical_Revolution_of_the_Reincarnated_Princess_and_the_Genius_Young_Lady)
 <!--DYK:END-->
 
 ### XKCD for today
