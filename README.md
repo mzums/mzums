@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Bicentennial Capitol Mall State Park](https://en.wikipedia.org/wiki/Bicentennial_Capitol_Mall_State_Park)
+  - [SMS Westfalen](https://en.wikipedia.org/wiki/SMS_Westfalen)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that French revolutionary Élisabeth Le Bas (pictured) declared that she would never accept a pension from her husband 's "assassins", signing the statement with her own blood?](https://en.wikipedia.org/wiki/%C3%89lisabeth_Le_Bas)
-  - [... that the construction of Tennessee State Route 155 in Nashville facilitated the development of an entertainment district anchored by the relocated Grand Ole Opry in the 1970s?](https://en.wikipedia.org/wiki/Tennessee_State_Route_155)
-  - [... that a narrative element in The Magical Revolution of the Reincarnated Princess and the Genius Young Lady was described as "explicitly [...] about class conflict"?](https://en.wikipedia.org/wiki/The_Magical_Revolution_of_the_Reincarnated_Princess_and_the_Genius_Young_Lady)
+  - [... that the layout of Elisabeth Park (pictured) forms the royal monogram of Leopold II of Belgium ?](https://en.wikipedia.org/wiki/Elisabeth_Park)
+  - [... that Robert S. Cooper directed the development of GPS while at the Pentagon?](https://en.wikipedia.org/wiki/Robert_S._Cooper)
+  - [... that staff of the newspaper the Kyoto Hinode Shimbun once defended their office from a mob by spraying rioters with water hoses?](https://en.wikipedia.org/wiki/The_Kyoto_Shimbun)
 <!--DYK:END-->
 
 ### XKCD for today
