@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [SMS Westfalen](https://en.wikipedia.org/wiki/SMS_Westfalen)
+  - [Oregon State Capitol](https://en.wikipedia.org/wiki/Oregon_State_Capitol)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the layout of Elisabeth Park (pictured) forms the royal monogram of Leopold II of Belgium ?](https://en.wikipedia.org/wiki/Elisabeth_Park)
-  - [... that Robert S. Cooper directed the development of GPS while at the Pentagon?](https://en.wikipedia.org/wiki/Robert_S._Cooper)
-  - [... that staff of the newspaper the Kyoto Hinode Shimbun once defended their office from a mob by spraying rioters with water hoses?](https://en.wikipedia.org/wiki/The_Kyoto_Shimbun)
+  - [... that the four paintings stolen in the 1972 Worcester Art Museum robbery (one pictured) were discovered hidden on a pig farm?](https://en.wikipedia.org/wiki/1972_Worcester_Art_Museum_robbery)
+  - [... that many of the people who carved the Healing Heart totem pole had no previous carving experience?](https://en.wikipedia.org/wiki/Healing_Heart_totem_pole)
+  - [... that the death of a general's bodyguard led to a decisive Byzantine defeat at the Battle of Mucellium even though they outnumbered the Ostrogoths ?](https://en.wikipedia.org/wiki/Battle_of_Mucellium)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)
+![Sunbeam](https://imgs.xkcd.com/comics/sunbeam.png)
 
-[Ancestral Genomes](https://xkcd.com/3252) — *SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.*
+[Sunbeam](https://xkcd.com/3253) — *While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.*
 <!--XKCD:END-->
