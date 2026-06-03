@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Oregon State Capitol](https://en.wikipedia.org/wiki/Oregon_State_Capitol)
+  - [Ancaster incident](https://en.wikipedia.org/wiki/Ancaster_incident)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the four paintings stolen in the 1972 Worcester Art Museum robbery (one pictured) were discovered hidden on a pig farm?](https://en.wikipedia.org/wiki/1972_Worcester_Art_Museum_robbery)
-  - [... that many of the people who carved the Healing Heart totem pole had no previous carving experience?](https://en.wikipedia.org/wiki/Healing_Heart_totem_pole)
-  - [... that the death of a general's bodyguard led to a decisive Byzantine defeat at the Battle of Mucellium even though they outnumbered the Ostrogoths ?](https://en.wikipedia.org/wiki/Battle_of_Mucellium)
+  - [... that the Palermo Quran (detail pictured) has been described as "the single most important artifact so far known to survive from Muslim Sicily"?](https://en.wikipedia.org/wiki/Palermo_Quran)
+  - [... that Tao Siliang led efforts to promote iodized salt in China?](https://en.wikipedia.org/wiki/Tao_Siliang)
+  - [... that nearly 100,000 donors contributed towards the creation of a statue of Booker T. Washington ?](https://en.wikipedia.org/wiki/Lifting_the_Veil_of_Ignorance)
 <!--DYK:END-->
 
 ### XKCD for today
