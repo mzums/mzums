@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Ancaster incident](https://en.wikipedia.org/wiki/Ancaster_incident)
+  - [Æthelred the Unready](https://en.wikipedia.org/wiki/Æthelred_the_Unready)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the Palermo Quran (detail pictured) has been described as "the single most important artifact so far known to survive from Muslim Sicily"?](https://en.wikipedia.org/wiki/Palermo_Quran)
-  - [... that Tao Siliang led efforts to promote iodized salt in China?](https://en.wikipedia.org/wiki/Tao_Siliang)
-  - [... that nearly 100,000 donors contributed towards the creation of a statue of Booker T. Washington ?](https://en.wikipedia.org/wiki/Lifting_the_Veil_of_Ignorance)
+  - [... that Nellie Breen (pictured) is believed to have performed the first tap dance broadcast on radio in 1922?](https://en.wikipedia.org/wiki/Nellie_Breen)
+  - [... that American basketball player Jaxson Davis was cradled by Kobe Bryant when he was an infant?](https://en.wikipedia.org/wiki/Jaxson_Davis)
+  - [... that Waverly is one of the largest surviving domestic residences in London, Ontario?](https://en.wikipedia.org/wiki/Waverly_(London,_Ontario))
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Sunbeam](https://imgs.xkcd.com/comics/sunbeam.png)
+![Detector](https://imgs.xkcd.com/comics/detector.png)
 
-[Sunbeam](https://xkcd.com/3253) — *While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.*
+[Detector](https://xkcd.com/3254) — *No other experiment has a lower false negative rate.*
 <!--XKCD:END-->
