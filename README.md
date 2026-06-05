@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Æthelred the Unready](https://en.wikipedia.org/wiki/Æthelred_the_Unready)
+  - [Geography and ecology of the Everglades](https://en.wikipedia.org/wiki/Geography_and_ecology_of_the_Everglades)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that Nellie Breen (pictured) is believed to have performed the first tap dance broadcast on radio in 1922?](https://en.wikipedia.org/wiki/Nellie_Breen)
-  - [... that American basketball player Jaxson Davis was cradled by Kobe Bryant when he was an infant?](https://en.wikipedia.org/wiki/Jaxson_Davis)
-  - [... that Waverly is one of the largest surviving domestic residences in London, Ontario?](https://en.wikipedia.org/wiki/Waverly_(London,_Ontario))
+  - [... that the seaweed roofs (example pictured) of houses on the Danish island of Læsø were traditionally constructed by women?](https://en.wikipedia.org/wiki/Seaweed_roofs_on_L%C3%A6s%C3%B8)
+  - [... that novelist Norah Davis once recommended putting a boy in a hypnotic trance to treat his amnesia ?](https://en.wikipedia.org/wiki/Norah_Davis)
+  - [... that Beethoven's " Tremate, empi, tremate " was not performed for ten years after it was written?](https://en.wikipedia.org/wiki/Tremate,_empi,_tremate)
 <!--DYK:END-->
 
 ### XKCD for today
