@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Geography and ecology of the Everglades](https://en.wikipedia.org/wiki/Geography_and_ecology_of_the_Everglades)
+  - [Siege of Hennebont](https://en.wikipedia.org/wiki/Siege_of_Hennebont)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that the seaweed roofs (example pictured) of houses on the Danish island of Læsø were traditionally constructed by women?](https://en.wikipedia.org/wiki/Seaweed_roofs_on_L%C3%A6s%C3%B8)
-  - [... that novelist Norah Davis once recommended putting a boy in a hypnotic trance to treat his amnesia ?](https://en.wikipedia.org/wiki/Norah_Davis)
-  - [... that Beethoven's " Tremate, empi, tremate " was not performed for ten years after it was written?](https://en.wikipedia.org/wiki/Tremate,_empi,_tremate)
+  - [... that video game journalist Ryan Davis (pictured) was honored in Minecraft 's soundtrack ?](https://en.wikipedia.org/wiki/Ryan_Davis_(video_game_journalist))
+  - [... that a short story in The Bewitched Bourgeois was described by critics as both a "comedy of errors" and a parable about the inevitability of death?](https://en.wikipedia.org/wiki/Seven_Floors)
+  - [... that Yundi is both the youngest first‑prize winner and the youngest judge in the history of the International Chopin Piano Competition ?](https://en.wikipedia.org/wiki/Yundi)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Detector](https://imgs.xkcd.com/comics/detector.png)
+![Planetary Science](https://imgs.xkcd.com/comics/planetary_science.png)
 
-[Detector](https://xkcd.com/3254) — *No other experiment has a lower false negative rate.*
+[Planetary Science](https://xkcd.com/3255) — *The research was overseen by the Institutional Review Board, which is what I named my surfboard.*
 <!--XKCD:END-->
