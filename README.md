@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Siege of Hennebont](https://en.wikipedia.org/wiki/Siege_of_Hennebont)
+  - [Voss (collection)](https://en.wikipedia.org/wiki/Voss_(collection))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that video game journalist Ryan Davis (pictured) was honored in Minecraft 's soundtrack ?](https://en.wikipedia.org/wiki/Ryan_Davis_(video_game_journalist))
-  - [... that a short story in The Bewitched Bourgeois was described by critics as both a "comedy of errors" and a parable about the inevitability of death?](https://en.wikipedia.org/wiki/Seven_Floors)
-  - [... that Yundi is both the youngest first‑prize winner and the youngest judge in the history of the International Chopin Piano Competition ?](https://en.wikipedia.org/wiki/Yundi)
+  - [... that populations of the Burmese hare (example pictured) may be increasing due to deforestation in Laos?](https://en.wikipedia.org/wiki/Burmese_hare)
+  - [... that Saudi Arabia were invited to play at two CONCACAF Gold Cups only eight days after the country was confirmed as the host of the 2034 FIFA World Cup ?](https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_CONCACAF_Gold_Cup)
+  - [... that trans porn star Angelina Please was credited with saving a life shortly before losing hers at the age of 24?](https://en.wikipedia.org/wiki/Angelina_Please)
 <!--DYK:END-->
 
 ### XKCD for today
