@@ -28,14 +28,14 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Voss (collection)](https://en.wikipedia.org/wiki/Voss_(collection))
+  - [Types Riot](https://en.wikipedia.org/wiki/Types_Riot)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that populations of the Burmese hare (example pictured) may be increasing due to deforestation in Laos?](https://en.wikipedia.org/wiki/Burmese_hare)
-  - [... that Saudi Arabia were invited to play at two CONCACAF Gold Cups only eight days after the country was confirmed as the host of the 2034 FIFA World Cup ?](https://en.wikipedia.org/wiki/Saudi_Arabia_at_the_CONCACAF_Gold_Cup)
-  - [... that trans porn star Angelina Please was credited with saving a life shortly before losing hers at the age of 24?](https://en.wikipedia.org/wiki/Angelina_Please)
+  - [... that baptisms hosted by the Mount Zion Church of God in Christ (pictured) became a tourist attraction?](https://en.wikipedia.org/wiki/Mount_Zion_Full_Gospel_Church)
+  - [... that the Australian War Memorial changed its rules retroactively to disqualify Flawed Hero: Truth, Lies and War Crimes from a prize it was already selected to receive?](https://en.wikipedia.org/wiki/Australian_War_Memorial)
+  - [... that basketball player Anton Bonke represented his home nation, Vanuatu , in rowing?](https://en.wikipedia.org/wiki/Anton_Bonke)
 <!--DYK:END-->
 
 ### XKCD for today
