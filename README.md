@@ -28,19 +28,19 @@ https://crates.io/users/mzums
 
 ### Wikipedia's featured article
 - <!--WIKI:START-->
-  - [Types Riot](https://en.wikipedia.org/wiki/Types_Riot)
+  - [Rodent](https://en.wikipedia.org/wiki/Rodent)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 <!--DYK:START-->
-  - [... that baptisms hosted by the Mount Zion Church of God in Christ (pictured) became a tourist attraction?](https://en.wikipedia.org/wiki/Mount_Zion_Full_Gospel_Church)
-  - [... that the Australian War Memorial changed its rules retroactively to disqualify Flawed Hero: Truth, Lies and War Crimes from a prize it was already selected to receive?](https://en.wikipedia.org/wiki/Australian_War_Memorial)
-  - [... that basketball player Anton Bonke represented his home nation, Vanuatu , in rowing?](https://en.wikipedia.org/wiki/Anton_Bonke)
+  - [... that opera singer Mariska Aldrich had a prize-winning German shepherd (pictured) who excelled in police-dog competitions?](https://en.wikipedia.org/wiki/Mariska_Aldrich)
+  - [... that Salvadorans have the constitutional right to overthrow their government ?](https://en.wikipedia.org/wiki/Right_to_insurrection_(El_Salvador))
+  - [... that a medieval treasure hoard was found by a woman digging for worms to use as fishing bait?](https://en.wikipedia.org/wiki/H%C3%B6rningsholm_Hoard)
 <!--DYK:END-->
 
 ### XKCD for today
 <!--XKCD:START-->
-![Planetary Science](https://imgs.xkcd.com/comics/planetary_science.png)
+![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
-[Planetary Science](https://xkcd.com/3255) — *The research was overseen by the Institutional Review Board, which is what I named my surfboard.*
+[Nostalgia Content](https://xkcd.com/3256) — *Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.*
 <!--XKCD:END-->
