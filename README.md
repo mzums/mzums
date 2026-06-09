@@ -23,27 +23,27 @@
 
 ### Wikipedia's featured article
 
-<!--WIKI:START-->
+ <!--WIKI:START-->
 
-[Felice Beato](https://en.wikipedia.org/wiki/Felice_Beato)
+[Rodent](https://en.wikipedia.org/wiki/Rodent)
 
-<!--WIKI:END-->
+ <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
 
-- [... that basketball player Liatu King (pictured) played boys' American football when she was a child?](https://en.wikipedia.org/wiki/Liatu_King)
-- [... that the kinetic-energy output from the 2011 Sawyerville–Eoline tornado was almost twice as high as that released during the atomic bombing of Hiroshima?](https://en.wikipedia.org/wiki/2011_Sawyerville%E2%80%93Eoline_tornado)
-- [... that a study found the Curtis Bay Incinerator causes US$36.9 million in damage per year to public health?](https://en.wikipedia.org/wiki/Curtis_Bay_Incinerator)
-<!--DYK:END-->
+- [... that opera singer Mariska Aldrich had a prize-winning German shepherd (pictured) who excelled in police-dog competitions?](https://en.wikipedia.org/wiki/Mariska_Aldrich)
+- [... that Salvadorans have the constitutional right to overthrow their government ?](<https://en.wikipedia.org/wiki/Right_to_insurrection_(El_Salvador)>)
+- [... that a medieval treasure hoard was found by a woman digging for worms to use as fishing bait?](https://en.wikipedia.org/wiki/H%C3%B6rningsholm_Hoard)
+  <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
 
-![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)
+![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
-[Biology Department](https://xkcd.com/3140) — _Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets._
+[Nostalgia Content](https://xkcd.com/3256) — _Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are._
 
 <!--XKCD:END-->
