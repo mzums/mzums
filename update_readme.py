@@ -12,7 +12,7 @@ def get_featured_article():
         if res.status_code == 200:
             data = res.json()
             title = data["tfa"]["normalizedtitle"]
-            return f"  - [{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
+            return f"[{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
         else:
             return "⚠️ Could not fetch article."
     except Exception as e:
@@ -72,48 +72,8 @@ def get_did_you_know():
     except requests.exceptions.RequestException as e:
         return f"Request error: {e}"
 
-
-def get_pinned_repos():
-    username = "mzums"
-    token = os.getenv("GH_TOKEN")
-    if not token:
-        return "GH_TOKEN env var not set"
-    query = f"""
-    {{
-      user(login: "{username}") {{
-        pinnedItems(first: 6, types: REPOSITORY) {{
-          nodes {{
-            ... on Repository {{
-              name
-              description
-              url
-            }}
-          }}
-        }}
-      }}
-    }}
-    """
-    headers = {"Authorization": f"Bearer {token}"}
-    response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
-    if response.status_code != 200:
-        return f"GitHub API error {response.status_code}: {response.text}"
-    data = response.json()
-    repos = data.get("data", {}).get("user", {}).get("pinnedItems", {}).get("nodes", [])
-    if not repos:
-        return "No pinned repos found"
-    result = ""
-    for repo in repos:
-        name = repo['name']
-        url = repo['url']
-        desc = f" - {repo['description']}"
-        if desc == " - None":
-            desc = ""
-        result += f"- [{name}]({url}){desc}\n"
-    return result.strip()
-
 readme = replace_section(readme, "WIKI", get_featured_article())
 readme = replace_section(readme, "XKCD", get_xkcd())
-readme = replace_section(readme, "PINNED", get_pinned_repos())
 readme = replace_section(readme, "DYK", get_did_you_know())
 
 with open("README.md", "w", encoding="utf-8") as f:
