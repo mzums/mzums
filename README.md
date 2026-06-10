@@ -24,26 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-
-[Rodent](https://en.wikipedia.org/wiki/Rodent)
-
- <!--WIKI:END-->
+[Amalthea (mythology)](https://en.wikipedia.org/wiki/Amalthea_(mythology))
+<!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-
-- [... that opera singer Mariska Aldrich had a prize-winning German shepherd (pictured) who excelled in police-dog competitions?](https://en.wikipedia.org/wiki/Mariska_Aldrich)
-- [... that Salvadorans have the constitutional right to overthrow their government ?](<https://en.wikipedia.org/wiki/Right_to_insurrection_(El_Salvador)>)
-- [... that a medieval treasure hoard was found by a woman digging for worms to use as fishing bait?](https://en.wikipedia.org/wiki/H%C3%B6rningsholm_Hoard)
-  <!--DYK:END-->
+  - [... that the Isfahan Quran (detail pictured) was written in a style that required a particularly high level of calligraphic skill?](https://en.wikipedia.org/wiki/Isfahan_Quran)
+  - [... that the US Army blew up an inactive gold mine in secret after finding about 500 cases of dynamite, creating a fireball about 200 feet (61 m) in length?](https://en.wikipedia.org/wiki/Lone_Jack_mine)
+  - [... that Maria Kalinina was so revulsed by playing the villain in a horror movie that she became a vegetarian and a yoga instructor?](https://en.wikipedia.org/wiki/Maria_Kalinina)
+<!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-
 ![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
 
-[Nostalgia Content](https://xkcd.com/3256) — _Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are._
-
+[Nostalgia Content](https://xkcd.com/3256) — *Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.*
 <!--XKCD:END-->
