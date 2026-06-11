@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Amalthea (mythology)](https://en.wikipedia.org/wiki/Amalthea_(mythology))
+[UEFA Euro 2016 final](https://en.wikipedia.org/wiki/UEFA_Euro_2016_final)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the Isfahan Quran (detail pictured) was written in a style that required a particularly high level of calligraphic skill?](https://en.wikipedia.org/wiki/Isfahan_Quran)
-  - [... that the US Army blew up an inactive gold mine in secret after finding about 500 cases of dynamite, creating a fireball about 200 feet (61 m) in length?](https://en.wikipedia.org/wiki/Lone_Jack_mine)
-  - [... that Maria Kalinina was so revulsed by playing the villain in a horror movie that she became a vegetarian and a yoga instructor?](https://en.wikipedia.org/wiki/Maria_Kalinina)
+  - [... that a Buddhist temple is nestled amid Paris on the Hudson (pictured) ?](https://en.wikipedia.org/wiki/Riverside%E2%80%93West_105th_Street_Historic_District)
+  - [... that the stairs of the Bottleworks District hotel were designed to resemble a soda fountain?](https://en.wikipedia.org/wiki/Bottleworks_District)
+  - [... that an Izumi Kobayashi song was said to "[bridge] the gap between Prince -inspired funk and vintage synth-heavy Thomas Dolby "?](https://en.wikipedia.org/wiki/Izumi_Kobayashi_(musician))
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Nostalgia Content](https://imgs.xkcd.com/comics/nostalgia_content.png)
+![Beam Pipe](https://imgs.xkcd.com/comics/beam_pipe.png)
 
-[Nostalgia Content](https://xkcd.com/3256) — *Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.*
+[Beam Pipe](https://xkcd.com/3257) — *'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom*
 <!--XKCD:END-->
