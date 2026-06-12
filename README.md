@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[UEFA Euro 2016 final](https://en.wikipedia.org/wiki/UEFA_Euro_2016_final)
+[Love Is Embarrassing](https://en.wikipedia.org/wiki/Love_Is_Embarrassing)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that a Buddhist temple is nestled amid Paris on the Hudson (pictured) ?](https://en.wikipedia.org/wiki/Riverside%E2%80%93West_105th_Street_Historic_District)
-  - [... that the stairs of the Bottleworks District hotel were designed to resemble a soda fountain?](https://en.wikipedia.org/wiki/Bottleworks_District)
-  - [... that an Izumi Kobayashi song was said to "[bridge] the gap between Prince -inspired funk and vintage synth-heavy Thomas Dolby "?](https://en.wikipedia.org/wiki/Izumi_Kobayashi_(musician))
+  - [... that Gwen (pictured) went viral in 2025 due to the way she ate one of her country's most beloved street foods?](https://en.wikipedia.org/wiki/Gwen_(singer))
+  - [... that the title of a book on colonial history was first inspired by a housemate's seminar paper on Sigmund Freud?](https://en.wikipedia.org/wiki/Contracting_Colonialism)
+  - [... that fried chicken was popularized in the Philippines by a Filipino born in Grenada who sometimes pretended to be African-American ?](https://en.wikipedia.org/wiki/Tom_Pritchard_(restaurateur))
 <!--DYK:END-->
 
 ### XKCD for today
