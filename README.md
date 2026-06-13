@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Love Is Embarrassing](https://en.wikipedia.org/wiki/Love_Is_Embarrassing)
+[William IV's British coinage](https://en.wikipedia.org/wiki/William_IV's_British_coinage)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Gwen (pictured) went viral in 2025 due to the way she ate one of her country's most beloved street foods?](https://en.wikipedia.org/wiki/Gwen_(singer))
-  - [... that the title of a book on colonial history was first inspired by a housemate's seminar paper on Sigmund Freud?](https://en.wikipedia.org/wiki/Contracting_Colonialism)
-  - [... that fried chicken was popularized in the Philippines by a Filipino born in Grenada who sometimes pretended to be African-American ?](https://en.wikipedia.org/wiki/Tom_Pritchard_(restaurateur))
+  - [... that the 19th-century Point Clear Martello Tower (pictured) now houses an aviation museum?](https://en.wikipedia.org/wiki/Point_Clear_Martello_Tower)
+  - [... that, when baseball pitcher Jimmy Whalen was promoted to the Major Leagues , he refused to report because the team would not pay his travel expenses?](https://en.wikipedia.org/wiki/Pitcher)
+  - [... that Australia took Japan to the International Court of Justice for its whaling activities near the Australian Antarctic Territory ?](https://en.wikipedia.org/wiki/Australian_Antarctic_Territory)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Beam Pipe](https://imgs.xkcd.com/comics/beam_pipe.png)
+![Plate Flip](https://imgs.xkcd.com/comics/plate_flip.png)
 
-[Beam Pipe](https://xkcd.com/3257) — *'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom*
+[Plate Flip](https://xkcd.com/3258) — *It's great for exfoliating your skin, bones, houses, cities, landscape, etc.*
 <!--XKCD:END-->
