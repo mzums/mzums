@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[William IV's British coinage](https://en.wikipedia.org/wiki/William_IV's_British_coinage)
+[Early life and education of Donald Trump](https://en.wikipedia.org/wiki/Early_life_and_education_of_Donald_Trump)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the 19th-century Point Clear Martello Tower (pictured) now houses an aviation museum?](https://en.wikipedia.org/wiki/Point_Clear_Martello_Tower)
-  - [... that, when baseball pitcher Jimmy Whalen was promoted to the Major Leagues , he refused to report because the team would not pay his travel expenses?](https://en.wikipedia.org/wiki/Pitcher)
-  - [... that Australia took Japan to the International Court of Justice for its whaling activities near the Australian Antarctic Territory ?](https://en.wikipedia.org/wiki/Australian_Antarctic_Territory)
+  - [... that Fatmata Binta (pictured) used her monetary award from the Basque Culinary World Prize to support women farmers' cultivation of fonio ?](https://en.wikipedia.org/wiki/Fatmata_Binta)
+  - [... that Byzantine general Belisarius lost a significant part of his army over a disagreement with his military commanders but still was able to capture Urbinus without a fight?](https://en.wikipedia.org/wiki/Belisarius)
+  - [... that one of the first known books by an Aboriginal Australian author, written by David Unaipon , was not printed under his name for more than 70 years?](https://en.wikipedia.org/wiki/David_Unaipon)
 <!--DYK:END-->
 
 ### XKCD for today
