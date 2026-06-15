@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Early life and education of Donald Trump](https://en.wikipedia.org/wiki/Early_life_and_education_of_Donald_Trump)
+[Makemake](https://en.wikipedia.org/wiki/Makemake)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Fatmata Binta (pictured) used her monetary award from the Basque Culinary World Prize to support women farmers' cultivation of fonio ?](https://en.wikipedia.org/wiki/Fatmata_Binta)
-  - [... that Byzantine general Belisarius lost a significant part of his army over a disagreement with his military commanders but still was able to capture Urbinus without a fight?](https://en.wikipedia.org/wiki/Belisarius)
-  - [... that one of the first known books by an Aboriginal Australian author, written by David Unaipon , was not printed under his name for more than 70 years?](https://en.wikipedia.org/wiki/David_Unaipon)
+  - [... that a world-championship-medalist swimmer (pictured) called his sport "one of the dullest in existence"?](https://en.wikipedia.org/wiki/Seth_Van_Neerden)
+  - [... that the houses in New York City's Henderson Place Historic District have been described as "gingerbread-type" and likened to dollhouse architecture?](https://en.wikipedia.org/wiki/Henderson_Place_Historic_District)
+  - [... that actor Erwan Kepoa Falé said that sex was his escape from grief after the death of his father?](https://en.wikipedia.org/wiki/Erwan_Kepoa_Fal%C3%A9)
 <!--DYK:END-->
 
 ### XKCD for today
