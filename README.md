@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Makemake](https://en.wikipedia.org/wiki/Makemake)
+[Eric Bana](https://en.wikipedia.org/wiki/Eric_Bana)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that a world-championship-medalist swimmer (pictured) called his sport "one of the dullest in existence"?](https://en.wikipedia.org/wiki/Seth_Van_Neerden)
-  - [... that the houses in New York City's Henderson Place Historic District have been described as "gingerbread-type" and likened to dollhouse architecture?](https://en.wikipedia.org/wiki/Henderson_Place_Historic_District)
-  - [... that actor Erwan Kepoa Falé said that sex was his escape from grief after the death of his father?](https://en.wikipedia.org/wiki/Erwan_Kepoa_Fal%C3%A9)
+  - [... that Indian anti-colonial activist and anti-fascist soldier Gopal Mukund Huddar (pictured) engaged in palm reading with his fellow inmates while imprisoned in a Francoist concentration camp ?](https://en.wikipedia.org/wiki/Gopal_Mukund_Huddar)
+  - [... that expatriate votes in Salvadoran elections increased from fewer than 300 in 2009 to more than 300,000 in 2024?](https://en.wikipedia.org/wiki/Right_of_Salvadoran_expatriates_to_vote)
+  - [... that Laura Bowman starred in the first sound horror film with an all-black cast?](https://en.wikipedia.org/wiki/Laura_Bowman)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Plate Flip](https://imgs.xkcd.com/comics/plate_flip.png)
+![Tethys](https://imgs.xkcd.com/comics/tethys.png)
 
-[Plate Flip](https://xkcd.com/3258) — *It's great for exfoliating your skin, bones, houses, cities, landscape, etc.*
+[Tethys](https://xkcd.com/3259) — *In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.*
 <!--XKCD:END-->
