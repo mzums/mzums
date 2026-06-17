@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Eric Bana](https://en.wikipedia.org/wiki/Eric_Bana)
+[Cedric Howell](https://en.wikipedia.org/wiki/Cedric_Howell)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Indian anti-colonial activist and anti-fascist soldier Gopal Mukund Huddar (pictured) engaged in palm reading with his fellow inmates while imprisoned in a Francoist concentration camp ?](https://en.wikipedia.org/wiki/Gopal_Mukund_Huddar)
-  - [... that expatriate votes in Salvadoran elections increased from fewer than 300 in 2009 to more than 300,000 in 2024?](https://en.wikipedia.org/wiki/Right_of_Salvadoran_expatriates_to_vote)
-  - [... that Laura Bowman starred in the first sound horror film with an all-black cast?](https://en.wikipedia.org/wiki/Laura_Bowman)
+  - [... that SN 2025pht (star pictured) was one of the brightest supernovae observed in 2025?](https://en.wikipedia.org/wiki/SN_2025pht)
+  - [... that Muwaffaq al-Din Yaqub ibn Siqlab was fluent in Classical Greek and regularly recited passages from Galen to inform his medical treatments?](https://en.wikipedia.org/wiki/Muwaffaq_al-Din_Yaqub_ibn_Siqlab)
+  - [... that a song uses satire in Spanish and English to critique anti-Mexican sentiment in the U.S. and anti-American sentiment in Mexico?](https://en.wikipedia.org/wiki/Frijolero_(song))
 <!--DYK:END-->
 
 ### XKCD for today
