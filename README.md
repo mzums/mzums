@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Cedric Howell](https://en.wikipedia.org/wiki/Cedric_Howell)
+[Forever (Mariah Carey song)](https://en.wikipedia.org/wiki/Forever_(Mariah_Carey_song))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that SN 2025pht (star pictured) was one of the brightest supernovae observed in 2025?](https://en.wikipedia.org/wiki/SN_2025pht)
-  - [... that Muwaffaq al-Din Yaqub ibn Siqlab was fluent in Classical Greek and regularly recited passages from Galen to inform his medical treatments?](https://en.wikipedia.org/wiki/Muwaffaq_al-Din_Yaqub_ibn_Siqlab)
-  - [... that a song uses satire in Spanish and English to critique anti-Mexican sentiment in the U.S. and anti-American sentiment in Mexico?](https://en.wikipedia.org/wiki/Frijolero_(song))
+  - [... that the Wangdue Phodrang Dzong (pictured) was destroyed by a fire in 1837, damaged by an earthquake in 1897 and destroyed again by a fire in 2012?](https://en.wikipedia.org/wiki/Wangdue_Phodrang_Dzong)
+  - [... that Bahu Begum gave up her nose ring with pearls for her husband's sovereignty?](https://en.wikipedia.org/wiki/Bahu_Begum)
+  - [... that facial dysmorphism and moderate intellectual disability are symptoms of 49,XXYYY syndrome ?](https://en.wikipedia.org/wiki/Dysmorphic_feature)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Tethys](https://imgs.xkcd.com/comics/tethys.png)
+![Messi](https://imgs.xkcd.com/comics/messi.png)
 
-[Tethys](https://xkcd.com/3259) — *In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.*
+[Messi](https://xkcd.com/3260) — *Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.*
 <!--XKCD:END-->
