@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Forever (Mariah Carey song)](https://en.wikipedia.org/wiki/Forever_(Mariah_Carey_song))
+[Atlanta Compromise](https://en.wikipedia.org/wiki/Atlanta_Compromise)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the Wangdue Phodrang Dzong (pictured) was destroyed by a fire in 1837, damaged by an earthquake in 1897 and destroyed again by a fire in 2012?](https://en.wikipedia.org/wiki/Wangdue_Phodrang_Dzong)
-  - [... that Bahu Begum gave up her nose ring with pearls for her husband's sovereignty?](https://en.wikipedia.org/wiki/Bahu_Begum)
-  - [... that facial dysmorphism and moderate intellectual disability are symptoms of 49,XXYYY syndrome ?](https://en.wikipedia.org/wiki/Dysmorphic_feature)
+  - [... that it was 41 years between the first Ditrichites moss description and the genus being reported in amber fossils (pictured) ?](https://en.wikipedia.org/wiki/Ditrichites)
+  - [... that basketball player Adan Diggs hired an agent before making his high school debut?](https://en.wikipedia.org/wiki/Adan_Diggs)
+  - [... that Johns Hopkins University and the City of Baltimore agreed to demolish the city's former U.S. Marine Hospital in 1987, and then changed their minds in 2019?](https://en.wikipedia.org/wiki/Johns_Hopkins_University)
 <!--DYK:END-->
 
 ### XKCD for today
