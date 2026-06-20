@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Atlanta Compromise](https://en.wikipedia.org/wiki/Atlanta_Compromise)
+[KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that it was 41 years between the first Ditrichites moss description and the genus being reported in amber fossils (pictured) ?](https://en.wikipedia.org/wiki/Ditrichites)
-  - [... that basketball player Adan Diggs hired an agent before making his high school debut?](https://en.wikipedia.org/wiki/Adan_Diggs)
-  - [... that Johns Hopkins University and the City of Baltimore agreed to demolish the city's former U.S. Marine Hospital in 1987, and then changed their minds in 2019?](https://en.wikipedia.org/wiki/Johns_Hopkins_University)
+  - [... that comedian Pudgy (pictured) was often referred to as the "female Don Rickles "?](https://en.wikipedia.org/wiki/Pudgy_(comedian))
+  - [... that Mexico's Observatorio 1873 began as a military lookout and observatory, and now includes a whale museum, an iguana sanctuary and a zip line?](https://en.wikipedia.org/wiki/Observatorio_1873)
+  - [... that a Hindu wife of the Muslim ruler of Awadh is often linked to a festival honoring Lord Hanuman on Tuesdays ?](https://en.wikipedia.org/wiki/Chattar_Kunwar)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Messi](https://imgs.xkcd.com/comics/messi.png)
+![Side Effect](https://imgs.xkcd.com/comics/side_effect.png)
 
-[Messi](https://xkcd.com/3260) — *Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.*
+[Side Effect](https://xkcd.com/3261) — *Brace yourself--the chirp gets pretty weird.*
 <!--XKCD:END-->
