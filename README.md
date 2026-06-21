@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters)
+[Tatannuaq](https://en.wikipedia.org/wiki/Tatannuaq)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that comedian Pudgy (pictured) was often referred to as the "female Don Rickles "?](https://en.wikipedia.org/wiki/Pudgy_(comedian))
-  - [... that Mexico's Observatorio 1873 began as a military lookout and observatory, and now includes a whale museum, an iguana sanctuary and a zip line?](https://en.wikipedia.org/wiki/Observatorio_1873)
-  - [... that a Hindu wife of the Muslim ruler of Awadh is often linked to a festival honoring Lord Hanuman on Tuesdays ?](https://en.wikipedia.org/wiki/Chattar_Kunwar)
+  - [... that one of the original carvers of a totem pole (detail pictured) described efforts to restore it as akin to "sending a carpenter to repaint the Mona Lisa"?](https://en.wikipedia.org/wiki/Canadian_totem)
+  - [... that Jean Varraud once put football star Zinedine Zidane on cleaning duty?](https://en.wikipedia.org/wiki/Jean_Varraud)
+  - [... that the number of damage claims lodged after the 1974 Dunedin earthquake was unusually high for an earthquake of its magnitude?](https://en.wikipedia.org/wiki/1974_Dunedin_earthquake)
 <!--DYK:END-->
 
 ### XKCD for today
