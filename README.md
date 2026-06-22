@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Tatannuaq](https://en.wikipedia.org/wiki/Tatannuaq)
+[Manchester](https://en.wikipedia.org/wiki/Manchester)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that one of the original carvers of a totem pole (detail pictured) described efforts to restore it as akin to "sending a carpenter to repaint the Mona Lisa"?](https://en.wikipedia.org/wiki/Canadian_totem)
-  - [... that Jean Varraud once put football star Zinedine Zidane on cleaning duty?](https://en.wikipedia.org/wiki/Jean_Varraud)
-  - [... that the number of damage claims lodged after the 1974 Dunedin earthquake was unusually high for an earthquake of its magnitude?](https://en.wikipedia.org/wiki/1974_Dunedin_earthquake)
+  - [... that doctor Hadley Williams (pictured) left London for London, then returned to London?](https://en.wikipedia.org/wiki/Hadley_Williams)
+  - [... that the kingdom of Kulembebe in modern-day Angola may have been founded in the 13th century?](https://en.wikipedia.org/wiki/Kulembebe)
+  - [... that a television station mistakenly broadcast footage of a different person three times while trying to film a suspect for killing a child ?](https://en.wikipedia.org/wiki/Killing_of_Yuki_Adachi)
 <!--DYK:END-->
 
 ### XKCD for today
