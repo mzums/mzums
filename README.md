@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Manchester](https://en.wikipedia.org/wiki/Manchester)
+[Battle of Trapani](https://en.wikipedia.org/wiki/Battle_of_Trapani)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that doctor Hadley Williams (pictured) left London for London, then returned to London?](https://en.wikipedia.org/wiki/Hadley_Williams)
-  - [... that the kingdom of Kulembebe in modern-day Angola may have been founded in the 13th century?](https://en.wikipedia.org/wiki/Kulembebe)
-  - [... that a television station mistakenly broadcast footage of a different person three times while trying to film a suspect for killing a child ?](https://en.wikipedia.org/wiki/Killing_of_Yuki_Adachi)
+  - [... that beans on toast (example pictured) have variously been referred to as "skinheads", "skins on a raft" and "cowboy's dinner"?](https://en.wikipedia.org/wiki/Beans_on_toast)
+  - [... that Licia Fertz posed nude for Rolling Stone at the age of 89?](https://en.wikipedia.org/wiki/Licia_Fertz)
+  - [... that the author of Your Own Quiz wanted the readers to answer at least one question in the novel correctly at the same time as the main character?](https://en.wikipedia.org/wiki/Your_Own_Quiz)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Side Effect](https://imgs.xkcd.com/comics/side_effect.png)
+![Sports Commentary](https://imgs.xkcd.com/comics/sports_commentary.png)
 
-[Side Effect](https://xkcd.com/3261) — *Brace yourself--the chirp gets pretty weird.*
+[Sports Commentary](https://xkcd.com/3262) — *The plural of anecdote may not be data, but the singular of data is anecdote.*
 <!--XKCD:END-->
