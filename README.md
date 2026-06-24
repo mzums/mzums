@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Battle of Trapani](https://en.wikipedia.org/wiki/Battle_of_Trapani)
+[Vatican City at the 2022 Mediterranean Games](https://en.wikipedia.org/wiki/Vatican_City_at_the_2022_Mediterranean_Games)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that beans on toast (example pictured) have variously been referred to as "skinheads", "skins on a raft" and "cowboy's dinner"?](https://en.wikipedia.org/wiki/Beans_on_toast)
-  - [... that Licia Fertz posed nude for Rolling Stone at the age of 89?](https://en.wikipedia.org/wiki/Licia_Fertz)
-  - [... that the author of Your Own Quiz wanted the readers to answer at least one question in the novel correctly at the same time as the main character?](https://en.wikipedia.org/wiki/Your_Own_Quiz)
+  - [... that Europejara (head pictured) is the oldest known toothless pterosaur?](https://en.wikipedia.org/wiki/Europejara)
+  - [... that opera singer Joyce Castle specialized in "portraying nuts, mamas, lesbians, nymphomaniacs, witches, and men"?](https://en.wikipedia.org/wiki/Joyce_Castle)
+  - [... that residents of Khirbet el-Maqatir during the Jewish–Roman wars secretly cut a passage between their hiding cave and a water cistern so they could draw water unseen while hiding from the Romans?](https://en.wikipedia.org/wiki/Khirbet_el-Maqatir)
 <!--DYK:END-->
 
 ### XKCD for today
