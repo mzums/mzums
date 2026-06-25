@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Vatican City at the 2022 Mediterranean Games](https://en.wikipedia.org/wiki/Vatican_City_at_the_2022_Mediterranean_Games)
+[Augustus](https://en.wikipedia.org/wiki/Augustus)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Europejara (head pictured) is the oldest known toothless pterosaur?](https://en.wikipedia.org/wiki/Europejara)
-  - [... that opera singer Joyce Castle specialized in "portraying nuts, mamas, lesbians, nymphomaniacs, witches, and men"?](https://en.wikipedia.org/wiki/Joyce_Castle)
-  - [... that residents of Khirbet el-Maqatir during the Jewish–Roman wars secretly cut a passage between their hiding cave and a water cistern so they could draw water unseen while hiding from the Romans?](https://en.wikipedia.org/wiki/Khirbet_el-Maqatir)
+  - [... that many dams (example pictured) built on international rivers have led to political conflicts over water sharing, exacerbated by population increases,  impacts of climate change, and water scarcity?](https://en.wikipedia.org/wiki/Dam)
+  - [... that recording sessions for his album Taste left singer Haechan temporarily voiceless?](https://en.wikipedia.org/wiki/Taste_(Haechan_album))
+  - [... that Francis Méano won both the French Division 1 and the Latin Cup only a month before he died in a car accident?](https://en.wikipedia.org/wiki/Francis_M%C3%A9ano)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Sports Commentary](https://imgs.xkcd.com/comics/sports_commentary.png)
+![Baryon Asymmetry](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
 
-[Sports Commentary](https://xkcd.com/3262) — *The plural of anecdote may not be data, but the singular of data is anecdote.*
+[Baryon Asymmetry](https://xkcd.com/3263) — *Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?*
 <!--XKCD:END-->
