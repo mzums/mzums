@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Augustus](https://en.wikipedia.org/wiki/Augustus)
+[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that many dams (example pictured) built on international rivers have led to political conflicts over water sharing, exacerbated by population increases,  impacts of climate change, and water scarcity?](https://en.wikipedia.org/wiki/Dam)
-  - [... that recording sessions for his album Taste left singer Haechan temporarily voiceless?](https://en.wikipedia.org/wiki/Taste_(Haechan_album))
-  - [... that Francis Méano won both the French Division 1 and the Latin Cup only a month before he died in a car accident?](https://en.wikipedia.org/wiki/Francis_M%C3%A9ano)
+  - [... that the gatehouse (pictured) at the Elsie Perrin Williams Estate was designed by the owner's teenage daughter?](https://en.wikipedia.org/wiki/Elsie_Perrin_Williams_Estate)
+  - [... that Lana Del Rey released " First Light ", the theme song for a James Bond video game, 11 years after her submission for the theme of the Bond movie Spectre was rejected?](https://en.wikipedia.org/wiki/Lana_Del_Rey)
+  - [... that two pitchers were married on the pitcher's mound at Carroll B. Land Stadium ?](https://en.wikipedia.org/wiki/Carroll_B._Land_Stadium)
 <!--DYK:END-->
 
 ### XKCD for today
