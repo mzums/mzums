@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Donkey Kong](https://en.wikipedia.org/wiki/Donkey_Kong)
+[The One Where Michael Leaves](https://en.wikipedia.org/wiki/The_One_Where_Michael_Leaves)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the gatehouse (pictured) at the Elsie Perrin Williams Estate was designed by the owner's teenage daughter?](https://en.wikipedia.org/wiki/Elsie_Perrin_Williams_Estate)
-  - [... that Lana Del Rey released " First Light ", the theme song for a James Bond video game, 11 years after her submission for the theme of the Bond movie Spectre was rejected?](https://en.wikipedia.org/wiki/Lana_Del_Rey)
-  - [... that two pitchers were married on the pitcher's mound at Carroll B. Land Stadium ?](https://en.wikipedia.org/wiki/Carroll_B._Land_Stadium)
+  - [... that some buildings in Korean Buddhist temples (example pictured) also enshrine an indigenous mountain god ?](https://en.wikipedia.org/wiki/Samseonggak)
+  - [... that an accused Peruvian serial killer was killed by a psychologist during an interrogation?](https://en.wikipedia.org/wiki/%C3%81ngel_D%C3%ADaz_Balb%C3%ADn)
+  - [... that queer-theory professor Tim Dean's book Unlimited Intimacy investigates the sexual subculture of barebacking among gay men?](https://en.wikipedia.org/wiki/Unlimited_Intimacy)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Baryon Asymmetry](https://imgs.xkcd.com/comics/baryon_asymmetry.png)
+![720 Ollie](https://imgs.xkcd.com/comics/720_ollie.png)
 
-[Baryon Asymmetry](https://xkcd.com/3263) — *Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?*
+[720 Ollie](https://xkcd.com/3264) — *This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.*
 <!--XKCD:END-->
