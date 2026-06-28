@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[The One Where Michael Leaves](https://en.wikipedia.org/wiki/The_One_Where_Michael_Leaves)
+[Morris Park Aerodrome](https://en.wikipedia.org/wiki/Morris_Park_Aerodrome)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that some buildings in Korean Buddhist temples (example pictured) also enshrine an indigenous mountain god ?](https://en.wikipedia.org/wiki/Samseonggak)
-  - [... that an accused Peruvian serial killer was killed by a psychologist during an interrogation?](https://en.wikipedia.org/wiki/%C3%81ngel_D%C3%ADaz_Balb%C3%ADn)
-  - [... that queer-theory professor Tim Dean's book Unlimited Intimacy investigates the sexual subculture of barebacking among gay men?](https://en.wikipedia.org/wiki/Unlimited_Intimacy)
+  - [... that a Tony Award–winning set by Tom Scutt (pictured) has the audience entering through a side entrance to make a "descent into the cabaret "?](https://en.wikipedia.org/wiki/Tom_Scutt)
+  - [... that the Wyoming Supreme Court censured a judge for announcing that she would not marry same-sex couples?](https://en.wikipedia.org/wiki/In_re_Neely)
+  - [... that the image of Christ on gold coins was a pretext for war ?](https://en.wikipedia.org/wiki/Battle_of_Sebastopolis)
 <!--DYK:END-->
 
 ### XKCD for today
