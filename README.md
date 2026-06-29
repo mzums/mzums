@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Morris Park Aerodrome](https://en.wikipedia.org/wiki/Morris_Park_Aerodrome)
+[The Path to Rome](https://en.wikipedia.org/wiki/The_Path_to_Rome)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that a Tony Award–winning set by Tom Scutt (pictured) has the audience entering through a side entrance to make a "descent into the cabaret "?](https://en.wikipedia.org/wiki/Tom_Scutt)
-  - [... that the Wyoming Supreme Court censured a judge for announcing that she would not marry same-sex couples?](https://en.wikipedia.org/wiki/In_re_Neely)
-  - [... that the image of Christ on gold coins was a pretext for war ?](https://en.wikipedia.org/wiki/Battle_of_Sebastopolis)
+  - [... that around 1473 a Dominican friar denounced the printing press (example pictured) as a "whore" set against the "virgin" pen?](https://en.wikipedia.org/wiki/Printing_press)
+  - [... that an Australian newspaper is mainly written by people who are or have been in prison?](https://en.wikipedia.org/wiki/About_Time_(newspaper))
+  - [... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer Dominique "Rem'mie" Fells, who was murdered at the age of 27 ?](https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells)
 <!--DYK:END-->
 
 ### XKCD for today
