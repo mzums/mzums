@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[The Path to Rome](https://en.wikipedia.org/wiki/The_Path_to_Rome)
+[Calgary Flames](https://en.wikipedia.org/wiki/Calgary_Flames)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that around 1473 a Dominican friar denounced the printing press (example pictured) as a "whore" set against the "virgin" pen?](https://en.wikipedia.org/wiki/Printing_press)
-  - [... that an Australian newspaper is mainly written by people who are or have been in prison?](https://en.wikipedia.org/wiki/About_Time_(newspaper))
-  - [... that an endowed scholarship was established at Thomas Jefferson University in memory of transgender activist and fashion designer Dominique "Rem'mie" Fells, who was murdered at the age of 27 ?](https://en.wikipedia.org/wiki/Murder_of_Dominique_%22Rem%27mie%22_Fells)
+  - [... that a student magazine hypothesised what would happen if a large salmon statue (pictured) fought a trout statue in New Zealand?](https://en.wikipedia.org/wiki/Rakaia_salmon_statue)
+  - [... that although the Indonesian Painters Association sought to develop a modern Indonesian art, its members had no shared style?](https://en.wikipedia.org/wiki/Indonesian_Painters_Association)
+  - [... that while writer Edgar J. March served as a war reserve constable during World War II, he tussled with a burglar and chased him on a borrowed bicycle?](https://en.wikipedia.org/wiki/Edgar_J._March)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![720 Ollie](https://imgs.xkcd.com/comics/720_ollie.png)
+![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)
 
-[720 Ollie](https://xkcd.com/3264) — *This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.*
+[Asteroid Threat](https://xkcd.com/3265) — *Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.*
 <!--XKCD:END-->
