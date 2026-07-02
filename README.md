@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Eve Cone](https://en.wikipedia.org/wiki/Eve_Cone)
+[No. 1 Aircraft Depot RAAF](https://en.wikipedia.org/wiki/No._1_Aircraft_Depot_RAAF)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Atlas (pictured) was the last of her kind to be built in the United States, and later became a canning company's flagship?](https://en.wikipedia.org//en.wikipedia.org/wiki/Atlas_(shipentine))
-  - [... that Jacob Huesman joined the New York Giants as a fullback despite never having played the position before?](https://en.wikipedia.org//en.wikipedia.org/wiki/Jacob_Huesman)
-  - [... that a candidate in the January 1926 Liechtenstein general election was reported to the police for allegedly supporting republican views?](https://en.wikipedia.org//en.wikipedia.org/wiki/January_1926_Liechtenstein_general_election)
+  - [... that composer Laura Sedgwick Collins (pictured) was the first American woman to study with Antonín Dvořák?](https://en.wikipedia.org//en.wikipedia.org/wiki/Laura_Sedgwick_Collins)
+  - [... that the Capri Bird Observatory is housed on an island, among the ruins of a medieval castle?](https://en.wikipedia.org//en.wikipedia.org/wiki/Capri_Bird_Observatory)
+  - [... that the upcoming series of The Celebrity Traitors has been described as having "one of the most high-profile casts ever assembled for a reality TV show"?](https://en.wikipedia.org//en.wikipedia.org/wiki/The_Celebrity_Traitors_series_2)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)
+![Holes](https://imgs.xkcd.com/comics/holes.png)
 
-[Asteroid Threat](https://xkcd.com/3265) — *Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.*
+[Holes](https://xkcd.com/3266) — *If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.*
 <!--XKCD:END-->
