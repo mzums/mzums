@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[No. 1 Aircraft Depot RAAF](https://en.wikipedia.org/wiki/No._1_Aircraft_Depot_RAAF)
+[Marcus Trescothick](https://en.wikipedia.org/wiki/Marcus_Trescothick)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that composer Laura Sedgwick Collins (pictured) was the first American woman to study with Antonín Dvořák?](https://en.wikipedia.org//en.wikipedia.org/wiki/Laura_Sedgwick_Collins)
-  - [... that the Capri Bird Observatory is housed on an island, among the ruins of a medieval castle?](https://en.wikipedia.org//en.wikipedia.org/wiki/Capri_Bird_Observatory)
-  - [... that the upcoming series of The Celebrity Traitors has been described as having "one of the most high-profile casts ever assembled for a reality TV show"?](https://en.wikipedia.org//en.wikipedia.org/wiki/The_Celebrity_Traitors_series_2)
+  - [... that past tenants of New York City's Flatiron Building (pictured) have included a consulate, musicians, and a crime syndicate?](https://en.wikipedia.org//en.wikipedia.org/wiki/Flatiron_Building)
+  - [... that reggae musician Mo'Kalamity derives her stage name from American frontierswoman Calamity Jane ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Mo'Kalamity)
+  - [... that the board game Endeavor: Deep Sea , in which players lead a group of marine-life specialists, won the industry Connoisseurs' Game of the Year award?](https://en.wikipedia.org//en.wikipedia.org/wiki/Endeavor:_Deep_Sea)
 <!--DYK:END-->
 
 ### XKCD for today
