@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Marcus Trescothick](https://en.wikipedia.org/wiki/Marcus_Trescothick)
+[Liberty Bell](https://en.wikipedia.org/wiki/Liberty_Bell)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that past tenants of New York City's Flatiron Building (pictured) have included a consulate, musicians, and a crime syndicate?](https://en.wikipedia.org//en.wikipedia.org/wiki/Flatiron_Building)
-  - [... that reggae musician Mo'Kalamity derives her stage name from American frontierswoman Calamity Jane ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Mo'Kalamity)
-  - [... that the board game Endeavor: Deep Sea , in which players lead a group of marine-life specialists, won the industry Connoisseurs' Game of the Year award?](https://en.wikipedia.org//en.wikipedia.org/wiki/Endeavor:_Deep_Sea)
+  - [... that James Smith (pictured) signed the U.S. Declaration of Independence even though he was not in Congress to vote on it on July 4, 1776?](https://en.wikipedia.org//en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician))
+  - [... that the opening number from 1776 was quoted in the musical Hamilton ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Sit_Down,_John)
+  - [... that Manuel García de Sena ' s 1811 translation of U.S. founding documents into Spanish influenced the first constitutions of Argentina, Chile, Mexico, Uruguay and Venezuela?](https://en.wikipedia.org//en.wikipedia.org/wiki/Manuel_García_de_Sena)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Holes](https://imgs.xkcd.com/comics/holes.png)
+![Types of Tornado Alert](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)
 
-[Holes](https://xkcd.com/3266) — *If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.*
+[Types of Tornado Alert](https://xkcd.com/3267) — *I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.*
 <!--XKCD:END-->
