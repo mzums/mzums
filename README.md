@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Liberty Bell](https://en.wikipedia.org/wiki/Liberty_Bell)
+[Lyon-class battleship](https://en.wikipedia.org/wiki/Lyon-class_battleship)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that James Smith (pictured) signed the U.S. Declaration of Independence even though he was not in Congress to vote on it on July 4, 1776?](https://en.wikipedia.org//en.wikipedia.org/wiki/James_Smith_(Pennsylvania_politician))
-  - [... that the opening number from 1776 was quoted in the musical Hamilton ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Sit_Down,_John)
-  - [... that Manuel García de Sena ' s 1811 translation of U.S. founding documents into Spanish influenced the first constitutions of Argentina, Chile, Mexico, Uruguay and Venezuela?](https://en.wikipedia.org//en.wikipedia.org/wiki/Manuel_García_de_Sena)
+  - [... that the lost Arceuthobium mengeanum mistletoe fossils (illustrated) were possibly entombed in "sea amber"?](https://en.wikipedia.org//en.wikipedia.org/wiki/Arceuthobium_mengeanum)
+  - [... that John Kinloch Anderson tested ancient Greek horse riding techniques?](https://en.wikipedia.org//en.wikipedia.org/wiki/John_Kinloch_Anderson)
+  - [... that the Wanli Emperor opposed naming his eldest son heir because his mother, though one of the Emperor's consorts , had once been a palace servant?](https://en.wikipedia.org//en.wikipedia.org/wiki/Wanli_Emperor)
 <!--DYK:END-->
 
 ### XKCD for today
