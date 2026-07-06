@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Lyon-class battleship](https://en.wikipedia.org/wiki/Lyon-class_battleship)
+[Destiny's Child](https://en.wikipedia.org/wiki/Destiny's_Child)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the lost Arceuthobium mengeanum mistletoe fossils (illustrated) were possibly entombed in "sea amber"?](https://en.wikipedia.org//en.wikipedia.org/wiki/Arceuthobium_mengeanum)
-  - [... that John Kinloch Anderson tested ancient Greek horse riding techniques?](https://en.wikipedia.org//en.wikipedia.org/wiki/John_Kinloch_Anderson)
-  - [... that the Wanli Emperor opposed naming his eldest son heir because his mother, though one of the Emperor's consorts , had once been a palace servant?](https://en.wikipedia.org//en.wikipedia.org/wiki/Wanli_Emperor)
+  - [... that Q Manivannan and Iris Duane (both pictured) are the first two openly transgender people elected to the Scottish Parliament?](https://en.wikipedia.org//en.wikipedia.org/wiki/Q_Manivannan)
+  - [... that Bad Bunny was the first Spanish-language Latino solo artist to headline a Super Bowl halftime show ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Super_Bowl_LX_halftime_show)
+  - [... that, under Nathalie Drach-Temam ' s presidency, Sorbonne University opted out of the Times Higher Education rankings ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Nathalie_Drach-Temam)
 <!--DYK:END-->
 
 ### XKCD for today
