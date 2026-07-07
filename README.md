@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Destiny's Child](https://en.wikipedia.org/wiki/Destiny's_Child)
+[Cardinal-nephew](https://en.wikipedia.org/wiki/Cardinal-nephew)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Q Manivannan and Iris Duane (both pictured) are the first two openly transgender people elected to the Scottish Parliament?](https://en.wikipedia.org//en.wikipedia.org/wiki/Q_Manivannan)
-  - [... that Bad Bunny was the first Spanish-language Latino solo artist to headline a Super Bowl halftime show ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Super_Bowl_LX_halftime_show)
-  - [... that, under Nathalie Drach-Temam ' s presidency, Sorbonne University opted out of the Times Higher Education rankings ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Nathalie_Drach-Temam)
+  - [... that one of the earliest iron bridges in India (pictured) was assembled during the reign of Amjad Ali Shah ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Iron_Bridge,_Lucknow)
+  - [... that people in Los Angeles used a podiatry clinic's sign for fortune-telling?](https://en.wikipedia.org//en.wikipedia.org/wiki/Happy_Foot_Sad_Foot_sign)
+  - [... that Josiah Blanton scored the Marshall Islands national soccer team 's first-ever goal?](https://en.wikipedia.org//en.wikipedia.org/wiki/Josiah_Blanton)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Types of Tornado Alert](https://imgs.xkcd.com/comics/types_of_tornado_alert.png)
+![Offside](https://imgs.xkcd.com/comics/offside.png)
 
-[Types of Tornado Alert](https://xkcd.com/3267) — *I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.*
+[Offside](https://xkcd.com/3268) — *The arbiter gave my knight a red card for capturing with cleats up :(*
 <!--XKCD:END-->
