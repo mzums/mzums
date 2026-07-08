@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Cardinal-nephew](https://en.wikipedia.org/wiki/Cardinal-nephew)
+[Al-Altan](https://en.wikipedia.org/wiki/Al-Altan)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that one of the earliest iron bridges in India (pictured) was assembled during the reign of Amjad Ali Shah ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Iron_Bridge,_Lucknow)
-  - [... that people in Los Angeles used a podiatry clinic's sign for fortune-telling?](https://en.wikipedia.org//en.wikipedia.org/wiki/Happy_Foot_Sad_Foot_sign)
-  - [... that Josiah Blanton scored the Marshall Islands national soccer team 's first-ever goal?](https://en.wikipedia.org//en.wikipedia.org/wiki/Josiah_Blanton)
+  - [... that Kim Petras's new album features a track about a brutalist building (pictured) that she passed on the way to gender-care appointments as a child?](https://en.wikipedia.org//en.wikipedia.org/wiki/Detour_(Kim_Petras_album))
+  - [... that Vietnamese gangster Eight-Finger Phước cut off two of his own fingers after his mother scolded him?](https://en.wikipedia.org//en.wikipedia.org/wiki/Eight-Finger_Phước)
+  - [... that the creators of Field Guide to Memory coined the term keepsake game to describe the new genre that they hoped it would establish?](https://en.wikipedia.org//en.wikipedia.org/wiki/Field_Guide_to_Memory)
 <!--DYK:END-->
 
 ### XKCD for today
