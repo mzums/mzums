@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Virus](https://en.wikipedia.org/wiki/Virus)
+[Gu Yanwu](https://en.wikipedia.org/wiki/Gu_Yanwu)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Pizza Cat (pictured) , a cat living at Al Udeid Air Base, was awarded the rank of "Senior Meowster Sergeant" by the United States Air Force?](https://en.wikipedia.org//en.wikipedia.org/wiki/Pizza_Cat)
-  - [... that Ælfhun , Bishop of London, was accused of trying to remove the body of St Edmund , but the bier was said to have miraculously refused to move?](https://en.wikipedia.org//en.wikipedia.org/wiki/Ælfhun_(bishop_of_London))
-  - [... that a local official of the Joseon dynasty secretly buried the body of King Danjong despite King Sejo 's threats to kill the family of anyone who did so?](https://en.wikipedia.org//en.wikipedia.org/wiki/Eom_Heung-do)
+  - [... that Uranus's moon Margaret (pictured) is named after a Shakespearean character, an astronomer's daughter, and its discoverer's mother?](https://en.wikipedia.org//en.wikipedia.org/wiki/Margaret_(moon))
+  - [... that, when King Akengbuda ' s heir sent him grey hairs to urge his abdication, he replied with powdered chalk and salt to signify that the world was too pleasant for him to leave?](https://en.wikipedia.org//en.wikipedia.org/wiki/Akengbuda)
+  - [... that author Lutz Van Dijk drew inspiration from murdered Ugandan LGBTQ activist David Kato to write a novel about a gay Ugandan teenager fleeing persecution?](https://en.wikipedia.org//en.wikipedia.org/wiki/David_Kato)
 <!--DYK:END-->
 
 ### XKCD for today
