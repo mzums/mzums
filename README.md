@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Gu Yanwu](https://en.wikipedia.org/wiki/Gu_Yanwu)
+[Meurig ab Arthfael](https://en.wikipedia.org/wiki/Meurig_ab_Arthfael)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Uranus's moon Margaret (pictured) is named after a Shakespearean character, an astronomer's daughter, and its discoverer's mother?](https://en.wikipedia.org//en.wikipedia.org/wiki/Margaret_(moon))
-  - [... that, when King Akengbuda ' s heir sent him grey hairs to urge his abdication, he replied with powdered chalk and salt to signify that the world was too pleasant for him to leave?](https://en.wikipedia.org//en.wikipedia.org/wiki/Akengbuda)
-  - [... that author Lutz Van Dijk drew inspiration from murdered Ugandan LGBTQ activist David Kato to write a novel about a gay Ugandan teenager fleeing persecution?](https://en.wikipedia.org//en.wikipedia.org/wiki/David_Kato)
+  - [... that the first British writer to openly support the Thirteen Colonies in the American Revolutionary War was later honoured with a statue in London (pictured) ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Statue_of_John_Cartwright)
+  - [... that Cincinnati mayor Frederick S. Spiegel spent his final years as legal counsel for the city's subway project, during which an inspection accident ultimately led to his death?](https://en.wikipedia.org//en.wikipedia.org/wiki/Frederick_S._Spiegel)
+  - [... that the combination of Bulgarian choral music and Tuvan throat singing on Fly, Fly My Sadness was inspired by multiple albums being played at the same time?](https://en.wikipedia.org//en.wikipedia.org/wiki/Fly,_Fly_My_Sadness)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Airport Meeting](https://imgs.xkcd.com/comics/airport_meeting.png)
+![Toasting Marshmallows](https://imgs.xkcd.com/comics/toasting_marshmallows.png)
 
-[Airport Meeting](https://xkcd.com/3269) — *Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'*
+[Toasting Marshmallows](https://xkcd.com/3270) — *We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.*
 <!--XKCD:END-->
