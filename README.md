@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Meurig ab Arthfael](https://en.wikipedia.org/wiki/Meurig_ab_Arthfael)
+[History of Liverpool F.C. (1985–present)](https://en.wikipedia.org/wiki/History_of_Liverpool_F.C._(1985–present))
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the first British writer to openly support the Thirteen Colonies in the American Revolutionary War was later honoured with a statue in London (pictured) ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Statue_of_John_Cartwright)
-  - [... that Cincinnati mayor Frederick S. Spiegel spent his final years as legal counsel for the city's subway project, during which an inspection accident ultimately led to his death?](https://en.wikipedia.org//en.wikipedia.org/wiki/Frederick_S._Spiegel)
-  - [... that the combination of Bulgarian choral music and Tuvan throat singing on Fly, Fly My Sadness was inspired by multiple albums being played at the same time?](https://en.wikipedia.org//en.wikipedia.org/wiki/Fly,_Fly_My_Sadness)
+  - [... that Douglas Adams (pictured) described the sudden success of The Hitchhiker's Guide as like "having an orgasm without the foreplay"?](https://en.wikipedia.org//en.wikipedia.org/wiki/Douglas_Adams)
+  - [... that a Serbian village is named after Vladimir Putin?](https://en.wikipedia.org//en.wikipedia.org/wiki/Putinovo)
+  - [... that local residents hurled stones and bricks from rooftops during the Defense of Beijing in 1449, allowing Ming reinforcements to drive back the Oirats ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Defense_of_Beijing)
 <!--DYK:END-->
 
 ### XKCD for today
