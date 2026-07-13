@@ -24,15 +24,15 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[History of Liverpool F.C. (1985–present)](https://en.wikipedia.org/wiki/History_of_Liverpool_F.C._(1985–present))
+[Manufacturers Trust Company Building](https://en.wikipedia.org/wiki/Manufacturers_Trust_Company_Building)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that Douglas Adams (pictured) described the sudden success of The Hitchhiker's Guide as like "having an orgasm without the foreplay"?](https://en.wikipedia.org//en.wikipedia.org/wiki/Douglas_Adams)
-  - [... that a Serbian village is named after Vladimir Putin?](https://en.wikipedia.org//en.wikipedia.org/wiki/Putinovo)
-  - [... that local residents hurled stones and bricks from rooftops during the Defense of Beijing in 1449, allowing Ming reinforcements to drive back the Oirats ?](https://en.wikipedia.org//en.wikipedia.org/wiki/Defense_of_Beijing)
+  - [... that the tortilla (examples pictured) has been eaten for thousands of years , but it has only been considered a national symbol of Mexico since the 20th century?](https://en.wikipedia.org//en.wikipedia.org/wiki/Tortilla)
+  - [... that magician Sterling Dietz used $1,200 in prize earnings from a chess tournament to pay for tuition at a Las Vegas magic school?](https://en.wikipedia.org//en.wikipedia.org/wiki/Sterling_Dietz)
+  - [... that permanent human settlements emerged independently in multiple regions approximately 5,000 to 10,000 years ago?](https://en.wikipedia.org//en.wikipedia.org/wiki/Human_settlement)
 <!--DYK:END-->
 
 ### XKCD for today
