@@ -1,22 +1,4 @@
 import requests
-from datetime import datetime, timezone
-import os
-from bs4 import BeautifulSoup
-
-def get_featured_article():
-    today = datetime.now(timezone.utc).strftime("%Y/%m/%d")
-    url = f"https://en.wikipedia.org/api/rest_v1/feed/featured/{today}"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    try:
-        res = requests.get(url, headers=headers, timeout=5)
-        if res.status_code == 200:
-            data = res.json()
-            title = data["tfa"]["normalizedtitle"]
-            return f"[{title}](https://en.wikipedia.org/wiki/{title.replace(' ', '_')})"
-        else:
-            return "⚠️ Could not fetch article."
-    except Exception as e:
-        return f"⚠️ Error: {e}"
 
 def get_xkcd():
     url = "https://xkcd.com/info.0.json"
@@ -48,33 +30,7 @@ def replace_section(content, marker, new_value):
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
-def get_did_you_know():
-    url = "https://en.wikipedia.org/wiki/Main_Page"
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    try:
-        res = requests.get(url, headers=headers, timeout=5)
-        if res.status_code != 200:
-            return f"Request failed with status code: {res.status_code}"
-        soup = BeautifulSoup(res.text, "html.parser")
-        dyk_div = soup.find("div", id="mp-dyk")
-        if not dyk_div:
-            return "Did you know section not found"
-        facts_list = dyk_div.find("ul").find_all("li", limit=3)
-        results = []
-        for fact in facts_list:
-            fact_text = fact.get_text(" ", strip=True)
-            link = fact.find("a")
-            if link and link.get("href"):
-                href = "https://en.wikipedia.org" + link.get("href")
-                fact_text = f"[{fact_text}]({href})"
-            results.append(f"  - {fact_text}")
-        return "\n".join(results)
-    except requests.exceptions.RequestException as e:
-        return f"Request error: {e}"
-
-readme = replace_section(readme, "WIKI", get_featured_article())
 readme = replace_section(readme, "XKCD", get_xkcd())
-readme = replace_section(readme, "DYK", get_did_you_know())
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(readme)
