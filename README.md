@@ -24,21 +24,21 @@
 ### Wikipedia's featured article
 
  <!--WIKI:START-->
-[Manufacturers Trust Company Building](https://en.wikipedia.org/wiki/Manufacturers_Trust_Company_Building)
+[Maraba coffee](https://en.wikipedia.org/wiki/Maraba_coffee)
 <!--WIKI:END-->
 
 ### 💡 Did You Know?
 
 <!--DYK:START-->
-  - [... that the tortilla (examples pictured) has been eaten for thousands of years , but it has only been considered a national symbol of Mexico since the 20th century?](https://en.wikipedia.org//en.wikipedia.org/wiki/Tortilla)
-  - [... that magician Sterling Dietz used $1,200 in prize earnings from a chess tournament to pay for tuition at a Las Vegas magic school?](https://en.wikipedia.org//en.wikipedia.org/wiki/Sterling_Dietz)
-  - [... that permanent human settlements emerged independently in multiple regions approximately 5,000 to 10,000 years ago?](https://en.wikipedia.org//en.wikipedia.org/wiki/Human_settlement)
+  - [... that the fruit seller Reine Audu (pictured) was jailed after the march on Versailles in 1789 for announcing her intention to "[bring] back the Queen's head on her sword", among other charges?](https://en.wikipedia.org//en.wikipedia.org/wiki/Reine_Audu)
+  - [... that an abandoned château in an advanced state of ruin was saved with €500,000 from a lottery?](https://en.wikipedia.org//en.wikipedia.org/wiki/Château_de_Logempré)
+  - [... that in 1976, thieves tied up an art collector, stole a painting , and were never caught?](https://en.wikipedia.org//en.wikipedia.org/wiki/Villiers-le-Bel_series)
 <!--DYK:END-->
 
 ### XKCD for today
 
 <!--XKCD:START-->
-![Toasting Marshmallows](https://imgs.xkcd.com/comics/toasting_marshmallows.png)
+![The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
 
-[Toasting Marshmallows](https://xkcd.com/3270) — *We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate.*
+[The Princess and the Pea](https://xkcd.com/3271) — *Once we've fully explored this space, we can start varying the number of princesses.*
 <!--XKCD:END-->
