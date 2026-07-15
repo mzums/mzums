@@ -22,9 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-
 ![The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
 
-[The Princess and the Pea](https://xkcd.com/3271) — _Once we've fully explored this space, we can start varying the number of princesses._
-
+[The Princess and the Pea](https://xkcd.com/3271) — *Once we've fully explored this space, we can start varying the number of princesses.*
 <!--XKCD:END-->
