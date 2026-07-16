@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![The Princess and the Pea](https://imgs.xkcd.com/comics/the_princess_and_the_pea.png)
+![Time Change](https://imgs.xkcd.com/comics/time_change.png)
 
-[The Princess and the Pea](https://xkcd.com/3271) — *Once we've fully explored this space, we can start varying the number of princesses.*
+[Time Change](https://xkcd.com/3272) — *All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.*
 <!--XKCD:END-->
