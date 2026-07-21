@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Latitude and Longitude](https://imgs.xkcd.com/comics/latitude_and_longitude.png)
+![Arthurian Connector](https://imgs.xkcd.com/comics/arthurian_connector.png)
 
-[Latitude and Longitude](https://xkcd.com/3273) — *NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730).*
+[Arthurian Connector](https://xkcd.com/3274) — *Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.*
 <!--XKCD:END-->
