@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Arthurian Connector](https://imgs.xkcd.com/comics/arthurian_connector.png)
+![Calibration Nobel](https://imgs.xkcd.com/comics/calibration_nobel.png)
 
-[Arthurian Connector](https://xkcd.com/3274) — *Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.*
+[Calibration Nobel](https://xkcd.com/3275) — *We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.*
 <!--XKCD:END-->
