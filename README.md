@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Calibration Nobel](https://imgs.xkcd.com/comics/calibration_nobel.png)
+![Recursive Trucker's Hitch](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
 
-[Calibration Nobel](https://xkcd.com/3275) — *We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.*
+[Recursive Trucker's Hitch](https://xkcd.com/3276) — *As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.*
 <!--XKCD:END-->
