@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Recursive Trucker's Hitch](https://imgs.xkcd.com/comics/recursive_truckers_hitch.png)
+![Forth](https://imgs.xkcd.com/comics/forth.png)
 
-[Recursive Trucker's Hitch](https://xkcd.com/3276) — *As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.*
+[Forth](https://xkcd.com/3277) — *I NOTATION POLISH REVERSE ❤️*
 <!--XKCD:END-->
