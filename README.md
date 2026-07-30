@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Forth](https://imgs.xkcd.com/comics/forth.png)
+![Vera Rubin Observatory](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
 
-[Forth](https://xkcd.com/3277) — *I NOTATION POLISH REVERSE ❤️*
+[Vera Rubin Observatory](https://xkcd.com/3278) — *'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.*
 <!--XKCD:END-->
