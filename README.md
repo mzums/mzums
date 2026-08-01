@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Vera Rubin Observatory](https://imgs.xkcd.com/comics/vera_rubin_observatory.png)
+![Main Span](https://imgs.xkcd.com/comics/main_span.png)
 
-[Vera Rubin Observatory](https://xkcd.com/3278) — *'Spurious signals from the kitchen' is harder for an optical telescope than a radio one, but with enough determination and creativity, I believe it's possible.*
+[Main Span](https://xkcd.com/3279) — *Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?*
 <!--XKCD:END-->
