@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Main Span](https://imgs.xkcd.com/comics/main_span.png)
+![Maze](https://imgs.xkcd.com/comics/maze.png)
 
-[Main Span](https://xkcd.com/3279) — *Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?*
+[Maze](https://xkcd.com/3280) — *As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.*
 <!--XKCD:END-->
