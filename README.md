@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Maze](https://imgs.xkcd.com/comics/maze.png)
+![Antiques Roadshow](https://imgs.xkcd.com/comics/antiques_roadshow.png)
 
-[Maze](https://xkcd.com/3280) — *As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology.*
+[Antiques Roadshow](https://xkcd.com/3281) — *The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk.*
 <!--XKCD:END-->
