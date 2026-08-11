@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Trick Play](https://imgs.xkcd.com/comics/trick_play.png)
+![Size and Lifespan](https://imgs.xkcd.com/comics/size_and_lifespan.png)
 
-[Trick Play](https://xkcd.com/3282) — *I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.*
+[Size and Lifespan](https://xkcd.com/3283) — *With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.*
 <!--XKCD:END-->
