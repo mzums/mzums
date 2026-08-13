@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Size and Lifespan](https://imgs.xkcd.com/comics/size_and_lifespan.png)
+![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)
 
-[Size and Lifespan](https://xkcd.com/3283) — *With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.*
+[Geology Building](https://xkcd.com/3284) — *The administration thinks it's weird, but the geologists say it looks normal.*
 <!--XKCD:END-->
