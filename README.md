@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)
+![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)
 
-[Geology Building](https://xkcd.com/3284) — *The administration thinks it's weird, but the geologists say it looks normal.*
+[Accretionary Arc](https://xkcd.com/3285) — *The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.*
 <!--XKCD:END-->
