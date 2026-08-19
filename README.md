@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)
+![Particle Physics Equipment](https://imgs.xkcd.com/comics/particle_physics_equipment.png)
 
-[Accretionary Arc](https://xkcd.com/3285) — *The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.*
+[Particle Physics Equipment](https://xkcd.com/3286) — *The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.*
 <!--XKCD:END-->
