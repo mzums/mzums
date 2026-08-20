@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Particle Physics Equipment](https://imgs.xkcd.com/comics/particle_physics_equipment.png)
+![Perseids](https://imgs.xkcd.com/comics/perseids.png)
 
-[Particle Physics Equipment](https://xkcd.com/3286) — *The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.*
+[Perseids](https://xkcd.com/3287) — *Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.*
 <!--XKCD:END-->
