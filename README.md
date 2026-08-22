@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Perseids](https://imgs.xkcd.com/comics/perseids.png)
+![Archery Feat](https://imgs.xkcd.com/comics/archery_feat.png)
 
-[Perseids](https://xkcd.com/3287) — *Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.*
+[Archery Feat](https://xkcd.com/3288) — *Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.*
 <!--XKCD:END-->
