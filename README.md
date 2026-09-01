@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Launchpad](https://imgs.xkcd.com/comics/launchpad.png)
+![Geology Class](https://imgs.xkcd.com/comics/geology_class.png)
 
-[Launchpad](https://xkcd.com/3291) — *It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.*
+[Geology Class](https://xkcd.com/3292) — *The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.*
 <!--XKCD:END-->
