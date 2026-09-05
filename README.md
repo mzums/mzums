@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Handedness](https://imgs.xkcd.com/comics/handedness.png)
+![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)
 
-[Handedness](https://xkcd.com/3293) — *A 'left-handed specialist' is a physicist who studies the weak interaction.*
+[Asteroid Mission](https://xkcd.com/3294) — *Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.*
 <!--XKCD:END-->
