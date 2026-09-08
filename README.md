@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)
+![Semaphore](https://imgs.xkcd.com/comics/semaphore.png)
 
-[Asteroid Mission](https://xkcd.com/3294) — *Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.*
+[Semaphore](https://xkcd.com/3295) — *The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.*
 <!--XKCD:END-->
