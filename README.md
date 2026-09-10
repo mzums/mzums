@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Semaphore](https://imgs.xkcd.com/comics/semaphore.png)
+![Fault Taunting](https://imgs.xkcd.com/comics/fault_taunting.png)
 
-[Semaphore](https://xkcd.com/3295) — *The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.*
+[Fault Taunting](https://xkcd.com/3296) — *One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.*
 <!--XKCD:END-->
