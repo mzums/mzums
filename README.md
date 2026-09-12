@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Fault Taunting](https://imgs.xkcd.com/comics/fault_taunting.png)
+![OH Scale](https://imgs.xkcd.com/comics/oh_scale.png)
 
-[Fault Taunting](https://xkcd.com/3296) — *One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.*
+[OH Scale](https://xkcd.com/3297) — *To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.*
 <!--XKCD:END-->
