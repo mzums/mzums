@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![OH Scale](https://imgs.xkcd.com/comics/oh_scale.png)
+![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
 
-[OH Scale](https://xkcd.com/3297) — *To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.*
+[Aerospace Flowchart](https://xkcd.com/3298) — *Someday, we will find the problem that goes with this solution.*
 <!--XKCD:END-->
