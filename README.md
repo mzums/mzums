@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)
+![Summer](https://imgs.xkcd.com/comics/summer.png)
 
-[Aerospace Flowchart](https://xkcd.com/3298) — *Someday, we will find the problem that goes with this solution.*
+[Summer](https://xkcd.com/3299) — *You should probably get back to shore before spring hits.*
 <!--XKCD:END-->
