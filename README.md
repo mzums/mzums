@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Summer](https://imgs.xkcd.com/comics/summer.png)
+![Tyrannosaurus](https://imgs.xkcd.com/comics/tyrannosaurus.png)
 
-[Summer](https://xkcd.com/3299) — *You should probably get back to shore before spring hits.*
+[Tyrannosaurus](https://xkcd.com/3300) — *Many of the smaller dinosaurs seem to have largely preyed on housecats.*
 <!--XKCD:END-->
