@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Tyrannosaurus](https://imgs.xkcd.com/comics/tyrannosaurus.png)
+![Stargazing 5](https://imgs.xkcd.com/comics/stargazing_5.png)
 
-[Tyrannosaurus](https://xkcd.com/3300) — *Many of the smaller dinosaurs seem to have largely preyed on housecats.*
+[Stargazing 5](https://xkcd.com/3301) — *The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.*
 <!--XKCD:END-->
