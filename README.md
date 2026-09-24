@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Stargazing 5](https://imgs.xkcd.com/comics/stargazing_5.png)
+![Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
 
-[Stargazing 5](https://xkcd.com/3301) — *The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size.*
+[Voyager Instruments](https://xkcd.com/3302) — *Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.*
 <!--XKCD:END-->
