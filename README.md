@@ -22,7 +22,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Voyager Instruments](https://imgs.xkcd.com/comics/voyager_instruments.png)
+![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
 
-[Voyager Instruments](https://xkcd.com/3302) — *Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again.*
+[Slab Graveyard](https://xkcd.com/3303) — *It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!*
 <!--XKCD:END-->
