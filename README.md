@@ -8,8 +8,6 @@
   📦 <a href="https://crates.io/users/mzums">Crates.io</a>
 </h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzums&show_icons=true&include_all_commits=true&theme=radical)
-
 ## My tools:
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,pytorch,cpp,github,linux,arch,flutter&theme=dark)](https://skillicons.dev)
@@ -19,10 +17,24 @@
 - **ML**
 - **Rust**
 
+## Things I'd like to try
+
+- golang
+- designing my own keyboard _(in progress)_
+- writing a simple programming language
+- godot
+- assembly
+- clojure
+- writing my own git
+- making my own mail server
+- writing a http server
+
 ## XKCD for today
 
 <!--XKCD:START-->
+
 ![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
 
-[Slab Graveyard](https://xkcd.com/3303) — *It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!*
+[Slab Graveyard](https://xkcd.com/3303) — _It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!_
+
 <!--XKCD:END-->
