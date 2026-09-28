@@ -32,9 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-
 ![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
 
-[Slab Graveyard](https://xkcd.com/3303) — _It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!_
-
+[Slab Graveyard](https://xkcd.com/3303) — *It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!*
 <!--XKCD:END-->
