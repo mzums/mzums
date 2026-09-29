@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Slab Graveyard](https://imgs.xkcd.com/comics/slab_graveyard.png)
+![Jupiter Icy Moons Explorer](https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png)
 
-[Slab Graveyard](https://xkcd.com/3303) — *It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!*
+[Jupiter Icy Moons Explorer](https://xkcd.com/3304) — *"I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."*
 <!--XKCD:END-->
