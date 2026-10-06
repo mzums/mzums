@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Accelerator Energies](https://imgs.xkcd.com/comics/accelerator_energies.png)
+![Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png)
 
-[Accelerator Energies](https://xkcd.com/3306) — *Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.*
+[Spectrum Allocation](https://xkcd.com/3307) — *Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.*
 <!--XKCD:END-->
