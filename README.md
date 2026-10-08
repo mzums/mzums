@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Spectrum Allocation](https://imgs.xkcd.com/comics/spectrum_allocation.png)
+![Juice](https://imgs.xkcd.com/comics/juice.png)
 
-[Spectrum Allocation](https://xkcd.com/3307) — *Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.*
+[Juice](https://xkcd.com/3308) — *I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.*
 <!--XKCD:END-->
