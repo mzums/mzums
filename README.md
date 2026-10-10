@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Juice](https://imgs.xkcd.com/comics/juice.png)
+![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)
 
-[Juice](https://xkcd.com/3308) — *I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else.*
+[Dogcatcher](https://xkcd.com/3309) — *People out here catching strays out here catching strays*
 <!--XKCD:END-->
