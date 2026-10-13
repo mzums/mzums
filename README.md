@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)
+![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)
 
-[Dogcatcher](https://xkcd.com/3309) — *People out here catching strays out here catching strays*
+[Rejected Space Mission Profiles](https://xkcd.com/3310) — *Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.*
 <!--XKCD:END-->
