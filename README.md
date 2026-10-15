@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)
+![Planet Database](https://imgs.xkcd.com/comics/planet_database.png)
 
-[Rejected Space Mission Profiles](https://xkcd.com/3310) — *Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.*
+[Planet Database](https://xkcd.com/3311) — *Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.*
 <!--XKCD:END-->
