@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Planet Database](https://imgs.xkcd.com/comics/planet_database.png)
+![Momentum Demonstration](https://imgs.xkcd.com/comics/momentum_demonstration.png)
 
-[Planet Database](https://xkcd.com/3311) — *Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty.*
+[Momentum Demonstration](https://xkcd.com/3312) — *"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."*
 <!--XKCD:END-->
