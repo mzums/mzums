@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Momentum Demonstration](https://imgs.xkcd.com/comics/momentum_demonstration.png)
+![Fusion Device](https://imgs.xkcd.com/comics/fusion_device.png)
 
-[Momentum Demonstration](https://xkcd.com/3312) — *"I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."*
+[Fusion Device](https://xkcd.com/3313) — *I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.*
 <!--XKCD:END-->
