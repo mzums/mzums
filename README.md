@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Fusion Device](https://imgs.xkcd.com/comics/fusion_device.png)
+![Vulnerability](https://imgs.xkcd.com/comics/vulnerability.png)
 
-[Fusion Device](https://xkcd.com/3313) — *I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.*
+[Vulnerability](https://xkcd.com/3314) — *Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.*
 <!--XKCD:END-->
