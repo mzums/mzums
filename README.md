@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Vulnerability](https://imgs.xkcd.com/comics/vulnerability.png)
+![Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png)
 
-[Vulnerability](https://xkcd.com/3314) — *Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.*
+[Forms of Water](https://xkcd.com/3315) — *The 'light' refers to bremsstrahlung.*
 <!--XKCD:END-->
