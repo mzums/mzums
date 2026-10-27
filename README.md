@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Forms of Water](https://imgs.xkcd.com/comics/forms_of_water.png)
+![Siege Engine](https://imgs.xkcd.com/comics/siege_engine.png)
 
-[Forms of Water](https://xkcd.com/3315) — *The 'light' refers to bremsstrahlung.*
+[Siege Engine](https://xkcd.com/3316) — *They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside.*
 <!--XKCD:END-->
