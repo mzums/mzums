@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png)
+![Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png)
 
-[Gravitational Square Wave](https://xkcd.com/3317) — *Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.*
+[Earth Sized Planets](https://xkcd.com/3318) — *It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.*
 <!--XKCD:END-->
