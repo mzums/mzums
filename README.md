@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Earth Sized Planets](https://imgs.xkcd.com/comics/earth_sized_planets.png)
+![Elevators](https://imgs.xkcd.com/comics/elevators.png)
 
-[Earth Sized Planets](https://xkcd.com/3318) — *It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.*
+[Elevators](https://xkcd.com/3319) — *"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."*
 <!--XKCD:END-->
