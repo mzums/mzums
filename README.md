@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Elevators](https://imgs.xkcd.com/comics/elevators.png)
+![House Majority](https://imgs.xkcd.com/comics/house_majority.png)
 
-[Elevators](https://xkcd.com/3319) — *"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."*
+[House Majority](https://xkcd.com/3320) — *For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.*
 <!--XKCD:END-->
