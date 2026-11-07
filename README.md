@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![House Majority](https://imgs.xkcd.com/comics/house_majority.png)
+![Simulation](https://imgs.xkcd.com/comics/simulation.png)
 
-[House Majority](https://xkcd.com/3320) — *For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.*
+[Simulation](https://xkcd.com/3321) — *No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.*
 <!--XKCD:END-->
