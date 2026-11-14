@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Meteor Fear](https://imgs.xkcd.com/comics/meteor_fear.png)
+![Ultimate Movie Series](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
 
-[Meteor Fear](https://xkcd.com/3323) — *Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!*
+[Ultimate Movie Series](https://xkcd.com/3324) — *Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.*
 <!--XKCD:END-->
