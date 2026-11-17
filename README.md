@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Ultimate Movie Series](https://imgs.xkcd.com/comics/ultimate_movie_series.png)
+![Light-Day](https://imgs.xkcd.com/comics/light_day.png)
 
-[Ultimate Movie Series](https://xkcd.com/3324) — *Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.*
+[Light-Day](https://xkcd.com/3325) — *After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.*
 <!--XKCD:END-->
