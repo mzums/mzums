@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Light-Day](https://imgs.xkcd.com/comics/light_day.png)
+![Voyager Crash](https://imgs.xkcd.com/comics/voyager_crash.png)
 
-[Light-Day](https://xkcd.com/3325) — *After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.*
+[Voyager Crash](https://xkcd.com/3326) — *[Several months later] Actaully, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.*
 <!--XKCD:END-->
