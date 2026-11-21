@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Voyager Crash](https://imgs.xkcd.com/comics/voyager_crash.png)
+![Plate Maintenance](https://imgs.xkcd.com/comics/plate_maintenance.png)
 
-[Voyager Crash](https://xkcd.com/3326) — *[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.*
+[Plate Maintenance](https://xkcd.com/3327) — *First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work.*
 <!--XKCD:END-->
