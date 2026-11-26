@@ -32,7 +32,7 @@
 ## XKCD for today
 
 <!--XKCD:START-->
-![Ivory Tower Elites](https://imgs.xkcd.com/comics/ivory_tower_elites.png)
+![Cesium Atom](https://imgs.xkcd.com/comics/cesium_atom.png)
 
-[Ivory Tower Elites](https://xkcd.com/3328) — *These ivory tower elites are flouting both CITES and municipal building codes.*
+[Cesium Atom](https://xkcd.com/3329) — *We've all chipped in to buy the retiring committee chair a gold-plated cesium atom.*
 <!--XKCD:END-->
